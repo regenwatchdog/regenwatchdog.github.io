@@ -88,3 +88,10 @@ exclude:
 collections: 
     estates:
      output: true
+
+defaults:
+ - scope:
+    path: ""
+    type: "estates"
+  values:
+  layout: "estate"
