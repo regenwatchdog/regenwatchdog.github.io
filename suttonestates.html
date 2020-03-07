@@ -1,0 +1,16 @@
+---
+layout: default
+title: Estates
+---
+<h1>Estates in Sutton under threat of regeneration</h1>
+
+<ul>
+	{% assign sorted-estates = site.estates | where: "borough","sutton" %}
+{% for estate in sorted-estates %}
+
+	<li>
+		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
+				        <p><img src="{{ estate.image_path }}" alt="{{ estate.name }}" width="150"></p>
+					    </li>
+					    {% endfor %}
+</ul>
