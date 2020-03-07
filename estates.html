@@ -7,7 +7,7 @@ title: Estates
 <ul>
 	  {% for estate in site.estates %}
 	      <li>
-		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
+		      <h2><img src="{{ estate.image_path }}" alt="{{ estate.name }}"><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
 			          <h3>{{ estate.borough }}</h3>
 				        <p>{{ estate.content | markdownify }}</p>
 					    </li>
