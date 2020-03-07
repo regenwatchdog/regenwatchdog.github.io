@@ -1,9 +1,19 @@
 ---
-layout: default 
+layout: default
+title: Estates
 ---
-<h1>{{ page.name }}</h1>
-<img src="{{ page.image_path }}" alt="page.title" width="400"/>
-{{ content }}
+<h1>Estate regeneration in Sutton</h1>
+
+<ul>
+	{% assign sorted-estates = site.estates | where: "borough","sutton" %}
+{% for estate in sorted-estates %}
+
+	<li>
+		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
+				        <p><img src="{{ estate.image_path }}" alt="{{ estate.name }}" width="150"></p>
+					    </li>
+					    {% endfor %}
+</ul>
 
 <section id="next-steps">
   <ul class="next-steps wrapper">
@@ -44,4 +54,3 @@ layout: default
     </li>
   </ul>
 </section>
-
