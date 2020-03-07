@@ -1,0 +1,15 @@
+---
+layout: default
+title: Estates
+---
+<h1>Estates under threat of regeneration</h1>
+
+<ul>
+	  {% for estate in site.estates %}
+	      <li>
+		            <h2>{{ estate.name }}</h2>
+			          <h3>{{ estate.borough }}</h3>
+				        <p>{{ estate.content | markdownify }}</p>
+					    </li>
+					      {% endfor %}
+</ul>

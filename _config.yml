@@ -85,4 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-collections_dir: estates
+collections: 
+    estates:
