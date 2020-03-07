@@ -87,3 +87,4 @@ exclude:
 
 collections: 
     estates:
+    output: true
