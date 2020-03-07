@@ -5,11 +5,12 @@ title: Estates
 <h1>Estates in Sutton under threat of regeneration</h1>
 
 <ul>
-	{% assign estate = site.estates | where: 'borough', 'sutton' %} 
+	{% assign estate = site.estates | where: 'borough', 'sutton' | first %} 
 	{% if estate %}
 	<li>
 		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
 			          <h3>{{ estate.borough }}</h3>
 				        <p><img src="{{ estate.image_path }}" alt="{{ estate.name }}" width="150"></p>
 					    </li>
+					    {% endif %}
 </ul>
