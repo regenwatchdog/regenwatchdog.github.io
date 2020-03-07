@@ -90,9 +90,9 @@ collections:
      output: true
 
 defaults:
- - 
+  -
     scope:
-    path: ""
-    type: "estates"
-  values:
-  layout: "estate"
+      path: ""
+      type: estates
+    values:
+      layout: estate
