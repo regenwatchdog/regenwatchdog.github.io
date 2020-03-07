@@ -6,7 +6,7 @@ title: Estates
 
 <ul>
 	{% assign sorted-estates = site.estates | where: "borough","sutton" %}
-{% for post in sorted-estates %}
+{% for estate in sorted-estates %}
 
 	<li>
 		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
