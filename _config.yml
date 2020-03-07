@@ -90,7 +90,8 @@ collections:
      output: true
 
 defaults:
- - scope:
+ - 
+    scope:
     path: ""
     type: "estates"
   values:
