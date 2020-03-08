@@ -14,8 +14,7 @@
 	"type": "Point",
 	"coordinates": ["{{ estate.coordinates }}"]
         }
-      },
-    {% endfor %}
+      }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
   ]
 }
 
