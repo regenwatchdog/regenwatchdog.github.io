@@ -14,7 +14,7 @@
 	"type": "Point",
 	"coordinates": ["{{ estate.coordinates }}"]
         }
-      }
+      },
     {% endfor %}
   ]
 }
