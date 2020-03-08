@@ -9,7 +9,7 @@ The Chaucer estate is one of five estates listed in [Sutton's Local Plan (2018)]
 
 ![](/images/suttonplan.png)
 
-It is also earmarked in Sutton's Policy Map](http://sutton.addresscafe.com/app/exploreit/) as a potential renewal area:
+It is also earmarked in Sutton's [Policy Map](http://sutton.addresscafe.com/app/exploreit/) as a potential renewal area:
 
 ![](/images/suttonpolicymap.png)
 
