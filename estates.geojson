@@ -1,0 +1,19 @@
+---
+---
+{
+  "type": "FeatureCollection",
+  "features": [{% assign estates = site.estates %}{% for estate in estates %}{% if estate.coordinates %}{% assign type = estate.coordinates | size %}
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "{{ estate.name }}",
+        "image": "{{ estate.image_path }}",
+        "url": "{{estate.url}}",
+        "coordinates": "{{ estate.coordinates }}",
+          "type": "Point",
+        }
+      }
+    {% endfor %}
+  ]
+}
+
