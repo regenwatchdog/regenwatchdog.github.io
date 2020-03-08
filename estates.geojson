@@ -9,11 +9,11 @@
         "title": "{{ estate.name }}",
         "image": "{{ estate.image_path }}",
         "url": "{{estate.url}}",
-        "geometry": {
+      }
+      "geometry": {
 	"type": "Point",
 	"coordinates": ["{{ estate.coordinates }}"]
         }
-	}
       }
     {% endfor %}
   ]
