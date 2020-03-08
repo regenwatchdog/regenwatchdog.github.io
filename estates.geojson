@@ -1,5 +1,6 @@
 ---
 ---
+var freeBus = {
 {
   "type": "FeatureCollection",
   "features": [{% for estate in site.estates %}
@@ -17,4 +18,4 @@
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
   ]
 }
-
+};
