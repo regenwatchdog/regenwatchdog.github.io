@@ -12,7 +12,9 @@
       },
       "geometry": {
 	"type": "Point",
-	"coordinates": [{{ estate.coordinates }}]
+	"coordinates": [{{ 
+	   estate.long,
+	   estate.lat }}]
         }
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
   ]
