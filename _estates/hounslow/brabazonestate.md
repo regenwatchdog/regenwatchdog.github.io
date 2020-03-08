@@ -9,10 +9,10 @@ In January 2020, Hounslow's Cabinet [agreed a comprehensive review](https://demo
 
 In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) it was agreed that six estates had already been identified as 'poor performing estates' and that these would be considered for early redevelopment.
 
-1. Brabazon estate, Heston.
-2. Brookwood estate, Hounslow.
-3. Charlton House, Brentford.
-4. Convent Way estate, Heston.
-5. Norman Crescent estate, Heston.
-6. Oriel estate, Feltham.
+Brabazon estate, Heston.
+Brookwood estate, Hounslow.
+Charlton House, Brentford.
+Convent Way estate, Heston.
+Norman Crescent estate, Heston.
+Oriel estate, Feltham.
 
