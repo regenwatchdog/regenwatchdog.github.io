@@ -45,19 +45,17 @@
 		zoomOffset: -1
 	}).addTo(map);
 
-	var baseballIcon = L.icon({
-		iconUrl: 'baseball-marker.png',
-		iconSize: [32, 37],
-		iconAnchor: [16, 37],
-		popupAnchor: [0, -28]
-	});
 
-	L.geoJSON(freeBus, {
-			    filter: function(feature, layer) {
-				            return feature.properties.show_on_map;
-				        }
-		}).addTo(map);
-	
+function onEachFeature(feature, layer) {
+	    // does this feature have a property named popupContent?
+	    if (feature.properties && feature.properties.popupContent) {
+		            layer.bindPopup(feature.properties.popupContent);
+		        }
+}
+
+L.geoJSON(freeBus, {
+	    onEachFeature: onEachFeature
+}).addTo(map);
 
 </script>
 
