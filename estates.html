@@ -2,23 +2,9 @@
 layout: default
 title: Estates
 ---
-<h1>Estates under threat of regeneration</h1>
-
-<ul>
-	  {% for estate in site.estates %}
-	      <li>
-		      <h2><a href="{{ estate.url }}">{{ estate.name }}</a></h2>
-			          <h3>{{ estate.borough }}</h3>
-				        <p><img src="{{ estate.image_path }}" alt="{{ estate.name }}" width="150"></p>
-					    </li>
-					      {% endfor %}
-</ul>
-
-<div class="terminal">
 <iframe style="width: 100%; height: 100%;" src="/leafletmap.html">
 </iframe>
 
-</div>
 
 <section id="next-steps">
   <h1>Case studies - estate regeneration in 5 London Boroughs:</h1>
