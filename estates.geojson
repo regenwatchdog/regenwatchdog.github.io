@@ -2,7 +2,7 @@
 ---
 {
   "type": "FeatureCollection",
-  "features": [{% assign estates = site.estates %}{% for estate in estates %}{% if estate.coordinates %}{% assign type = estate.coordinates | size %}
+  "features": [{% for estate in site.estates %}
     {
       "type": "Feature",
       "properties": {
