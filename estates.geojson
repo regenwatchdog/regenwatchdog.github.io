@@ -13,7 +13,7 @@
       "geometry": {
 	"type": "Point",
 	"coordinates": [{{ 
-	   estate.long,
+	   estate.long
 	   estate.lat }}]
         }
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}

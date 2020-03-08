@@ -2,7 +2,7 @@
 name: Collingwood estate
 borough: sutton
 image_path: /images/collingwood.jpg
-long: -0.1988
+long: -0.1988,
 lat: 51.3691
 ---
 The Collingwood estate is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) as a potential renewal area:
