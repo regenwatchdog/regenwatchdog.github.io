@@ -5,7 +5,7 @@ image_path: /images/suttoncourt.png
 coordinates:
   - -0.1901,51.3577
 ---
-The Sutton Court estate is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) as a potential renewal area:
+The Sutton Court estate is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
 ![](/images/suttonplan.png)
 
