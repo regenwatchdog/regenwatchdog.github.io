@@ -491,7 +491,7 @@ h1{
     color:#444
 }
 .shell{
-    font-family:Consolas, "Liberation Mono", Courier, monospace;
+    font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size:17px;
     line-height:28px;
     color:#000000;
