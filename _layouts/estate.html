@@ -13,7 +13,7 @@ layout: default
       <img class="d-block w-100" src="{{ page.images.first.image_path }}">
 	  </div>
 
-{% for image in page.images %}
+{% for image in page.images offset:1 %}
 	  <div class="carousel-item">
       <img class="d-block w-100" src="{{ image.image_path }}">
     </div>
