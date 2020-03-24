@@ -9,11 +9,9 @@ layout: default
   <div class="carousel-inner">
 
 
-{% for image in page.images %}
 	  <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ image.image_path.first }}">
+      <img class="d-block w-100" src="{{ page.images.first.image_path }}">
 	  </div>
-	  {% endfor %}
 
 {% for image in page.images %}
 	  <div class="carousel-item">
