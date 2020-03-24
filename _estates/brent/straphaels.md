@@ -1,7 +1,10 @@
 ---
 name: St. Raphael's estate 
-borough: brent 
-image_path: /images/straphaels.jpg
+borough: brent
+images:
+  - image_path: /images/straphaels.jpg
+  - image_path: /images/straphaels2.jpg
+  - image_path: /images/straphaels3.jpg
 coordinates:
   - -0.264695,51.552600
 ---
