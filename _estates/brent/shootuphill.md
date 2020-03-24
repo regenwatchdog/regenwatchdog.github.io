@@ -1,7 +1,8 @@
 ---
 name: Shoot up Hill 
-borough: brent 
-image_path: /images/ClaireCourt.png
+borough: brent
+images:
+  - image_path: /images/ClaireCourt.png
 coordinates:
   - -0.206821,51.548923
 ---
