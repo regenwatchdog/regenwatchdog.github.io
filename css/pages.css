@@ -670,3 +670,7 @@ footer .right{
     margin-left:auto;
     margin-right:auto
 }
+.slick-prev:before,
+.slick-next:before {
+  color: gray;
+}
