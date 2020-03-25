@@ -5,13 +5,19 @@ layout: default
 
 <div class="terminal">
 
-
- <div class="your-class">
-{% for image in page.images %}
-    <div><img src="{{ image.image_path }}" class="d-block w-100" alt="images"></div>
+<div class="shell" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+    <img src="{{ page.images.first.image_path }}" class="d-block w-100" alt="image">
+    </div>
+{% for image in page.images offset:1 %}
+    <div class="carousel-item">
+    <img src="{{ image.image_path }}" class="d-block w-100" alt="images"> 
+    </div>
 {% endfor %}
   </div>
 
+</div>
 </div>
 
 <div class="terminal">
@@ -19,22 +25,6 @@ layout: default
 	<p>{{ content }}</p>
 	</div>
 </div>
-
-
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script type="text/javascript" src="slick/slick.min.js"></script>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('.your-class').slick({
-        setting-name: setting-value
-      });
-    });
-  </script>
-
-
-
 
 <section id="next-steps">
   <ul class="next-steps wrapper">
