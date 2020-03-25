@@ -508,6 +508,10 @@ h1{
     text-align:left;
     display:block
 }
+.img {
+    max-width: 100%;
+    height: auto;
+}
 .tutorial-list .shell p{
     margin:0;
     font-weight:bold;
