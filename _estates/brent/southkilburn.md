@@ -1,7 +1,11 @@
 ---
 name: South Kilburn regeneration 
 borough: brent 
-image_path: /images/southkilburn.jpg
+images:
+  - image_path: /images/southkilburn.jpg
+  - image_path: /images/cronecourt.jpg
+  - image_path: /images/herefordhouse1.jpg
+  - image_path: /images/herefordhouse2.jpg
 coordinates:
   - -0.198561,51.533219
 ---
