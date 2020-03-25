@@ -672,5 +672,5 @@ footer .right{
 }
 .slick-prev:before,
 .slick-next:before {
-  color: gray;
+  color: gray!important;
 }
