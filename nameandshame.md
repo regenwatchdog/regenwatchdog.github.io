@@ -1,5 +1,6 @@
 ---
-layout: nameandshame
+layout: default
+title: Schemes failing to comply with policy requirements
 ---
 ## Cambridge Road estate, Kingston
 The [rehousing offer](https://cambridgeroadestate.com/assets/pdf/Cambridge_Road_Document_V6.pdf) to leaseholders at the Cambridge road estate regeneration requires them to take out a mortgage in order to benefit from the shared equity option on a new home at the redeveloped estate.
