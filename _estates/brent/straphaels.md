@@ -1,10 +1,10 @@
 ---
-name: St. Raphael's estate 
+name: St. Raphael's estate
 borough: brent
 images:
-  - image_path: /images/ST_raphaels_blocks.jpg
   - image_path: /images/straphaels2.jpg
   - image_path: /images/straphaels3.jpg
+  - image_path: /images/ST_raphaels_blocks.jpg
   - image_path: /images/ST_raphaels_children_centre.jpg
   - image_path: /images/ST_Raphaels_Edible_garden1.jpg
   - image_path: /images/ST_raphaels_edible_garden3.jpg
@@ -17,7 +17,8 @@ images:
   - image_path: /images/St_raphaels_river1.jpg
   - image_path: /images/ST_raphaels_river2.jpg
 coordinates:
-  - -0.264695,51.552600
+  - '-0.264695,51.552600'
+published: true
 ---
 793 homes on the St Raphael's estate have been earmarked for potential demolition. [This Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders. 
 
@@ -51,5 +52,3 @@ A ballot is expected to be held in Autumn 2020, with two options for residents t
 The small print in Brent's [rehousing offer](http://democracy.brent.gov.uk/documents/s60550/Improving%20the%20Housing%20Offer%20for%20Tenants%20and%20Leaseholders.pdf) to leaseholders fails to provide a credible right of return to leaseholders on the redeveloped estate.
 
 Brent requires leaseholders to be able to affor a minimum 50% share in a shared equity home on the redeveloped estate, as well as requiring them to contribute their personal savings (paras 5.8.2 and 5.8.3). This was ruled unlawful by the Secretary of State following the 2016 Aylesbury estate public inquiry, where Southwark had to revise its policy to require a 25% minimum share without savings contributions and with several other concessions i.e. - succession rights, proportioned service charge payments, stamp duty etc. See [here](https://regenwatch.github.io/guide/#leaseholders) for more information on leaseholders' rights.
-
-
