@@ -20,11 +20,11 @@ images:
 coordinates:
   - '-0.264695,51.552600'
 ---
-793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). [A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders. The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace through which the river Brent flows. 
+793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). [A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders. The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace alongside the river Brent. 
 
 ![](/images/raphaelboundary.png)
 
-This extract from a [2018 options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) confirms that the estate is home to predominantly BAME communities:
+This extract from a [2018 options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) confirms that the estate is home to a large proportion of BAME communities:
 
 ![](/images/bame.png)
 
@@ -32,7 +32,7 @@ Within the estate is a church (St Patrick's Roman Catholic Church) and a Tenants
 
 ![](/images/stpatrick.jpg)
 
-In 2018 Brent Council conducted an [options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) which confirmed that _"a stock condition survey was undertaken during August and September 2018. The findings of the survey reveal the properties to be in a reasonable state of repair (para 3.5)."_ It went on to attribute recent crime and anti-social behaviour issues to the poor design of the estate. 
+In 2018 Brent Council conducted an [options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) which confirmed that _"a stock condition survey was undertaken during August and September 2018. The findings of the survey reveal the properties to be in a reasonable state of repair (para 3.5)."_ However, it went on to attribute recent crime and anti-social behaviour issues to the poor design of the estate, which can only be addressed by full redevelopment. 
 
 ![](/images/raphaelcrime.png)
 

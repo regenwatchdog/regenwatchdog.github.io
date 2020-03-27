@@ -2,6 +2,9 @@
 layout: nameandshame
 title: Guide for estate residents
 ---
+## The impacts of regeneration
+Something here about the research and recorded impact of regeneration schemes.
+
 ## Broken promises
 A few examples here of broken promises
 
