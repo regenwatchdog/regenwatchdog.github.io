@@ -1,7 +1,8 @@
 ---
 name: Chaucer estate
 borough: sutton
-image_path: /images/chaucer.jpg
+images:
+  - image_path: /images/chaucer.jpg
 coordinates:
   - -0.2008,51.3705
 ---

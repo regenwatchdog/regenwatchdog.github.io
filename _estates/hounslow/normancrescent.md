@@ -1,7 +1,8 @@
 ---
 name: Norman Crescent estate 
-borough: hounslow 
-image_path: /images/normancrescent.png
+borough: hounslow
+images:
+  - image_path: /images/normancrescent.png
 coordinates:
   - -0.393027,51.481943
 ---

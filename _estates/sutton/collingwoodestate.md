@@ -1,7 +1,8 @@
 ---
 name: Collingwood estate
 borough: sutton
-image_path: /images/collingwood.jpg
+images:
+  - image_path: /images/collingwood.jpg
 coordinates: 
   - -0.1988,51.3691
 ---

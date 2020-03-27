@@ -1,7 +1,8 @@
 ---
 name: Sutton Court estate 
 borough: sutton
-image_path: /images/suttoncourt.png
+images:
+  - image_path: /images/suttoncourt.png
 coordinates:
   - -0.1901,51.3577
 ---

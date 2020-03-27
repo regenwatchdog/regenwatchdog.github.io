@@ -1,7 +1,8 @@
 ---
 name: Roseberry Gardens 
 borough: sutton
-image_path: /images/roseberrygardens.jpg
+images:
+  - image_path: /images/roseberrygardens.jpg
 coordinates:
   - -0.1929,51.3679
 ---

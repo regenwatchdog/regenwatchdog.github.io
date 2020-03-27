@@ -1,7 +1,8 @@
 ---
 name: Brabazon estate 
 borough: hounslow 
-image_path: /images/brabazon.jpg
+images:
+  - image_path: /images/brabazon.jpg
 coordinates:
   - -0.395689,51.484513 
 ---

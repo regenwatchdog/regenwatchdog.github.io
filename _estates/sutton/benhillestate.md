@@ -1,7 +1,8 @@
 ---
 name: Benhill estate 
 borough: sutton
-image_path: /images/benhillestate.jpg
+images:
+  - image_path: /images/benhillestate.jpg
 coordinates:
   - -0.1901,51.3673
 ---

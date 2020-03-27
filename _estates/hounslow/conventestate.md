@@ -1,7 +1,8 @@
 ---
 name: Convent Way estate 
 borough: hounslow 
-image_path: /images/conventway.jpg
+images:
+  - image_path: /images/conventway.jpg
 coordinates:
   - -0.393576,51.494632 
 ---

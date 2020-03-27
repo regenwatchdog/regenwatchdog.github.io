@@ -1,7 +1,8 @@
 ---
 name: Brookwood Road estate
-borough: hounslow 
-image_path: /images/brookwoodroad.jpg
+borough: hounslow
+images:
+  - image_path: /images/brookwoodroad.jpg
 coordinates:
   - -0.362360,51.475927
 ---
