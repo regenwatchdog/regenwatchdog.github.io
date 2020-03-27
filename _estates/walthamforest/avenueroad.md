@@ -7,8 +7,13 @@ coordinates:
 published: true
 images:
   - image_path: /images/avenueroad.jpg
-  - image_path: /images/santasimagehere.jpg
-  - image_path: /images/santasimageheretoo.jpg
+  - image_path: /images/Avenue_R1.jpg
+  - image_path: /images/Avenue_R2.jpg
+  - image_path: /images/Avenue_R3.jpg
+  - image_path: /images/Avenue_R4.jpg
+  - image_path: /images/Avenue_R5.jpg
+  - image_path: /images/Avenue_R6.jpg
+  - image_path: /images/Avenue_R7.jpg
 ---
 According to the <a href="https://walthamforest.gov.uk/content/regeneration-avenue-road-estate-leytonstone">Council's website</a>, 258 homes in 4 blocks of the Avenue Road estate are earmarked for demolition (Blackthorn Ct, Gean Ct, Mulberry Ct, Rosewood Ct).
 
