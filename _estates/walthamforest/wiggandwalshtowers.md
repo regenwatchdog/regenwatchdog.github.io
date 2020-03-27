@@ -1,7 +1,8 @@
 ---
 name: Fred Wigg and John Walsh Towers
 borough: walthamforest
-image_path: /images/wiggandwalsh.png
+images:
+  - image_path: /images/wiggandwalsh.png
 coordinates:
   - '-0.0141,51.5610'
 published: true

@@ -1,7 +1,8 @@
 ---
 name: Chingford Hall estate 
-borough: walthamforest 
-image_path: /images/chingfordhall.png
+borough: walthamforest
+images:
+  - image_path: /images/chingfordhall.png
 coordinates:
   - -0.025384,51.609444
 ---
