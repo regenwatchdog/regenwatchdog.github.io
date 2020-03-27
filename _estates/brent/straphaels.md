@@ -39,13 +39,13 @@ In 2018 Brent Council conducted an [options appraisal](http://democracy.brent.go
 
 A [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) acknowledges that the schemes is currently unviable and that if it proceeds using current day values there will be a £22m viability gap, meaning that Brent could end up subsidising this or making concessions on design, affordability or infrastructure.
 
-![](/images/viabilitygap.png){:.image.centre}
+![](/images/viabilitygap.png)
 
 ## Ballot
 
 A ballot is expected to be held in Autumn 2020, with two options for residents to choose from; infill or comprehensive redevelopment. Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) (distributed to residents in Dec 2019) makes it clear that if infill is the preferred option then the estate may not receive any investment for improving current housing conditions:  
 
-![](/images/st-raphaels-faq.png){:.image.centre}
+![](/images/st-raphaels-faq.png)
 *Extract from Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) distributed to residents in Dec 2019*
 
 ## Rehousing offer
