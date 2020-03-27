@@ -12,6 +12,7 @@ images:
   - image_path: /images/St_raphaels_greenSpace2.jpg
   - image_path: /images/ST_raphaels_greenSpace3.jpg
   - image_path: /images/ST_raphaels_greenSpace4.jpg
+  - image_path: /images/ST_RaphGS1.jpg
   - image_path: /images/ST_raphaels_hendersonHouse.jpg
   - image_path: /images/ST_raphaels_maisonettes.jpg
   - image_path: /images/St_raphaels_river1.jpg
