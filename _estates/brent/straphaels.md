@@ -36,11 +36,10 @@ In 2018 Brent Council conducted an [options appraisal](http://democracy.brent.go
 
 ![](/images/raphaelcrime.png)
 
-A [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) acknowledges that the schemes is currently unviable and that if it proceeds using current day values there will be a £22m viability gap, meaning that Brent could end up subsidising this or making concessions on design, affordability or infrastructure.
+A [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) acknowledges that the redevelopment scheme is currently unviable and that if it proceeds using current day values there will be a £22m viability gap, meaning that Brent could end up subsidising this or making concessions on design, affordability or infrastructure.
 
 ![](/images/viabilitygap.png)
-
-## Ballot
+*Extract from the Council's [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf)*
 
 A ballot is expected to be held in Autumn 2020, with two options for residents to choose from; infill or comprehensive redevelopment. Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) (distributed to residents in Dec 2019) makes it clear that if infill is the preferred option then the estate may not receive any investment for improving current housing conditions:  
 
@@ -52,7 +51,7 @@ The small print in Brent's [rehousing offer](http://democracy.brent.gov.uk/docum
 
 Brent requires leaseholders to be able to afford a minimum 50% share in a shared equity home on the redeveloped estate, as well as requiring them to contribute their personal savings into their share(paras 5.8.2 and 5.8.3).
 
-This was [ruled unlawful]() by the Secretary of State following the 2016 Aylesbury estate public inquiry, where Southwark had to revise its policy to require a 25% minimum share without savings contributions and with several other concessions i.e. - succession rights, proportioned service charge payments, stamp duty etc. See [here](https://regenwatch.github.io/guide/#leaseholders) for more information on leaseholders' rights.
+This was [ruled unlawful](https://www.insidehousing.co.uk/news/news/javid-rejects-aylesbury-cpo-bid-on-human-rights-grounds-48078) by the Secretary of State following a public inquiry for Aylesbury estate leaseholders in 2015, where Southwark Council had to revise its policy to require a 25% minimum share without savings contributions and with several other concessions i.e. - succession rights, proportioned service charge payments, stamp duty etc. See [here](https://regenwatch.github.io/guide/#leaseholders) for more information on leaseholders' rights.
 
 ## Links
 Brent Council's web page: [https://www.brent.gov.uk/your-community/st-raphaels-estate/](https://www.brent.gov.uk/your-community/st-raphaels-estate/)
@@ -60,5 +59,5 @@ Brent Council's web page: [https://www.brent.gov.uk/your-community/st-raphaels-e
 St Raphael's campaign group's [Twitter profile](https://twitter.com/StRaphaelsest) and [Facebook page](https://www.facebook.com/groups/2678710982/).
 
 [Architects for Social Housing (ASH)](https://architectsforsocialhousing.co.uk) have been working with St Raphael's estate residents to [explore the redevelopment options as well as alternatives to demolition](https://architectsforsocialhousing.co.uk/2020/03/12/the-future-of-st-raphaels-estate-design-options-by-karakusevic-carson-architects-and-their-role-in-the-consultation-of-residents-by-brent-council/). Their presentation to residents in Feb 2020 can be viewed here:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIo-YCFHxa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIo-YCFHxa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
