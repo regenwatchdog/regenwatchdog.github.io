@@ -8,7 +8,7 @@ var freeBus = {
       "type": "Feature",
       "properties": {
         "title": "{{ estate.name }}",
-        "image": "{{ estate.image_path }}",
+        "image": "{{ estate.images[0].image_path }}",
         "url": "{{estate.url}}"
       },
       "geometry": {
