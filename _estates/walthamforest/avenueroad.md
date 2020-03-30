@@ -31,6 +31,6 @@ _"The Council has been engaging closely with residents on the Avenue Road Estate
 NB. The residents' advisor (Newman Francis) has also been [involved in Lambeth's estate regeneration schemes](http://newmanfrancis.org/projects/westbury-lambeth/).
 
 ## Footnote
-Waltham Forest is [planning](https://democracy.walthamforest.gov.uk/documents/s71384/3%20-%20Housing%20Delivery%20Report%20FINAL%20200128%20incs%204%20appendices_2.pdf) to carry out a 'Council estates development capacity review' in 2020 in order to identify redevelopment opportunities:
+Waltham Forest is [planning](https://democracy.walthamforest.gov.uk/documents/s71384/3%20-%20Housing%20Delivery%20Report%20FINAL%20200128%20incs%204%20appendices_2.pdf) to carry out a 'Council estates development capacity review' in 2020 in order to identify further redevelopment opportunities:
 
 ![](/images/estatesreview.png)
