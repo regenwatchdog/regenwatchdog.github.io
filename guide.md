@@ -3,7 +3,7 @@ layout: nameandshame
 title: Guide for estate residents
 ---
 ## The impacts of regeneration
-Research funded by the Economic & Social Research Council has [recorded the impact](/images/finalevent.pdf) of regeneration schemes across London.
+Research funded by the Economic & Social Research Council has [recorded the impact](/images/finalevent.pptx) of regeneration schemes across London.
 
 ![](/images/finalevent.png)
 
