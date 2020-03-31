@@ -12,6 +12,11 @@ During early consultation stages, residents are courted by council members, arch
 
 ![](/images/bowman.png)
 
+## Sleight of hand
+Much of the replacement 'social' housing is provided as 'London Affordable Rent' which the mayor claims is similar to social rent levels. But the devil is in the detail - [this section 106 legal agreement](http://paplan.lbbd.gov.uk/online-applications/files/F07E42E8C4ADF9FDBF7F485D098282EA/pdf/17_00977_OUT-S106_AGREEMENT-272961.pdf) for the Gascoigne estate scheme in Barking & Dagenham, defines it loosely as anything up to 80% market rent:
+
+![](/images/gascoignes106.png)
+
 ## Viability
 Many of the original promises to residents are broken because it emerges that they weren't financially viable at the outset. [Research](https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/KnockItDownOrDoItUp_0.pdf) by the London Assembly gives several examples and explains what the usual consequences are.
 
