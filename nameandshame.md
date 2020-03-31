@@ -1,16 +1,17 @@
 ---
-layout: nameandshame 
-title: Schemes failing to comply with policy requirements
+layout: nameandshame
+title: List of schemes that don't comply with the Mayor's new policies for estate regeneration
 ---
-## Cambridge Road estate, Kingston
-The [rehousing offer](https://cambridgeroadestate.com/assets/pdf/Cambridge_Road_Document_V6.pdf) to leaseholders at the Cambridge road estate regeneration requires them to take out a mortgage in order to benefit from the shared equity option on a new home at the redeveloped estate.
+The Mayor has sought to redress such impacts by introducing <a href="https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf">new policies</a> requiring:
+      <ul><b>
+		      <li>1. At least 50% affordable housing with no net loss of social rent.</li>
+		      <li>2. A full ballot of residents before proceeding with demolition.</li>
+		      <li>3. A right to return to the estate for leaseholders and freeholders.</li>
+      </ul>
+     </b>
 
-This is a breach of the Compulsory Purchase Code, which requires that residents are rehoused on redeveloped land at no financial cost to themselves[^1].
+But the Mayor is turning a blind eye to <a href="/nameandshame.html">an increasing number of schemes</a> which fail to meet these requirements. We call on the Mayor to 'call in' these schemes and ensure they comply with his policies.
+
+https://www.architectsjournal.co.uk/news/estate-ballots-are-they-working/10046693.article
 
 
-
-
-
-__Footnotes:__
-
-[^1]: See further reference [here]()
