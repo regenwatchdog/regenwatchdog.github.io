@@ -114,6 +114,7 @@ textarea{
 .logo{
     display:block;
     width:169px;
+    vertical-align: middle; 
     margin:0 auto
 }
 #hero-spot{
