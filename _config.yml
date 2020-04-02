@@ -117,9 +117,24 @@ prose:
           label: "Co-ordinates"
           placeholder: "Lat and Long Co-ordinates"
           alterable: true
-      - name: "image_path"
+      - name: "name"
         field:
           element: "textarea"
-          label: "Image path"
-          placeholder: "Image path"
+          label: "Name of estate"
+          placeholder: "Name of the estate"
           alterable: true
+      - name: "borough"
+        field:
+          element: "select"
+          label: "Select Borough"
+          placeholder: "Select Borough"
+          - name: "Brent"
+            value: "brent"
+          - name: "Hounslow"
+            value: "hounslow"
+          - name: "Waltham Forest"
+            value: "walthamforest"
+          - name: "Sutton"
+            value: "sutton"
+          - name: "Redbrige"
+            value: "redbridge"
