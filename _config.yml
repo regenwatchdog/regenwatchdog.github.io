@@ -109,3 +109,11 @@ prose:
     - /js
     - /slick
     - .gitignore
+  metadata:
+    _estates:
+      - name: "coordinates"
+        field:
+          element: "textarea"
+          label: "Co-ordinates"
+          placeholder: "Lat and Long Co-ordinates"
+          alterable: true
