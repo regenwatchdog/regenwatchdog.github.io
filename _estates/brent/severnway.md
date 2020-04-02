@@ -1,7 +1,6 @@
 ---
 name: Severn Way
 borough: brent
-image_path: /images/severnway.png
 coordinates:
   - '-0.246721,51.552401'
 published: true

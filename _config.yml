@@ -100,15 +100,6 @@ prose:
   rooturl: '_estates'
   siteurl: 'http://regenwatch.github.io'
   media: 'images'
-  ignore:
-    - /_includes
-    - /_layouts
-    - /_sass
-    - /css
-    - /images
-    - /js
-    - /slick
-    - .gitignore
   metadata:
     _estates:
       - name: "coordinates"
