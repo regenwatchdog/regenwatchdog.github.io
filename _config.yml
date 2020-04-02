@@ -96,3 +96,15 @@ defaults:
       type: estates
     values:
       layout: estate
+
+ignore:
+  - /_includes
+  - /_layouts
+  - /_sass
+  - /css
+  - /images
+  - /js
+  - /slick
+  - .gitignore
+
+media: "/images"
