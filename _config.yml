@@ -117,9 +117,9 @@ prose:
           label: "Co-ordinates"
           placeholder: "Lat and Long Co-ordinates"
           alterable: true
-      - name: "images"
+      - name: "image_path"
         field:
-          element: "select"
+          element: "textarea"
           label: "Image path"
           placeholder: "Image path"
           alterable: true
