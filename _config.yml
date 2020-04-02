@@ -119,7 +119,7 @@ prose:
           alterable: true
       - name: "images"
         field:
-          element: "textarea"
+          element: "select"
           label: "Image path"
           placeholder: "Image path"
           alterable: true
