@@ -128,6 +128,7 @@ prose:
           element: "select"
           label: "Select Borough"
           placeholder: "Select Borough"
+          alterable: true
           - name: "Brent"
             value: "brent"
           - name: "Hounslow"
