@@ -129,6 +129,7 @@ prose:
           label: "Select Borough"
           placeholder: "Select Borough"
           alterable: true
+          options:
           - name: "Brent"
             value: "brent"
           - name: "Hounslow"
