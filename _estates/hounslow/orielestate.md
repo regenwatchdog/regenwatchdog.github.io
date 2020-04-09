@@ -3,6 +3,8 @@ name: Oriel estate
 borough: hounslow 
 images:
   - image_path: /images/orielestate.png
+  - image_path: /images/orielmap.png
+  - image_path: /images/orielaerial.png
 coordinates:
   - -0.390207,51.435475
 ---
