@@ -2,8 +2,11 @@
 name: Lisson Green estate
 borough: westminster
 images:
-  - image_path: /images/lissongreen.png
+  - image_path: /images/lissongreen3.jpg
   - image_path: /images/lissongreen2.jpg
+  - image_path: /images/lissongreen.png
+  - image_path: /images/lissongreen4.jpg
+  - image_path: /images/lissongreen5.jpg
 coordinates:
   - '-0.167721,51.525955'
 published: true
