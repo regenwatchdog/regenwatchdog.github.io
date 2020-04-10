@@ -7,7 +7,8 @@ coordinates:
   - '-0.174412,51.524650'
 published: true
 ---
-The Lilestone estate is [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) in a __Housing Renewal__ zone in Westminster's emerging 2019-2040 Local Plan.
+The Lilestone estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent's Canal and Regent's Park.
+It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) inside an an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 
 ![](/images/renewalarea.png)
 
