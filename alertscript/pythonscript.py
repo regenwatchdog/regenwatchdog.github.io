@@ -4,12 +4,14 @@ import PyPDF2
 import re
 import sys
 
-urlsuffix = 66125 
+urlsuffix = 31092 
 blankcount = 0
 
 while blankcount <= 110:
+      #url = (f'http://moderngov.southwark.gov.uk/documents/s88407/')
       #url = (f'http://moderngov.southwark.gov.uk/documents/s8{urlsuffix}/')
-      url = (f'http://democracy.towerhamlets.gov.uk/documents/s1{urlsuffix}/')
+      url = (f'https://committees.westminster.gov.uk/documents/s{urlsuffix}/')
+      #url = (f'http://democracy.towerhamlets.gov.uk/documents/s166125/')
       urlsuffix += 1
       r = requests.get(url)
 
@@ -28,16 +30,20 @@ while blankcount <= 110:
         # get number of pages
         NumPages = object.getNumPages()
         print(NumPages)
-
-        # extract text and do the search
-        for i in range(0, NumPages):
-            PageObj = object.getPage(i)
-            print("this is page " + str(i)) 
-            Text = PageObj.extractText() 
-            # print(Text)
-            EstateSearch = re.search(('estate'), Text, re.IGNORECASE)
-            SecondarySearch = re.search(('redevelopment|renewal|demolition|regeneration'), Text, re.IGNORECASE)
-            if EstateSearch and SecondarySearch:
-                print("yes word combination found")
-                break
-                sys.exit("Stopping script")
+        
+        if NumPages <= 50:
+            f = open('filename.md', 'w')
+            # extract text and do the search
+            for i in range(0, NumPages):
+                PageObj = object.getPage(i)
+                print("this is page " + str(i)) 
+                Text = PageObj.extractText() 
+                # print(Text)
+                EstateSearch = re.search(('estate'), Text, re.IGNORECASE)
+                SecondarySearch = re.search(('redevelopment|renewal|demolition|regeneration'), Text, re.IGNORECASE)
+                if EstateSearch and SecondarySearch:
+                    print("yes word combination found")
+                    f.write(url)
+        else: break
+             
+f.close()
