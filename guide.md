@@ -29,7 +29,14 @@ _"For residents, the fallout often involves an extension to building-site life a
 Higher rents - LAR not regulated in same way as SR so starts off only marginally higher but greater rent increases over time. 
 
 ## Leaseholders
+[Haringey's scheme](https://www.minutes.haringey.gov.uk/documents/s115060/Appendix2DraftLoveLaneLeaseholderOfferFINAL.pdf) doesn't allow succession - you can't pass it on to your children, i.e. they will have to leave the house when you die.
 
+Westmintster's scheme requires leaseholders to put their savings into the scheme.
 ## Freeholders
 uplift
 
+## Advanced guide
+The following advanced guide 
+https://www.uclpress.co.uk/collections/ro_homepage_products/products/125696
+
+CPO guide?
