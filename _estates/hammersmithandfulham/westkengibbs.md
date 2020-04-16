@@ -10,4 +10,4 @@ coordinates:
 
 ![](/images/westkengibbs.png)
 
-Residents [recently won a reprieve](https://westkengibbsgreen.wordpress.com/) from demolition and are applying for a Right to Transfer the estate to community ownership to safeguard its future.
+Residents [recently won a reprieve](https://westkengibbsgreen.wordpress.com/) from demolition and are applying for a Right to Transfer the estate to community ownership in order to safeguard its future.
