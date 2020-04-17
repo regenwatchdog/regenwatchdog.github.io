@@ -13,4 +13,4 @@ coordinates:
 
 ![](/images/whitecitywcra2.png)
 
-The Council is [reported](https://enfielddispatch.co.uk/major-estate-plans-to-go-to-vote/) to be intending to hold a ballot some time in 2020.
+The Council is [reported](https://enfielddispatch.co.uk/major-estate-plans-to-go-to-vote/) to be intending to hold a ballot some time in 2020. Its dedicated website for the scheme provides further details [here](http://www.joyceandsnells.co.uk/).
