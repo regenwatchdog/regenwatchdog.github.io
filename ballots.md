@@ -10,3 +10,7 @@ In addition, council's and developers have come up with a number of inventive wa
 2. Residents not being given a 'do nothing' option on the ballot paper (cf. Teviot estate).
 3. Residents being told that if they vote against regeneration then their estate won't be maintained (cf. St Raphael's estate)
 4. Sadiq Khan ignoring the ballot requirement altogether (cf. Grange Farm estate)
+
+[Extract](https://drive.google.com/file/d/1GcFocXpPx-IeK9m8G9ndxTfBwjo_DBgN/view) from the info given to West Kentish Town residents ahead of their ballot:
+
+![](/images/wktballot.png)
