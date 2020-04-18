@@ -6,7 +6,7 @@ images:
   - image_path: /images/wendling2.png
   - image_path: /images/wendling3.jpg
 coordinates: 
-  - -0.109902,51.593749
+  - -0.156132,51.551117
 ---
 241 homes on Camden's Wendling estate have been [earmarked for demolition](https://www.camden.gov.uk/wendling-estate-and-st-stephens-close) in an options appraisal involving 3 options: in-fill, partial redevelopment and full redevelopment.  
 
