@@ -1,5 +1,5 @@
 ---
-name: Thamesmead estate (Bexley side) 
+name: Thamesmead east 
 borough: bexley
 images:
   - image_path: /images/thamesmeadeast.jpg
