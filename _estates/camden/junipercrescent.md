@@ -1,5 +1,5 @@
 ---
-name: Juniper Crescent/Gilbey's Yard estate 
+name: Juniper Crescent and Gilbeys Yard estate 
 borough: camden
 images:
   - image_path: /images/junipercrescent.jpg
