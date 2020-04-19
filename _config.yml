@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Regeneration Watch 
+name: Regeneration Watchdog 
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -98,7 +98,7 @@ defaults:
       layout: estate
 prose:
   rooturl: '_estates'
-  siteurl: 'http://regenwatch.github.io'
+  siteurl: 'http://regenwatchdog.github.io'
   media: 'images'
   metadata:
     _estates:
