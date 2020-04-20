@@ -40,3 +40,14 @@ The following advanced guide
 https://www.uclpress.co.uk/collections/ro_homepage_products/products/125696
 
 CPO guide?
+
+## Parked Mayor's requirements
+
+    1. At least 50% affordable housing with no net loss of social rent.</li>
+    							      		      <li>        2. A full ballot of residents before proceeding with demolition.</li>
+									      									      		      <li>    3. A right to return to the estate for leaseholders and freeholders.</li>
+																				      											      <li>    4. A late stage viability review/affordable housing clawback</li>
+																															      											      <li>    5. Demolition to be considered only as a last resort</li>
+
+
+
