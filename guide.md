@@ -1,7 +1,10 @@
 ---
-layout: nameandshame
+layout: default
 title: Guide for estate residents
 ---
+# Handbook for Residents
+
+
 ## The impacts of regeneration
 Research funded by the Economic & Social Research Council has [recorded the impact](/images/finalevent.pptx) of regeneration schemes across London.
 
@@ -43,11 +46,11 @@ CPO guide?
 
 ## Parked Mayor's requirements
 
-    1. At least 50% affordable housing with no net loss of social rent.</li>
-    							      		      <li>        2. A full ballot of residents before proceeding with demolition.</li>
-									      									      		      <li>    3. A right to return to the estate for leaseholders and freeholders.</li>
-																				      											      <li>    4. A late stage viability review/affordable housing clawback</li>
-																															      											      <li>    5. Demolition to be considered only as a last resort</li>
+1. At least 50% affordable housing with no net loss of social rent.
+2. A full ballot of residents before proceeding with demolition.
+3. A right to return to the estate for leaseholders and freeholders.
+4. A late stage viability review/affordable housing clawback.
+5. Demolition to be considered only as a last resort.
 
 
 

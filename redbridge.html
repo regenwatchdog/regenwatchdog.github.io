@@ -2,7 +2,8 @@
 layout: default
 title: Estates
 ---
-<h1>Estate regeneration in Redbridge</h1>
+<center>
+<h1>Estates under threat in Redbridge</h1>
 
 <ul>
 	{% assign sorted-estates = site.estates | where: "borough","redbridge" %}
@@ -14,43 +15,4 @@ title: Estates
 					    </li>
 					    {% endfor %}
 </ul>
-
-<section id="next-steps">
-  <ul class="next-steps wrapper">
-    <li class="jekyll">
-      <a class="hero-octicon" href="/sutton/">
-	      <img src="/images/sutton.png">
-      </a>
-      <h4><a href="/sutton/">Sutton</a></h4>
-      <p>Estate regeneration schemes in Sutton.</p>
-    </li>
-    <li class="custom-urls">
-      <a class="hero-octicon" href="/redbridge/">
-	      <img src="/images/redbridge.png">
-      </a>
-      <h4><a href="/redbridge/">Redbridge</a></h4>
-      <p>Estate regeneration schemes in Redbridge.</p>
-    </li>
-    <li class="guides">
-      <a class="hero-octicon" href="/walthamforest/">
-	      <img src="/images/walthamforest.png">
-      </a>
-      <h4><a href="/walthamforest/">Waltham Forest</a></h4>
-      <p>Estate regeneration schemes in Waltham Forest.</p>
-    </li>
-<li class="guides">
-      <a class="hero-octicon" href="/brent/">
-	      <img src="/images/brent.png">
-      </a>
-      <h4><a href="/brent/">Brent</a></h4>
-      <p>Estate regeneration schemes in Brent.</p>
-    </li>
-<li class="guides">
-      <a class="hero-octicon" href="/hounslow/">
-	      <img src="/images/hounslow.png">
-      </a>
-      <h4><a href="/hounslow/">Hounslow</a></h4>
-      <p>Estate regeneration schemes in Hounslow.</p>
-    </li>
-  </ul>
-</section>
+</center>
