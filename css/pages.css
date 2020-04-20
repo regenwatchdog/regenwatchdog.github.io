@@ -679,3 +679,8 @@ footer .right{
 .slick-next:before {
   color: gray!important;
 }
+.carousel-inner > .item >img{
+  min-height : 300px;
+  max-height : 300px;
+  width : 100%;
+}
