@@ -1,0 +1,11 @@
+borough_list_title: Borough
+boroughs:
+
+- name: Merton
+  url: /approved/merton/
+
+- name: Hounslow
+  url: /approved/hounslow/
+
+- name: Camden
+  url: /approved/camden/
