@@ -1,0 +1,30 @@
+I"¥<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="landing-1.html">
+                      <img class="card-img-top" src="/images/highpath.jpg" alt="Landing - One" />
+                    </a>
+                    <div class="card-footer d-flex justify-content-between">
+                      <a href="landing-1.html" class="h6 m-0">High Path estate</a>
+                      <a target="_blank" href="landing-1.html" data-toggle="tooltip" data-placement="top" title="Open in new tab"><i class="icon-popup"></i></a>
+                    </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="landing-1.html">
+                      <img class="card-img-top" src="/images/eastfields.jpg" alt="Landing - One" />
+                    </a>
+                    <div class="card-footer d-flex justify-content-between">
+                      <a href="landing-1.html" class="h6 m-0">Eastfields estate</a>
+                      <a target="_blank" href="landing-1.html" data-toggle="tooltip" data-placement="top" title="Open in new tab"><i class="icon-popup"></i></a>
+                    </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

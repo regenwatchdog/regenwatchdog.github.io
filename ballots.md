@@ -1,5 +1,5 @@
 ---
-layout: nameandshame
+layout: default 
 title: Estate regeneration ballots
 ---
 Following a string of high-profile schemes where estates were regenerated against the wishes of its residents, in 201x Mayor Sadiq Khan introduced a requirement for residents to be balloted before estate regeneration could proceed. But when he introduced this policy, he exempted a large number of schemes from meeting the ballot requirement []() and introduced a further list of exemptions []().

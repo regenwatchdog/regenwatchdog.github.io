@@ -1,0 +1,15 @@
+- name: High Path estate
+  borough: merton
+  date: Nov 2018
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/high-path-estate
+  comment:  Demolition of 608 homes replaced by 1,570 of which only 20% affordable (affordable rent > 80% market rent). Scheme funded by Mayor and exempted from ballot requirement.
+  image_path: /images/highpath.jpg
+
+- name: Eastfields estate
+  borough: merton
+  date: Nov 2018
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/eastfields-estate
+  comment: demolition of 466 homes replaced by 800 of which only 262 affordable (affordable rent > 80% market rent). Scheme funded by Mayor and exempted from ballot.
+  image_path: /images/eastfields.jpg
+
+
