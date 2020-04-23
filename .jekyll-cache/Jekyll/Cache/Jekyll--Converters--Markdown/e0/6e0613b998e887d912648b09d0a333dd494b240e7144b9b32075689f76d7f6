@@ -1,0 +1,49 @@
+I"ò<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//public%3A//public%3A//PAWS/media_id_474178///////napier_house_and_new_plymouth_house_report.pdf">
+                      <img class="card-img-top" src="/images/napier.jpg" alt="Dovers Farm estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Dovers Farm estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Havering</h6>
+		      <p class="card-text">Granted final mayoral approval in Aug 2019, having agreed funding and exempted the estate from ballot requirement. This is the first phase of Havering's plans to redevelop 12 estates.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//public%3A//public%3A//PAWS/media_id_474178///////napier_house_and_new_plymouth_house_report.pdf" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Aug 2019 <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_489165///solar_serena_sunrise_report.pdf">
+                      <img class="card-img-top" src="/images/serena.png" alt="Serena &amp; Sunrise Court" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Serena &amp; Sunrise Court</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Havering</h6>
+		      <p class="card-text">Granted initial approval by Mayor in Jan 2019, having agreed funding and an exemption from the ballot requirement previously.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_489165///solar_serena_sunrise_report.pdf" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Jan 2019 <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="??">
+                      <img class="card-img-top" src="/images/waterlooroad.png" alt="Waterloo Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Waterloo Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Havering</h6>
+		      <p class="card-text">Mayor approved funding and <a href="https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf">exempted</a> the estate from his ballot requirement in April 2019.</p>
+                      <a target="_blank" href="??" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: ?? <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

@@ -1,15 +1,128 @@
 - name: High Path estate
   borough: merton
+  fullname: Merton
   date: Nov 2018
   url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/high-path-estate
-  comment:  Demolition of 608 homes replaced by 1,570 of which only 20% affordable (affordable rent > 80% market rent). Scheme funded by Mayor and exempted from ballot requirement.
+  comment: Scheme will see demolition of 608 homes replaced by 1,570 of which 20% affordable - all at up to 80% market rent. Scheme funded by Mayor and exempted from ballot requirement.
   image_path: /images/highpath.jpg
 
 - name: Eastfields estate
   borough: merton
+  fullname: Merton
   date: Nov 2018
   url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/eastfields-estate
-  comment: demolition of 466 homes replaced by 800 of which only 262 affordable (affordable rent > 80% market rent). Scheme funded by Mayor and exempted from ballot.
+  comment: Demolition of 466 homes replaced by 800 of which only 262 affordable (affordable rent > 80% market rent). Scheme funded by Mayor and exempted from ballot.
   image_path: /images/eastfields.jpg
 
+- name: Gascoigne estate (West)
+  borough: barkinganddagenham
+  fullname: Barking & Dagenham
+  date: Dec 2018
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west
+  comment: The <a href="http://paplan.lbbd.gov.uk/online-applications/files/F07E42E8C4ADF9FDBF7F485D098282EA/pdf/17_00977_OUT-S106_AGREEMENT-272961.pdf">definition</a> of 'London Affordable Rent' allows rents of up to 80% market rent - scheme funded by Mayor and exempted from ballot requirement.
+  image_path: /images/gascoigne1.jpg
+
+- name: Becontree Heath estate
+  borough: barkinganddagenham
+  fullname: Barking & Dagenham
+  date: Feb 2018
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/becontree-heath-masterplan
+  comment: Scheme funded by Mayor and exempted from ballot requirement
+  image_path: /images/becontreeheath.jpg
+
+- name: Mills Grove estate
+  borough: barnet
+  fullname: Barnet
+  date: Jun 2019
+  url: https://www.london.gov.uk/sites/default/files/PAWS/media_id_464602/westthrope_gardens_and_mill_grove_estate_report.pdf
+  comment: Received Mayor's inital approval for demolition in June 2019
+  image_path: /images/millsgrove.jpg
+
+- name: Grahame Park estate
+  borough: barnet
+  fullname: Barnet
+  date: Dec 2019
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/grahame-park-0
+  comment: Received Mayor's initial approval for demolition in Dec 2019 - awaiting final approval in 2020. Mayor granted exemption from ballot requirement in Jun 2019.
+  image_path: /images/grahamepark.jpg
+
+- name: Friary Park estate
+  borough: ealing
+  fullname: Ealing
+  date: Oct 2019
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/friary-park-estate
+  comment: Received Mayor's initial approval for demolition in Oct 2019, awaiting final approval in 2020. Mayor agreed funding and granted exemption from ballot requirement in Aug 2018.
+  image_path: /images/friarypark.jpg
+
+- name: High Lane estate
+  borough: ealing
+  fullname: Ealing
+  date: ??
+  url:
+  comment: Mayor has approved funding and is set to approve planning permission in late 2020.
+  image_path: /images/highlane.jpg
+
+- name: New Avenue estate
+  borough: enfield
+  fullname: Enfield
+  date: April 2018
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/new-avenue-estate
+  comment: Received Mayor's funding and final approval in April 2018 and exempted from the ballot requirement.
+  image_path: /images/newavenue.png
+
+- name: Grange Farm estate
+  borough: harrow
+  fullname: Harrow
+  date: Feb 2019
+  url: https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_460660///grange_farm_estate_report.pdf
+  comment: Received Mayor's final approval in Feb 2019 - ballot requirement waivered despite no exemption applied for.
+  image_path: /images/grangefarm.jpg
+
+- name: Dovers Farm estate
+  borough: havering
+  fullname: Havering
+  date: Aug 2019
+  url: https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//public%3A//public%3A//PAWS/media_id_474178///////napier_house_and_new_plymouth_house_report.pdf
+  comment: Granted final mayoral approval in Aug 2019, having agreed funding and exempted the estate from ballot requirement. This is the first phase of Havering's plans to redevelop 12 estates.
+  image_path: /images/napier.jpg
+
+- name: Serena & Sunrise Court
+  borough: havering
+  fullname: Havering
+  date: Jan 2019
+  url: https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_489165///solar_serena_sunrise_report.pdf
+  comment: Granted initial approval by Mayor in Jan 2019, having agreed funding and an exemption from the ballot requirement previously.
+  image_path: /images/serena.png
+
+- name: Waterloo Road estate
+  borough: havering
+  fullname: Havering
+  date: ??
+  url: ??
+  comment: Mayor approved funding and <a href="https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf">exempted</a> the estate from his ballot requirement in April 2019.
+  image_path: /images/waterlooroad.png
+
+- name: Sebastian Court
+  borough: barkinganddagenham
+  fullname: Barking & Dagenham
+  date: ??
+  url: ??
+  comment: 59 council homes being replaced by 95 of which 29 are London Affordable Rent. No right to return for tenants or leaseholders.
+  image_path: /images/sebastiancourt.jpg
+
+- name: Arthur Street estate
+  borough: bexley
+  fullname: Bexley
+  date:
+  url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/arthur-street
+  comment: 262 council homes to be demolished with a net loss of 134 social rent. No right of return for tenants or leaseholders.
+  image_path: /images/arthur.jpg
+
+- name: Pike Close estate
+  borough: bromley
+  fullname: Bromley
+  date: ??
+  url: ??
+  comment: Ballot approved and awaiting planning application and Mayor's approval.
+  image_path: /images/pikeclose.jpg
 

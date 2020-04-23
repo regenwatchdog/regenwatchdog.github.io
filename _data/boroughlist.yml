@@ -1,11 +1,80 @@
 borough_list_title: Borough
 boroughs:
 
-- name: Merton
-  url: /approved/merton/
+- name: Barnet
+  url: /approved/barnet/
+
+- name: Barking & Dagenham
+  url: /approved/barkinganddagenham/
+
+- name: Bexley
+  url: /approved/bexley/
+
+- name: Brent
+  url: /approved/brent/
+
+- name: Bromley
+  url: /approved/bromley/
+
+- name: Camden
+  url: /approved/camden/
+
+- name: Ealing
+  url: /approved/ealing/
+
+- name: Enfield
+  url: /approved/enfield/
+
+- name: Greenwich
+  url: /approved/greenwich/
+
+- name: Hackney
+  url: /approved/hackney/
+
+- name: Haringey
+  url: /approved/haringey/
+
+- name: Hammersmith & Fulham
+  url: /approved/hammersmithandfulham/
+
+- name: Harrow
+  url: /approved/harrow/
 
 - name: Hounslow
   url: /approved/hounslow/
 
-- name: Camden
-  url: /approved/camden/
+- name: Havering
+  url: /approved/havering/
+
+- name: Lambeth
+  url: /approved/lambeth/
+
+- name: Lewisham
+  url: /approved/lewisham/
+
+- name: Merton
+  url: /approved/merton/
+
+- name: Newham
+  url: /approved/newham/
+
+- name: Redbridge
+  url: /approved/redbridge/
+
+- name: Southwark
+  url: /approved/southwark/
+
+- name: Sutton
+  url: /approved/sutton/
+
+- name: Tower Hamlets
+  url: /approved/towerhamlets/
+
+- name: Waltham Forest
+  url: /approved/walthamforest/
+
+- name: Wandsworth
+  url: /approved/wandsworth/
+
+- name: Westminster
+  url: /approved/westminster/

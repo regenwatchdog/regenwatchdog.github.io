@@ -7,7 +7,9 @@ images:
 coordinates: 
   - 0.126122,51.495310
 ---
-The Lesnes area of the Thamesmead estate (the east side of the estate) lies in the borough of Bexley. The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf).
+The Lesnes area of the Thamesmead estate (the east side of the estate) lies in the borough of Bexley. The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
+
+The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf).
 
 ![](/images/thamesmeadeast.png)
 

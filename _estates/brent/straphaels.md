@@ -20,7 +20,9 @@ images:
 coordinates:
   - '-0.264695,51.552600'
 ---
-793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). [A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders. The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace alongside the river Brent. 
+793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). [A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders.
+
+The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace alongside the river Brent. 
 
 ![](/images/raphaelboundary.png)
 
@@ -56,8 +58,5 @@ This was [ruled unlawful](https://www.insidehousing.co.uk/news/news/javid-reject
 ## Links
 Brent Council's web page: [https://www.brent.gov.uk/your-community/st-raphaels-estate/](https://www.brent.gov.uk/your-community/st-raphaels-estate/)
 
-St Raphael's campaign group's [Twitter profile](https://twitter.com/StRaphaelsest) and [Facebook page](https://www.facebook.com/groups/2678710982/).
+St Raphael's campaign group [Twitter profile](https://twitter.com/StRaphaelsest) and [Facebook page](https://www.facebook.com/groups/2678710982/).
 
-[Architects for Social Housing (ASH)](https://architectsforsocialhousing.co.uk) have been working with St Raphael's estate residents to [explore the redevelopment options as well as alternatives to demolition](https://architectsforsocialhousing.co.uk/2020/03/12/the-future-of-st-raphaels-estate-design-options-by-karakusevic-carson-architects-and-their-role-in-the-consultation-of-residents-by-brent-council/). Their presentation to residents in Feb 2020 can be viewed here:
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIo-YCFHxa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

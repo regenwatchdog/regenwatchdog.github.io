@@ -1,0 +1,35 @@
+I" 	<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/high-path-estate">
+                      <img class="card-img-top" src="/images/highpath.jpg" alt="High Path estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">High Path estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Merton</h6>
+		      <p class="card-text">Scheme will see demolition of 608 homes replaced by 1,570 of which 20% affordable - all at up to 80% market rent. Scheme funded by Mayor and exempted from ballot requirement.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/high-path-estate" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Nov 2018 <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/eastfields-estate">
+                      <img class="card-img-top" src="/images/eastfields.jpg" alt="Eastfields estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Eastfields estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Merton</h6>
+		      <p class="card-text">Demolition of 466 homes replaced by 800 of which only 262 affordable (affordable rent &gt; 80% market rent). Scheme funded by Mayor and exempted from ballot.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/eastfields-estate" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Nov 2018 <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
