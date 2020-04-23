@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Wandsworth 
+category: approved
 ---
 
 <div class="col">

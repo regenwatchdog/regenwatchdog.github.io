@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Waltham Forest 
+category: approved
 ---
 
 <div class="col">

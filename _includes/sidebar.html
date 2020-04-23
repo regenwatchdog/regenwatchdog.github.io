@@ -2,9 +2,11 @@
 <h6 class="title-decorative mb-2">Borough</h6>
 
               <nav class="nav flex-md-column">
+		      {% if page.content != nil %} 
 	   {% for borough in site.data.boroughlist.boroughs %}
-	   <a class="{% if borough.url == page.url %}active {% endif %}nav-link" href="{{ borough.url }}">{{ borough.name }}</a>
-		    {% endfor %}
-
+	      {% assign pageslug = page.url | replace: "/underthreat", ".." %}
+	   <a class="{% if borough.url == pageslug %}active {% endif %}nav-link" href="{{ borough.url }}">{{ borough.name }}</a>
+	   {% endfor %}
+	   {% endif %}
               </nav>
 	    </div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Newham 
+category: approved
 ---
 
 <div class="col">

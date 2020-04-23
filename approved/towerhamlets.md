@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Tower Hamlets 
+category: approved
 ---
 
 <div class="col">

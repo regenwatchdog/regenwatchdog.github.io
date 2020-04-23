@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Hackney 
+category: approved
 ---
 
 <div class="col">

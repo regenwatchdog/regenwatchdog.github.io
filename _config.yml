@@ -1,8 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #These are my custom site variables:
-approved_title: Schemes approved
-approved_subtitle: Sadiq Khan has approved 57 council estate demolitions since he was elected in 2016, not all comply with his minimum policy requirements. 
 
 # Name of your site (displayed in the header)
 name: Regeneration Watchdog 

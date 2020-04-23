@@ -1,6 +1,7 @@
 ---
 layout: default
 title: schemes approved
+category: approved
 ---
 
 <div class="col">

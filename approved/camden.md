@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Camden 
+category: approved
 ---
 
 <div class="col">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Westminster 
+category: approved
 ---
 
 <div class="col">

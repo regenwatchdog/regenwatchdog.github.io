@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Schemes approved in Barnet 
+title: Schemes approved in Barnet
+category: approved
 ---
 
 <div class="col">

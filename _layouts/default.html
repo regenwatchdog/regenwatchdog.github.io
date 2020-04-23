@@ -29,9 +29,14 @@ title: Estates
 
 {% include slug.html %} 
 
-{% include page_header.html %}
+{% if page.category == 'approved' %}
+{% include approved_header.html %}
+{% endif %}
 
 
+{% if page.category == 'underthreat' %}
+{% include underthreat_header.html %}
+{% endif %}
 
 <section>
   <div class="container">

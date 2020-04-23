@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Barking & Dagenham 
+category: approved
 ---
 
 <div class="col">

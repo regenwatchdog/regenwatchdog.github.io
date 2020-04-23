@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Ealing 
+category: approved
 ---
 
 <div class="col">

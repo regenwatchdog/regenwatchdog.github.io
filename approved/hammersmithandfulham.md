@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schemes approved in Hammersmith & Fulham 
+category: approved
 ---
 
 <div class="col">

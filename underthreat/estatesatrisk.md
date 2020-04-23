@@ -1,10 +1,13 @@
 ---
 layout: default
-title: estates under threat 
+title: estates under threat
+category: underthreat
 ---
 <div class="col">
 <iframe src="/leafletmap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="/leafletmap.html">here</a> to open map in new window.</p>
 </div>
+   
 
 <div class="col">
               <ul class="row list-unstyled justify-content-center">
