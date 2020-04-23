@@ -12,3 +12,5 @@ coordinates:
 ![](/images/lovelanent5.png)
 
 Haringey Council's [dedicated website](https://tottenham.london/HighRoadWest) provides further details. A ballot of residents is due to be held in Autumn 2020.
+
+In April 2020, Love Lane estate residents [slammed the Council](https://www.enfieldindependent.co.uk/news/18397780.residents-group-tottenham-estate-slams-housing-offer/) for its rehousing offer not being clear about the proposed rent levels in the replacement 'social' housing.
