@@ -5,11 +5,6 @@ title: Guide for estate residents
 # Handbook for Residents
 
 
-## The impacts of regeneration
-Research funded by the Economic & Social Research Council has [recorded the impact](/images/finalevent.pptx) of regeneration schemes across London.
-
-![](/images/finalevent.png)
-
 ## Broken promises
 During early consultation stages, residents are courted by council members, architects and consultants who will go to great lengths in an attempt to win support.  
 

@@ -41,14 +41,16 @@ title: Estates
 <section>
   <div class="container">
           <div class="row">
-            <div class="col-12 col-md-2 mb-5">
-              {% include sidebar.html %}
+            
+		    {% if page.category == 'underthreat' or page.category == 'approved' %}
+		    {% include sidebar.html %}
+		    {% endif %}
             <!--end of col-->
 	    
 
 	    <div class="col">
            {{ content }}
-	    </div>
+	    
             </div> 
             </div>
       </section>
