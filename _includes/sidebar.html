@@ -2,11 +2,26 @@
 <h6 class="title-decorative mb-2">Borough</h6>
 
               <nav class="nav flex-md-column">
-		      {% if page.content != nil %} 
-	   {% for borough in site.data.boroughlist.boroughs %}
-	      {% assign pageslug = page.url | replace: "/underthreat", ".." %}
-	   <a class="{% if borough.url == pageslug %}active {% endif %}nav-link" href="{{ borough.url }}">{{ borough.name }}</a>
-	   {% endfor %}
-	   {% endif %}
+		      {% if page.category == 'underthreat' %}
+	    
+		      {% assign boroughs_grouped = site.estates | group_by: 'borough' %}
+		      {% for borough in boroughs_grouped %}
+		      
+		      <a class="{% if page.url contains borough.name %}active {% endif %}nav-link" href="../{{ borough.name }}">{{ borough.name | capitalize | replace: "and", " & " | replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" }}</a>
+	   
+                      {% endfor %}
+		      {% endif %}
+
+{% if page.category == 'approved' %}
+	    
+		      {% assign boroughs_grouped = site.data.approvedschemes | group_by: 'borough' %}
+		      {% for borough in boroughs_grouped %}
+		      
+		      <a class="{% if page.url contains borough.name %}active {% endif %}nav-link" href="../{{ borough.name }}">{{ borough.name | capitalize | replace: "and", " & " | replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" }}</a>
+	   
+                      {% endfor %}
+		      {% endif %}
+
+
               </nav>
 	    </div>
