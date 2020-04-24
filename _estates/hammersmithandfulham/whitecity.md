@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: White City estate 
 borough: hammersmithandfulham
 images:

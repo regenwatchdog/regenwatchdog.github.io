@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Chingford Hall estate 
 borough: walthamforest
 images:

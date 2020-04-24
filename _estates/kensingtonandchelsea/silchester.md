@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Silchester estate 
 borough: kensingtonandchelsea
 images:

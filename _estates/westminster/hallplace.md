@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Hall Place estate
 borough: westminster
 images:

@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: West Kensington & Gibbs estate 
 borough: hammersmithandfulham
 images:

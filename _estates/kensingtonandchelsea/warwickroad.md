@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Warwick Road estate 
 borough: kensingtonandchelsea
 images:

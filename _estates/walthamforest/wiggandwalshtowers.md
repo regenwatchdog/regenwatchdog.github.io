@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Fred Wigg and John Walsh Towers
 borough: walthamforest
 images:

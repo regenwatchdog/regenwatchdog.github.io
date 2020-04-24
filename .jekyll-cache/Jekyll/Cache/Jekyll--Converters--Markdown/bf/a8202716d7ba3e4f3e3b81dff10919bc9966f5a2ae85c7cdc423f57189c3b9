@@ -1,0 +1,16 @@
+I"Æ<div class="posts">
+  
+      <article class="post">
+
+            <h1><a href="/Hello-World/">You're up and running!</a></h1> - <h3>03 Mar 2014</h3>
+
+	          <div class="entry">
+		          <p>Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).</p>
+
+	           </div>
+
+		      <a href="/Hello-World/" class="read-more">Read More</a>
+          </article>
+    
+   </div>
+:ET

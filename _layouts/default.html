@@ -57,6 +57,11 @@ title: Estates
 		    {% if page.category == 'underthreat' or page.category == 'approved' %}
 		    {% include sidebar.html %}
 		    {% endif %}
+
+		    {% if page.category == 'updates' %}
+		    {% include updates_sidebar.html %}
+		    {% endif %}
+
             <!--end of col-->
 	    
 	    <div class="col">

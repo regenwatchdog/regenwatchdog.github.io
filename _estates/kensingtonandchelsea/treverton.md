@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Treverton estate 
 borough: kensingtonandchelsea
 images:

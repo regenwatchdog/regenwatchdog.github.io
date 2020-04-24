@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Mansell Street estate
 borough: cityoflondon
 images:

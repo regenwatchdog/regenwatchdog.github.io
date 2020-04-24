@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Hylands Road estate
 borough: walthamforest
 coordinates:

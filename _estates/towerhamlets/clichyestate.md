@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Clichy estate 
 borough: towerhamlets 
 images:

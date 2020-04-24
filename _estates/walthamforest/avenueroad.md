@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Avenue Road estate
 borough: walthamforest
 coordinates:

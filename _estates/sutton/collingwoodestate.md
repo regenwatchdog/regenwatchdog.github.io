@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Collingwood estate
 borough: sutton
 images:

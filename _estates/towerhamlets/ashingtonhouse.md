@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Ashington House
 borough: towerhamlets 
 images:
