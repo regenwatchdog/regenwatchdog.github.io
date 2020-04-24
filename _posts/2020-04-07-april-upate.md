@@ -3,7 +3,7 @@ layout: default
 category: updates
 title: Clichy estate ballot goes ahead despite cancelled consultation. 
 ---
-Ballot papers have been sent to 'eligible' residents on Stepney's [Clichy estate](https://estatewatch.github.io/estates/towerhamlets/clichyestate/) in Tower Hamlets.
+Ballot papers have been sent to 'eligible' residents on Stepney's [Clichy estate](https://estatewatch.github.io/estates/towerhamlets/clichyestate/) despite the consultation on future options for their homes having been cancelled due to the Coronavirus crisis.
 
 ![](https://estatewatch.github.io/images/clichyestate.png)
 
