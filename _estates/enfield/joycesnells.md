@@ -5,7 +5,6 @@ borough: enfield
 images:
   - image_path: /images/joyce.jpg
   - image_path: /images/joyce3.png
-  - image_path: /images/joyce2.jpg
   - image_path: /images/joyce5.jpg
 coordinates: 
   - -0.066698,51.612022

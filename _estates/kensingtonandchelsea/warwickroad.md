@@ -6,7 +6,6 @@ images:
   - image_path: /images/warwickroad.jpg
   - image_path: /images/warwickroad1.jpg
   - image_path: /images/warwickroad2.jpg
-  - image_path: /images/warwickroad3.jpg
 coordinates: 
   - -0.215096,51.523175
 ---

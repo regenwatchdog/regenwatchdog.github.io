@@ -3,14 +3,13 @@ category: underthreat
 name: White City estate 
 borough: hammersmithandfulham
 images:
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-champlain-house-2.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-hudson-close.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-commonwealth-avenue1.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-wood-lane-estate-2.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-canning-house.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-mckenzie-close.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-carteret-house-ext.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2017/01/sn-malabar-court.jpg
+  - image_path: /images/whitecity3.jpg
+  - image_path: /images/whitecity4.jpg
+  - image_path: /images/whitecity5.jpg
+  - image_path: /images/whitecity6.jpg
+  - image_path: /images/whitecity7.jpg
+  - image_path: /images/whitecity8.jpg
+  - image_path: /images/whitecity10.jpg
   - image_path: /images/whitecity.png
   - image_path: /images/whitecity2.png
   - image_path: /images/whitecity2.jpg

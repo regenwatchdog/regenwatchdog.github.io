@@ -4,6 +4,8 @@ name: West Kensington & Gibbs estate
 borough: hammersmithandfulham
 images:
   - image_path: /images/westkengibbs.jpg
+  - image_path: /images/westkengibbs2.jpg
+  - image_path: /images/westkengibbs3.jpg
 coordinates: 
   - -0.202503,51.487750
 ---
