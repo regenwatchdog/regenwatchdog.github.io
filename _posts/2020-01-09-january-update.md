@@ -7,4 +7,4 @@ January has seen us getting ready to launch the web portal. We've been busy doin
 
 Here's a sample image:
 
-![](/images/swooddemo.jpeg)
+![]({{ site.baseurl }}/images/swooddemo.jpeg)

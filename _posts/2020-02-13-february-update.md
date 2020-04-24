@@ -7,4 +7,4 @@ January saw us getting ready to launch the web portal. February has seen us star
 
 Here's a sample image:
 
-![](/images/BermondseySpaDemolition.jpg)
+![]({{ site.baseurl }}/images/BermondseySpaDemolition.jpg)
