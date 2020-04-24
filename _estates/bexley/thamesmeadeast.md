@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Thamesmead east 
 borough: bexley
 images:

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guide for estate residents
+category: handbook
 ---
 # Handbook for Residents
 

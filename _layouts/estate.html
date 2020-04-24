@@ -1,81 +1,23 @@
 ---
-layout: default 
+layout: default
+title: Estates under threat
 ---
 <h1>{{ page.name }}</h1>
 
-<div class="terminal">
-
-
- <div class="your-class">
-{% for image in page.images %}
-    <div><img src="{{ image.image_path }}" class="d-block w-100" alt="images"></div>
+<div class="main-carousel" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 5000, "imagesLoaded": true, "groupCells": true, "setGallerySize": true, "imagesLoaded": true }'>
+ {% for image in page.images %}
+    <div class="carousel-cell">
+    <img src="{{ image.image_path }}" alt="images">
+    </div>
 {% endfor %}
-  </div>
-
 </div>
 
-<div class="terminal">
-	<div class="shell">
-	<p>{{ content }}</p>
-	</div>
-</div>
+</br>
+</br>
 
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script type="text/javascript" src="../../../slick/slick.min.js"></script>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('.your-class').slick({
-                dots: true,
-	        infinite: true,
-	        speed: 500,
-	        fade: true,
-	        cssEase: 'linear'
-      });
-    });
-  </script>
+{{ content }}
 
 
 
-
-<section id="next-steps">
-  <ul class="next-steps wrapper">
-    <li class="guides">
-      <a class="hero-octicon" href="/sutton/">
-	      <img src="/images/sutton.png">
-      </a>
-      <h4><a href="/sutton/">Sutton</a></h4>
-      <p>Estate regeneration pipeline in Sutton.</p>
-    </li>
-    <li class="guides">
-      <a class="hero-octicon" href="/walthamforest/">
-	      <img src="/images/walthamforest.png">
-      </a>
-      <h4><a href="/walthamforest/">Waltham Forest</a></h4>
-      <p>Estate regeneration pipeline in Waltham Forest.</p>
-    </li>
-<li class="guides">
-      <a class="hero-octicon" href="/brent/">
-	      <img src="/images/brent.png">
-      </a>
-      <h4><a href="/brent/">Brent</a></h4>
-      <p>Estate regeneration pipeline in Brent.</p>
-    </li>
-<li class="guides">
-      <a class="hero-octicon" href="/hounslow/">
-	      <img src="/images/hounslow.png">
-      </a>
-      <h4><a href="/hounslow/">Hounslow</a></h4>
-      <p>Estate regeneration pipeline in Hounslow.</p>
-    </li>
-    <a class="hero-octicon" href="/redbridge/">
-	    <img src="/images/redbridge.png">
-    </a>
-    <h4><a href="/redbridge/">Redbridge</a></h4>
-    <p>Estate regeneration pipeline in Redbridge</p>
-    </li>
-  </ul>
-</section>
 

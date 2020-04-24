@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: Making the case for refurbishment
+category: refurbishment
 ---
 # The case for refurbishment
 

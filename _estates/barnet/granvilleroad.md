@@ -1,4 +1,5 @@
 ---
+category: underthreat
 name: Granville Road estate
 borough: barnet
 images:
