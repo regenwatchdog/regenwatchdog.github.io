@@ -165,6 +165,13 @@ figure {
 
 img {
   vertical-align: middle;
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+
+img.logo { 
+  vertical-align: middle;
   border-style: none; }
 
 svg {
