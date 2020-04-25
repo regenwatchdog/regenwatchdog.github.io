@@ -1,4 +1,4 @@
-I"Ë<div class="col">
+I"„<div class="col">
               <ul class="row list-unstyled justify-content-center">
 
   
@@ -18,14 +18,14 @@
 
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
-                    <a href="">
+                    <a href="https://www.ealing.gov.uk/info/201104/housing_regeneration/2346/high_lane_estate/3">
                       <img class="card-img-top" src="/images/highlane.jpg" alt="High Lane estate" />
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">High Lane estate</h5>
 		      <h6 class="card-subtitle mb-2 text-muted"></h6>
-		      <p class="card-text">Mayor has approved funding and is set to approve planning permission in late 2020.</p>
-                      <a target="_blank" href="" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: ?? <i class="icon-popup"></i></a>
+		      <p class="card-text">Mayor has approved funding following ballot and planning application due to be submitted in March 2020.</p>
+                      <a target="_blank" href="https://www.ealing.gov.uk/info/201104/housing_regeneration/2346/high_lane_estate/3" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: () <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>

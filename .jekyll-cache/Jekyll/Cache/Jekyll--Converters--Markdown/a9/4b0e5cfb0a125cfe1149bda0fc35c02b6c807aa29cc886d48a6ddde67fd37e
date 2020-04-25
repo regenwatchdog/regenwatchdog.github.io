@@ -1,4 +1,4 @@
-I"…<div class="col">
+I" <div class="col">
               <ul class="row list-unstyled justify-content-center">
 
   
@@ -32,14 +32,14 @@
 
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
-                    <a href="??">
+                    <a href="https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf">
                       <img class="card-img-top" src="/images/sebastiancourt.jpg" alt="Sebastian Court" />
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Sebastian Court</h5>
 		      <h6 class="card-subtitle mb-2 text-muted"></h6>
-		      <p class="card-text">59 council homes being replaced by 95 of which 29 are London Affordable Rent. No right to return for tenants or leaseholders.</p>
-                      <a target="_blank" href="??" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: ?? <i class="icon-popup"></i></a>
+		      <p class="card-text">Funding agreed in Oct 2018 - planning application pending.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Oct 2018 <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>

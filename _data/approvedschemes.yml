@@ -49,9 +49,9 @@
 
 - name: High Lane estate
   borough: ealing
-  date: ??
-  url:
-  comment: Mayor has approved funding and is set to approve planning permission in late 2020.
+  date: () 
+  url: https://www.ealing.gov.uk/info/201104/housing_regeneration/2346/high_lane_estate/3
+  comment: Mayor has approved funding following ballot and planning application due to be submitted in March 2020.
   image_path: /images/highlane.jpg
 
 - name: New Avenue estate
@@ -84,29 +84,29 @@
 
 - name: Waterloo Road estate
   borough: havering
-  date: ??
-  url: ??
+  date: Planning application pending 
+  url: 
   comment: Mayor approved funding and <a href="https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf">exempted</a> the estate from his ballot requirement in April 2019.
   image_path: /images/waterlooroad.png
 
 - name: Sebastian Court
   borough: barkinganddagenham
-  date: ??
-  url: ??
-  comment: 59 council homes being replaced by 95 of which 29 are London Affordable Rent. No right to return for tenants or leaseholders.
+  date: Oct 2018
+  url: https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf
+  comment: Funding agreed in Oct 2018 - planning application pending.
   image_path: /images/sebastiancourt.jpg
 
 - name: Arthur Street estate
   borough: bexley
-  date:
+  date: Sep 2019
   url: https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/arthur-street
-  comment: 262 council homes to be demolished with a net loss of 134 social rent. No right of return for tenants or leaseholders.
+  comment: Funding agreed for 262 council homes to be replaced by 320, with a net loss of 134 social rent. No right of return for tenants or leaseholders.
   image_path: /images/arthur.jpg
 
 - name: Pike Close estate
   borough: bromley
-  date: ??
-  url: ??
+  date: Funding agreed Dec 2018
+  url: https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf
   comment: Ballot approved and awaiting planning application and Mayor's approval.
   image_path: /images/pikeclose.jpg
 
