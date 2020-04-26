@@ -1,4 +1,4 @@
-I"CÆ<div class="col">
+I"_Æ<div class="col">
 <iframe src="/leafletmap.html" width="100%" height="400px"></iframe>
 <p align="right">Click <a href="/leafletmap.html">here</a> to open map in new window.</p>
 </div>
@@ -534,12 +534,12 @@
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/sutton/chaucerestate/">
-                      <img class="card-img-top" src="/images/chaucer.jpg" alt="Chaucer estate" />
+                      <img class="card-img-top" src="/images/chaucer.jpg" alt="Chaucer Gardens estate" />
                     </a>
 		    <div class="card-body">
-                      <h5 class="card-title">Chaucer estate</h5>
+                      <h5 class="card-title">Chaucer Gardens estate</h5>
 		      <h6 class="card-subtitle mb-2 text-muted"></h6>
-		      <p class="card-text"><p>The Chaucer estate is one of five estates listed in <a href="https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view">Suttonâ€™s Local Plan (2018)</a> for potential redevelopment:</p>
+		      <p class="card-text"><p>The Chaucer estate comprises one 16-storey high-rise block (Chaucer House) surrounded by a dozen 2-4 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station.</p>
 </p>
                       <a target="_blank" href="/estates/sutton/chaucerestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
@@ -549,12 +549,12 @@
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/sutton/collingwoodestate/">
-                      <img class="card-img-top" src="/images/collingwood.jpg" alt="Collingwood estate" />
+                      <img class="card-img-top" src="/images/cw8.jpg" alt="Collingwood estate" />
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Collingwood estate</h5>
 		      <h6 class="card-subtitle mb-2 text-muted"></h6>
-		      <p class="card-text"><p>The Collingwood estate is one of five estates listed in <a href="https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view">Suttonâ€™s Local Plan (2018)</a> for potential redevelopment:</p>
+		      <p class="card-text"><p>The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and the West Sutton train station.</p>
 </p>
                       <a target="_blank" href="/estates/sutton/collingwoodestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
