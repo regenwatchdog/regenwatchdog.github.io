@@ -1,4 +1,4 @@
-I"*<div class="col">
+I" <div class="col">
               <ul class="row list-unstyled justify-content-center">
 
   
@@ -40,7 +40,7 @@
 		    <div class="card-body">
                       <h5 class="card-title">Collingwood estate</h5>
 		      <h6 class="card-subtitle mb-2 text-muted"></h6>
-		      <p class="card-text"><p>The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and the West Sutton train station.</p>
+		      <p class="card-text"><p>The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station.</p>
 </p>
                       <a target="_blank" href="/estates/sutton/collingwoodestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
@@ -50,7 +50,7 @@
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/sutton/roseberrygardens/">
-                      <img class="card-img-top" src="/images/roseberrygardens.jpg" alt="Roseberry Gardens" />
+                      <img class="card-img-top" src="/images/roseberry1.jpg" alt="Roseberry Gardens" />
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Roseberry Gardens</h5>

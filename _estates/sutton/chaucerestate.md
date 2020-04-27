@@ -24,6 +24,6 @@ It is also earmarked in Sutton's [Policy Map](http://sutton.addresscafe.com/app/
 
 ![](/images/suttonpolicymap.png)
 
-The nearby [Collingwood estate]({{ site.baseurl }}estates/sutton/collingwoodestate/) was clad with the same material and also numbers among the five estates earmarked for potential redevelopment.
+The nearby [Collingwood estate](/estates/sutton/collingwoodestate/) was clad with the same material and also numbers among the five estates earmarked for potential redevelopment.
 
 

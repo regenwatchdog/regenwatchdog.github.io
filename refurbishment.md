@@ -23,3 +23,24 @@ A [further report](http://www.engineering.ucl.ac.uk/engineering-exchange/files/2
 The Architects Journal is running a campaign to show how refurbishment is almost always better than redevelopment using a number of case studies as examples: [https://www.architectsjournal.co.uk/news/retrofirst](https://www.architectsjournal.co.uk/news/retrofirst)
 
 ![](/images/retrofirst.png)
+
+## Running estates down (parked section)  
+Regeneration is often preceeded (and subsequently justified) by a period of disinvestment.
+
+<div class="main-carousel" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 5000, "imagesLoaded": true, "groupCells": true, "imagesLoaded": true }'>
+ 
+    <div class="carousel-cell">
+         <img src="http://35percent.org/img/aylesburyreedsingutter2.jpg" alt="images">
+	     </div>
+
+         <div class="carousel-cell">
+	     <img src="http://35percent.org/img/aylesburyreedsingutter.jpg" alt="images">
+         </div>
+
+        <div class="carousel-cell">
+	    <img src="/images/peckhamdisinvestment.jpg" alt="peckhamestate">
+	 </div>
+
+
+
+ </div>

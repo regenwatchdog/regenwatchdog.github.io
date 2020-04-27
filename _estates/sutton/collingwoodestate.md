@@ -26,5 +26,5 @@ It is also earmarked in Sutton's [Policy Map](http://sutton.addresscafe.com/app/
 
 ![](/images/suttonpolicymap.png)
 
-The nearby [Chaucer estate]({{ site.baseurl }}estates/sutton/chaucerestate/) was clad with the same material and has also been listed as one of Sutton's five estates earmarked for renewal.
+The nearby [Chaucer estate](/estates/sutton/chaucerestate/) was clad with the same material and has also been listed as one of Sutton's five estates earmarked for renewal.
 
