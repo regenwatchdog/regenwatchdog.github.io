@@ -1,4 +1,5 @@
-I"‰<h1 id="the-case-for-refurbishment">The case for refurbishment</h1>
+I"X
+<h1 id="the-case-for-refurbishment">The case for refurbishment</h1>
 
 <p>Often when appraisals are undertaken to evaluate estate redevelopment, a number of crucial factors are not taken into account:</p>
 
@@ -27,21 +28,11 @@
 <h2 id="running-estates-down-parked-section">Running estates down (parked section)</h2>
 <p>Regeneration is often preceeded (and subsequently justified) by a period of disinvestment.</p>
 
-<div class="main-carousel" data-flickity="{ &quot;cellAlign&quot;: &quot;center&quot;, &quot;contain&quot;: true, &quot;prevNextButtons&quot;: true, &quot;pageDots&quot;: true, &quot;wrapAround&quot;: true, &quot;autoPlay&quot;: 5000, &quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: true, &quot;imagesLoaded&quot;: true }">
- 
-    <div class="carousel-cell">
-         <img src="http://35percent.org/img/aylesburyreedsingutter2.jpg" alt="images" />
-	     </div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>     &lt;img src="http://35percent.org/img/aylesburyreedsingutter2.jpg" alt="images"&gt;
 
-         <div class="carousel-cell">
-	     <img src="http://35percent.org/img/aylesburyreedsingutter.jpg" alt="images" />
-         </div>
+     &lt;img src="http://35percent.org/img/aylesburyreedsingutter.jpg" alt="images"&gt;
+</code></pre></div></div>
 
-        <div class="carousel-cell">
-	    <img src="/images/peckhamdisinvestment.jpg" alt="peckhamestate" />
-	 </div>
+<p><img src="/images/peckhamdisinvestment.jpg" alt="" class="rounded" /> Hereâ€™s some text that should appear to the right of the image.</p>
 
-
-
- </div>
 :ET

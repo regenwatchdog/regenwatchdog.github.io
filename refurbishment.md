@@ -31,20 +31,15 @@ The Mayor is in the process of introducing a [new Circular Economy policy](ateri
 ## Running estates down (parked section)  
 Regeneration is often preceeded (and subsequently justified) by a period of disinvestment.
 
-<div class="main-carousel" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 5000, "imagesLoaded": true, "groupCells": true, "imagesLoaded": true }'>
  
-    <div class="carousel-cell">
          <img src="http://35percent.org/img/aylesburyreedsingutter2.jpg" alt="images">
-	     </div>
 
-         <div class="carousel-cell">
 	     <img src="http://35percent.org/img/aylesburyreedsingutter.jpg" alt="images">
-         </div>
 
-        <div class="carousel-cell">
-	    <img src="/images/peckhamdisinvestment.jpg" alt="peckhamestate">
-	 </div>
+
+![](/images/peckhamdisinvestment.jpg){:.rounded float-left} Here's some text that should appear to the right of the image.
 
 
 
- </div>
+
+
