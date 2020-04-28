@@ -1,0 +1,750 @@
+I"��<div class="col">
+<iframe src="/leafletmap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="/leafletmap.html">here</a> to open map in new window.</p>
+</div>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/barnet/granvilleroad/">
+                      <img class="card-img-top" src="/images/granvilleroad.jpg" alt="Granville Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Granville Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Barnet Council’s <a href="https://engage.barnet.gov.uk/1726/documents/1850">Draft Housing Strategy</a> describes the Granville Road estate as follows: <em>‘The quality of the estate is generally poor and it includes large areas of under-utilised and unstructured land.’</em></p>
+</p>
+                      <a target="_blank" href="/estates/barnet/granvilleroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/bexley/picardystreet/">
+                      <img class="card-img-top" src="/images/picardystreet.png" alt="Picardy Street estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Picardy Street estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Picardy Street estate in Belvedere has been earmarked for redevelopment in Bexley’s <a href="https://www.bexley.gov.uk/sites/bexley-cms/files/2019-02/BLP-Reg-18-Consultation-Paper-for-Publication-February-2019.pdf">Local Plan</a> - (site BV0006).</p>
+</p>
+                      <a target="_blank" href="/estates/bexley/picardystreet/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/bexley/thamesmeadeast/">
+                      <img class="card-img-top" src="/images/thamesmeadeast.jpg" alt="Thamesmead east" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Thamesmead east</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Lesnes area of the Thamesmead estate (the east side of the estate) lies in the borough of Bexley. The whole of the Bexley side of the estate has been earmarked for redevelopment in <a href="https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf">this capacity study</a> commissioned by Bexley Council.</p>
+</p>
+                      <a target="_blank" href="/estates/bexley/thamesmeadeast/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/severnway/">
+                      <img class="card-img-top" src="/images/severnway.png" alt="Severn Way" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Severn Way</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Severn Way is a crescent of two dozen post-war terraced Council homes which have been earmarked for redevelopment under the NEASDEN STATIONS GROWTH AREA development site in Brent’s <a href="https://www.brent.gov.uk/media/16411848/draft-local-plan-east.pdf">Local plan.</a></p>
+</p>
+                      <a target="_blank" href="/estates/brent/severnway/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/shootuphill/">
+                      <img class="card-img-top" src="/images/ClaireCourt.png" alt="Shoot-Up Hill Rd" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Shoot-Up Hill Rd</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Brent’s cabinet signed off a co-operational agreement with housing association Network Homes on March 9 2020, which will allow the two bodies to share knowledge to improve the borough’s housing sector through regeneration schemes.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/shootuphill/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/southkilburn/">
+                      <img class="card-img-top" src="/images/southkilburn.jpg" alt="South Kilburn estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">South Kilburn estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The South Kilburn estate has been undergoing redevelopment for some years. The current proposals are based on the <a href="https://www.brent.gov.uk/your-community/regeneration/south-kilburn-regeneration/the-development-process/masterplan-and-programme?tab=southkilburnsupplementaryplanningdocument2017">2017 Masterplan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/southkilburn/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/straphaels/">
+                      <img class="card-img-top" src="/images/straphaels2.jpg" alt="St. Raphael's estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">St. Raphael's estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>793 homes on the St Raphael’s estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). <a href="http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf">A Dec 2019 Cabinet report</a> confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/straphaels/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/camden/junipercrescent/">
+                      <img class="card-img-top" src="/images/junipercrescent.jpg" alt="Juniper Crescent and Gilbeys Yard estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Juniper Crescent and Gilbeys Yard estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>circa 200 homes on Juniper Crescent and Gilbey’s yard estates are earmarked for redevelopment as part of the <a href="https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf">Camden Goods Yard regeneration</a></p>
+</p>
+                      <a target="_blank" href="/estates/camden/junipercrescent/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/camden/wendlingestate/">
+                      <img class="card-img-top" src="/images/wendling.png" alt="Wendling estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Wendling estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>241 homes on Camden’s Wendling estate have been <a href="https://www.camden.gov.uk/wendling-estate-and-st-stephens-close">earmarked for demolition</a> in an options appraisal involving 3 options: in-fill, partial redevelopment and full redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/camden/wendlingestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/cityoflondon/mansellstreetestate/">
+                      <img class="card-img-top" src="/images/mansellstreet1.jpg" alt="Mansell Street estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Mansell Street estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>249 homes owned by Guinness housing association on the Mansell Street estate are under threat of demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/cityoflondon/mansellstreetestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/enfield/joycesnells/">
+                      <img class="card-img-top" src="/images/joyce.jpg" alt="Joyce Avenue and Snells Park estates" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Joyce Avenue and Snells Park estates</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>795 homes on Enfield’s Joyce Avenue and Snells Park estates have been earmarked for redevelopment in Hammersmith and Fulham’s <a href="https://www.lbhf.gov.uk/sites/default/files/section_attachments/local_plan_2018_web_version.pdf">Local Plan</a> (See Strategic Site Policy WCRA2).</p>
+</p>
+                      <a target="_blank" href="/estates/enfield/joycesnells/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hammersmithandfulham/westkengibbs/">
+                      <img class="card-img-top" src="/images/westkengibbs.jpg" alt="West Kensington &amp; Gibbs estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">West Kensington &amp; Gibbs estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>760 homes on the West Kensington and Gibbs Green estates are earmarked for redevelopment in Hammersmith and Fulham’s <a href="https://www.lbhf.gov.uk/sites/default/files/section_attachments/local_plan_2018_web_version.pdf">Local Plan</a> (See Strategic Site Policy FRA1).</p>
+</p>
+                      <a target="_blank" href="/estates/hammersmithandfulham/westkengibbs/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hammersmithandfulham/whitecity/">
+                      <img class="card-img-top" src="/images/whitecity3.jpg" alt="White City estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">White City estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Circa 2,000 homes on the White City estate have been earmarked for redevelopment in Hammersmith and Fulham’s <a href="https://www.lbhf.gov.uk/sites/default/files/section_attachments/local_plan_2018_web_version.pdf">Local Plan</a> (See Strategic Site Policy WCRA2).</p>
+</p>
+                      <a target="_blank" href="/estates/hammersmithandfulham/whitecity/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/hillcrest/">
+                      <img class="card-img-top" src="/images/hillcrest.jpg" alt="Hillcrest estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Hillcrest estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Hillcrest estate in Highgate has been earmarked for redevelopment in Haringey’s <a href="https://www.minutes.haringey.gov.uk/documents/s48324/Housing%20Investment%20and%20Estate%20Renewal%20Strategy%20-%20whole%20report%20-%20Paul%20Munday.pdf">Estate Renewal Strategy</a> and the Council’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf">Local Plan site allocations DPD</a> (site SA44).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/hillcrest/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/leabank/">
+                      <img class="card-img-top" src="/images/leabank.jpg" alt="Leabank View estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Leabank View estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Leabank View estate comprises circa 60 council homes overlooking the river Lea. The estate have been designated for comprehensive redevelopment in the Council’s <a href="https://www.minutes.haringey.gov.uk/documents/s48324/Housing%20Investment%20and%20Estate%20Renewal%20Strategy%20-%20whole%20report%20-%20Paul%20Munday.pdf">Estate Renewal Strategy</a> and its <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf">Local Plan site allocations DPD</a> (site SA64).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/leabank/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/lovelane/">
+                      <img class="card-img-top" src="/images/lovelane3.jpg" alt="Love Lane estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Love Lane estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>297 council homes on the Love Lane estate have been earmarked for redevelopment as part of <a href="https://tottenham.london/HighRoadWest">Haringey’s regeneration of Tottenham</a>. The estate has been identified for redevelopment in Haringey’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf">Tottenham Area Action Plan</a> (site NT5 - High Road West).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/lovelane/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/northumberlandpark/">
+                      <img class="card-img-top" src="/images/northumberland2.jpg" alt="Northumberland Park estates" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Northumberland Park estates</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>1027 Council homes on the Northumberland Park estates have been earmarked for redevelopment in Tottenham. They have been identified for redevelopment in Haringey’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf">Tottenham Area Action Plan</a> (site NT4).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/northumberlandpark/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/pagehigh/">
+                      <img class="card-img-top" src="/images/pagehigh1.jpg" alt="Page High estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Page High estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Page High estate comprises 92 family homes above council-owned Bury Road shopping centre and car park in Wood Green. The shopping centre and estate have been listed as a development site and designated for comprehensive redevelopment in the Council’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf">Local Plan site allocations DPD</a> (site SA13) and <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/nsr00284-wood_green_aap_2018_awv4_lr.pdf">Wood Green Area Action Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/pagehigh/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/reynardsoncourt/">
+                      <img class="card-img-top" src="/images/reynardson.jpg" alt="Reynardson Court" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Reynardson Court</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Circa 30 council homes are earmarked for redevelopment at Reynardson Court in Tottenham. They have been identified for redevelopment in Haringey’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf">Tottenham Area Action Plan</a> (site SS3).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/reynardsoncourt/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/skycity/">
+                      <img class="card-img-top" src="/images/skycity1.jpg" alt="Sky City estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Sky City estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Sky City estate comprises circa 150 council homes above Wood Green mall. The mall and estate have been listed as a development site and designated for comprehensive redevelopment in the Council’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf">Local Plan site allocations DPD</a> (site SA9) and <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/nsr00284-wood_green_aap_2018_awv4_lr.pdf">Wood Green Area Action Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/skycity/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/stellarhouse/">
+                      <img class="card-img-top" src="/images/stellar.png" alt="Stellar House &amp; Atlair Close" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Stellar House &amp; Atlair Close</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Council homes at Atlair Close including Stellar House have been earmarked for redevelopment in Tottenham. They have been identified for redevelopment in Haringey’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf">Tottenham Area Action Plan</a> (site NT3).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/stellarhouse/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/turneravenue/">
+                      <img class="card-img-top" src="/images/turner.png" alt="Turner Avenue and Brunel Walk" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Turner Avenue and Brunel Walk</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>106 council homes are earmarked for redevelopment on Turner Avenue and Brunel Walk in south Tottenham. They have been identified for redevelopment in Haringey’s <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf">Tottenham Area Action Plan</a> (site SS3).</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/turneravenue/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/brabazonestate/">
+                      <img class="card-img-top" src="/images/brabazon.jpg" alt="Brabazon estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Brabazon estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/brabazonestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/brookwoodestate/">
+                      <img class="card-img-top" src="/images/brookwoodroad.jpg" alt="Brookwood Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Brookwood Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/brookwoodestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/charltonhouse/">
+                      <img class="card-img-top" src="/images/charltonhouse.jpg" alt="Charlton House" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Charlton House</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/charltonhouse/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/conventestate/">
+                      <img class="card-img-top" src="/images/conventway.jpg" alt="Convent Way estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Convent Way estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/conventestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/normancrescent/">
+                      <img class="card-img-top" src="/images/normancrescent.png" alt="Norman Crescent estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Norman Crescent estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/normancrescent/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/hounslow/orielestate/">
+                      <img class="card-img-top" src="/images/orielestate.png" alt="Oriel estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Oriel estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>In January 2020, Hounslow’s Cabinet <a href="https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf">agreed a comprehensive review</a> of its 171 council estates with a view to infill or redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/hounslow/orielestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/kensingtonandchelsea/silchester/">
+                      <img class="card-img-top" src="/images/silchester.jpg" alt="Silchester estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Silchester estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>500 homes on the Silchester estate have been earmarked for redevelopment in <a href="https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784517.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Silchester_East_and_West_January_2017.PDF">this Jan 2017 Cabinet report</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/kensingtonandchelsea/silchester/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/kensingtonandchelsea/treverton/">
+                      <img class="card-img-top" src="/images/treverton.jpg" alt="Treverton estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Treverton estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>176 homes on the Treverton estate have been earmarked for redevelopment in <a href="https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784549.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Treverton_Estate_January_2017.pdf">this Jan 2017 Cabinet report</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/kensingtonandchelsea/treverton/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/kensingtonandchelsea/warwickroad/">
+                      <img class="card-img-top" src="/images/warwickroad.jpg" alt="Warwick Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Warwick Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>115 homes on the Warwick Road estate have been earmarked for redevelopment in <a href="https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784581.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Warwick_Road_Estate_January_2017.pdf">this Jan 2017 Cabinet report</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/kensingtonandchelsea/warwickroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/newham/customhouse/">
+                      <img class="card-img-top" src="/images/customhouse2.png" alt="Custom House regeneration" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Custom House regeneration</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>A number of council estates were earmarked for redevelopment in Newham’s <a href="https://www.newham.gov.uk/Documents/Environment%20and%20planning/CanningTownCustomHouseAdoptedSPD2008%5B1%5D.pdf">Custom House &amp; Canning Town regeneration masterplan</a>, which set out 20 development sites.</p>
+</p>
+                      <a target="_blank" href="/estates/newham/customhouse/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/redbridge/marlyonroad/">
+                      <img class="card-img-top" src="/images/marlyonroad2.png" alt="Marlyon Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Marlyon Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Redbridge Council is just about to start its decant of the Marlyon road estate, where 36 homes have been earmarked for demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/redbridge/marlyonroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/redbridge/suffolkcourt/">
+                      <img class="card-img-top" src="/images/suffolkcourt.jpg" alt="Suffolk Court" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Suffolk Court</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Redbridge Council has earmarked the Suffolk Court estate for potential ‘in-fill’ development in its <a href="/images/redbridgelocalplan.pdf">2018 Local Plan</a> (see page 77).</p>
+</p>
+                      <a target="_blank" href="/estates/redbridge/suffolkcourt/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/benhillestate/">
+                      <img class="card-img-top" src="/images/benhill5.jpg" alt="Benhill estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Benhill estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Benhill estate comprising 429 homes near Sutton High Street, is one of five estates listed in <a href="https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view">Sutton’s Local Plan (2018)</a> for potential redevelopment:</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/benhillestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/chaucerestate/">
+                      <img class="card-img-top" src="/images/chaucer.jpg" alt="Chaucer Gardens estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Chaucer Gardens estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Chaucer estate comprises one 16-storey high-rise block (Chaucer House) surrounded by a dozen 2-4 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station.</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/chaucerestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/collingwoodestate/">
+                      <img class="card-img-top" src="/images/cw8.jpg" alt="Collingwood estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Collingwood estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station.</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/collingwoodestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/roseberrygardens/">
+                      <img class="card-img-top" src="/images/roseberry1.jpg" alt="Roseberry Gardens estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Roseberry Gardens estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Roseberry Gardens estate is one of five estates listed in <a href="https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view">Sutton’s Local Plan (2018)</a> for potential redevelopment:</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/roseberrygardens/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/rosehill/">
+                      <img class="card-img-top" src="/images/rosehillcourt.jpg" alt="Rosehill Court" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Rosehill Court</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Rosehill Court comprises 50 council homes and is part of the St. Helier estate in Carshalton.</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/rosehill/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/sutton/suttoncourt/">
+                      <img class="card-img-top" src="/images/suttoncourt.png" alt="Sutton Court estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Sutton Court estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Sutton Court estate is one of five estates listed in <a href="https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view">Sutton’s Local Plan (2018)</a> for potential redevelopment:</p>
+</p>
+                      <a target="_blank" href="/estates/sutton/suttoncourt/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/towerhamlets/ashingtonhouse/">
+                      <img class="card-img-top" src="/images/ashingtonhouse.jpg" alt="Ashington House" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Ashington House</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Ashington House on the Collingwood estate in Bethnal Green is earmarked for potential redevelopment in <a href="https://democracy.towerhamlets.gov.uk/mgConvert2PDF.aspx?ID=155455">this Sep 2019 Cabinet report</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/towerhamlets/ashingtonhouse/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/towerhamlets/clichyestate/">
+                      <img class="card-img-top" src="/images/clichyestate.png" alt="Clichy estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Clichy estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Harriot, Apsley and Pattison Houses on the Clichy estate in Stepney have been <a href="https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx">earmarked for potential redevelopment</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/towerhamlets/clichyestate/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/avenueroad/">
+                      <img class="card-img-top" src="/images/avenueroad.jpg" alt="Avenue Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Avenue Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>According to the <a href="https://walthamforest.gov.uk/content/regeneration-avenue-road-estate-leytonstone">Council’s website</a>, 258 homes in 4 blocks of the Avenue Road estate are earmarked for demolition (Blackthorn Ct, Gean Ct, Mulberry Ct, Rosewood Ct).</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/avenueroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/chingfordhall/">
+                      <img class="card-img-top" src="/images/chingfordhall.png" alt="Chingford Hall estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Chingford Hall estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Chingford Hall estate has been earmarked for renewal, according to the borough’s <a href="https://walthamforest.gov.uk/sites/default/files/Final%20Draft%20Local%20Plan_July2019_Web%20optimised_Part1.pdf">draft Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/chingfordhall/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/hylandsroad/">
+                      <img class="card-img-top" src="/images/hylandsroad.png" alt="Hylands Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Hylands Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Approximately 50 council homes have been earmarked for demolition on the remaining phases 2 and 3 of the Hylands Road regeneration in Walthamstow.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/hylandsroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/wiggandwalshtowers/">
+                      <img class="card-img-top" src="/images/wiggandwalsh.png" alt="Fred Wigg and John Walsh Towers" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Fred Wigg and John Walsh Towers</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>Circa 100 homes in two towers on the Montague road estate have been earmarked for redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/wiggandwalshtowers/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/hallplace/">
+                      <img class="card-img-top" src="/images/hallplace.png" alt="Hall Place estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Hall Place estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Lisson Green estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent’s Canal and Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> inside an an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/hallplace/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lilestone/">
+                      <img class="card-img-top" src="/images/lilestone.jpg" alt="Lilestone estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Lilestone estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Lilestone estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent’s Canal and Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> inside an an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lilestone/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lissongreen/">
+                      <img class="card-img-top" src="/images/lissongreen3.jpg" alt="Lisson Green estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Lisson Green estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text"><p>The Lisson Green estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent’s Canal and Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> inside an an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lissongreen/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+
+:ET

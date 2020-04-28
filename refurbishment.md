@@ -24,6 +24,10 @@ The Architects Journal is running a campaign to show how refurbishment is almost
 
 ![](/images/retrofirst.png)
 
+## Circular Economy Policy
+The Mayor is in the process of introducing a [new Circular Economy policy](aterials are retained in use at their highest value for as long as possible and are then reused or recycled, leaving a minimum of residual waste.) requiring that _'materials are retained in use at their highest value for as long as possible and are then reused or recycled, leaving a minimum of residual waste.'_
+
+
 ## Running estates down (parked section)  
 Regeneration is often preceeded (and subsequently justified) by a period of disinvestment.
 
