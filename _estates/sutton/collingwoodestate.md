@@ -11,6 +11,7 @@ images:
   - image_path: /images/cw3.jpg
   - image_path: /images/cw2.jpg
   - image_path: /images/cw1.jpg
+  - image_path: /images/collingwoodaerial.png
 coordinates: 
   - -0.1988,51.3691
 ---

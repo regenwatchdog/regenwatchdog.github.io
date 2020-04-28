@@ -4,11 +4,9 @@ title: Estates under threat
 ---
 <h1>{{ page.name }}</h1>
 
-<div class="main-carousel" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 5000, "imagesLoaded": true, "groupCells": true, "imagesLoaded": true }'>
+<div class="carousel" data-flickity='{ "fullscreen": true, "lazyLoad": 1, "cellAlign": "center", "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 4000 }'>
  {% for image in page.images %}
-    <div class="carousel-cell">
-    <img src="{{ image.image_path }}" alt="images">
-    </div>
+    <img class="carousel-image" data-flickity-lazyload="{{ image.image_path }}" alt="images">
 {% endfor %}
 </div>
 
