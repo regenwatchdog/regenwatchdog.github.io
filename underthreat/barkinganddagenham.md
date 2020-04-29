@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schemes under threat in Barking & Dagenham
+title: Estates under threat in Barking & Dagenham 
 category: underthreat
 ---
 
