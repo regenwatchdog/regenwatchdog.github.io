@@ -3,6 +3,11 @@ layout: default
 title: Estates under threat in Islington 
 category: underthreat
 ---
+<div class="col">
+<iframe src="{{ site.baseurl }}/underthreat/islingtonmap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="{{ site.baseurl }}/underthreat/islingtonmap.html">here</a> to open map in new window.</p>
+</div>
+
 
 <div class="col">
               <ul class="row list-unstyled justify-content-center">

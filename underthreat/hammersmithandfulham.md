@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Estates under threat in Hammersmith & Fulham 
+title: Estates under threat in Hammersmith and Fulham 
 category: underthreat
 ---
+<div class="col">
+<iframe src="{{ site.baseurl }}/underthreat/hammersmithandfulhammap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="{{ site.baseurl }}/underthreat/hammersmithandfulhammap.html">here</a> to open map in new window.</p>
+</div>
+
 
 <div class="col">
               <ul class="row list-unstyled justify-content-center">
