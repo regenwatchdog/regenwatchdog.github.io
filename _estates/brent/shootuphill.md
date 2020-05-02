@@ -3,12 +3,12 @@ category: underthreat
 name: Shoot-Up Hill Rd
 borough: brent
 images:
+  - image_path: /images/windmillcourt2.jpg
   - image_path: /images/ClaireCourt.png
   - image_path: /images/clairecourt1.jpg
   - image_path: /images/clairecourt2.jpg
   - image_path: /images/clairecourt3.jpg
   - image_path: /images/windmillcourt1.jpg
-  - image_path: /images/windmillcourt2.jpg
   - image_path: /images/watlinggardensbungalows.jpg
 coordinates:
   - -0.206821,51.548923

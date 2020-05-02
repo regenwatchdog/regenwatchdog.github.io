@@ -37,8 +37,8 @@ title: Estates
             <!--end of col-->
             <div class="col-12 col-md-6">
               <div class="main-carousel overflow-visible" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": false, "pageDots":true, "wrapAround":true, "autoPlay":5000, "imagesLoaded":true, "initialIndex":3, "draggable":false }'>
-
-		      {% for estate in site.estates | sort | reverse %}
+                      {% assign sortedestates = site.estates | sort:"name" | reverse %}
+		      {% for estate in sortedestates %}
 
 		  <div class="carousel-cell col-11">
                   <div class="card card-sm bg-gradient border-0">

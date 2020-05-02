@@ -8,6 +8,8 @@ published: true
 images:
   - image_path: /images/hylandsroad.png
   - image_path: /images/hylandsroad2.png
+  - image_path: /images/hylandsroad3.jpg
+  - image_path: /images/hylandsroad4.jpg
 ---
 Approximately 50 council homes have been earmarked for demolition on the remaining phases 2 and 3 of the Hylands Road regeneration in Walthamstow.
 
