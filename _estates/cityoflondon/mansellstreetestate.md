@@ -3,8 +3,17 @@ category: underthreat
 name: Mansell Street estate
 borough: cityoflondon
 images:
-  - image_path: /images/mansellstreet1.jpg
-  - image_path: /images/mansellstreet2.png
+  - image_path: /images/mansell1.jpg
+  - image_path: /images/mansell2.jpg
+  - image_path: /images/mansell3.jpg
+  - image_path: /images/mansell4.jpg
+  - image_path: /images/mansell5.jpg
+  - image_path: /images/mansell6.jpg
+  - image_path: /images/mansell7.jpg
+  - image_path: /images/mansell9.jpg
+  - image_path: /images/mansell10.jpg
+  - image_path: /images/mansell11.jpg
+  - image_path: /images/mansell12.jpg
 coordinates:
   - '-0.073840,51.512782'
 published: true

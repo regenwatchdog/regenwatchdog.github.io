@@ -4,6 +4,16 @@ name: Ashington House
 borough: towerhamlets 
 images:
   - image_path: /images/ashingtonhouse.jpg
+  - image_path: /images/ashington1.jpg
+  - image_path: /images/ashington2.jpg
+  - image_path: /images/ashington3.jpg
+  - image_path: /images/ashington4.jpg
+  - image_path: /images/ashington5.jpg
+  - image_path: /images/ashington6.jpg
+  - image_path: /images/ashington7.jpg
+  - image_path: /images/ashington8.jpg
+  - image_path: /images/ashington9.jpg
+  - image_path: /images/ashington10.jpg
 coordinates:
   - '-0.058522,51.523241'
 published: true
