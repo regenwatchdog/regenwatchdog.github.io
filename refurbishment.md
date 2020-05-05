@@ -16,7 +16,7 @@ Often when appraisals are undertaken to evaluate estate redevelopment, a number 
 
 ![](/images/gensler.jpg)
 
-A [further report](http://www.engineering.ucl.ac.uk/engineering-exchange/files/2014/10/Report-Refurbishment-Demolition-Social-Housing.pdf) by University College London (UCL Engineeering Exchange) says that...
+A [further report](http://www.engineering.ucl.ac.uk/engineering-exchange/files/2014/10/Report-Refurbishment-Demolition-Social-Housing.pdf) by University College London (UCL Engineeering Exchange) says that.. They have also published [this factsheet](https://londontenants.org/wp-content/uploads/2019/12/Fact-Sheet-Health-and-Wellbeing-Social-Housing.pdf) explaining the impacts of refurbishment vs demolition on wellbeing.
 
 ![](/images/uclengineering.png)
 

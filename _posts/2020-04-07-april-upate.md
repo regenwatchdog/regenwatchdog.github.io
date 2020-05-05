@@ -46,4 +46,8 @@ Brent Council's [infopack](/images/st-raphaels-faq.pdf) (distributed to resident
 ![](/images/st-raphaels-faq.png)
 *Extract from Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) distributed to residents in Dec 2019*
 
+The [infopack](/images/DouglasBaderParkBallot.pdf) given to residents of the Douglas Bader Park estate contains a similar threat:
+
+![](/images/DouglasBaderParkBallot.png)
+
 This becoming a common element when it comes to estate regeneration ballots. Residents are being forced to opt between several .... alternatives, with refurbishment or scheduled maintenance as usual not being presented as an option. The Mayor's policy guidance specifically says that xxx needs to be an option but it would appear he is turning a blind eye... bla bla..
