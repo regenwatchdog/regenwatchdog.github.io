@@ -5,6 +5,13 @@ borough: hounslow
 images:
   - image_path: /images/brookwoodroad.jpg
   - image_path: /images/brookwoodaerial.png
+  - image_path: /images/bkwood1.jpg
+  - image_path: /images/bkwood2.jpg
+  - image_path: /images/bkwood3.jpg
+  - image_path: /images/bkwood4.jpg
+  - image_path: /images/bkwood5.jpg
+  - image_path: /images/bkwood6.jpg
+  - image_path: /images/bkwood7.jpg
 coordinates:
   - -0.362360,51.475927
 ---

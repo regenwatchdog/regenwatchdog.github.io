@@ -3,9 +3,18 @@ category: underthreat
 name: West Kensington & Gibbs estate 
 borough: hammersmithandfulham
 images:
-  - image_path: /images/westkengibbs.jpg
-  - image_path: /images/westkengibbs2.jpg
+  - image_path: /images/wken4.jpg
   - image_path: /images/westkengibbs3.jpg
+  - image_path: /images/wken1.jpg
+  - image_path: /images/wken2.jpg
+  - image_path: /images/wken3.jpg
+  - image_path: /images/wken5.jpg
+  - image_path: /images/wken6.jpg
+  - image_path: /images/wken7.jpg
+  - image_path: /images/wken8.jpg
+  - image_path: /images/wken9.jpg
+  - image_path: /images/wken10.jpg
+  - image_path: /images/wken11.jpg
 coordinates: 
   - -0.202503,51.487750
 ---

@@ -3,8 +3,26 @@ category: underthreat
 name: Convent Way estate
 borough: hounslow
 images:
-  - image_path: /images/conventway.jpg
-  - image_path: /images/conventmap.png
+  - image_path: /images/cv1.jpg
+  - image_path: /images/cv2.jpg
+  - image_path: /images/cv3.jpg
+  - image_path: /images/cv4.jpg
+  - image_path: /images/cv5.jpg
+  - image_path: /images/cv6.jpg
+  - image_path: /images/cv7.jpg
+  - image_path: /images/cv8.jpg
+  - image_path: /images/cv9.jpg
+  - image_path: /images/cv10.jpg
+  - image_path: /images/cv11.jpg
+  - image_path: /images/cv12.jpg
+  - image_path: /images/cv13.jpg
+  - image_path: /images/cv14.jpg
+  - image_path: /images/cv15.jpg
+  - image_path: /images/cv16.jpg
+  - image_path: /images/cv17.jpg
+  - image_path: /images/cv18.jpg
+  - image_path: /images/cv19.jpg
+  - image_path: /images/cv20.jpg
 coordinates:
   - '-0.393576,51.494632'
 published: true

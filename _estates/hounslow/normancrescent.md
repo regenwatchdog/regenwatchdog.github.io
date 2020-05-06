@@ -3,7 +3,13 @@ category: underthreat
 name: Norman Crescent estate 
 borough: hounslow
 images:
-  - image_path: /images/normancrescent.png
+  - image_path: /images/nc1.jpg
+  - image_path: /images/nc2.jpg
+  - image_path: /images/nc3.jpg
+  - image_path: /images/nc4.jpg
+  - image_path: /images/nc5.jpg
+  - image_path: /images/nc6.jpg
+  - image_path: /images/nc7.jpg
   - image_path: /images/normanbrabazon.png
 coordinates:
   - -0.393027,51.481943

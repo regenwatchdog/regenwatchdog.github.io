@@ -9,12 +9,16 @@ Often when appraisals are undertaken to evaluate estate redevelopment, a number 
 
 1. The financial cost of decanting the estate including buy-out costs of leaseholders.
 2. The loss of rental income for the Council both in the short term and long term.
-3. The social cost of decants on the housing waiting list and temporary accommodation costs.
+3. The social cost of decants on the housing waiting list and [increased temporary accommodation costs](/images/temporaryspend.pdf).
 4. The environmental cost of discarding thousands of tonnes of embodied carbon and generating thousands of tonnes of new uneccessary carbon emissions in the new-build construction.
 
 [This case study](/images/genslerheygate.pdf) by Gensler architects shows how the refurbishment of the Heygate estate could have saved 40,000 tonnes of carbon emissions:
 
 ![](/images/gensler.jpg)
+
+The [refurbishment of the Six Acres estate](/images/sixacres.pdf) in Islington serves as an example of what can be achieved. The estate is build with the same system as both the Heygate and Aylesbury estates.
+
+![](/images/sixacres.jpg)
 
 A [further report](http://www.engineering.ucl.ac.uk/engineering-exchange/files/2014/10/Report-Refurbishment-Demolition-Social-Housing.pdf) by University College London (UCL Engineeering Exchange) says that.. They have also published [this factsheet](https://londontenants.org/wp-content/uploads/2019/12/Fact-Sheet-Health-and-Wellbeing-Social-Housing.pdf) explaining the impacts of refurbishment vs demolition on wellbeing.
 

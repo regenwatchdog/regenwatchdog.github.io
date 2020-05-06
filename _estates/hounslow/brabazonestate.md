@@ -3,7 +3,14 @@ category: underthreat
 name: Brabazon estate 
 borough: hounslow 
 images:
-  - image_path: /images/brabazon.jpg
+  - image_path: /images/bz1.jpg
+  - image_path: /images/bz2.jpg
+  - image_path: /images/bz3.jpg
+  - image_path: /images/bz4.jpg
+  - image_path: /images/bz5.jpg
+  - image_path: /images/bz6.jpg
+  - image_path: /images/bz7.jpg
+  - image_path: /images/bz8.jpg
   - image_path: /images/brabazonaerial.png
   - image_path: /images/normanbrabazon.png
 coordinates:

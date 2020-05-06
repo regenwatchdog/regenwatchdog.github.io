@@ -7403,7 +7403,7 @@ a.text-white {
   color: #fff; }
 
 .bg-gradient {
-  background: linear-gradient(135deg, #6f42c1 0%, #4582EC 100%); }
+  background-image: url(/images/concrete.jpg), linear-gradient(135deg, #6f42c1 0%, #4582EC 100%); }
 
 .text-blue {
   color: #4582EC !important; }
