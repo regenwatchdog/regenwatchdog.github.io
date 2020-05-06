@@ -12,6 +12,12 @@ images:
   - image_path: /images/benhill7.jpg
   - image_path: /images/benhill8.jpg
   - image_path: /images/benhill9.jpg
+  - image_path: /images/bhs1.jpg
+  - image_path: /images/bhs2.jpg
+  - image_path: /images/bhs3.jpg
+  - image_path: /images/bhs4.jpg
+  - image_path: /images/bhs5.jpg
+  - image_path: /images/bhs6.jpg
   - image_path: /images/benhillestate.jpg
   - image_path: /images/benhillaerial.png
 coordinates:
