@@ -3,7 +3,7 @@ layout: default
 category: updates
 title: Clichy estate ballot goes ahead despite cancelled consultation. 
 ---
-Ballot papers have been sent to 'eligible' residents on Stepney's [Clichy estate](https://estatewatch.github.io/estates/towerhamlets/clichyestate/) despite the consultation on future options for their homes having been cancelled due to the Coronavirus crisis.
+The ballot of 'eligible' residents on Stepney's [Clichy estate](https://estatewatch.github.io/estates/towerhamlets/clichyestate/) went ahead despite [consultation sessions being cancelled due to the Coronavirus](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx) and resulted in a 98% vote in favour of redevelopment on a [90% turnout](https://www.housingtoday.co.uk/news/tower-hamlets-estate-regeneration-plan-wins-resident-approval/5105879.article).
 
 <div class="main-carousel" data-flickity='{ "cellAlign": "center", "contain": true, "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 5000, "imagesLoaded": true, "groupCells": true, "imagesLoaded": true }'>
  
@@ -17,19 +17,7 @@ Ballot papers have been sent to 'eligible' residents on Stepney's [Clichy estate
 
 			 </div>
 
-The ballot paper [asked](https://www.whatdotheyknow.com/request/clichy_estate_ballot_paper_accom?nocache=incoming-1565802#incoming-1565802) residents to choose between three options for the future of their estate; 
-
-1. Full redevelopment
-2. Partial redevelopment
-3. In-fill
-
-Noticeably absent from the options is the option of refurbishment or do-nothing.
-
-The ballot went ahead [despite the face-to-face consultation sessions being cancelled due to the Coronavirus](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx):
-
-![]({{ site.baseurl }}/images/clichyballotinfo.png)
-
-Furthermore, in the [info pack](https://www.whatdotheyknow.com/request/clichy_estate_ballot_paper_accom?nocache=incoming-1565802#incoming-1565802) sent to residents with the ballot papers, leaseholders were [told](https://www.whatdotheyknow.com/request/658746/response/1565802/attach/4/Ballot%20information%20requested%201.pdf) if they voted against redevelopment then they would be faced with major bills and residents were told that if they don't vote for full redevelopment then they will likely be faced with the infill option option anyway:  
+Residents had previously been consulted on an 'infill' option as well as full redevelopment. But the [info pack](https://www.whatdotheyknow.com/request/clichy_estate_ballot_paper_accom?nocache=incoming-1565802#incoming-1565802) sent to residents with the ballot papers asked only whether they wanted full redevelopment or not. Leaseholders were [told](https://www.whatdotheyknow.com/request/658746/response/1565802/attach/4/Ballot%20information%20requested%201.pdf) if they voted against redevelopment then they would be faced with major bills. Residents were told that if they don't vote for full redevelopment then they will likely be faced with the infill option anyway:  
 
 ![]({{ site.baseurl }}/images/clichyballot.png)
 *Extract from the [info pack](https://www.whatdotheyknow.com/request/658746/response/1565802/attach/4/Ballot%20information%20requested%201.pdf) sent to residents with the ballot paper*
@@ -50,4 +38,8 @@ The [infopack](/images/DouglasBaderParkBallot.pdf) given to residents of the Dou
 
 ![](/images/DouglasBaderParkBallot.png)
 
-This becoming a common element when it comes to estate regeneration ballots. Residents are being forced to opt between several .... alternatives, with refurbishment or scheduled maintenance as usual not being presented as an option. The Mayor's policy guidance specifically says that xxx needs to be an option but it would appear he is turning a blind eye... bla bla..
+This becoming a common element when it comes to estate regeneration ballots. Certain options are taken off the table when it comes to the ballot paper and residents are told to vote for full redevelopment or face many more years of running the estate down. Refurbishment or scheduled maintenance as usual are simply not presented as an option.
+
+This, coupled with incentives to tenants like the offer of an extra bedroom if they are overoccupying or offers of secure tenancies to licencess has become a winning formula for Council's looking to gain tenants' support for their schemes.  
+
+The Mayor's policy guidance on ballots specifically says that refurbishment needs to be an option but it would appear he is turning a blind eye to what is becoming a common practice in the regeneration game.

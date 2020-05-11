@@ -3,13 +3,20 @@ category: underthreat
 name: Lilestone estate
 borough: westminster
 images:
-  - image_path: /images/lilestone.jpg
+  - image_path: /images/ls3.jpg
+  - image_path: /images/ls1.jpg
+  - image_path: /images/ls2.jpg
+  - image_path: /images/ls4.jpg
+  - image_path: /images/ls5.jpg
+  - image_path: /images/ls6.jpg
+  - image_path: /images/ls7.jpg
+
 coordinates:
   - '-0.174412,51.524650'
 published: true
 ---
-The Lilestone estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent's Canal and Regent's Park.
-It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) inside an an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
+The Lilestone estate is a small estate in Maida Vale, situated beside the Regent's Canal and in close proximity of Regent's Park.
+It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) within an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 
 ![](/images/renewalarea.png)
 
