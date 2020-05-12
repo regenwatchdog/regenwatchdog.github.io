@@ -19,7 +19,7 @@ category: underthreat
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">{{ estate.name }}</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">{{ estate.fullname }}</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: {{ estate.status }}</h6>
 		      <p class="card-text">{{ estate.excerpt }}</p>
                       <a target="_blank" href="{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>

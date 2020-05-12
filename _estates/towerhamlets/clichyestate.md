@@ -1,5 +1,6 @@
 ---
 category: underthreat
+status: Ballot approved - planning pending
 name: Clichy estate 
 borough: towerhamlets 
 images:
