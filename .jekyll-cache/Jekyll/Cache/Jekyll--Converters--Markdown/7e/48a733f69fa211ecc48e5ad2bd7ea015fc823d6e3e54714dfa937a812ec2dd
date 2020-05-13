@@ -1,4 +1,4 @@
-I"�<div class="col">
+I"��<div class="col">
 <iframe src="/leafletmap.html" width="100%" height="400px"></iframe>
 <p align="right">Click <a href="/leafletmap.html">here</a> to open map in new window.</p>
 </div>
@@ -13,8 +13,8 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Granville Road estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
-		      <p class="card-text"><p>Barnet Council’s <a href="https://engage.barnet.gov.uk/1726/documents/1850">Draft Housing Strategy</a> describes the Granville Road estate as follows: <em>‘The quality of the estate is generally poor and it includes large areas of under-utilised and unstructured land.’</em></p>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Pre-ballot &amp; Pre-planning</h6>
+		      <p class="card-text"><p>Whilst there are no firm plans for the redevelopment of Granville Road estate, Barnet’s <a href="https://engage.barnet.gov.uk/1726/documents/1850">Draft Housing Strategy</a> describes the estate as follows: <em>‘The quality of the estate is generally poor and it includes large areas of under-utilised and unstructured land.’</em></p>
 </p>
                       <a target="_blank" href="/estates/barnet/granvilleroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
@@ -28,7 +28,7 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Picardy Street estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Pre-ballot &amp; Pre-planning</h6>
 		      <p class="card-text"><p>The Picardy Street estate in Belvedere has been earmarked for redevelopment in Bexley’s <a href="https://www.bexley.gov.uk/sites/bexley-cms/files/2019-02/BLP-Reg-18-Consultation-Paper-for-Publication-February-2019.pdf">Local Plan</a> - (site BV0006).</p>
 </p>
                       <a target="_blank" href="/estates/bexley/picardystreet/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
@@ -478,7 +478,7 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Milford Towers</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Pre-ballot &amp; Pre-planning</h6>
 		      <p class="card-text"><p>In September 2011, Lewisham Council agreed to redevelop the 276 council homes in Milford Towers along with the Catford Shopping centre (which it sits above) as part of its regeneration plans for Catford Town Centre.</p>
 </p>
                       <a target="_blank" href="/estates/lewisham/milfordtowers/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>

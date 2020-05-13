@@ -1,7 +1,7 @@
 ---
 category: underthreat
-status: Pre-ballot & Pre-planning
-name: Thamesmead east 
+status: Ballot exempt & Pre-planning
+name: Arthur Street estate 
 borough: bexley
 images:
   - image_path: /images/thamesmeadeast.jpg
