@@ -5,6 +5,38 @@ category: approved
 ---
 
 <div class="col">
+
+
+
+    <section class="jumbotron text-center">
+	     <div class="container">
+		           <h1>Non-compliant schemes</h1>
+			         <p class="lead text-muted" align="left">
+The Mayor's estate regeneration policy says that schemes must comply with the following requirements:
+<ul>
+		      <li>At least 50% affordable and no net loss of social rent.</li>
+		      <li>A fair deal and right to return for residents.</li>
+		      <li>Demolition considered only as a last resort</li>
+                </ul>
+</p>
+<p class="lead text-muted" align="left">
+Despite this the Mayor has signed off at least xx estate regeneration schemes that fail to comply with these requirements. </p>
+				
+				 
+	     </div>
+ </section>
+
+
+
+
+
+
+
+
+
+
+
+
               <ul class="row list-unstyled justify-content-center">
 {% for scheme in site.data.approvedschemes %}
                 <li class="col-5" data-aos="fade-up">
