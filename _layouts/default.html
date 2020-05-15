@@ -80,6 +80,11 @@ title: Estates
 		    {% endif %}
 
            {{ content }}
+
+                    {% if page.category == 'updates' %}
+		    {% include comments.html %}
+		    {% endif %}
+
 	    </div>
 	    </div>
       </section>
