@@ -1,0 +1,75 @@
+I"<div class="col">
+<iframe src="/underthreat/westminstermap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="/underthreat/westminstermap.html">here</a> to open map in new window.</p>
+</div>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/churchstreet/">
+                      <img class="card-img-top" src="/images/cs.jpg" alt="Church Street area estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Church Street area estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>Church street estate is located in Maida Vale, situated beside the Regent’s Canal and in close proximity of Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> within an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/churchstreet/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/hallplace/">
+                      <img class="card-img-top" src="/images/hp7.jpg" alt="Hall Place estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Hall Place estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>Hall Place estate is a large estate (circa 1,000 homes) in Maida Vale, situated near Regent’s Canal. It <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> within an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/hallplace/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lilestone/">
+                      <img class="card-img-top" src="/images/ls3.jpg" alt="Lilestone estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Lilestone estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>The Lilestone estate is a small estate in Maida Vale, situated beside the Regent’s Canal and in close proximity of Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> within an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lilestone/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lissongreen/">
+                      <img class="card-img-top" src="/images/lissongreen3.jpg" alt="Lisson Green estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Lisson Green estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>The Lisson Green estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent’s Canal and Regent’s Park.
+It is also <a href="https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5">located</a> inside an an area that has been designated a <strong>Housing Renewal</strong> zone in Westminster’s <a href="https://www.westminster.gov.uk/cityplan2040">draft 2019-2040 Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lissongreen/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
