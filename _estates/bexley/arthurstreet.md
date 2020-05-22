@@ -1,18 +1,26 @@
 ---
 category: underthreat
-status: Ballot exempt & Pre-planning
+erg: noncompliant
+status: Ballot exempt, planning approved, decant active 
 name: Arthur Street estate 
 borough: bexley
 images:
-  - image_path: /images/thamesmeadeast.jpg
-  - image_path: /images/thamesmeadeast.png
+  - image_path: /images/arthur.jpg
+  - image_path: /images/as1.png
+  - image_path: /images/as2.png
+  - image_path: /images/as3.png
+  - image_path: /images/as4.png
 coordinates: 
   - 0.126122,51.495310
 ---
-The Lesnes area of the Thamesmead estate (the east side of the estate) lies in the borough of Bexley. The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
+In Sep 2019, the Mayor approved the demolition of 262 homes on Bexley's Arthur Street estate - to be replaced by 320, with a net loss of 134 social rent and no right to return for tenants or leaseholders.
 
-The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf).
+The Mayor's [planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_473856///arthur_street_estate_report.pdf) approving the scheme, accepts the justification made for the net loss which is that affordable housing is being built on other sites in the borough. 
 
-![](/images/thamesmeadeast.png)
+The scheme is being progressed with Mayoral funding by Orbit Housing Association, which has managed the borough's social housing portfolio since the stock transfer in 1998. 
 
-Bexley's [Growth Strategy](https://www.bexley.gov.uk/sites/default/files/2018-02/Bexley-Growth-Strategy.pdf) envisages 4,000 new homes in the Thamesmead area facilitated by the new Crossrail station and including the 'renewal' of existing estates.
+## Links
+Bexley's planning application ref: [18/03154/FULM](https://pa.bexley.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=PJMSHCBE00Q00)
+
+Mayor's planning approval report: [GLA/4493/02](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_473856///arthur_street_estate_report.pdf)
+

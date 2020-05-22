@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-ballot & Pre-planning
+status: Planning designation
 name: Picardy Street estate 
 borough: bexley
 images:

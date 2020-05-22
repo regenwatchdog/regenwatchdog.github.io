@@ -46,30 +46,23 @@ Despite this the Mayor has signed off at least xx schemes that fail to comply wi
 
 
 
-
-
-
-
-
-
-
-
-
-              <ul class="row list-unstyled justify-content-center">
-{% for scheme in site.data.approvedschemes %}
+             <ul class="row list-unstyled justify-content-center">
+{% for estate in site.estates %}
+{% if estate.erg contains "noncompliant" %}
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
-                    <a href="{{ scheme.url }}">
-                      <img class="card-img-top" src="{{ scheme.image_path }}" alt="{{ scheme.name }}">
+                    <a href="{{ estate.url }}">
+                      <img class="card-img-top" src="{{ estate.images.first.image_path }}" alt="{{ estate.name }}">
                     </a>
 		    <div class="card-body">
-                      <h5 class="card-title">{{ scheme.name }}</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">{{ scheme.fullname }}</h6>
-		      <p class="card-text">{{ scheme.comment }}</p>
-                      <a target="_blank" href="{{ scheme.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: {{ scheme.date }} <i class="icon-popup"></i></a>
+                      <h5 class="card-title">{{ estate.name }}</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: {{ estate.status }}</h6>
+		      <p class="card-text">{{ estate.excerpt }}</p>
+                      <a target="_blank" href="{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>
+{% endif %}
 {% endfor %}
               </ul>
 </div>
