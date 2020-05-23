@@ -7,7 +7,7 @@ images:
   - image_path: /images/customhouse3.png
   - image_path: /images/customhouse4.png
 coordinates:
-  - '-0.023290,51.511636'
+  - '0.021314,51.510722'
 published: true
 ---
 A number of council estates were earmarked for redevelopment in Newham's [Custom House & Canning Town regeneration masterplan](https://www.newham.gov.uk/Documents/Environment%20and%20planning/CanningTownCustomHouseAdoptedSPD2008%5B1%5D.pdf), which set out 20 development sites.
