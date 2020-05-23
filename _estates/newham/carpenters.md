@@ -1,5 +1,6 @@
 ---
 category: underthreat
+status: Pre-ballot consultation stage
 name: Carpenters estate
 borough: newham
 images:
