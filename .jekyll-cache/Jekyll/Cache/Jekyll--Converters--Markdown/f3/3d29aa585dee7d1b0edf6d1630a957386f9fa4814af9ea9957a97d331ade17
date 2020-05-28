@@ -1,0 +1,27 @@
+I"†<div class="col">
+<iframe src="/underthreat/ealingmap.html" width="100%" height="400px"></iframe>
+<p align="right">Click <a href="/underthreat/ealingmap.html">here</a> to open map in new window.</p>
+</div>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/ealing/friarypark/">
+                      <img class="card-img-top" src="/images/fparkaerial.png" alt="Friary Park estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Friary Park estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot exempt, Planning approved</h6>
+		      <p class="card-text"><p>The Friary Park estate is located within Acton and comprises 230 homes, including 225 social rent units and 5 privately owned units. The estate was constructed in the 1980s and is predominately 2/3 storey in height. The units are predominantly flats laid out in buildings up to four stories in height.</p>
+</p>
+                      <a target="_blank" href="/estates/ealing/friarypark/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
