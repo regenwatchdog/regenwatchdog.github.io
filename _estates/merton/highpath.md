@@ -50,4 +50,6 @@ Merton's planning application docs - [ref:17/P1721](https://planning.merton.gov.
 
 Mayor's [stage 2 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/high-path-estate) - approved Nov 2018
 
+[Exhibition boards](https://www.myclarionhousing.com/-/media/57A74ED432A347FE8636BFE20B10AB19.pdf?la=en&sc_revision=de07b12b190e4b71a6bfde09c29e333c&hash=9852FCA77FDFA41CC719944E317C4CB5E38CD263&hash=9852FCA77FDFA41CC719944E317C4CB5E38CD263) for the consultation for phase 2 of the scheme.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pe_DEn1TWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
