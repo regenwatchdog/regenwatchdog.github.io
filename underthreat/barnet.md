@@ -4,11 +4,12 @@ title: Estates under threat in Barnet
 category: underthreat
 ---
 <div class="col">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe src="{{ site.baseurl }}/underthreat/barnetmap.html" width="100%" height="400px"></iframe>
+</div>
 <p align="right">Click <a href="{{ site.baseurl }}/underthreat/barnetmap.html">here</a> to open map in new window.</p>
 </div>
-
-
+<br>
 <div class="col">
               <ul class="row list-unstyled justify-content-center">
 {% assign schemes = site.estates | where:"borough","barnet" %}

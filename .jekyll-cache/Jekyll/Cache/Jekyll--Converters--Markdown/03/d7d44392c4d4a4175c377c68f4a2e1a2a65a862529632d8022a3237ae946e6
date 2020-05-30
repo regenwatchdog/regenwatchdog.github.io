@@ -1,0 +1,30 @@
+I"v<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/lewishammap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/lewishammap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/lewisham/milfordtowers/">
+                      <img class="card-img-top" src="/images/mt1.jpg" alt="Milford Towers" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Milford Towers</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Pre-ballot &amp; Pre-planning</h6>
+		      <p class="card-text"><p>In September 2011, Lewisham Council agreed to redevelop the 276 council homes in Milford Towers along with the Catford Shopping centre (which it sits above) as part of its regeneration plans for Catford Town Centre.</p>
+</p>
+                      <a target="_blank" href="/estates/lewisham/milfordtowers/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

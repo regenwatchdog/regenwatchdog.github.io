@@ -3,6 +3,13 @@ layout: default
 title: Estates under threat in Barking & Dagenham 
 category: underthreat
 ---
+<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="{{ site.baseurl }}/underthreat/barkinganddagenhammap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="{{ site.baseurl }}/underthreat/barkinganddagenhammap.html">here</a> to open map in new window.</p>
+</div>
+<br>
 
 <div class="col">
               <ul class="row list-unstyled justify-content-center">

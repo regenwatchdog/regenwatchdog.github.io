@@ -1,8 +1,11 @@
-I"�%<div class="col">
-<iframe src="/leafletmap.html" width="100%" height="400px"></iframe>
+I"G&<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="/leafletmap.html" width="100%" height="400px"></iframe>
+</div>
 <p align="right">Click <a href="/leafletmap.html">here</a> to open map in new window.</p>
 </div>
 
+<p><br /></p>
 <div class="col">
               <ul class="row list-unstyled justify-content-center">
 
@@ -385,11 +388,11 @@ Prior to the ballot, residents were <a href="/images/wtoffer.pdf">told</a> that 
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/ealing/southacton/">
-                      <img class="card-img-top" src="/images/highlane3.png" alt="South Acton estate" />
+                      <img class="card-img-top" src="/images/sacton1.jpg" alt="South Acton estate" />
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">South Acton estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot approved, planning design stage active</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot exempt, phased redevelopment</h6>
 		      <p class="card-text"><p>The South Acton estate is Ealing’s and West London’s largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.</p>
 </p>
                       <a target="_blank" href="/estates/ealing/southacton/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
@@ -779,8 +782,8 @@ Prior to the ballot, residents were <a href="/images/wtoffer.pdf">told</a> that 
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Marlyon Road estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
-		      <p class="card-text"><p>Redbridge Council is just about to start its decant of the Marlyon road estate, where 36 homes have been earmarked for demolition.</p>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Pre-ballot, planning design stage</h6>
+		      <p class="card-text"><p>Redbridge Council is just about to start its decant of the Marlyon road estate, where 36 homes have been earmarked for demolition in a joint venture with Engie Regeneration Ltd.</p>
 </p>
                       <a target="_blank" href="/estates/redbridge/marlyonroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
