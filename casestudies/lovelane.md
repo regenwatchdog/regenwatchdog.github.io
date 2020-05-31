@@ -95,7 +95,7 @@ The estate was built in the early 60’s and has 297 homes. Regeneration plans
     </div>
 </div>
 
-
+<div class="card-columns">
 <div class="card">
     <div class="card-body">
       <h5 class="card-title">MOVING_ME? project at Tate Modern</h5>
@@ -109,4 +109,5 @@ The estate was built in the early 60’s and has 297 homes. Regeneration plans
   <div class="card">
     <img src="{{ site.baseurl }}/images/MM_lovelane2.jpg" class="card-img-top" alt="...">
   </div>
+</div>
 
