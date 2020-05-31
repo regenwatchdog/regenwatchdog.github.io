@@ -1,0 +1,20 @@
+---
+layout: default
+title: Estates under threat
+---
+<h1>{{ page.title }}</h1><h3 class="text-muted">Status: {{ page.status }}</h3>
+
+<div class="carousel" data-flickity='{ "fullscreen": true, "lazyLoad": 1, "cellAlign": "center", "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 4000 }'>
+ {% for image in page.images %}
+    <img class="carousel-image" data-flickity-lazyload="{{ image.image_path }}" alt="images">
+{% endfor %}
+</div>
+
+</br>
+</br>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+{{ content }}
+</div>
+</div>
