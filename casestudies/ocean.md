@@ -4,10 +4,10 @@ status: Demolished - under construction
 category: research
 layout: casestudies 
 images:
-  - image_path: /images/gman1.jpg
-  - image_path: /images/gman2.jpg
-  - image_path: /images/gman3.jpg
-  - image_path: /images/gman4.jpg
+  - image_path: /images/ocean4.jpg
+  - image_path: /images/ocean1.jpg
+  - image_path: /images/ocean2.jpg
+  - image_path: /images/ocean3.jpg
 ---
 
 The original Ocean Estate was built after WWII, with additions in 1964. The estate is one of the largest in London and in 2013 there were 7,459 people living in 2,574 households on the estate. The first phase of regeneration started in 1995 with funding from the Single Regeneration Budget (SRB), followed by the New Deal for Communities (NDC) programme in 2000. Both of these programmes saw decanting and demolition of original homes, with the replacing new homes becoming owned and managed under social landlords. The most recent phases of demolition and rebuild were completed in May 2019, completing all regeneration and development plans so far.
@@ -32,7 +32,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/oceanestate.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/ocean4.jpg">
             </div>
             <div class="col-8 ml-auto">
               <p>
@@ -55,7 +55,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/oceanestate.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/ocean4.jpg">
             </div>
             <div class="col-8 ml-auto">
               <p>
@@ -78,7 +78,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/oceanestate.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/ocean4.jpg">
 	    </div>
             <div class="col-8 ml-auto">
               <p>
