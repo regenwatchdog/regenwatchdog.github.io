@@ -99,15 +99,15 @@ The estate was built in the early 60’s and has 297 homes. Regeneration plans
 <div class="card">
     <div class="card-body">
       <h5 class="card-title">MOVING_ME? project at Tate Modern</h5>
-      <p class="card-text">n August 2019 photographs from the ‘Moving_Me? project featured in the Tottenham’s Trojan Horse Group. The Trojan Horse exhibition told the story of the proposed eviction of tenants living on the Love Lane Estate</p>
+      <p class="card-text">In August 2019 photographs from the ‘Moving_Me? project featured in the Tottenham’s Trojan Horse Group. The Trojan Horse exhibition told the story of the proposed eviction of tenants living on the Love Lane Estate</p>
       <a href="/images/moving_me_lovelane.pdf" class="btn btn-primary">Open the file</a>
     </div>
   </div>
   <div class="card">
-    <img src="../images/MM_lovelane1.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/MM_lovelane1.jpg" class="card-img-top" alt="...">
   </div>	  
   <div class="card">
-    <img src="../images/MM_lovelane2.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/MM_lovelane2.jpg" class="card-img-top" alt="...">
   </div>
     </div>
 
