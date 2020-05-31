@@ -9,11 +9,22 @@ images:
   - image_path: /images/aylesburyimage.jpg
   - image_path: /images/fdsgreenspace.jpg
   - image_path: /images/aylesburyaerial.jpg
+  - image_path: /images/aylesburydrone.jpg
+  - image_path: /images/aylesburypadbury.jpg
+  - image_path: /images/aylesburyphoto.jpg
+  - image_path: /images/aylesburyblair.jpg
+  - image_path: /images/aylesburyrooftops.jpg
+  - image_path: /images/aylesburywendover.jpg
+  - image_path: /images/aylesburydemolition.jpg
+  - image_path: /images/aylesburyident.png
 ---
 
 The original estate was completed in 1977, providing approximately 2,700 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
 The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted in 2010. The plan outlined the estate’s regeneration, involving a phased demolition of all existing buildings and their rebuild, increasing density from the current 2,700 homes to 4,900. The first new homes were completed in 2012 and the Council appointed Notting Hill Housing Trust as its Development Partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036. ADD SOME INFO ABOUT THE CPO?
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="/images/aylesburyident.mp4" allowfullscreen></iframe>
+  </div>
 
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 <div class="card-body">
