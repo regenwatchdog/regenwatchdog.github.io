@@ -107,9 +107,9 @@ Completed in 1973, the estate originally had 1,324 homes across three 24-storey 
     </div>
   </div>
   <div class="card">
-    <img src="{{ site.baseurl }}/images/pepys1.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/pepys6.jpg" class="card-img-top" alt="...">
   </div>	  
   <div class="card">
-    <img src="{{ site.baseurl }}/images/pepys2.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/pepys7.jpg" class="card-img-top" alt="...">
   </div>
     </div>
