@@ -104,10 +104,23 @@ The estate was built in the early 60’s and has 297 homes. Regeneration plans
     </div>
   </div>
   <div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane1.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/MM_lovelane.jpg" class="card-img-top" alt="...">
   </div>	  
   <div class="card">
+    <img src="{{ site.baseurl }}/images/MM_lovelane1.jpg" class="card-img-top" alt="...">
+  </div>
+</div>
+
+
+<div class="card-columns">
+  <div class="card">
     <img src="{{ site.baseurl }}/images/MM_lovelane2.jpg" class="card-img-top" alt="...">
+  </div>	  
+  <div class="card">
+    <img src="{{ site.baseurl }}/images/MM_lovelane3.jpg" class="card-img-top" alt="...">
+  </div>
+	<div class="card">
+    <img src="{{ site.baseurl }}/images/MM_lovelane4.jpg" class="card-img-top" alt="...">
   </div>
 </div>
 
