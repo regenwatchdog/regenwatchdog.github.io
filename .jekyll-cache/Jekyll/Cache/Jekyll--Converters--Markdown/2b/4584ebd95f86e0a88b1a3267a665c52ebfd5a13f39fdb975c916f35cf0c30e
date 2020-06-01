@@ -1,4 +1,4 @@
-I"�<div class="col">
+I"&<div class="col">
 
 
 
@@ -122,6 +122,21 @@ Despite this the Mayor has signed off at least xx schemes that fail to comply wi
 
 
 
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/ealing/southacton/">
+                      <img class="card-img-top" src="/images/sacton1.jpg" alt="South Acton estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">South Acton estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot exempt, phased redevelopment</h6>
+		      <p class="card-text"><p>In Dec 2018, the Mayor <a href="https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/acton-gardens-masterplan">approved</a> the revised masterplan for the South Acton estate, which allows replacement ‘social’ housing to be provided as affordable rent (i.e. up to 80% market rent).</p>
+</p>
+                      <a target="_blank" href="/estates/ealing/southacton/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
 
 
 

@@ -1,35 +1,13 @@
----
-title: Aylesbury estate 
-status: Phased redevelopment due to complete in 2036
-category: research
-layout: casestudies
-images:
-  - image_path: /images/aylesburyicon.jpg
-  - image_path: /images/aylesbury1.jpg
-  - image_path: /images/aylesburyimage.jpg
-  - image_path: /images/fdsgreenspace.jpg
-  - image_path: /images/aylesburyaerial.jpg
-  - image_path: /images/aylesburydrone.jpg
-  - image_path: /images/aylesburypadbury.jpg
-  - image_path: /images/aylesburyphoto.jpg
-  - image_path: /images/aylesburyblair.jpg
-  - image_path: /images/aylesburyrooftops.jpg
-  - image_path: /images/aylesburywendover.jpg
-  - image_path: /images/aylesburydemolition.jpg
-  - image_path: /images/aylesburyident.png
----
-
-The original estate was completed in 1977, providing approximately 2,700 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
+I"�<p>The original estate was completed in 1977, providing approximately 2,700 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
 The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted in 2010. The plan outlined the estate’s regeneration, involving a phased demolition of all existing buildings and their rebuild, increasing density from the current 2,700 homes to 4,900. The first new homes were completed in 2012 and the Council appointed Notting Hill Housing Trust as its Development Partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036. ADD SOME INFO ABOUT THE CPO?
-</br>
-<center>
+&lt;/br&gt;</p>
+
 <figure class="figure">
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="/images/aylesburyident.mp4" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="/images/aylesburyident.mp4" allowfullscreen=""></iframe>
   </div>
 <figcaption class="figure-caption text-right">Residents' <a href="https://www.theguardian.com/tv-and-radio/2014/mar/14/channel-4-aylesbury-estate-ident-revamped">reworking of the Channel 4 ident</a></figcaption>
 </figure>
-</center>
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
@@ -48,11 +26,11 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/aylesburyicon.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Aylesbury estate resident</strong><br>
+                <strong>Aylesbury estate resident</strong><br />
                 <em>Leaseholder</em>
               </p>
             </div>
@@ -71,11 +49,11 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/aylesburyicon.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Aylesbury estate resident</strong><br>
+                <strong>Aylesbury estate resident</strong><br />
                 <em>Leaseholder</em>
               </p>
             </div>
@@ -94,11 +72,11 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/aylesburyicon.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Aylesbury estate resident</strong><br>
+                <strong>Aylesbury estate resident</strong><br />
                 <em>Leaseholder</em>
               </p>
             </div>
@@ -117,7 +95,7 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
 		
         <div class="card-columns">
   <div class="card">
-    <img src="{{ site.baseurl }}/images/tenants_disp_map.png" class="card-img-top" alt="...">
+    <img src="/images/tenants_disp_map.png" class="card-img-top" alt="..." />
     <div class="card-body">
       <h5 class="card-title">Aylesbury tenants displacement map</h5>
       <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015.</p>
@@ -125,7 +103,7 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
     </div>
   </div>
   <div class="card">
-    <img src="{{ site.baseurl }}/images/leaseholders_disp_map.png" class="card-img-top" alt="...">
+    <img src="/images/leaseholders_disp_map.png" class="card-img-top" alt="..." />
     <div class="card-body">
       <h5 class="card-title">Aylesbury leaseholders displacement map</h5>
       <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015</p>
@@ -135,3 +113,4 @@ The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formall
 </div>
 </div>
 </div>
+:ET
