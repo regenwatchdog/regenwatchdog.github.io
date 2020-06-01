@@ -18,14 +18,27 @@ images:
   - image_path: /images/aylesburydemolition.jpg
   - image_path: /images/aylesburyident.png
 ---
+The original estate was completed in 1977, providing 2,758 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
+The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted in 2010. The plan outlined the estate’s regeneration, involving a phased demolition of all existing buildings and their rebuild, increasing density from the current 2,700 homes to 4,900. The first new homes were completed in 2012 and the Council appointed Notting Hill Genesis Housing Association as its development partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036.
 
-The original estate was completed in 1977, providing approximately 2,700 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
-The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted in 2010. The plan outlined the estate’s regeneration, involving a phased demolition of all existing buildings and their rebuild, increasing density from the current 2,700 homes to 4,900. The first new homes were completed in 2012 and the Council appointed Notting Hill Housing Trust as its Development Partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036. ADD SOME INFO ABOUT THE CPO?
-</br>
-<center>
+Notting Hill Genesis' [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) describes the replacement 'social housing' as a mix of 'target and affordable rent' and acknowledges that in any event there will be an overall net loss of 931 social rented homes.
+
+<img src="http://35percent.org/img/gnhah.png" class="img-fluid rounded img-thumbnail">
+
+In February 2015 a group of protesters [occupied](https://www.theguardian.com/society/2015/feb/18/six-arrested-as-police-help-in-evictions-from-london-estate) the first development site in protest at the loss of council homes and leasholders disenfranchised by the scheme. 
+
+<img src="http://35percent.org/img/alag.png" class="img-fluid rounded img-thumbnail">
+
+In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area.
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1j_UP39cn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</br><center>
 <figure class="figure">
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="/images/aylesburyident.mp4" allowfullscreen></iframe>
+  <video class="embed-responsive-item" src="/images/aylesburyident.mp4" allowfullscreen></video>
   </div>
 <figcaption class="figure-caption text-right">Residents' <a href="https://www.theguardian.com/tv-and-radio/2014/mar/14/channel-4-aylesbury-estate-ident-revamped">reworking of the Channel 4 ident</a></figcaption>
 </figure>
