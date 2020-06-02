@@ -39,21 +39,17 @@ images:
 coordinates:
   - '-0.012409,51.518195'
 ---
-The Teviot estate was transferred in a stock transfer to [Poplar HARCA housing association](https://www.poplarharca.co.uk/), which [completed](http://democracy.towerhamlets.gov.uk/mgAi.aspx?ID=10064) in 2007.
+535 homes have been earmarked for demolition by housing association Poplar HARCA at its Teviot estate in Tower Hamlets.
+
+The estate underwent a stock transfer to [Poplar HARCA housing association](https://www.poplarharca.co.uk/), which was [completed](http://democracy.towerhamlets.gov.uk/mgAi.aspx?ID=10064) in 2007.
 
 The estate borders the Limehouse Cut canal to the North, the River Lea to the East and Langdon Park and Balfron Tower to the South. Poplar HARCA have already come under [criticism](https://www.theguardian.com/cities/2019/sep/19/balfron-20-how-goldfingers-utopian-tower-became-luxury-flats) for its privatisation of Balfron Tower.
 
-The scheme is part of Poplar HARCA's ‘Poplar Reshaping’ masterplan which envisages the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
+The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https://www.architectsjournal.co.uk/download?ac=1222139) which envisages the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
 
 ![](/images/reshapingpoplar.png)
 
-https://www.architectsjournal.co.uk/download?ac=1222139
-
-https://caseyfierro.com/Reshaping-Poplar
-
-Ballot approved
-
-In December 2018, residents were [told](/images/teviotDec2018.pdf) that if they chose refurbishment then they would have to have new homes built above them in order to pay for the refurbishment.
+In December 2018, residents were [told](/images/teviotDec2018.pdf) they would be balloted on the regeneration options for their estate, but that if they chose refurbishment then they would have to have new homes built above them in order to pay for the refurbishment.
 
 <img src="/images/teviotrooftops.png" class="img-fluid rounded img-thumbnail">
 
@@ -61,6 +57,6 @@ In March 2019, residents were [informed](/images/teviotMarch2019.pdf) that their
 
 <img src="/images/refurbgone.png" class="img-fluid rounded img-thumbnail">
 
-This is a clear breach of the Mayor's guidance on ballots which says...
+Unsurprisingly, the majority of residents [voted for full redevelopment](https://www.eastlondonadvertiser.co.uk/news/politics/teviot-housing-estate-regeneration-voted-1-6052355) in May 2019.
 
-[Rehousing offer](/images/teviotoffer.pdf) is more generous than most (with the exception of Merton). It allows a certain amount of the equity loan to be written off after 7 years. This is in line with the [government's guidance]..
+It is noteworthy that Poplar HARCA's [rehousing offer](/images/teviotoffer.pdf) to leaseholders is more generous than most (with the exception of Circle Housing's [offer in Merton](/images/mertonoffer.pdf) as it allows a certain amount of the shared equity loan to be written off after 7 years (Circle writes it off completely).
