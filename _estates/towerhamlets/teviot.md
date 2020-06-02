@@ -59,4 +59,8 @@ In March 2019, residents were [informed](/images/teviotMarch2019.pdf) that their
 
 Unsurprisingly, the majority of residents [voted for full redevelopment](https://www.eastlondonadvertiser.co.uk/news/politics/teviot-housing-estate-regeneration-voted-1-6052355) in May 2019.
 
+Residents were also told that the scheme would take 7 to 10 years to complete but in tender documents [reported in the Housing Today journal](https://www.housingtoday.co.uk/news/1bn-teviot-estate-regen-goes-out-to-tender/5104462.article), Poplar HARCA cites a contract term of between 15 and 20 years:
+
+<img src="/images/teviothousingtoday.png" class="img-fluid rounded img-thumbnail">
+
 It is noteworthy that Poplar HARCA's [rehousing offer](/images/teviotoffer.pdf) to leaseholders is more generous than most (with the exception of Circle Housing's [offer in Merton](/images/mertonoffer.pdf) as it allows a certain amount of the shared equity loan to be written off after 7 years (Circle writes it off completely).
