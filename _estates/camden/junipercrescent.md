@@ -22,7 +22,7 @@ coordinates:
 ---
 Circa 250 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
 
-The adjoining estates overlook the Regents Canal and are located between Camden Market and Camden Roundhouse.
+The neighbouring estates overlook the Regents Canal and are located between Camden Market and Camden Roundhouse.
 
 In July 2019, housing association One Housing entered into a joint venture with developer Countryside Properties for the redevelopment of the estates.
 
