@@ -4,9 +4,14 @@ status: Phased redevelopment
 category: research
 layout: casestudies 
 images:
-  - image_path: /images/gascoigne1.jpg
-  - image_path: /images/gascoigne2.jpg
-  - image_path: /images/gascoigne3.jpg
+  - image_path: /images/Lor_gascoigne1.jpg
+  - image_path: /images/Lor_gascoigne2.jpg
+  - image_path: /images/Lor_gascoigne3.jpg
+  - image_path: /images/Lor_gascoigne4.jpg
+  - image_path: /images/Lor_gascoigne.jpg
+  - image_path: /images/Lor_gascoigne6.jpg
+  - image_path: /images/Lor_gascoigne5.jpg
+  - image_path: /images/Lor_gascoigne7.jpg
 ---
 
 Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both East and West, all of which are to be demolished. Planning application for the Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA Dec 2018. The first phase of East was completed in 2019, and full completion of Gascoigne East is due to be completed 2024. Work on phase 1 of Gascoigne West started with demolition in Jan 2020.
