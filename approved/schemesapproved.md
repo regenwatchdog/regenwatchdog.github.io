@@ -12,33 +12,10 @@ category: approved
 	     <div class="container">
 		           <h1>The path to regeneration is paved with good intentions</h1>
 			         <p class="lead text-muted" align="left">
-Estate regeneration always starts off with worthy intentons - i.e. promises of plentiful 'affordable' housing and brand new homes for residents, but evidence shows that in reality many schemes fail to comply even with basic policy requirements. The Mayor's <a href="http://estatewatch.london/guide/#headingOne">estate regeneration policy</a> says that schemes must provide:</p>
-<ul class="row mb-5 feature-list feature-list-sm">
-		      <li class="col-4">
-		      <div class="card">
-		      <div class="card-body">
-		      <span class="text-muted">At least 50% affordable and no net loss of social rent.</span>
-		      </div>
-		      </div>
-		      </li>
-		      <li class="col-4">
-		      <div class="card">
-		      <div class="card-body">
-                      <span class="text-muted">A fair deal and right to return for residents.</span>
-                      </div>
-                      </div>
-                      </li>
-                      <li class="col-4">
-		      <div class="card">
-		      <div class="card-body">
-		      <span class="text-muted">That demolition is considered only as last resort.</span>
-                      </div>
-                      </div>
-                      </li>
-                </ul>
+Estate regeneration always starts off with worthy intentons - i.e. promises of plentiful 'affordable' housing and brand new homes for residents, but evidence shows that in reality many schemes fail to comply even with basic policy requirements. The Mayor's <a href="http://estatewatch.london/guide/#headingOne">estate regeneration policy</a> says that schemes must provide at least 50% affordable housing and that there must be no net loss of social rented housing.</p>
 
 <p class="lead text-muted" align="left">
-Despite this the Mayor has signed off at least xx schemes that fail to comply with these requirements and continues to turn a blind eye to Councils, housing associations and developers flouting these rules. </p>
+Despite this the Mayor has signed off at least xx schemes that fail to provide 50% affordable and have substituted replacement social rented housing for affordable rent (i.e. up to 80% market rent). </p>
 				
 				 
 	     </div>
