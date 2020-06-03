@@ -23,7 +23,7 @@ In 2014 OHG produced a [52 page report ‘Project Stone’](/images/ProjectStone
 
 If Project Stone goes ahead, just 30% of the redeveloped properties will be available for affordable housing. Of those, 17% would be shared ownership and 13% would be rented. 
 
-<img src="/images/projectstone.jpg" class="img-fluid rounded img-thumbnail">
+<img src="/images/pstone.png" class="img-fluid rounded img-thumbnail">
 
 The four estates originally belonged to Tower Hamlets Council as part of its housing stock, but were taken over by Toynbee Island Homes in 2005. Two years later, a merger with Community Housing Association led to the creation of One Housing Group. 
 
