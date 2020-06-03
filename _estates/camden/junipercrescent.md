@@ -1,10 +1,22 @@
 ---
 category: underthreat
+status: Ballot pending
 name: Juniper Crescent and Gilbeys Yard estate 
 borough: camden
 images:
+  - image_path: /images/jp12.jpg
+  - image_path: /images/jp1.jpg
+  - image_path: /images/jp2.jpg
+  - image_path: /images/jp3.jpg
+  - image_path: /images/jp4.jpg
+  - image_path: /images/jp5.jpg
+  - image_path: /images/jp6.jpg
+  - image_path: /images/jp7.jpg
+  - image_path: /images/jp8.jpg
+  - image_path: /images/jp9.jpg
+  - image_path: /images/jp10.jpg
+  - image_path: /images/jp11.jpg
   - image_path: /images/junipercrescent.jpg
-  - image_path: /images/junipercrescent2.jpg
 coordinates: 
   - -0.150620,51.542436
 ---
@@ -13,6 +25,8 @@ Circa 250 homes on Camden's Juniper Crescent and Gilbey's yard estates have been
 The adjoining estates overlook the Regents Canal and are located between Camden Market and Camden Roundhouse.
 
 In July 2019, housing association One Housing entered into a joint venture with developer Countryside Properties for the redevelopment of the estates.
+
+One Housing had already started 'decanting' secure tenants by offering them rehousing in its existing stock elsewhere in the borough. It has filled the vacant homes with short-term intermediate rent tenants.
 
 A ballot was supposed to be held by housing association One Housing Group in late March 2020, but this was [postponed](https://onehousing.co.uk/__data/assets/pdf_file/0020/16319/Juniper-Crescent-and-Gilbeys-Yard-project-FAQs-2020.pdf) because of the coronavirus crisis. The ballot was postponed until 8th June and consultation sessions were [instead carried out via zoom](https://onehousing.co.uk/__data/assets/pdf_file/0019/17416/Juniper-Crescent-and-Gilbeys-Yard-News-May-2020.pdf):
 
