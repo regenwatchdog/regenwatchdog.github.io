@@ -37,7 +37,7 @@ title: Estates under threat
               // https://docs.coralproject.net for all the configuration
               // options.
               // storyID: '${storyID}',
-	      storyURL: '{{ site.baseurl }}{{ page.url }}',
+	      storyURL: '{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}',
           });
       };
       (d.head || d.body).appendChild(s);
