@@ -1,0 +1,30 @@
+I"©<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/bromleymap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/bromleymap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/bromley/pikeclose/">
+                      <img class="card-img-top" src="/images/pikeclose.jpg" alt="Pike Close estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Pike Close estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot approved, design stage pending</h6>
+		      <p class="card-text"><p>In 2018, Riverside Housing Association (which manages Bromleyâ€™s council housing), appointed developer Countryside Properties to redevelop the Pike Close estate. The estate comprises circa 100 homes in a series of low-rise maisonettes and a high-rise block.</p>
+</p>
+                      <a target="_blank" href="/estates/bromley/pikeclose/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
