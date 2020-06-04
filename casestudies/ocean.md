@@ -8,6 +8,20 @@ images:
   - image_path: /images/ocean1.jpg
   - image_path: /images/ocean2.jpg
   - image_path: /images/ocean3.jpg
+  - image_path: /images/ocean4.jpg
+  - image_path: /images/Nat_ocean.jpg
+  - image_path: /images/Nat_ocean1.jpg
+  - image_path: /images/Nat_ocean2.jpg
+  - image_path: /images/Nat_ocean3.jpg
+  - image_path: /images/Nat_ocean4.jpg
+  - image_path: /images/Nat_ocean5.jpg
+  - image_path: /images/Nat_ocean6.jpg
+  - image_path: /images/Nat_ocean7.jpg
+  - image_path: /images/Nat_ocean8.jpg
+  - image_path: /images/Nat_ocean9.jpg
+  - image_path: /images/Nat_ocean10.jpg
+  - image_path: /images/Nat_ocean11.jpg
+  - image_path: /images/Nat_ocean12.jpg
 ---
 
 The original Ocean Estate was built after WWII, with additions in 1964. The estate is one of the largest in London and in 2013 there were 7,459 people living in 2,574 households on the estate. The first phase of regeneration started in 1995 with funding from the Single Regeneration Budget (SRB), followed by the New Deal for Communities (NDC) programme in 2000. Both of these programmes saw decanting and demolition of original homes, with the replacing new homes becoming owned and managed under social landlords. The most recent phases of demolition and rebuild were completed in May 2019, completing all regeneration and development plans so far.
