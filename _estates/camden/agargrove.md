@@ -40,6 +40,18 @@ In 2019, Camden Council issued a Compulsory Purchase Order in order to remove th
 
 It also explains that only 216 replacement social rented homes will replace the 249 being demolished (para 3.10). Paragraph 3.15 of the CPO statement reveals that Camden's shared equity offer to leaseholders requires them to take out a mortgage if they want to take up the offer of a new home (on top of any existing mortgage).
 
+This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
+
+Camden's [leaseholder rehousing policy](https://www.camden.gov.uk/documents/20142/0/3088.3+Resident+Offer+Resident+Leaseholders.pdf/511adac5-badd-2154-d76c-3002ea877a2d) also contains small print that says that if leaseholders can't afford the shared equity option they will be offered a tenancy on one of the new homes - but will have to accept just 25% of the market value of their current home in doing so.
+
+This is a breach of the Government's [Compulsory Purchase Code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571453/booklet4.pdf) which says that:
+
+<img src="/images/cpocodeextract.png" class="img-fluid rounded img-thumbnail">
+
+It is also a breach of the legal “principle of equivalence” which says that persons affected by compulsory purchase should be no worse off in financial terms after the acquisition. 
+
+The lack of a rehousing option for leaseholders which doesn't leave them financially disadvantaged is a breach of section 233(5&7) of the Town and Country Planning Act 1990, which requires that persons compulsorily removed from their homes for planning purposes are offered 'suitable accommodation' on the redeveloped land _'on terms settled with due regard to the price at which any such land has been acquired from him'_.
+
 The Compulsory Purchase Order for phase two was confirmed and became effective in April 2020.
 
 There is no publicly available section 106 agreement so it is impossible to confirm whether the replacement social housing will be provided as social rent or affordable rent (up to 80% market rent) and whether they will remain so in perpetuity.
