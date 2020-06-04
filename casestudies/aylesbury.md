@@ -193,7 +193,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">Aylesbury tenants displacement map</h5>
       <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015.</p>
-      <a href="#" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_tenants_map.jpg" class="btn btn-primary">View the map</a>
     </div>
   </div>
   <div class="card">
@@ -201,7 +201,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">Aylesbury leaseholders displacement map</h5>
       <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015</p>
-      <a href="#" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map.jpg" class="btn btn-primary">View the map</a>
     </div>
   </div>
 </div>
