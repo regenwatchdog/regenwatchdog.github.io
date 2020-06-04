@@ -10,6 +10,20 @@ images:
   - image_path: /images/agrove4.png
   - image_path: /images/agar3d.png
   - image_path: /images/agarmodel.png
+  - image_path: /images/ag1.jpg
+  - image_path: /images/ag2.jpg
+  - image_path: /images/ag3.jpg
+  - image_path: /images/ag4.jpg
+  - image_path: /images/ag5.jpg
+  - image_path: /images/ag6.jpg
+  - image_path: /images/ag7.jpg
+  - image_path: /images/ag8.jpg
+  - image_path: /images/ag9.jpg
+  - image_path: /images/ag10.jpg
+  - image_path: /images/ag11.jpg
+  - image_path: /images/ag12.jpg
+  - image_path: /images/ag13.jpg
+  - image_path: /images/ag14.jpg
 coordinates: 
   - -0.133195,51.542259
 ---

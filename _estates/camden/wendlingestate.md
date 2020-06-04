@@ -1,10 +1,17 @@
 ---
 category: underthreat
+status: Ballot pending
 name: Wendling estate 
 borough: camden
 images:
-  - image_path: /images/wendling.png
-  - image_path: /images/wendling2.png
+  - image_path: /images/wg1.jpg
+  - image_path: /images/wg2.jpg
+  - image_path: /images/wg3.jpg
+  - image_path: /images/wg4.jpg
+  - image_path: /images/wg5.jpg
+  - image_path: /images/wg6.jpg
+  - image_path: /images/wg7.jpg
+  - image_path: /images/wg8.jpg
   - image_path: /images/wendling3.jpg
 coordinates: 
   - -0.156132,51.551117
@@ -17,3 +24,10 @@ In July 2019, the Council's Cabinet [decided](http://democracy.camden.gov.uk/doc
 
 The decision was the cause of some unrest among residents, reported in the local press (April 2020): 
 [http://camdennewjournal.com/article/tenants-pass-vote-of-no-confidence-in-camdens-regeneration-chief](http://camdennewjournal.com/article/tenants-pass-vote-of-no-confidence-in-camdens-regeneration-chief)
+
+The Wendling estate overlooks the site of the former Bacton estate where Camden resolved to redevelop 100 council homes 10 years ago. 67 new private and 'affordable' homes were completed on the adjacent 'phase 1' of that scheme in 2015 but in 2020 the main plot of the former estate remains an empty building site. This provides an instructive lesson for residents on the Wendling estate who will be wooed with promises of new homes ahead of the forthcoming ballot.. 
+
+<figure class="figure">
+<img src="/images/bacton.jpg" class="img-fluid rounded img-thumbnail">
+<figcaption class="figure-caption text-right">Wendling overlooks the site of the former Bacton low-rise estate</figcaption>
+</figure>

@@ -4,11 +4,19 @@ status: Ballot approved, planning application pending
 name: West Kentish Town estate 
 borough: camden
 images:
-  - image_path: /images/wkt3.jpg
-  - image_path: /images/wkt1.jpg
   - image_path: /images/wt1.png
+  - image_path: /images/wkt1.jpg
   - image_path: /images/wkt2.jpg
-  - image_path: /images/wt2.png
+  - image_path: /images/wkt3.jpg
+  - image_path: /images/wkt4.jpg
+  - image_path: /images/wkt5.jpg
+  - image_path: /images/wkt6.jpg
+  - image_path: /images/wkt7.jpg
+  - image_path: /images/wkt8.jpg
+  - image_path: /images/wkt9.jpg
+  - image_path: /images/wkt10.jpg
+  - image_path: /images/wkt11.jpg
+  - image_path: /images/wkt12.jpg
 coordinates: 
   - -0.149254,51.549409
 ---

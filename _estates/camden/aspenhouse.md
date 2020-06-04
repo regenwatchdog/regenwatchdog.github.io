@@ -4,10 +4,9 @@ status: Demolition pending
 name: Aspen House (Maitland Park estate) 
 borough: camden
 images:
+  - image_path: /images/ap2.jpg
   - image_path: /images/aspen.png
-  - image_path: /images/aspen1.jpg
-  - image_path: /images/aspen2.jpg
-  - image_path: /images/aspen3.jpeg
+  - image_path: /images/ap1.jpg
 coordinates: 
   - -0.157043,51.548572
 ---

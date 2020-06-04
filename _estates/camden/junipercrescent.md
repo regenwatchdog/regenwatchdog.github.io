@@ -20,7 +20,7 @@ images:
 coordinates: 
   - -0.150620,51.542436
 ---
-Circa 250 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
+Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
 
 The neighbouring estates overlook the Regents Canal and are located between Camden Market and Camden Roundhouse.
 
@@ -40,3 +40,4 @@ This is reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) to
 
 <img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
 
+There is no information in the landlord offer about leaseholders/homeowners and whether they have any right to be rehoused on the redeveloped estate (or elsewhere).
