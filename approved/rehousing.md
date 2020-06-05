@@ -1,0 +1,19 @@
+---
+layout: default
+category: approved 
+title: Re-housing offers 
+---
+<center><h1>Re-housing</h1></center> 
+The Mayor's <a href="https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf">Estate Regeneration Policy</a> says that <i>"full rights to return or remain for social tenants, and a fair deal for leaseholders and freeholders."</i>
+
+## Tenants
+In practice, few tenants choose to move or return to redeveloped estates and prefer to move for a number of reasons:
+
+1. The more precarious security of tenure being a housing association tenant.
+2. The higher rents - even when reprovided social housing is a social rents.
+3. Increased service charges and council tax.
+
+## Leaseholders
+The obligation to rehouse tenants and homeowners uprooted by estate regeneration is enshrined within the general legal 'principle of equivalence' which says that persons affected by compulsory purchase should be no worse off in financial terms after the compulsory acquisition and <a href="http://www.legislation.gov.uk/ukpga/1990/8/section/233">section 233(paras 5 & 7) of the Town and Country Planning Act 1990</a>, which says that persons compulsorily removed from their homes for planning purposes must be offered <i>'suitable accommodation'</i> on the redeveloped land <i>'on terms settled with due regard to the price at which any such land has been acquired from him'.</i>
+
+
