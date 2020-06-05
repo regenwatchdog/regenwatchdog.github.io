@@ -12,4 +12,10 @@ coordinates:
 
 ![](/images/northumberland.png)
 
-Haringey Council's [dedicated website](https://tottenham.london/NP) provides further details.
+Haringey Council's [dedicated website](https://tottenham.london/NP) provides further details of the scheme.
+
+This recent film interview with a resident from one of the Northumberland Park estates shows the anguish caused by the proposals:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="/images/northumberlandpark.mp4" allowfullscreen></iframe>
+</div>
