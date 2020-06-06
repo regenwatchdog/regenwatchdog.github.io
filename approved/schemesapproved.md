@@ -10,15 +10,12 @@ category: approved
 
     <section class="jumbotron text-center">
 	     <div class="container">
-	     <h1>Sadiq Khan and estate regeneration</h1>
-			         <p class="lead text-muted" align="left">
-				 Since the Mayor was elected in May 2016 he has <a href="/approved/funding/">approved funding for the demolition of ?48? estates and <a href="/approved/ballotrequirement/">exempted ?48? of them</a> from his own requirement to ballot residents on the demolition of their homes.<br><br>
-
-				 He continues to approve and fund schemes which <a href="/approved/reshouing/">don't provide</a> adequate rehousing opportunities for existing residents and is turning a blind eye to developers and housing associations making up their own definitions of the various affordable housing tenures.
-
-		           <h3>Replacement social housing at 80% market rent</h3>
+	           <h3>Replacement social housing at up to 80% market rent</h3>
 			         <p class="lead text-muted" align="left">
 The theory goes that estates in high-worth areas are able to re-provide the existing levels of social housing via cross-subsidy from additional private and intermediate housing provided through increased density. In practice these good intentions get <a href="https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright">squeezed</a> by developers whose bottom line is profit and housing associations who <a href="https://commonslibrary.parliament.uk/research-briefings/sn01090/">actively lobby</a> for the ability to set their own rents as part of their new <a href="https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations">corporate aims</a>.
+
+</div>
+</section>
 
 
  <div class="container">
