@@ -7587,8 +7587,7 @@ section {
 
 @media (max-width: 1199.98px) {
   .space-lg {
-    padding-top: 3rem;
-    padding-bottom: 3rem; }
+    padding-bottom: 0rem; }
   .space-xlg {
     padding-top: 4.5rem;
     padding-bottom: 4.5rem; } }

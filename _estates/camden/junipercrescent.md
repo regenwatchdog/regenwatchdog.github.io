@@ -40,4 +40,4 @@ This is reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) to
 
 <img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
 
-There is no information in the landlord offer about leaseholders/homeowners and whether they have any right to be rehoused on the redeveloped estate (or elsewhere).
+There is no information in the landlord offer about leaseholders/homeowners and whether they have any right to be rehoused on the redeveloped estate (or elsewhere), which is in contravention of the [Mayor's planning policy on ballot requirements](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf).
