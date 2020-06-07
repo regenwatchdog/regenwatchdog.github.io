@@ -1,4 +1,4 @@
-I"<div class="col">
+I"�<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/barnetmap.html" width="100%" height="400px"></iframe>
 </div>
@@ -20,6 +20,21 @@
 		      <p class="card-text"><p>363 of the 440 homes on Barnet’s Dollis Valley estate are under threat of demolition. Whilst the low-rise terraced properties on the south side of the estate will be retained, all 363 of the 5-storey maisonette blocks on the north side will be demolished.</p>
 </p>
                       <a target="_blank" href="/estates/barnet/dollisvalley/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/barnet/douglasbaderpark/">
+                      <img class="card-img-top" src="/images/db1.png" alt="Douglas Bader Park estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Douglas Bader Park estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Planning and ballot approved</h6>
+		      <p class="card-text"><p>271 homes are earmarked for demolition on Barnet’s Douglas Bader Park estate in Colindale.</p>
+</p>
+                      <a target="_blank" href="/estates/barnet/douglasbaderpark/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>

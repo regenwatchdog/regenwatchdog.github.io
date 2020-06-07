@@ -21,7 +21,7 @@ The Mayor's [stage 1 planning report](https://www.london.gov.uk/sites/default/fi
 
 <img src="/images/fparkupto.png" class="img-fluid rounded img-thumbnail">
 
-In November 2019, it was [reported](https://www.insidehousing.co.uk/news/news/london-housing-association-moves-step-closer-on-990-home-scheme-but-affordable-share-reduced-64284) that the affordable housing quota had been reduced.
+In November 2019, it was [reported](https://www.insidehousing.co.uk/news/news/london-housing-association-moves-step-closer-on-990-home-scheme-but-affordable-share-reduced-64284) that the proposed affordable housing quota had been reduced.
 
 There is no section 106 agreement publicly available so it is not clear exactly how many replacement social rented homes there will be or whether it will be truly social rented tenure or affordable rent (up to 80% market rent) - or whether it has been secured in perpetuity.
 
