@@ -12,7 +12,7 @@ category: approved
 	     <div class="container">
 	           <h3>Replacement social housing at up to 80% market rent</h3>
 			         <p class="lead text-muted" align="left">
-The theory goes that estates in high-worth areas are able to re-provide the existing levels of social housing via cross-subsidy from additional private and intermediate housing provided through increased density. In practice these good intentions get <a href="https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright">squeezed</a> by developers whose bottom line is profit and housing associations who <a href="https://commonslibrary.parliament.uk/research-briefings/sn01090/">actively lobby</a> for the ability to set their own rents as part of their new <a href="https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations">corporate aims</a>.
+The theory goes that estates in high-value areas are able to re-provide the existing levels of social housing via cross-subsidy from private housing, either for sale or rent, reinforced by increased density. In practice these good intentions get <a href="https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright">squeezed</a> by developers whose bottom line is profit and housing associations who have lost government grant and now <a href="https://commonslibrary.parliament.uk/research-briefings/sn01090/">actively lobby</a> for the ability to set their own rents as part of their new <a href="https://www.theguardian.com/society/2018/jun/13/fury-affordable-homes-redeveloped-sold-housing-associations">corporate aims</a>.
 
 </div>
 </section>
@@ -70,7 +70,7 @@ The theory goes that estates in high-worth areas are able to re-provide the exis
  
 
 <p class="lead text-muted" align="left">
-The Mayor's <a href="http://estatewatch.london/guide/#headingOne">estate regeneration policy</a> says that schemes must provide at least 50% affordable housing and that there must be no net loss of social rented housing.
+The Mayor's <a href="http://estatewatch.london/guide/#headingOne">estate regeneration policy</a> says that schemes should provide at least 50% affordable housing and that there should be no net loss of social rented housing.
 
 Despite this the Mayor is signing off an increasing number of schemes that fail to meet these requirements and which have substituted social rented housing for affordable rent (i.e. up to 80% market rent). This allows the Mayor to <a href="https://www.london.gov.uk/press-releases/mayoral/affordable-home-stats-show-record-number-of-starts">trumpet</a> the construction of record levels of 'genuinely affordable' homes which are nothing of the sort.</p>
 				

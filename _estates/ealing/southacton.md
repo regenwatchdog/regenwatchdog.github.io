@@ -22,9 +22,9 @@ images:
 coordinates: 
   - -0.272799,51.502295
 ---
-In Dec 2018, the Mayor [approved](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/acton-gardens-masterplan) the revised masterplan for the South Acton estate, which allows replacement 'social' housing to be provided as affordable rent (i.e. up to 80% market rent).
+In Dec 2018, the Mayor [approved](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/acton-gardens-masterplan) the revised masterplan for the South Acton estate, with replacement ‘social’ housing to be provided at social rent or London Affordable Rent affordable rent, but in fact the social housing can be let at up to 80% market rent.
 
-The Mayor subsequently allocated funding and [exempted](https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf) the scheme from his requirement to ballot residents on the demolition of their homes.
+Shortly afterwards, the Mayor allocated funding to the scheme and [exempted](https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf) it from his requirement to ballot residents on the demolition of their homes.
 
 The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.
 

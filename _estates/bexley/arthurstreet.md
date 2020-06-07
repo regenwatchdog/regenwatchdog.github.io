@@ -13,7 +13,7 @@ images:
 coordinates: 
   - 0.126122,51.495310
 ---
-In Sep 2019, the Mayor approved the demolition of 262 homes on Bexley's Arthur Street estate - to be replaced by 320, with a net loss of 134 social rent and no right to return for tenants or leaseholders.
+In Sep 2019, the Mayor approved the demolition of 262 homes on Bexley's Arthur Street estate - to be replaced by 320, all social rent being replaced by London Affordable Rent, at a net loss of 134 ‘social’ homes
 
 The Mayor's [planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_473856///arthur_street_estate_report.pdf) approving the scheme, accepts the justification made for the net loss which is that affordable housing is being built on other sites in the borough. 
 
