@@ -97,5 +97,29 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
           </div>
         </div>
       </div>
+    
+    <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+        <div class="shadow p-3 mb-5 bg-white rounded">
+          <div class="row no-gutters align-items-center">
+            <div class="col-3">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/gascoigne1.jpg">
+            </div>
+            <div class="col-8 ml-auto">
+              <p>
+                <strong>Gascoigne estate resident</strong><br>
+                <em>Council tenant</em>
+              </p>
+            </div>
+          </div>
+          <div class="row mt-4">
+            <div class="col-12">
+              <p>
+                "They're saying they're demolishing them. We are kept in suspense. We don't know what to do."
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
     </div>
     </div>
