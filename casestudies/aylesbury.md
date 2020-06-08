@@ -232,7 +232,9 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
         </div>
       </div>
 		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
-		
+	
+		<hr class="featurette-divider">
+	
         <div class="card-columns">
   <div class="card">
     <img src="{{ site.baseurl }}/images/tenants_disp_map.png" class="card-img-top" alt="...">
