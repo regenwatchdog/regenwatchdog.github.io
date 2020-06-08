@@ -10,7 +10,7 @@ The Mayor's <a href="https://www.london.gov.uk/sites/default/files/better-homes-
 In practice, few tenants choose to return to redeveloped estates and prefer to move to existing council homes elsewhere for a number of reasons:
 <ul>
 <li>
-Housing Association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in partnership with developers and housing associations). Even in cases where Council's are redeveloping estates themselves, they do so using Housing Companies which offer different tenancies and calculate rents differently (see for example the [Gascoigne estate](/estates/barkinganddagenham/gascoigne).</li>
+Housing Association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in partnership with developers and housing associations). Even where Councils redevelop estates themselves, they generally do so using Housing Companies which offer different tenancies and calculate rents differently (see for example the <a href="/estates/barkinganddagenham/gascoigne">Gascoigne estate regeneration</a>).</li>
 <br>
 <li>
 Higher rents - even when social housing is re-provided at social rents. This is a result of the higher-value of the new homes, which is one of the components of the formula for calculating social rents.</li>
