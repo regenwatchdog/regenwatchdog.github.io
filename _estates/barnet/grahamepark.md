@@ -10,9 +10,9 @@ images:
 coordinates:
   - '-0.244782,51.602271'
 ---
-The Grahame Park Estate was constructed in the 1970s by the GLC on the site of the former Hendon Aerodrome and is Barnet’s largest housing estate with [1,777 homes](https://www.barnet.gov.uk/planning-and-building/planning-policies/local-plan/grahame-park-july-2016). Barnet Council appointed Notting Hill Genesis in 2002 to redevelop the estate.
+1,314 homes are under threat of demolition at Barnet's Grahame Park Estate. The estate was constructed in the early 1970s by the GLC on the site of the former Hendon Aerodrome.
 
-Barnet [says that it plans to retain around 25% of the homes on the estate](https://www.barnet.gov.uk/grahame-park) 
+It and is Barnet’s largest housing estate with [1,777 homes](https://www.barnet.gov.uk/planning-and-building/planning-policies/local-plan/grahame-park-july-2016). Barnet Council appointed Notting Hill Genesis in 2002 to [redevelop](https://www.barnet.gov.uk/grahame-park) approximately three quarters of the estate (463 homes will be retained).
 
 A small initial redevelopment phase was completed in 2012 (stage A). Notting Hill Genesis recently [received planning consent](https://www.insidehousing.co.uk/news/news/sadiq-khan-approves-housing-associations-2000-home-estate-regeneration-plan-66346) for the next phase (plots 10-12) after its application was initially refused due to the proposed net loss of social rented housing. This phase will provide 32 homes at 'target rents' to existing permanent tenants, 314 London Affordable Rented and 699 shared ownership homes.
 

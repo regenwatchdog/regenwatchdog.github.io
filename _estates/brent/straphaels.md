@@ -21,7 +21,9 @@ images:
 coordinates:
   - '-0.264695,51.552600'
 ---
-793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). [A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders.
+793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). 
+
+[A Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) confirms that 522 of these are council owned, the remainder are split evenly between freeholders and leaseholders.
 
 The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace alongside the river Brent. 
 

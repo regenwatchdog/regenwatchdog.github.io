@@ -1,0 +1,21 @@
+I"U<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf">
+                      <img class="card-img-top" src="/images/pikeclose.jpg" alt="Pike Close estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Pike Close estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted"></h6>
+		      <p class="card-text">Ballot approved and awaiting planning application and Mayor's approval.</p>
+                      <a target="_blank" href="https://www.london.gov.uk/sites/default/files/estate_regen_projects_approved_after_18_july_2018_march_2020.pdf" data-toggle="tooltip" data-placement="top" title="Open in new tab">Approved: Funding agreed Dec 2018 <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

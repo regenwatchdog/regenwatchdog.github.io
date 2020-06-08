@@ -1,5 +1,6 @@
 ---
 category: underthreat
+status: Ballot approved, planning application pending
 name: South Kilburn estate 
 borough: brent 
 images:
@@ -10,6 +11,8 @@ images:
 coordinates:
   - -0.198561,51.533219
 ---
+Circa 800 homes remain under threat of demolition at Brent's redevelopment of the South Kilburn estate.
+
 The redevelopment of the current proposals for the South Kilburn estate are based on the [2017 approved masterplan.](https://www.brent.gov.uk/your-community/regeneration/south-kilburn-regeneration/the-development-process/masterplan-and-programme?tab=southkilburnsupplementaryplanningdocument2017). 
 
 The first phase of the scheme has seen four sites (marked in blue below) granted planning permission and which are currently underway. As of July 2019 there remained 17 blocks in the second half of the scheme earmarked for demolition (shaded orange), but these are yet to seek planning consent  - see [this Cabinet report](http://democracy.brent.gov.uk/ieListDocuments.aspx?CId=455&MId=5355&Ver=4), item 7.
@@ -18,6 +21,6 @@ The first phase of the scheme has seen four sites (marked in blue below) granted
 
 ![](/images/southkilburn.png)
 
-A ballot of residents returned a positive result [in Oct 2019](https://www.kilburntimes.co.uk/news/south-kilburn-votes-yes-1-6331125).
+A ballot of residents in the second phase of the scheme returned a positive result [in Oct 2019](https://www.kilburntimes.co.uk/news/south-kilburn-votes-yes-1-6331125).
 
 There are no publicly available section 106 agreements for the consented phases so it is impossible to confirm whether the replacement 'social' housing will be social rent or affordable rent (up to 80% market rent).
