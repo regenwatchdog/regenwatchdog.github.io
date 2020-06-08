@@ -10,7 +10,14 @@ images:
   - image_path: /images/carpenters3.jpg
 ---
 
-The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005. The majority of council tenants have been moved out, it is mostly leaseholders and freeholders who remain. The estate holds several active pieces of legislation to ensure that the residents have control over their estate’s future, including the Carpenters Estate Residents’ Charter and the Greater Carpenters Neighbourhood Plan. In February 2020 the Council gave approval for Red Door Ventures to work with the residents on a development plan for the estate.
+he Carpenters Estate is near to the Queen Elizabeth (Olympic) Park, Stratford, in the London Borough of Newham.  The estate was completed in 1970, providing 710 homes.  Plans for its regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005/06.  Three tower blocks on the estate have been emptied of council tenants, though some leaseholders remain.  The lower rise buildings continue to be occupied by a mixed community of council tenants, leaseholders and freeholders and this remains a strong and supportive community. 
+
+To save the estate from demolition, Carpenters Against Regeneration Plans (CARP) was formed by residents of the estate in 2011.  Carpenters Community Plan was published in 2013 and the Greater Carpenters Neighbourhood Plan in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
+
+Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held sometime in 2020.
+
+The Planning Inspector’s report on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
+“Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
 
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
