@@ -148,14 +148,14 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
             <div class="col-8 ml-auto">
               <p>
                 <strong>Aylesbury estate resident</strong><br>
-                <em>Leaseholder</em>
+                <em>Council tenant</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "She has total disregard because they feel that ‘Oh, people here are ethnic minorities or whatever’, so they [the Council] feel they have the right to just treat people anyhow what - they feel that we don't read. They don’t think we’re going to read any documents or we have no knowledge of anything. And so they try and just use that against us and they think that we are illiterate."
+	      "You know, when I moved, the time I moved, the council housing is for life, until you die you live there, that is the things that I put in my mind, and that was this place where I am going to die. And then suddenly, when the whole of this gentrification, it started, it has been taken away from, the whole of the network and that is it. You have got to your home, to die in, and it has been taken away from you."
               </p>
             </div>
           </div>
@@ -218,14 +218,14 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
             <div class="col-8 ml-auto">
               <p>
                 <strong>Aylesbury estate resident</strong><br>
-                <em>Council tenant</em>
+                <em>Leaseholder</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "You know, when I moved, the time I moved, the council housing is for life, until you die you live there, that is the things that I put in my mind, and that was this place where I am going to die. And then suddenly, when the whole of this gentrification, it started, it has been taken away from, the whole of the network and that is it. You have got to your home, to die in, and it has been taken away from you."
+                "She has total disregard because they feel that ‘Oh, people here are ethnic minorities or whatever’, so they [the Council] feel they have the right to just treat people anyhow what - they feel that we don't read. They don’t think we’re going to read any documents or we have no knowledge of anything. And so they try and just use that against us and they think that we are illiterate."
               </p>
             </div>
           </div>
