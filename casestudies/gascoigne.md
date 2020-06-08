@@ -14,19 +14,19 @@ images:
   - image_path: /images/Lor_gascoigne7.jpg
 ---
 
-Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both East and West, all of which are to be demolished. Planning application for the Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA Dec 2018. The first phase of East was completed in 2019, and full completion of Gascoigne East is due to be completed 2024. Work on phase 1 of Gascoigne West started with demolition in Jan 2020.
+Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.
 
 
 <div class="card-body">
 
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
-		<li>Almost all interviewees expressed that there is a lack of clear and concise information from the Council about the regeneration of the estate, in particular providing clear timelines.</li>
+		<li>Almost all the interviewees expressed that there is a lack of clear and concise information from the Council about the regeneration of their estate, in particular providing clear timelines.</li>
 		<li>Residents are unsure whether their homes were included in the plans for demolition and when they may have to move, creating a sense of apprehension and uncertainty for households.</li>
-		<li>Residents living in the portion of already completed new-builds on the estate express that bills in these properties are more expensive.</li>
-		<li>However, some residents were looking forward to changes on the estate and were looking forward to potentially getting a new-build home.</li>
-		<li>There is a recognition that the borough is changing and attracting more affluent professional households.</li>
-		<li>References are made to there being lots of new construction and developments in the borough, especially the Riverside Development site.</li></ul>
+		<li>Residents living in the portion of already completed new-builds on the estate state that bills in these properties are more expensive.</li>
+		<li>Some residents were looking forward to the regeneration of their estate and to the possibility of getting a newly-built home.</li>
+		<li>Interviewees recognised that their borough was changing and attracting more affluent, professional households.</li>
+		<li>References were made to there being lots of new construction and developments in the borough, especially the Riverside Development site.</li></ul>
 
 <p class="lead">Here is what some people said...</p>
 
