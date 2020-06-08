@@ -263,4 +263,3 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
   </div>
 </div>
 </div>
-</div>
