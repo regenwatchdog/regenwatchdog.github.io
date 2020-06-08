@@ -56,14 +56,14 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
             <div class="col-8 ml-auto">
               <p>
                 <strong>Carpenters estate resident</strong><br>
-                <em>Freeholder</em>
+                <em>Council tenant</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "The grass was overgrown, boarded-up buildings, and I thought this is what they want the world to see. Do you know what I mean? Because one day, we were walking out, and I walked out that way, to the back, and that small block, it was all, it was almost like it was a ghost town. All of these boarded-up buildings, and I thought, this is, and I walked around, you saw more and more and it was like, where am I living? It’s just wasn’t the same place, and your heart sunk. Your heart just sunk it was like, this isn’t the Carpenters Estate anymore. But that is what they want you to feel."
+	      "The bad side is the great packing and it is stressing me out mentally and physically. Because I've got a lot of junk. You know? It is stressing me out mentally and physically, and the place is very cold because nothing works in this flat. The boiler doesn't work, the central heating doesn't work, I've got no hot water."
               </p>
             </div>
           </div>
@@ -100,14 +100,14 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
             <div class="col-8 ml-auto">
               <p>
                 <strong>Carpenters estate resident</strong><br>
-                <em>Council tenant</em>
+                <em>Freeholder</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "The bad side is the great packing and it is stressing me out mentally and physically. Because I've got a lot of junk. You know? It is stressing me out mentally and physically, and the place is very cold because nothing works in this flat. The boiler doesn't work, the central heating doesn't work, I've got no hot water."
+                "The grass was overgrown, boarded-up buildings, and I thought this is what they want the world to see. Do you know what I mean? Because one day, we were walking out, and I walked out that way, to the back, and that small block, it was all, it was almost like it was a ghost town. All of these boarded-up buildings, and I thought, this is, and I walked around, you saw more and more and it was like, where am I living? It’s just wasn’t the same place, and your heart sunk. Your heart just sunk it was like, this isn’t the Carpenters Estate anymore. But that is what they want you to feel."
               </p>
             </div>
           </div>
@@ -116,7 +116,7 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
 
       <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
             </div>
