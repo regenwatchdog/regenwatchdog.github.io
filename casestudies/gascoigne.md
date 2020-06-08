@@ -30,7 +30,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 
 <p class="lead">Here is what some people said...</p>
 
- <div class="row mt-5 align-items-center justify-content-center">
+ <div class="row mt-5 align-items-left justify-content-left">
       <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
