@@ -90,7 +90,6 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
           </div>
         </div>
       </div>
-    </div>
     
       <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
