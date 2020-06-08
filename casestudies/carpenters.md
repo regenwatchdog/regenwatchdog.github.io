@@ -23,10 +23,10 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
 
 <p class="lead">Here is what some people said...</p>
 
-<div class="row mt-5 align-items-center justify-content-center">
+<div class="row mt-5 align-items-left justify-content-left">
       <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
             </div>
@@ -49,7 +49,7 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
 
       <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
             </div>
@@ -72,7 +72,7 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
 
       <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
 	    </div>
@@ -92,10 +92,9 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
       </div>
     </div>
     
-    <div class="row mt-5 align-items-left justify-content-center">
       <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
             </div>
