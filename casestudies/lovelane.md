@@ -4,8 +4,21 @@ status: Ballot pending
 category: research
 layout: casestudies 
 images:
-  - image_path: /images/lovelane3.jpg
-  - image_path: /images/lovelane4.jpg
+  - image_path: /images/love_lane5.jpg
+  - image_path: /images/love_lane.jpg
+  - image_path: /images/love_lane1.jpg
+  - image_path: /images/love_lane2.jpg
+  - image_path: /images/love_lane3.jpg
+  - image_path: /images/love_lane4.jpg
+  - image_path: /images/love_lane6.jpg
+  - image_path: /images/love_lane7.jpg
+  - image_path: /images/love_lane8.jpg
+  - image_path: /images/love_lane9.jpg
+  - image_path: /images/love_lane10.jpg
+  - image_path: /images/love_lane11.jpg
+  - image_path: /images/love_lane12.jpg
+  - image_path: /images/love_lane13.jpg
+  - image_path: /images/love_lane14.jpg
 ---
 
 
@@ -30,7 +43,7 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/lovelane3.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/love_lane5.jpg">
             </div>
             <div class="col-8 ml-auto">
               <p>
@@ -53,7 +66,7 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/lovelane3.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/love_lane5.jpg">
             </div>
             <div class="col-8 ml-auto">
               <p>
@@ -76,7 +89,7 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/lovelane3.jpg">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/love_lane5.jpg">
 	    </div>
             <div class="col-8 ml-auto">
               <p>
