@@ -8,11 +8,19 @@ The Mayor's <a href="https://www.london.gov.uk/sites/default/files/better-homes-
 
 ## Tenants
 In practice, few tenants choose to return to redeveloped estates and prefer to move to existing council homes elsewhere for a number of reasons:
-
-1. Housing Association tenancies are perceived as offering less security of tenure (Estates are generally redeveloped in partnership with developers and housing associations).
-2. Higher rents - even when social housing is re-provided at social rents. This is a result of the higher-value of the new homes, which is one of the components of the formula for calculating social rents.
-3. Higher service charges and council tax bills associated with higher-value replacement homes.
-4. Delays due to financing, planning and construction issues often mean that replacement homes don't get built for many years after an estate is demolished.  
+<ul>
+<li>
+Housing Association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in partnership with developers and housing associations).</li>
+<br>
+<li>
+Higher rents - even when social housing is re-provided at social rents. This is a result of the higher-value of the new homes, which is one of the components of the formula for calculating social rents.</li>
+<br>
+<li>
+Higher service charges and council tax bills associated with higher-value replacement homes.</li>
+<br>
+<li>
+Delays due to financing, planning and construction issues often mean that replacement homes don't get built for many years after an estate is demolished.</li>
+</ul>
 
 ## Leaseholders/freeholders
 The obligation to rehouse homeowners uprooted by estate regeneration is enshrined within the general legal 'principle of equivalence' which says that persons affected by compulsory purchase should be no worse off in financial terms after the compulsory acquisition and <a href="http://www.legislation.gov.uk/ukpga/1990/8/section/233">section 233(paras 5 & 7) of the Town and Country Planning Act 1990</a>, which says that persons compulsorily removed from their homes for planning purposes must be offered <i>'suitable accommodation'</i> on the redeveloped land <i>'on terms settled with due regard to the price at which any such land has been acquired from him'.</i>
