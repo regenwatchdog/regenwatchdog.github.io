@@ -185,10 +185,10 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 	</div>
       </div>
 
-<div class="row mt-5 align-items-left justify-content-center">
+<div class="row mt-5 align-items-left justify-content-left">
       <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
             </div>
@@ -211,7 +211,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
       <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-center">
+          <div class="row no-gutters align-items-left">
             <div class="col-3">
               <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
             </div>
