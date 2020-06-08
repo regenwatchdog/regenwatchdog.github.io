@@ -208,6 +208,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
           </div>
         </div>
       </div>
+  </div>
 
       <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
@@ -230,6 +231,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
             </div>
           </div>
         </div>
+      </div>
       </div>
 		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 	
