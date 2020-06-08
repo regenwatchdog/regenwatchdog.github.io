@@ -9,19 +9,19 @@ images:
 ---
 
 
-The estate was built in the early 60’s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s Cabinet in December 2014, this includes the demolition of the Love Lane estate. Haringey Council served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate. A resident’s ballot is due to take place on the estate.
+Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this includes the demolition of the Love Lane estate. Haringey  Council served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate.
 
 
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>        
 
 <ul>
-		<li>Love Lane residents express a lack of clear information about the regeneration of their estate, despite some council tenants being moved out several years back and having temporary tenants moved into these properties.</li>
-		<li>Those with temporary tenancies feel especially disregarded and vulnerable to displacement.</li>
-		<li>Long term residents on the Love Lane estate expressed a sense of intentional degeneration of the estate.</li>
-		<li>There is a feeling that the area is changing for a different more middle-class demographic.</li>
+		<li>Love Lane residents state that there has been a lack of clear information about the regeneration of their estate, despite some council tenants being moved out several years ago and temporary tenants being moved into these vacated properties.</li>
+		<li>Those with temporary tenancies are very fearful, they feel especially disregarded and vulnerable to displacement.</li>
+		<li>Long term residents on Love Lane felt that there had been intentional degeneration of the estate (managed decline).</li>
+		<li>Those interviewed felt that the area is changing for a different, more middle-class demographic.</li>
 		<li>Long term housing affordability in the Tottenham area is a shared concern.</li>
-		<li>There is a common mistrust towards Haringey Council and its leadership; often referenced is the failed Haringey Development Vehicle (HDV) scheme, the threat of displacement to the Latin Village, and the dominance of the Tottenham Hotspurs Stadium on the area.</li></ul>
+		<li>A common mistrust towards Haringey Council and its leadership was voiced; interviewees often referenced the failed Haringey Development Vehicle (HDV) scheme, the displacement and treatment of Latin Village, and the dominance of the new Tottenham Hotspurs Stadium on the area.</li></ul>
 
 <p class="lead">Here is what some people said...</p>
 
