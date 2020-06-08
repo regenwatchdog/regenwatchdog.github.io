@@ -16,7 +16,7 @@ images:
 coordinates: 
   - -0.156132,51.551117
 ---
-241 homes on Camden's Wendling estate have been [earmarked for demolition](https://www.camden.gov.uk/wendling-estate-and-st-stephens-close) in an options appraisal involving 3 options: in-fill, partial redevelopment and full redevelopment.  
+241 homes plus a health centre and nursery on Camden's Wendling estate have been [earmarked for demolition](https://www.camden.gov.uk/wendling-estate-and-st-stephens-close) in a 2019 options appraisal.  
 
 In July 2019, the Council's Cabinet [decided](http://democracy.camden.gov.uk/documents/s81826/12%20The%20Future%20of%20Wendling%20Estate.pdf) that its preferred option is full redevelopment and resolved to ballot residents on this option.
 
