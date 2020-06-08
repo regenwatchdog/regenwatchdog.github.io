@@ -17,6 +17,7 @@ To save the estate from demolition, Carpenters Against Regeneration Plans (CARP)
 Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held sometime in 2020.
 
 The Planning Inspector’s report on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
+
 “Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
 
 <div class="card-body">
