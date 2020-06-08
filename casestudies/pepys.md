@@ -22,19 +22,19 @@ images:
   
 ---
 
-Completed in 1973, the estate originally had 1,324 homes across three 24-storey tower blocks and ten 8-storey blocks. Several programmes of funding have seen the estate receive regeneration including the Estate Action funding of the 90’s. In 2002, five of the mid-rise housing blocks on the estate were demolished and replaced with seven housing blocks managed by a social landlord. Completed in 2008, this scheme was criticised for its lack of resident consultation and the 222 council tenants that were displaced from the original buildings were not offered the right to return. Additionally, the estate lost council homes in the sale of one if its tallest housing blocks (Aragon Tower) in 2002 to a private developer.
+Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-storey tower blocks and ten 8-storey blocks. The estate has seen several different programmes of funding for its regeneration, including Estate Action funding in the 1990s. In 2002, five of the mid-rise housing blocks on the estate were demolished and replaced with seven housing blocks managed by a social landlord. Completed in 2008, this scheme was criticised for not consulting residents and for the displacement of 222 council tenants from the original buildings who were not offered the right to return. Additionally, the estate lost council homes due to the sale of one if its tallest housing blocks (Aragon Tower) in 2002 to a private developer.
 
 
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
        
 <ul>
-		<li>Residents have seen several phases of regeneration and attempts to fight against it.</li>
-		<li>Many expressed views that the estate was seeing a new type of resident in the area, noting that there are more young professionals and families moving in.</li>
-		<li>Often referenced is the changing shops and businesses, including the new-build properties on the estate that feature additional commercial space. This is often referenced with regard to providing for the changing demographics.</li>
-		<li>Aragon Tower (previously a council block, now privately owned) is a point of contention among residents and is frequently discussed as a loss of council homes on the estate.</li>
-		<li>It is recognised by residents that the estate’s proximity to the River Thames is what makes it a desirable place to live, therefore adding to gentrification pressure with people moving to the area.</li>
-		<li>In addition, the Convoys Wharf development is mentioned, this is adjacent to the estate and is under construction, and raises concerns among residents about its potential future impacts.</li></ul>
+		<li>Residents have experienced several waves and phases of regeneration and attempts to fight against it.</li>
+		<li>Many expressed views that they were seeing a new type of resident in the area, noting that there are more young professionals and families moving in.</li>
+		<li>Interviewees often referenced the changing local shops and businesses, including the new-build properties on the estate that feature additional commercial space. These changes were seen to be providing for the changing demographic.</li>
+		<li>Aragon Tower (previously a council tower block, now privately owned) is a point of contention among residents and was frequently discussed as symbolic of the loss of council homes on the estate.</li>
+		<li>Residents recognised that the estate’s proximity to the River Thames is what makes it a desirable place to live, and that this added to the gentrification pressure attracting new people to the area.</li>
+		<li>In addition, the Convoys Wharf development was often mentioned, this is adjacent to the estate and is under construction, residents raised concerns about its potential future impacts.</li></ul>
 
 <p class="lead">Here is what some people said...</p>
 
