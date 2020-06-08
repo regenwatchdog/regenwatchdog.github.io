@@ -19,7 +19,7 @@ images:
   - image_path: /images/aylesburyident.png
 ---
 The original estate was completed in 1977, providing 2,758 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
-The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted in 2010. The plan outlined the estate’s regeneration, involving a phased demolition of all existing buildings and their rebuild, increasing density from the current 2,758 homes to 3,575. The first new homes were completed in 2012 and the Council appointed Notting Hill Genesis Housing Association as its development partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036.
+The NDC finished in 2010 and the Aylesbury Area Action Plan (AAAP) was formally adopted. The AAAP outlined the estate’s regeneration, involving phased demolition of all existing buildings and new-build re-development, increasing density to 3,575 homes. The first new homes were completed in 2012 and the Council appointed Notting Hill Genesis Housing Association as its development partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036.
 
 Notting Hill Genesis' [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) describes the replacement 'social housing' as a mix of 'target and affordable rent' and acknowledges that in any event there will be an overall net loss of 931 social rented homes.
 
@@ -106,12 +106,12 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
-		<li>Residents have experienced long term interference and disruption to services due to building works from the regeneration.</li>
-		<li>Leaseholders express concern that will not be adequately compensated for their homes, meaning they therefore will be unable to afford homes on the estate or in the area after regeneration.</li>
-		<li>There is a sense that South London as an area is experiencing gentrification pressure and that the area is likely to change for a different demographic of residents.</li>
-		<li>It was often expressed that foreign investment drives the changes and this creates resentment.</li>
-		<li>There is a fear for the future and shared opinion that the Council is intentionally displacing residents.</li>
-		<li>The loss of the Heygate Estate and the displacement of its residents is referenced often and likely adds to these fears.</li></ul>
+		<li>Residents have experienced long term interference and disruption (including to services) due to building works from the regeneration.</li>
+		<li>Leaseholders express concern that they will not be adequately compensated for their homes, meaning they will be unable to afford homes on the redeveloped site or in the area after regeneration.</li>
+		<li>The residents sense that South London as an area is experiencing gentrification pressure and that the area is likely to change to accommodate a different demographic of residents.</li>
+		<li>It was often expressed that foreign investment is driving the changes and this creates resentment.</li>
+		<li>There is a fear for the future and residents shared an opinion that the Council is intentionally displacing residents.</li>
+		<li>The symbolic loss of the adjacent Heygate Estate and the displacement of its residents is referenced often and likely adds to these fears.</li></ul>
 
 <p class="lead">Here is what some people said... </p>
 
@@ -185,6 +185,52 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 	</div>
       </div>
 
+<div class="row mt-5 align-items-center justify-content-center">
+      <div class="col-md-8 col-lg-4">
+        <div class="shadow p-3 mb-5 bg-white rounded">
+          <div class="row no-gutters align-items-center">
+            <div class="col-3">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
+            </div>
+            <div class="col-8 ml-auto">
+              <p>
+                <strong>Aylesbury estate resident</strong><br>
+                <em>Council tenant</em>
+              </p>
+            </div>
+          </div>
+          <div class="row mt-4">
+            <div class="col-12">
+              <p>
+                "They [residents moved off the estate] have been scattered around. And then, and we have been given - kind of, that they all moved, or most of them, within the Southwark Borough. But we don't know where they have moved to. But the main thing, most of them have moved to housing associations. Which is, we know is future homelessness is waiting for them, and some of them have started struggling, because everybody knows that they cannot afford to pay the rent, service charge, now housing association have already made the private landlord, so who is going to, keep the rents and everything - as a private, they do as they like."
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+        <div class="shadow p-3 mb-5 bg-white rounded">
+          <div class="row no-gutters align-items-center">
+            <div class="col-3">
+              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
+            </div>
+            <div class="col-8 ml-auto">
+              <p>
+                <strong>Aylesbury estate resident</strong><br>
+                <em>Council tenant</em>
+              </p>
+            </div>
+          </div>
+          <div class="row mt-4">
+            <div class="col-12">
+              <p>
+                "You know, when I moved, the time I moved, the council housing is for life, until you die you live there, that is the things that I put in my mind, and that was this place where I am going to die. And then suddenly, when the whole of this gentrification, it started, it has been taken away from, the whole of the network and that is it. You have got to your home, to die in, and it has been taken away from you."
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
 		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 		
         <div class="card-columns">
