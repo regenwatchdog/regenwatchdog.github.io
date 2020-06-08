@@ -79,13 +79,13 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
             <div class="col-8 ml-auto">
               <p>
                 <strong>Carpenters estate resident</strong><br>
-                <em>Leaseholder</em>
+                <em>Private tenant</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
-              <p>"… And then they started decanting people. It felt like, of course very upsetting [sic]. Because, my plan was to, you know, I am a leaseholder, so, while I was working I purchased the flat, and slowly tried to pay it off. And then have this as my retirement flat, and live here. But all of that has been disturbed. And the process was quite bad, they were trying to knock at the door without any notification. They will just drop the card, saying ‘Can you contact us’? And people who spoke to them, they were kind of threatening as well. They were giving, saying to people that you indirectly, you know... trying to push them out."</p>
+              <p>"I am worried since then, I am really worried, where am I going to end up? Because I have no idea where I am going to end up. And all of the people living around, they don't know where they are going to end. Because the whole point, is the Council actually decides. That is what I say, they play with, they play with games with our lives. At least they should let us choose the places."</p>
             </div>
           </div>
         </div>
@@ -123,14 +123,14 @@ The Carpenters Estate was completed in 1970, providing 710 homes. Plans for its 
             <div class="col-8 ml-auto">
               <p>
                 <strong>Carpenters estate resident</strong><br>
-                <em>Private tenant</em>
+                <em>Leaseholder</em>
               </p>
             </div>
           </div>
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "I am worried since then, I am really worried, where am I going to end up? Because I have no idea where I am going to end up. And all of the people living around, they don't know where they are going to end. Because the whole point, is the Council actually decides. That is what I say, they play with, they play with games with our lives. At least they should let us choose the places."
+	      "… And then they started decanting people. It felt like, of course very upsetting [sic]. Because, my plan was to, you know, I am a leaseholder, so, while I was working I purchased the flat, and slowly tried to pay it off. And then have this as my retirement flat, and live here. But all of that has been disturbed. And the process was quite bad, they were trying to knock at the door without any notification. They will just drop the card, saying ‘Can you contact us’? And people who spoke to them, they were kind of threatening as well. They were giving, saying to people that you indirectly, you know... trying to push them out."
               </p>
             </div>
           </div>
