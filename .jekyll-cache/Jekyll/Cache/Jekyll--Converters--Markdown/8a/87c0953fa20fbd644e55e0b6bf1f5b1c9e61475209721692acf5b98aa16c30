@@ -1,27 +1,15 @@
----
-title: Carpenters estate
-status: Partially decanted - ballot and design stage pending
-category: research
-layout: casestudies 
-images:
-  - image_path: /images/carpenters.jpg
-  - image_path: /images/carpenters1.jpg
-  - image_path: /images/carpenters2.jpg
-  - image_path: /images/carpenters3.jpg
----
+I"�"<p>The Carpenters Estate is near to the Queen Elizabeth (Olympic) Park, Stratford, in the London Borough of Newham.  The estate was completed in 1970, providing 710 homes.  Plans for its regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005/06.  Three tower blocks on the estate have been emptied of council tenants, though some leaseholders remain.  The lower rise buildings continue to be occupied by a mixed community of council tenants, leaseholders and freeholders and this remains a strong and supportive community.</p>
 
-The Carpenters Estate is near to the Queen Elizabeth (Olympic) Park, Stratford, in the London Borough of Newham.  The estate was completed in 1970, providing 710 homes.  Plans for its regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005/06.  Three tower blocks on the estate have been emptied of council tenants, though some leaseholders remain.  The lower rise buildings continue to be occupied by a mixed community of council tenants, leaseholders and freeholders and this remains a strong and supportive community. 
+<p>To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  Carpenters Community Plan was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.</p>
 
-To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  Carpenters Community Plan was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
+<p><img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%" /></p>
 
-<img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
+<p>Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held sometime in 2020.</p>
 
-Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held sometime in 2020.
-
-The Planning Inspector’s report on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
+<p>The Planning Inspector’s report on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
 <i><strong>
-“Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
-</strong></i>
+“Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement….”
+</strong></i></p>
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
@@ -38,11 +26,11 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/carpenters.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Carpenters estate resident</strong><br>
+                <strong>Carpenters estate resident</strong><br />
                 <em>Leaseholder</em>
               </p>
             </div>
@@ -61,11 +49,11 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/carpenters.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Carpenters estate resident</strong><br>
+                <strong>Carpenters estate resident</strong><br />
                 <em>Council tenant</em>
               </p>
             </div>
@@ -84,11 +72,11 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/carpenters.jpg" />
 	    </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Carpenters estate resident</strong><br>
+                <strong>Carpenters estate resident</strong><br />
                 <em>Private tenant</em>
               </p>
             </div>
@@ -105,11 +93,11 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/carpenters.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Carpenters estate resident</strong><br>
+                <strong>Carpenters estate resident</strong><br />
                 <em>Freeholder</em>
               </p>
             </div>
@@ -128,11 +116,11 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/carpenters.jpg">
+              <img alt="image" class="img-fluid rounded" src="/images/carpenters.jpg" />
             </div>
             <div class="col-8 ml-auto">
               <p>
-                <strong>Carpenters estate resident</strong><br>
+                <strong>Carpenters estate resident</strong><br />
                 <em>Leaseholder</em>
               </p>
             </div>
@@ -148,3 +136,5 @@ The Planning Inspector’s report on the Local Plan (London Legacy Development C
       </div>
 
 </div>
+</div>
+:ET
