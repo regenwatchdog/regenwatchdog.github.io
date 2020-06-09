@@ -1,6 +1,6 @@
 ---
 title: Carpenters estate
-status: Partially decanted - ballot and design stage pending
+status: Proposal Stage
 category: research
 layout: casestudies 
 images:
@@ -16,9 +16,9 @@ To save the estate from demolition, <a href="https://savecarpenters.wordpress.co
 
 <img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
 
-Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held sometime in 2020.
+Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2020.
 
-The Planning Inspector’s report on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
+The [Planning Inspector’s report](https://www.queenelizabetholympicpark.co.uk/-/media/lldc/local-plan/examination-2019/inspectors-reports/appendix-1_inspectors-lldc-revised-lp_final-report.ashx?la=en) on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
 <i><strong>
 “Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
 </strong></i>

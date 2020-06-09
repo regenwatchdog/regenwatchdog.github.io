@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: CPO issued, demolition pending
+status: Implementation 
 erg: noncompliant
 name: Gascoigne estate
 borough: barkinganddagenham

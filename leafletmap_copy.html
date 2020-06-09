@@ -54,16 +54,8 @@ function onEachFeature(feature, layer) {
 }
 
 L.geoJSON(freeBus, {
-    onEachFeature: onEachFeature,
-	pointToLayer: function(feature, latlng) {
-        switch (feature.properties.status) {
-		case 'Proposal': return L.circleMarker(latlng, {fillColor: "#80ff00", fillOpacity: "0.4"}); 
-		case 'Preparation':  return L.circleMarker(latlng, {fillColor: "#ffbf00", fillOpacity: "0.5"});
-		case 'Implementation': return L.circleMarker(latlng, {fillColor: "#FF6347", fillOpacity: "0.7"});
-        }
-    }
+	    onEachFeature: onEachFeature
 }).addTo(map);
-
 
 </script>
 

@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-consultation or planning
+status: Proposal 
 name: Severn Way
 borough: brent
 coordinates:

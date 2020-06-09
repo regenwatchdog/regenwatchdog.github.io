@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot exempt, first phase approved 
+status: Preparation 
 name: Grahame Park estate
 borough: barnet
 images:

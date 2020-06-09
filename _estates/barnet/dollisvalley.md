@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Planning approved, phase 1 underway 
+status: Implementation 
 name: Dollis Valley estate
 borough: barnet
 images:

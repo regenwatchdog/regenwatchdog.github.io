@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved, planning application pending
+status: Preparation 
 name: South Kilburn estate 
 borough: brent 
 images:

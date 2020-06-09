@@ -1,0 +1,75 @@
+I"><div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/brentmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/brentmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/severnway/">
+                      <img class="card-img-top" src="/images/Severn_way3LS.jpg" alt="Severn Way" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Severn Way</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Proposal</h6>
+		      <p class="card-text"><p>Circa 50 homes on Severn Way Crescent in Brent are under threat of demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/severnway/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/shootuphill/">
+                      <img class="card-img-top" src="/images/windmillcourt2.jpg" alt="Watling Gardens estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Watling Gardens estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Proposal</h6>
+		      <p class="card-text"><p>Circa 50 homes are under threat of Demolition on Brent’s Watling Gardens estate in Kilburn.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/shootuphill/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/southkilburn/">
+                      <img class="card-img-top" src="/images/southkilburn.jpg" alt="South Kilburn estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">South Kilburn estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: Ballot approved, planning application pending</h6>
+		      <p class="card-text"><p>Circa 800 homes remain under threat of demolition at Brent’s redevelopment of the South Kilburn estate.</p>
+</p>
+                      <a target="_blank" href="/estates/brent/southkilburn/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/brent/straphaels/">
+                      <img class="card-img-top" src="/images/straphaels2.jpg" alt="St. Raphael's estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">St. Raphael's estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>793 homes on the St Raphael’s estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below).</p>
+</p>
+                      <a target="_blank" href="/estates/brent/straphaels/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

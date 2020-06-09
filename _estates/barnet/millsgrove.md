@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot and planning permission approved 
+status: Preparation 
 name: Mills Grove & Westhorpe Gdns estate
 borough: barnet
 images:

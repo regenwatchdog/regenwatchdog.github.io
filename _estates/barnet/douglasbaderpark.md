@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved, planning application pending
+status: Preparation 
 status: Planning and ballot approved 
 name: Douglas Bader Park estate
 borough: barnet
