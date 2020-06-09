@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Preparation 
+stage: Preparation 
 name: Grahame Park estate
 borough: barnet
 images:

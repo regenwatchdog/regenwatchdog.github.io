@@ -34,13 +34,10 @@
 <script src="../london_boroughs.json" type="text/javascript"></script>
 
 <script>
-	var map = L.map('map').setView([51.386579, 0.042084], 12);
+	var map = L.map('map', {attributionControl: false}).setView([51.386579, 0.042084], 12);
 
 	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
-		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 		id: 'mapbox/light-v9',
 		tileSize: 512,
 		zoomOffset: -1
@@ -54,11 +51,6 @@ function onEachFeature(feature, layer) {
 		        }
 }
 
-L.geoJSON(freeBus, {
-	    onEachFeature: onEachFeature
-}).addTo(map);
-
-
 L.geoJSON(londonBoroughs, {
 	    style: function(feature) {
 	            switch (feature.properties.name) {
@@ -66,6 +58,20 @@ L.geoJSON(londonBoroughs, {
 			            }
 		        }
 }).addTo(map);
+
+L.geoJSON(freeBus, {
+    onEachFeature: onEachFeature,
+	pointToLayer: function(feature, latlng) {
+        switch (feature.properties.stage) {
+		case 'Proposal': return L.circleMarker(latlng, {fillColor: "#80ff00", fillOpacity: "0.4"}); 
+		case 'Preparation':  return L.circleMarker(latlng, {fillColor: "#ffbf00", fillOpacity: "0.5"});
+		case 'Implementation': return L.circleMarker(latlng, {fillColor: "#FF6347", fillOpacity: "0.7"});
+        }
+    }
+}).addTo(map);
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre consultation and ballot
+stage: Proposal
 name: Picardy Street estate 
 borough: bexley
 images:

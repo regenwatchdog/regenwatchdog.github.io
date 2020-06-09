@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Proposal 
+stage: Proposal 
 name: Severn Way
 borough: brent
 coordinates:

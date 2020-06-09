@@ -1,4 +1,4 @@
-I"�<div class="col">
+I"l<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/barnetmap.html" width="100%" height="400px"></iframe>
 </div>
@@ -16,7 +16,7 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Dollis Valley estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: Implementation</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
 		      <p class="card-text"><p>363 of the 440 homes on Barnet’s Dollis Valley estate are under threat of demolition. Whilst the low-rise terraced properties on the south side of the estate will be retained, all 363 of the 5-storey maisonette blocks on the north side will be demolished.</p>
 </p>
                       <a target="_blank" href="/estates/barnet/dollisvalley/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
@@ -46,7 +46,7 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Grahame Park estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: Preparation</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
 		      <p class="card-text"><p>1,314 homes are under threat of demolition at Barnet’s Grahame Park Estate. The estate was constructed in the early 1970s by the GLC on the site of the former Hendon Aerodrome.</p>
 </p>
                       <a target="_blank" href="/estates/barnet/grahamepark/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
@@ -61,7 +61,7 @@
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">Mills Grove &amp; Westhorpe Gdns estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: Preparation</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
 		      <p class="card-text"><p>102 homes on Barnet’s Mills Grove and Westhorpe estate are under threat of demolition.</p>
 </p>
                       <a target="_blank" href="/estates/barnet/millsgrove/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>

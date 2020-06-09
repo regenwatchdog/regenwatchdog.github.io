@@ -2,7 +2,7 @@
 layout: default
 title: Estates under threat
 ---
-<h1>{{ page.name }}</h1><h3 class="text-muted">Status: {{ page.status }}</h3>
+<h1>{{ page.name }}</h1><h3 class="text-muted">Stage: {{ page.stage }}</h3>
 
 <div class="carousel" data-flickity='{ "fullscreen": true, "lazyLoad": 1, "cellAlign": "center", "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 4000 }'>
  {% for image in page.images %}
@@ -10,8 +10,6 @@ title: Estates under threat
 {% endfor %}
 </div>
 
-</br>
-</br>
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">

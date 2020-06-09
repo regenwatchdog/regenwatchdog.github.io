@@ -1,7 +1,7 @@
 ---
 category: underthreat
 erg: noncompliant
-status: Ballot exempt, planning approved, decant active 
+stage: Implementation 
 name: Arthur Street estate 
 borough: bexley
 images:
@@ -11,7 +11,7 @@ images:
   - image_path: /images/as3.png
   - image_path: /images/as4.png
 coordinates: 
-  - 0.126122,51.495310
+  - 0.183563,51.473006
 ---
 In Sep 2019, the Mayor approved the demolition of 262 homes on Bexley's Arthur Street estate - to be replaced by 320, all social rent being replaced by London Affordable Rent, at a net loss of 134 ‘social’ homes
 

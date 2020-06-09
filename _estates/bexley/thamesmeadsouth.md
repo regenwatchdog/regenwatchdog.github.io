@@ -1,7 +1,7 @@
 ---
 category: underthreat
 erg: noncompliant
-status: Pre ballot and consultation
+stage: Implementation
 name: Thamesmead South (phase 1) 
 borough: bexley
 images:

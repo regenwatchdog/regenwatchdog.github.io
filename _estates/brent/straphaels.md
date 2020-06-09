@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Proposal
+stage: Proposal
 name: St. Raphael's estate
 borough: brent
 images:

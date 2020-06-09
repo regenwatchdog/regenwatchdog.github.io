@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Proposal
+stage: Proposal
 name: Watling Gardens estate
 borough: brent
 images:

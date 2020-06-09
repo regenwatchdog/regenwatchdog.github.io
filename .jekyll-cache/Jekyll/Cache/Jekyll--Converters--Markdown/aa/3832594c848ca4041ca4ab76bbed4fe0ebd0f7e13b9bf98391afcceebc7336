@@ -1,4 +1,4 @@
-I"v<div class="col">
+I"	<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/lewishammap.html" width="100%" height="400px"></iframe>
 </div>
@@ -21,6 +21,21 @@
 		      <p class="card-text"><p>In September 2011, Lewisham Council agreed to redevelop the 276 council homes in Milford Towers along with the Catford Shopping centre (which it sits above) as part of its regeneration plans for Catford Town Centre.</p>
 </p>
                       <a target="_blank" href="/estates/lewisham/milfordtowers/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/lewisham/reginald/">
+                      <img class="card-img-top" src="/images/reginald1.jpg" alt="Achilles and Reginald House" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Achilles and Reginald House</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p><a href="http://councilmeetings.lewisham.gov.uk/documents/s67637/Appendix%20A%20-%20Achilles%20Street%20Landlord%20Offer.pdf">Landlord offer</a></p>
+</p>
+                      <a target="_blank" href="/estates/lewisham/reginald/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>

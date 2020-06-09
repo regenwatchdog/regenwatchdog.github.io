@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre ballot and consultation
+stage: Proposal
 name: Thamesmead east (phase 2) 
 borough: bexley
 images:
