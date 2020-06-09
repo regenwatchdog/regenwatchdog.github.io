@@ -1,0 +1,44 @@
+I"<center><h1>Re-housing existing residents</h1></center>
+<p><br /> 
+The Mayor’s <a href="https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf">Estate Regeneration Policy</a> says that schemes must provide <i>“full rights to return or remain for social tenants, and a fair deal for leaseholders and freeholders.”</i></p>
+
+<h2 id="tenants">Tenants</h2>
+<p>Tenants are generally always offered a right to return to new homes on their estates once they are built. But in practice most prefer to move away to council homes elsewhere for a number of reasons:</p>
+
+<div class="row">
+  <div class="col-4">
+    <div class="list-group" id="list-tab" role="tablist">
+      <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Security of tenure</a>
+      <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Higher rents</a>
+      <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Service charge/council tax</a>
+      <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Delays</a>
+    </div>
+  </div>
+  <div class="col-8">
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Tenants often choose to be rehoused elsewhere in existing council stock because housing association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in partnership with developers and housing associations). Even where Councils redevelop estates themselves, they generally do so using <a href="https://www.insidehousing.co.uk/news/news/councils-set-up-58-housing-companies-since-2012-54634">Housing Companies</a>, which offer different tenancies and calculate rents differently (see for example the <a href="/estates/barkinganddagenham/gascoigne">Gascoigne estate regeneration</a>).</div>
+      <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">Even when social housing is re-provided at social rents. This is a result of the higher-value of the new homes, which is one of the components of the formula for calculating social rents.</div>
+      <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">Higher service charges and council tax bills associated with higher-value replacement homes.</div>
+      <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">Delays due to financing, planning and construction issues often mean that replacement homes don't get built for many years after an estate is demolished. For example, <a href="/estates/camden/aspenhouse/">Maitland Park estate</a> in Camden, where tenants were told that the new homes would be ready for them by April 2019 and in June 2020 their old homes still hadn't been demolished; or the <a href="/estates/towerhamlets/teviot/">Teviot estate regeneration</a> where residents were told their new homes would take 7-10 years to build, but in official tender documents it stated 15-20 years.</div>
+    </div>
+  </div>
+</div>
+
+<h2 id="leaseholdersfreeholders">Leaseholders/freeholders</h2>
+<p>The obligation to rehouse homeowners uprooted by estate regeneration is enshrined within the general legal ‘principle of equivalence’ which says that persons affected by compulsory purchase should be no worse off in financial terms after the compulsory acquisition and <a href="http://www.legislation.gov.uk/ukpga/1990/8/section/233">section 233(paras 5 &amp; 7) of the Town and Country Planning Act 1990</a>, which says that persons compulsorily removed from their homes for planning purposes must be offered <i>‘suitable accommodation’</i> on the redeveloped land <i>‘on terms settled with due regard to the price at which any such land has been acquired from him’.</i></p>
+
+<p>Most boroughs offer a shared-equity scheme to leaseholders which in theory enables them to buy a share in one of the new replacement homes, without having to pay rent on the retained share.</p>
+
+<p>However, many boroughs attach small print to their offer requiring leaseholders to give up their savings or take out a mortgage (on top of any existing mortgage), or in some cases requiring a minimum share of say 50% or 70% (which has the same effect). Some boroughs also deny succession for their shared-equity schemes, meaning that any descendants living with leaseholders would have to sell and move out of their homes when the named leaseholder passes away.</p>
+
+<p>The Mayor continues to turn a blind eye to these practices, despite them being <a href="https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents">deemed unlawful</a> by the Secretary of State at the 2015 Aylesbury estate CPO inquiry, which required Southwark to <a href="http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf">amend</a> its policy.</p>
+
+<p>Several boroughs also include small print in their fall-back schemes for leaseholders who can’t afford shared equity and who require rehousing as tenants - these are forced to accept just 25% of the market value of their homes.</p>
+
+<p>This is a breach of the Government’s <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571453/booklet4.pdf">Compulsory Purchase Code</a> which says that:</p>
+
+<p><img src="/images/cpocodeextract.png" class="img-fluid rounded img-thumbnail" /></p>
+
+<p>For more information, see our <a href="">Handout</a> for leaseholders on our <a href="/guide">Handouts</a> page.</p>
+
+:ET
