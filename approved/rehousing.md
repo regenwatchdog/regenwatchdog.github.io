@@ -1,13 +1,13 @@
 ---
 layout: default
 category: approved 
-title: Re-housing offers 
+title: Re-housing existing residents 
 ---
 <center><h1>Re-housing existing residents</h1></center><br> 
 The Mayor's <a href="https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf">Estate Regeneration Policy</a> says that schemes must provide <i>"full rights to return or remain for social tenants, and a fair deal for leaseholders and freeholders."</i> But the Mayor continues to turn a blind eye to regeneration schemes where re-housing offers leave residents worse off.
 
 ## Tenants
-Tenants are generally always offered a right to return to new homes being built on their estates, but in practice most prefer to move away to council homes elsewhere for a number of reasons:
+Tenants are generally always offered a right to return to new homes being built on their estates, but in practice most prefer to move away to existing council homes elsewhere for a number of reasons:
 
 <div class="row">
   <div class="col-4">
@@ -20,7 +20,7 @@ Tenants are generally always offered a right to return to new homes being built 
   </div>
   <div class="col-8">
     <div class="tab-content" id="nav-tabContent">
-      <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Tenants often choose to be rehoused elsewhere in existing council stock because housing association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in joint ventures with developers and housing associations). Even where Councils redevelop estates themselves, they generally do so using <a href="https://www.insidehousing.co.uk/news/news/councils-set-up-58-housing-companies-since-2012-54634">Housing Companies</a>, which offer different tenancies and calculate rents differently (see for example the <a href="/estates/barkinganddagenham/gascoigne">Gascoigne estate regeneration</a>).</div>
+      <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Housing association tenancies are perceived as offering less security of tenure (estates are generally redeveloped in joint ventures with developers and housing associations). Even where Councils redevelop estates themselves, they generally do so using <a href="https://www.insidehousing.co.uk/news/news/councils-set-up-58-housing-companies-since-2012-54634">Housing Companies</a>, which offer different tenancies and calculate rents differently (see for example the <a href="/estates/barkinganddagenham/gascoigne">Gascoigne estate regeneration</a>).</div>
       <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">Even when social housing is re-provided as social rented tenure (it's <a href="/approved/schemesapproved">often provided as a different tenure</a>) the rent levels are higher than the rents that tenants currently pay. This is a result of the fact that the new homes are of a much greater value and property value is one of the components of the <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/313992/ccrfa3_fullc.pdf">formula</a> for calculating social rents.</div>
       <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">Higher value homes generally incur higher service charges and council tax bills inevitably rise as a result of the higher band of the new homes. A small number of councils and housing associations have recognised this and offer a discount in the first 5 years but the majority of schemes don't make any such concessions.</div>
       <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">Delays due to financing, planning and construction issues often mean that replacement homes don't get built for many years after an estate is demolished. For example, at <a href="/estates/camden/aspenhouse/">Maitland Park estate</a> in Camden tenants were told that the new homes would be ready for them by April 2019 but in June 2020 the homes they vacated in 2017 still hadn't been demolished. Another example is the <a href="/estates/towerhamlets/teviot/">Teviot estate</a> in Poplar, where the housing association told residents their new homes would take 7-10 years to build, but in official tender documents it wrote 15-20 years.</div>
