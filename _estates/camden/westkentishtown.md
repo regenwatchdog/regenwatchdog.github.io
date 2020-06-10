@@ -20,6 +20,8 @@ images:
 coordinates: 
   - -0.149254,51.549409
 ---
+316 homes are earmarked for demolition on Camden's West Kentish Town estate.
+
 In March 2020, residents on Camden's West Kentish Town estate were balloted on the demolition plans for their homes. The majority 
 Prior to the ballot, residents were [told](/images/wtoffer.pdf) that if they vote against the scheme the their homes wouldn't be brought up to standard for at least another five to ten years: 
 
