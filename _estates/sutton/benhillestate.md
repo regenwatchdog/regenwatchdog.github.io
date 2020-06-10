@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Benhill estate 
 borough: sutton
 images:
@@ -23,6 +24,8 @@ images:
 coordinates:
   - -0.1901,51.3673
 ---
+429 homes have been earmarked for potential development on Sutton's Benhill estate.
+
 The Benhill estate comprising 429 homes near Sutton High Street, is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
 ![](/images/suttonplan.png)

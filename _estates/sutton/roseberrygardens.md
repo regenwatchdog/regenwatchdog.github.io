@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Roseberry Gardens estate 
 borough: sutton
 images:
@@ -9,6 +10,8 @@ images:
 coordinates:
   - -0.1929,51.3679
 ---
+Circa 150 homes have been earmarked for demolition on Sutton's Roseberry Gardens estate.
+
 The Roseberry Gardens estate is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
 ![](/images/suttonplan.png)

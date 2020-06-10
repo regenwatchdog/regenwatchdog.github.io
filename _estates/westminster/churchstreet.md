@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased redevelopment
+stage: Implementation
 name: Church Street area estate 
 borough: westminster
 images:
@@ -13,6 +13,8 @@ coordinates:
   - '-0.170681,51.523316'
 published: true
 ---
+Circa 200 homes on Westminster's Church Street area estate are under threat of potential demolition.
+
 Church street estate is located in Maida Vale, situated beside the Regent's Canal and in close proximity of Regent's Park.
 It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) within an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 

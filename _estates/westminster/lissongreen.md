@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased redevelopment
+stage: Proposal
 name: Lisson Green estate
 borough: westminster
 images:
@@ -20,8 +20,9 @@ coordinates:
   - '-0.167721,51.525955'
 published: true
 ---
-The Lisson Green estate is a large estate (circa 1,000 homes) in Maida Vale, situated beside the Regent's Canal and Regent's Park.
-It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) inside an an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
+Circa 1,000 homes are under threat of potential demolition on Westminster's Lisson Green estate in Maida Vale.
+
+The estate, which is situated beside the Regent's Canal and Regent's Park sits [within](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 
 <img src="/images/renewalarea.png" class="img-fluid rounded img-thumbnail">
 

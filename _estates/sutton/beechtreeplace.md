@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Beech Tree Place 
 borough: sutton
 images:
@@ -8,7 +9,7 @@ images:
 coordinates:
   - -0.194613,51.363438
 ---
-Beech Tree Place comprises 21 sheltered housing council homes in Sutton town centre.
+21 homes at Beech Tree Place near Sutton Town centre are under threat of demolition by Sutton Council.
 
 In September 2017, it was [listed](https://moderngov.sutton.gov.uk/documents/s54307/7%20Housing%20Revenue%20Account%20Business%20Plan%20201718%20-%20204647%20-%20Appendix%20A.pdf) as 'amber' in Sutton's [stock investment review](https://moderngov.sutton.gov.uk/documents/s54306/7%20Housing%20Revenue%20Account%20Business%20Plan%20201718%20-%20204647.pdf) which requires an options appraisal on the future of the building before any continued investment in its upkeep:
 

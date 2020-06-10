@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Collingwood estate
 borough: sutton
 images:
@@ -15,6 +16,8 @@ images:
 coordinates: 
   - -0.1988,51.3691
 ---
+Circa 250 homes are under threat of potential demolition on Sutton's Collingwood estate.
+
 The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station. 
 
 In 2013, the high-rise block on the estate (Balaam House) was clad with a light-blue aluminiumn composite material. In 2017, following the investigations as a result of the Grenfell disaster, it was [revealed](https://www.yourlocalguardian.co.uk/news/15372936.we-feel-so-unsafe-sutton-tower-block-residents-at-balaam-house-say-they-are-living-in-fear-after-grenfell-to/) that the cladding had failed safety tests.

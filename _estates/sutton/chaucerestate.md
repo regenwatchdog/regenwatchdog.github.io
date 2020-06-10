@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Chaucer Gardens estate
 borough: sutton
 images:
@@ -12,6 +13,8 @@ images:
 coordinates:
   - -0.2008,51.3705
 ---
+Circa 250 homes have been earmarked for potential demolition on Sutton's Chaucer Gardens estate.
+
 The Chaucer estate comprises one 16-storey high-rise block (Chaucer House) surrounded by a dozen 2-4 storey maisonette blocks, situated behind Sutton High Street, near Collingwood park and West Sutton train station. 
 
 In 2013, the high-rise block on the estate was clad with a light-blue Aluminium composite material. In 2017, after the investigations following the Grenfell disaster, it was [revealed](https://www.yourlocalguardian.co.uk/news/15387026.sutton-housing-partnership-sutton-council-and-sutton-fire-commander-meet-concerned-residents-living-in-chaucer-house-sutton/) that the cladding had failed safety tests.

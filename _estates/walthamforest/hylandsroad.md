@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Implementation
 name: Hylands Road estate
 borough: walthamforest
 coordinates:

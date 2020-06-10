@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased redevelopment
+stage: Implementation 
 name: Ebury Bridge estate 
 borough: westminster
 images:

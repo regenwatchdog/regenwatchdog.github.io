@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-ballot
+stage: Proposal
 name: St John's estate
 borough: towerhamlets 
 images:

@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved - planning pending
+stage: Preparation
 name: Clichy estate 
 borough: towerhamlets 
 images:
@@ -10,7 +10,7 @@ coordinates:
   - '-0.048942,51.516104'
 published: true
 ---
-The Clichy estate in Stepney has been [earmarked for redevelopment](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx) by Tower Hamlets Council.
+Circa 100 homes on Stepney's Clichy estate have been [earmarked for demolition earmarked for redevelopment](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx) by Tower Hamlets Council.
 
 In April 2020, the ballot of 'eligible' residents on Stepney's [Clichy estate](https://estatewatch.github.io/estates/towerhamlets/clichyestate/) went ahead despite [consultation sessions being cancelled due to the Coronavirus](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx) and resulted in a 98% vote in favour of redevelopment on a [90% turnout](https://www.housingtoday.co.uk/news/tower-hamlets-estate-regeneration-plan-wins-resident-approval/5105879.article).
 

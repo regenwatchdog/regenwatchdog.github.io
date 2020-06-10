@@ -2,7 +2,7 @@
 category: underthreat
 erg: noncompliant
 name: Eastfields estate
-status: Outline planning approved, phase 1 start delayed 
+stage: Implementation 
 borough: merton
 images:
   - image_path: /images/ef4.jpg
@@ -13,7 +13,9 @@ images:
 coordinates: 
   - '-0.149209,51.407168'
 ---
-In Nov 2018, the Mayor [approved](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) the demolition of 466 homes on Merton's Eastfields estate, to be replaced by 800 homes of which only 262 affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
+446 homes on Merton's Eastfields estate are earmarked for demolition, to be replaced by 800 homes of which only 262 affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
+
+In Nov 2018, the Mayor [approved](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) the demolition of 466 homes on Merton's Eastfields estate and subsequently [exempted](/approved/ballotexemptions) it from his requirement to ballot residents on the demolition plans.
 
 The estate is a seven hectare site overlooking Streatham Park Cemetery, comprising a mix of houses and three storey blocks of flats. It also contains a large area of open space at the centre of the estate.
 

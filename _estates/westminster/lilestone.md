@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Planning designation 
+stage: Proposal 
 name: Lilestone estate
 borough: westminster
 images:
@@ -16,6 +16,8 @@ coordinates:
   - '-0.174412,51.524650'
 published: true
 ---
+Circa 150 homes are under threat of potential demolition on Westminster' Lilestone estate.
+
 The Lilestone estate is a small estate in Maida Vale, situated beside the Regent's Canal and in close proximity of Regent's Park.
 It is also [located](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) within an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 

@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Sutton Court estate 
 borough: sutton
 images:
@@ -14,6 +15,8 @@ images:
 coordinates:
   - -0.1901,51.3577
 ---
+Circa 150 homes have been earmarked for potential demolition at the Sutton Court estate.
+
 The Sutton Court estate is one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
 ![](/images/suttonplan.png)

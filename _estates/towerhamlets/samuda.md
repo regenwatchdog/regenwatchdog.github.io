@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-ballot
+stage: Proposal
 name: Samuda estate
 borough: towerhamlets 
 images:

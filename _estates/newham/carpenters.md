@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-ballot consultation stage
+stage: Proposal
 name: Carpenters estate
 borough: newham
 images:
@@ -25,13 +25,23 @@ images:
 coordinates:
   - '-0.004882,51.537846'
 ---
-Newham Council's [website](https://www.newham.gov.uk/regeneration-1/regeneration-project-carpenters-estate/2?documentId=343&categoryId=20140) says the following about the regeneration of the Carpenters estate:
+710 homes are under threat of demolition on Newham's Carpenters estate in Stratford.
 
-<div class="card box-shadow">
-          <div class="card-body">
-<i>"Plans to regenerate the estate first started in 2003 when a Masterplan was discussed and agreed with the TMO, with decanting of residents commencing the following year, with over half the homes now being empty. </i>
-</div>
-</div>
+Plans for the estate's regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005/06.  Three tower blocks on the estate have been emptied of council tenants, though some leaseholders remain.  The lower rise buildings continue to be occupied by a mixed community of council tenants, leaseholders and freeholders and this remains a strong and supportive community. 
+
+To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  Carpenters Community Plan was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
+
+<img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
+
+Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2020.
+
+The [Planning Inspector’s report](https://www.queenelizabetholympicpark.co.uk/-/media/lldc/local-plan/examination-2019/inspectors-reports/appendix-1_inspectors-lldc-revised-lp_final-report.ashx?la=en) on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
+<i><strong>
+“Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
+</strong></i>
+
+Newham Council's [website](https://www.newham.gov.uk/regeneration-1/regeneration-project-carpenters-estate/2?documentId=343&categoryId=20140) says the following about its regeneration of the Carpenters estate:
+
 
 <div class="card box-shadow">
           <div class="card-body">

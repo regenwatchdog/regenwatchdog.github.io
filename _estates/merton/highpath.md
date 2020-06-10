@@ -2,7 +2,7 @@
 category: underthreat
 erg: noncompliant
 name: High Path estate
-status: Outline planning approved, first phase in progress
+stage: Implementation
 borough: merton
 images:
   - image_path: /images/highpath.jpg
