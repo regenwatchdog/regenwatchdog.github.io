@@ -15,7 +15,7 @@ images:
 coordinates: 
   - -0.370627,51.500392
 ---
-845 homes are earmarked for demolitioin on Ealing's Havelock estate Southall.
+845 homes are earmarked for demolitioin on Ealing's Havelock estate in Southall.
 
 The Havelock Estate is located in Southall, just to the north of the Grand Union Canal, and just to the south of the railway line to London Paddington. The estate exists within the wider context of the Southall Opportunity Area, which has been designated as the Mayor for intensive redevelopment.
 

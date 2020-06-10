@@ -16,7 +16,7 @@ A number of council estates were earmarked for redevelopment in Newham's [Custom
 
 The Canning Town side of the scheme is nearing completion but the Custom House estates are yet to be redeveloped. These are marked out on the South-west corner of the masterplan map below.
 
-![](/images/canningtownspd.png)
+<a href="/images/canningtownspd.png" class="img-fluid rounded img-thumbnail">
 
 [This July 2019 update](https://www.newham.gov.uk/Documents/Environment%20and%20planning/CustomHouseRegenerationFAQs.pdf) from Newham confirms that the Council is in the process of rehousing tenants from Area 6 and Area 9 but that Areas 4,5 and 18 will not be decanted in the short term. 
 
@@ -25,3 +25,5 @@ In February 2017, Area 16 (previously designated for enhancement) was [designate
 In 2018, the [PEACH group - Peoples Empowerment Alliance for Custom House]() launched its own [regeneration manifesto](http://www.peach-e16.org.uk/index.php/housing/109-peach-regeneration-manifesto-2018) for the regeneration of the Custom House area:
 
 <img src="/images/peach.png" class="img-fluid rounded img-thumbnail">
+
+There is a detailed chapter written about the PEACH group's involvement in the regeneration included in a book [published](https://www.uclpress.co.uk/products/125696) under the title: 'Community-led regeneration, a toolkit for residents and planners'

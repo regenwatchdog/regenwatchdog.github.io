@@ -22,13 +22,13 @@ The Collingwood estate comprises one high-rise block surrounded by a dozen 4-6 s
 
 In 2013, the high-rise block on the estate (Balaam House) was clad with a light-blue aluminiumn composite material. In 2017, following the investigations as a result of the Grenfell disaster, it was [revealed](https://www.yourlocalguardian.co.uk/news/15372936.we-feel-so-unsafe-sutton-tower-block-residents-at-balaam-house-say-they-are-living-in-fear-after-grenfell-to/) that the cladding had failed safety tests.
 
-In 2018, the Collingwood estate was one of five estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
+In 2018, the Collingwood estate was one of seven estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
-![](/images/suttonplan.png)
+<img src="/images/suttonplan.png" class="img-fluid rounded img-thumbnail">
 
 It is also earmarked in Sutton's [Policy Map](http://sutton.addresscafe.com/app/exploreit/) as a potential renewal area:
 
-![](/images/suttonpolicymap.png)
+<img src="/images/suttonpolicymap.png" class="img-fluid rounded img-thumbnail">
 
 The nearby [Chaucer estate](/estates/sutton/chaucerestate/) was clad with the same material and has also been listed as one of Sutton's five estates earmarked for renewal.
 
