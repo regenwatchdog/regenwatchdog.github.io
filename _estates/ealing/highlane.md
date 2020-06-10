@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved, planning design stage active 
+stage: Preparation
 name: High Lane estate 
 borough: ealing
 images:
@@ -12,7 +12,9 @@ images:
 coordinates: 
   - -0.344496,51.519802
 ---
-The High Lane estate is located in Hanwell, near to the river Brent and Brent Valley Park. It comprises 264 homes in a mixture of two bed maisonettes and three bed flats, of which 51 households are leasehold owned.
+264 homes are earmarked for demolition on Ealing's High Lane estate in Hanwell.
+
+Located near the river Brent and Brent Valley Park, the estate comprises 264 homes in a mixture of two bed maisonettes and three bed flats, of which 51 households are leasehold owned.
 
 In 2017, Ealing Council [resolved](https://www.ealing.gov.uk/download/downloads/id/14285/high_lane_estate_regeneration_-_selection_of_a_preferred_partner.pdf) to enter into a joint venture agreement with developer Rydon for the redevelopment of the estate.
 

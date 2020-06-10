@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot exempt, planning approved 
+stage: Implementation 
 name: Sherwood Close estate 
 borough: ealing
 images:
@@ -10,9 +10,9 @@ images:
 coordinates: 
   - -0.319455,51.509075
 ---
-209 homes on Ealing's Sherwood Close estate are being redeveloped in a joint venture with Clarion housing association.
+209 homes on Ealing's Sherwood Close estate are being demolished in a joint venture with Clarion housing association.
 
-The scheme is being funded by the Mayor and has been exempted from his requirement to ballot residents on the demolition of their homes.
+The scheme is being [funded](/approved/funding) by the Mayor and has been [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
 Phase one of the scheme has recently been completed and phase two is under construction. The third and final phase is due to start decanting in early 2020.
 

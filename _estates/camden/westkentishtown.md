@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved, planning application pending
+stage: Preparation
 name: West Kentish Town estate 
 borough: camden
 images:

@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot pending
+stage: Proposal
 name: Wendling estate 
 borough: camden
 images:

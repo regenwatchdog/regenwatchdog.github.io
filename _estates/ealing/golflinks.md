@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased redevelopment 
+stage: Implementation 
 name: Golf Links estate 
 borough: ealing
 images:
@@ -13,7 +13,13 @@ images:
 coordinates: 
   - -0.357820,51.517047
 ---
+Circa 500 homes on the Golf Links estate in Ealing are under threat of demolition.
+
 The regeneration of the Golf Links estate in Ealing was originally supposed to involve the redevelopment of just four low-rise blocks in 3 phases - (Phase 1 - Dormers Rise, Phase 2 - Peterhead Court, phase 3 - Alnmouth & Portrush blocks). 
+
+In October 2018, Ealing Council [resolved](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=T29KJkkv6%2B%2FEOf%2F4pv0XwtQAUSiI7enW%2FlmOaGncZVyUQOQgHSXqXw%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) to extend the regeneration involving the further demolition of circa 100 homes in a fourth phase. 
+
+<img src="/images/glcabinet.png" class="img-fluid rounded img-thumbnail">
 
 [Planning documents](https://pam.ealing.gov.uk/online-applications/files/1A94F26AEA7C2972AE82D84340938FCF/pdf/195348OUT-195348OUT_OFFICER_REPORT.PDF-3329656.pdf) confirm that the Peterhead Court phase was replaced with affordable rented homes (up to 80% market rent) rather than social rent and that the tenure mix of phase 3 will determined at detailed application stage 'subject to viability'.
 
@@ -23,7 +29,7 @@ Whilst phase 3 has received in-principle agreement for grant funding from the Ma
 
 The [planning application](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?previousCaseType=Property&keyVal=Q2PTX9JMFLT00&previousCaseNumber=NOJRHB00DT01J&previousCaseUprn=000012015925&activeTab=summary&previousKeyVal=NOJRHB00DT01K) for phase 3 was approved by Ealing Council on 30 April 2020 (ref:195348OUT).
 
-Ealing Council recently [announced](https://www.ealing.gov.uk/info/201104/housing_regeneration/372/golf_links_estate/2) that it is looking at options for the further redevelopment of the estate beyond phase 3:
+Ealing Council recently [announced](https://www.ealing.gov.uk/info/201104/housing_regeneration/372/golf_links_estate/2) that it is looking at options for the further redevelopment of the estate beyond phase 4:
 
 <img src="/images/glinks.png" class="img-fluid rounded img-thumbnail">
 

@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Brookwood Road estate
 borough: hounslow
 images:
@@ -15,6 +16,8 @@ images:
 coordinates:
   - -0.362360,51.475927
 ---
+Circa 200 homes have been earmarked for demoliton on Hounslow's Brookwood Road estate.
+
 In January 2020, Hounslow's Cabinet [agreed a comprehensive review](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) of its 171 council estates with a view to infill or redevelopment.
 
 In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) it was agreed that six estates had already been identified as 'poor performing estates' and that these would be considered for early redevelopment.

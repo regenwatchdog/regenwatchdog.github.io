@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased scheme - now under review 
+stage: Implementation 
 name: Havelock estate 
 borough: ealing
 images:
@@ -15,7 +15,9 @@ images:
 coordinates: 
   - -0.370627,51.500392
 ---
-Havelock estate is located in Southall overlooking the Grand Union Canal. It comprises a mix of 1950s and 1970s blocks and has a total of 845 homes.
+845 homes are earmarked for demolitioin on Ealing's Havelock estate Southall.
+
+The Havelock Estate is located in Southall, just to the north of the Grand Union Canal, and just to the south of the railway line to London Paddington. The estate exists within the wider context of the Southall Opportunity Area, which has been designated as the Mayor for intensive redevelopment.
 
 Ealing Council says that it is redeveloping the estate in a joint venture with Catalyst housing association over four phases, and that the redeveloped estate will provide affordable rented homes (i.e. up to 80% market rent).
 

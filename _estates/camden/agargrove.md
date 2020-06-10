@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phase 1 of 6 underway
+stage: Implementation 
 name: Agar Grove estate 
 borough: camden
 images:
@@ -27,9 +27,11 @@ images:
 coordinates: 
   - -0.133195,51.542259
 ---
-The Agar Grove estate is situated east of Camden Town and north of Kings Cross and comprises 249 homes in circa 10 blocks of low-rise maisonettes and an 18 storey high-rise block (Lulworth House - which will be refurbished as part of the plans). 
+Circa 150 homes are earmarked for demolition in the latest phase of the Agar Grove estate in Camden.
 
-The scheme has been exempted by the Mayor from his requirement to ballot residents on the demolition of their homes. 
+The estate is situated near Camden Town to the north of Kings Cross and comprises 249 homes in circa 10 blocks of low-rise maisonettes and an 18 storey high-rise block (Lulworth House - which will be refurbished as part of the plans). 
+
+The scheme is being [funded](/approved/funding) by the Mayor and has been [exempted](/approved/ballotexemptions) by the Mayor from his requirement to ballot residents on the demolition of their homes. 
 
 Planning consent for redevelopment was granted in Dec 2014 which spans six phases of development. The first phase in currently underway and Camden has already started marketing the new private homes on this phase [https://thecamdencollection.co.uk/](https://thecamdencollection.co.uk/): 
 <img src="/images/visiv.png" class="img-fluid rounded img-thumbnail">

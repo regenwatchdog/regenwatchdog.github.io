@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Page High estate 
 borough: haringey
 images:
@@ -11,6 +12,8 @@ images:
 coordinates: 
   - '-0.105975,51.593430'
 ---
+92 homes are earmarked for demolition on Haringey's Page High estate in Wood Green.
+
 The Page High estate comprises 92 family homes above council-owned Bury Road shopping centre and car park in Wood Green. The shopping centre and estate have been listed as a development site and designated for comprehensive redevelopment in the Council's [Local Plan site allocations DPD](https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf) (site SA13) and [Wood Green Area Action Plan](https://www.haringey.gov.uk/sites/haringeygovuk/files/nsr00284-wood_green_aap_2018_awv4_lr.pdf).
 
 ![](/images/buryroad2.png)

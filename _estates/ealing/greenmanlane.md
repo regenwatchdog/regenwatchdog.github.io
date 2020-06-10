@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Phased redevelopment 
+stage: Implementation 
 name: Green Man Lane estate 
 borough: ealing
 images:
@@ -11,7 +11,9 @@ images:
 coordinates: 
   - -0.325448,51.511542
 ---
-The Green Man Lane estate is a joint venture between Ealing Council, developer Rydon and A2Dominion housing association involving the phased demolition of the estate's 464 homes in four phases over 10 years.
+464 homes on Ealing's Green Man Lane estate are earmarked for demolition.
+
+The Green Man Lane estate regeneration is a joint venture between Ealing Council, developer Rydon and A2Dominion housing association involving the phased demolition of the estate's 464 homes in four phases over 10 years.
 
 Ealing Council [describes](https://www.ealing.gov.uk/info/201104/housing_regeneration/373/green_man_lane/2) the replacement social housing as 'affordable rent' tenure, which can mean anything up to 80% market rent.
 

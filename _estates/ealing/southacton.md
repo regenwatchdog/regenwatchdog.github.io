@@ -1,7 +1,7 @@
 ---
 category: underthreat
 erg: noncompliant
-status: Ballot exempt, phased redevelopment 
+stage: Implementation 
 name: South Acton estate 
 borough: ealing
 images:
@@ -22,6 +22,8 @@ images:
 coordinates: 
   - -0.272799,51.502295
 ---
+2,100 homes are earmarked for demolition on Ealing's South Acton estate in a [joint venture](https://www.countrysideproperties.com/all-developments/london/acton-gardens) with [Cataylst Housing Association](https://www.chg.org.uk/development-regeneration/regeneration/south-acton-ealing/) and developer Countryside Properties.
+
 In Dec 2018, the Mayor [approved](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/acton-gardens-masterplan) the revised masterplan for the South Acton estate, with replacement ‘social’ housing to be provided at social rent or London Affordable Rent affordable rent, but in fact the social housing can be let at up to 80% market rent.
 
 Shortly afterwards, the Mayor allocated funding to the scheme and [exempted](https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf) it from his requirement to ballot residents on the demolition of their homes.

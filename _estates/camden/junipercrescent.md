@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot pending
+stage: Proposal
 name: Juniper Crescent and Gilbeys Yard estate 
 borough: camden
 images:

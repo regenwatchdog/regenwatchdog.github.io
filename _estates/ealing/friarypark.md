@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot exempt, Planning approved 
+stage: Implementation 
 name: Friary Park estate 
 borough: ealing
 images:
@@ -11,11 +11,13 @@ images:
 coordinates: 
   - -0.264300,51.516962
 ---
-The Friary Park estate is located within Acton and comprises 230 homes, including 225 social rent units and 5 privately owned units. The estate was constructed in the 1980s and comprises predominantly flats laid out in buildings up to four stories in height.
+230 homes are under threat of demolition on Ealing's Friary Park estate in Acton.
+
+The estate comprises 230 homes, including 225 social rent units and 5 privately owned units. It was constructed in the 1980s and comprises predominantly flats and terraced homes laid out in buildings up to four stories in height.
 
 The estate also contains a community hall of 211sqm and a basketball court. It sits opposite Acton Main Line rail station, which will benefit from Crossrail services once the Elizabeth Line is operational.
 
-Planning permission for the redevelopment of the estate was granted in November 2019 to a [joint venture between Catalyst Housing Association and developer Mount Anvil](https://www.chg.org.uk/development-regeneration/regeneration/friary-park-ealing/friary-park-rumour-busters/). Despite being funded by the Mayor and exempted from his requirement to ballot residents, there is no stage 2 report available on the [GLA planning portal](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/friary-park-estate) confirming the Mayor's approval of the scheme. 
+Planning permission for the redevelopment of the estate was granted in November 2019 to a [joint venture between Catalyst Housing Association and developer Mount Anvil](https://www.chg.org.uk/development-regeneration/regeneration/friary-park-ealing/friary-park-rumour-busters/). Despite being [funded](/approved/funding) by the Mayor and [exempted](/approved/ballotexemptions) from his requirement to ballot residents, there is no stage 2 report available on the [GLA planning portal](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/friary-park-estate) confirming the Mayor's approval of the scheme. 
 
 The Mayor's [stage 1 planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//PAWS/media_id_477438/////friary_park_estate_report.pdf) says that the redeveloped site will increase three-fold in density providing 990 new homes including _"up to"_ 237 social rented replacement homes.
 
