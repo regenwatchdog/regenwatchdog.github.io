@@ -23,7 +23,7 @@ category: underthreat
 		    <a href="{{ scheme.url }}">
                       <h5 class="card-title">{{ scheme.name }}</h5>
 		      </a>
-		      <h6 class="card-subtitle mb-2 {% if scheme.stage == 'Preparation' %}text-yellow{% elsif scheme.stage == 'Implementation' %}text-red{% elsif scheme.stage == 'Proposal' %}text-green{% endif %}">Stage: {{ scheme.stage }}</h6>
+		      <h6 class="card-subtitle mb-2 {% if scheme.stage == 'Preparation' %}text-warning{% elsif scheme.stage == 'Implementation' %}text-danger{% elsif scheme.stage == 'Proposal' %}text-success{% endif %}">Stage: {{ scheme.stage }}</h6>
 		      <p class="card-text">{{ scheme.excerpt }}</p>
                       <a target="_blank" href="{{ scheme.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
