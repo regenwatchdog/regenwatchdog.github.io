@@ -17,7 +17,7 @@ images:
 coordinates:
   - -0.395689,51.484513 
 ---
-Circa 300 homes have been earmarked for demolition on Hounslow's Brabazon estate.
+Circa 300 homes have been earmarked for potential demolition on Hounslow's Brabazon estate.
 
 In January 2020, Hounslow's Cabinet [agreed a comprehensive review](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) of its 171 council estates with a view to infill or redevelopment.
 

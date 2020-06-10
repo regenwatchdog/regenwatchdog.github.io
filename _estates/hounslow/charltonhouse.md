@@ -1,5 +1,6 @@
 ---
 category: underthreat
+stage: Proposal
 name: Charlton House 
 borough: hounslow
 images:
@@ -19,6 +20,8 @@ images:
 coordinates:
   - -0.300195,51.486105
 ---
+Circa 50 homes have been earmarked for potential demolition on Hounslow's Charlton House estate.
+
 In January 2020, Hounslow's Cabinet [agreed a comprehensive review](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) of its 171 council estates with a view to infill or redevelopment.
 
 In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) it was agreed that six estates had already been identified as 'poor performing estates' and that these would be considered for early redevelopment.

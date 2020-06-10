@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Pre-ballot & Pre-planning
+stage: Proposal
 name: Milford Towers 
 borough: lewisham
 images:
@@ -14,6 +14,8 @@ coordinates:
   - '-0.022020,51.446550'
 published: true
 ---
+276 homes are under threat of demolition in Lewisham's Milford Towers estate in Catford.
+
 In September 2011, Lewisham Council agreed to redevelop the 276 council homes in Milford Towers along with the Catford Shopping centre (which it sits above) as part of its regeneration plans for Catford Town Centre. 
 
 Following the decant of most of the secure tenants the scheme stalled and in 2013 Lewisham signed an agreement with Notting Hill Genesis Housing Association to let the homes out at intermediate rents.

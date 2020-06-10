@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Ballot approved, design stage pending
+stage: Preparation
 name: Pike Close estate 
 borough: bromley 
 images:

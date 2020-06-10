@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Planning application refused, scheme under review
+stage: Proposal
 name: Concorde Close
 borough: hounslow
 images:

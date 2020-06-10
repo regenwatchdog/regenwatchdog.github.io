@@ -21,7 +21,7 @@ category: underthreat
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">{{ scheme.name }}</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Status: {{ scheme.status }}</h6>
+		      <h6 class="card-subtitle mb-2 text-muted">Stage: {{ scheme.stage }}</h6>
 		      <p class="card-text">{{ scheme.excerpt }}</p>
                       <a target="_blank" href="{{ scheme.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>

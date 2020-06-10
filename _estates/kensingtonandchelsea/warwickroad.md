@@ -1,6 +1,6 @@
 ---
 category: underthreat
-status: Scheme paused pending review 
+stage: Proposal 
 name: Warwick Road estate 
 borough: kensingtonandchelsea
 images:
@@ -24,7 +24,7 @@ images:
 coordinates: 
   - -0.201078,51.493913
 ---
-115 homes on the Warwick Road estate were earmarked for potential redevelopment by the Royal Borough of Kensington and Chelsea in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784581.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Warwick_Road_Estate_January_2017.pdf). 
+115 homes on the Warwick Road estate in Earls Court were earmarked for potential redevelopment by the Royal Borough of Kensington and Chelsea in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784581.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Warwick_Road_Estate_January_2017.pdf). 
 
 In May 2018, the plans for all three of the borough's estate regeneration schemes were [paused](https://www.insidehousing.co.uk/news/news/kensington-and-chelsea-council-pauses-schemes-51587) as a result of the Grenfell disaster.
 
