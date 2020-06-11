@@ -10654,6 +10654,11 @@ img.zoom-img {
   max-height: 100%;
 }
 
+.headerspace-lg {
+  padding-top: 7.5rem;
+  padding-bottom: 0rem;
+}
+
 /* Sticky Footer Classes */
 
 html,
