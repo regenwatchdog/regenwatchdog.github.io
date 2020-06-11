@@ -1,7 +1,8 @@
 ---
 layout: default
 category: approved 
-title: Re-housing existing residents 
+title: Re-housing existing residents
+published: false
 ---
 <center><h1>Re-housing existing residents</h1></center><br> 
 The Mayor's <a href="https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf">Estate Regeneration Policy</a> says that schemes must provide <i>"full rights to return or remain for social tenants, and a fair deal for leaseholders and freeholders."</i> But the Mayor continues to turn a blind eye to regeneration schemes where re-housing offers leave residents worse off.
