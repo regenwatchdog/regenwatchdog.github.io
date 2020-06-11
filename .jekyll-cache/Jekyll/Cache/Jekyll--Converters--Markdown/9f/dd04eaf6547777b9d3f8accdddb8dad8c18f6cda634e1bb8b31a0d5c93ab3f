@@ -1,4 +1,4 @@
-I"$<div class="col">
+I"|<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/barkinganddagenhammap.html" width="100%" height="400px"></iframe>
 </div>
@@ -16,8 +16,10 @@
                       <img class="card-img-top" src="/images/gascoigne1.jpg" alt="Gascoigne estate" />
                     </a>
 		    <div class="card-body">
+                        <a href="/estates/barkinganddagenham/gascoigne/">
                       <h5 class="card-title">Gascoigne estate</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Stage: Implementation</h6>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
 		      <p class="card-text"><p>179 homes have been approved for demolition on the latest phase of Barking &amp; Dagenham’s Gascoigne estate regeneration, to be replaced by 850 new homes of which 78 at ‘London Affordabe Rent’ (defined as up to 80% market rent). Leaseholders have the ‘right to return’  only if they can afford to pay the rent in one of the new shared-ownership flats.</p>
 </p>
                       <a target="_blank" href="/estates/barkinganddagenham/gascoigne/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>

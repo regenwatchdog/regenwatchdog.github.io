@@ -21,8 +21,10 @@ category: underthreat
                       <img class="card-img-top" src="{{ scheme.images.first.image_path }}" alt="{{ scheme.name }}">
                     </a>
 		    <div class="card-body">
+                        <a href="{{ scheme.url }}">
                       <h5 class="card-title">{{ scheme.name }}</h5>
-		      <h6 class="card-subtitle mb-2 text-muted">Stage: {{ scheme.stage }}</h6>
+		      </a>
+		      <h6 class="card-subtitle mb-2 {% if scheme.stage == 'Preparation' %}text-warning{% elsif scheme.stage == 'Implementation' %}text-danger{% elsif scheme.stage == 'Proposal' %}text-success{% endif %}">Stage: {{ scheme.stage }}</h6>
 		      <p class="card-text">{{ scheme.excerpt }}</p>
                       <a target="_blank" href="{{ scheme.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
