@@ -23,7 +23,7 @@ Campaingers have also [revealed](https://achillesstreetstopandlisten.wordpress.c
 
 <img src="/images/achillesplan.png" class="img-fluid rounded img-thumbnail">
 
-The Council's ['Landlord Offer'] describes the proposed tenure mix of the 450 new homes to built on the site as follows:
+The Council's ['Landlord Offer'](You will receive compensation for having to move and be given help with the cost of moving.) describes the proposed tenure mix of the 450 new homes to built on the site as follows:
 
 <img src="/images/aslo.png" class="img-fluid rounded img-thumbnail">
 

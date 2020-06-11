@@ -21,7 +21,9 @@ The Mayors [report](https://www.london.gov.uk/sites/default/files/public%3A//pub
 
 <img src="/images/thamesmeadar.png" class="img-fluid rounded img-thumbnail">
 
-The section 106 agreement is not publicly available so the exact rent levels of the replacement 'social' housing are unknown.
+A segment of the section 106 agreement has been made publicly available through an [FOI Response](https://www.whatdotheyknow.com/request/669556/response/1585232/attach/6/Main%20S106%20Agreement.pdf?cookie_passthrough=1) which shows an ambiguous definition of what constitutes the replacement 'social rented' housing:
+
+<img src="/images/wolvercotesr.png" class="img-fluid rounded img-thumbnail">
 
 __Links:__
 Peabody's [2017 consultation documents](https://www.thamesmeadnow.org.uk/media/1726/wolvercote_road_next_steps.pdf) for the scheme.
