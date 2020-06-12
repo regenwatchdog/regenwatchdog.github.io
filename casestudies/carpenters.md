@@ -22,13 +22,15 @@ The [Planning Inspector’s report](https://www.queenelizabetholympicpark.co.uk/
 <i><strong>
 “Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
 </strong></i>
+More information on the Carpenters Community Plan can be found in <a href="https://justspace.org.uk/2014/06/19/staying-put-an-anti-gentrification-handbook-for-council-estates-in-london/">Staying Put: An Anti-Gentrification Handbook for Council Estates in London</a>, produced by The London Tenants Federation, Professor Loretta Lees, Just Space, and SNAG.
+
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
 		<li>The estate’s residents describe its regeneration as having gone on for a long time with very little resolve in sight.</li>
 		<li>Residents have been moved out and several buildings remain empty, creating a ‘ghost town’ and a feeling that the estate has been intentionally depopulated and degenerated to favour redevelopment.</li>
 		<li>Whilst some residents have moved away, there has been a long term resistance to the estate’s regeneration. Keeping the community together is an important priority.</li>
-		<li>The area is experiencing social change, the new-build homes that border the estate, in particular, are described as being for foreign investors not locals.</li>
+		<li>The area is experiencing social change, the new-build homes that border the estate, in particular, are described as being for ‘foreign’ investors and outsiders, not locals.</li>
 		<li>The Olympic Games and the Queen Elizabeth Olympic Park, Westfield shopping centre, Stratford International and other train links, are all seen to be adding to gentrification pressures on the estate.</li></ul>
 
 <p class="lead">Here is what some people said...</p>
