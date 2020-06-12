@@ -241,7 +241,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <img src="{{ site.baseurl }}/images/tenants_disp_map.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of tenants from the Aylesbury Estate</h5>
-      <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015.Data from Notting Hill Trust.</p>
+      <p class="card-text">Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015.Data from Notting Hill Trust.</p>
       <a href="{{ site.baseurl }}/images/aylesbury_tenants_map.jpg" class="btn btn-primary">View the map</a>
     </div>
   </div>
@@ -249,20 +249,40 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <img src="{{ site.baseurl }}/images/leaseholders_disp_map.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
-      <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015. Data from Notting Hill Trust.</p>
+      <p class="card-text">Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015. Data from Notting Hill Trust.</p>
       <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View the map</a>
     </div>
   </div>
+  
+  <div class="card">
+    <img src="{{ site.baseurl }}/images/leaseholders_disp_map.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
+      <p class="card-text">Source: Public Inquiry, Aylesbury Estate, London, Witness Statement Professor Loretta Lees, 29th April 2015. Data from Notting Hill Trust.</p>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View the map</a>
+    </div>
+  </div>
+  
   </div>
   
   <div class="card-columns">
   <div class="card">
-    <img src="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/Lees_statement1_pic.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate within Greater London</h5>
-      <p class="card-text">Click here to view the map. Source: Public Inquiry, Aylesbury Estate, London. Data sourced from FOI data from Southwark Council.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="btn btn-primary">View the map</a>
+      <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data sourced from FOI data from Southwark Council. Witness Statement Professor Loretta Lees.</p>
+      <a href="{{ site.baseurl }}/papers/aylesbury1witness_statement_Lees2015.pdf" class="btn btn-primary">View</a>
     </div>
   </div>
 </div>
+
+<div class="card">
+    <img src="{{ site.baseurl }}/images/Lees_statement2_pic.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
+      <p class="card-text">Source: Aylesbury Estate 2nd Public Inquiry (2018), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
+      <a href="{{ site.baseurl }}/images/aylesbury2witness_statement_Lees2018.pdf" class="btn btn-primary">View</a>
+    </div>
+  </div>
+
 </div>
