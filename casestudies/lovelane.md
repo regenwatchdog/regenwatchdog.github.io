@@ -64,8 +64,8 @@ For more information see the following articles:
               <h5 class="card-title">Residents near Tottenham's new stadium fear they're being 'pushed out of area'. (Mirror) </h5>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
+		<a href="https://www.mirror.co.uk/news/uk-news/residents-near-tottenhams-new-stadium-18864998" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
                 </div>
-<a href="https://www.mirror.co.uk/news/uk-news/residents-near-tottenhams-new-stadium-18864998" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
               </div>
             </div>
           </div>
