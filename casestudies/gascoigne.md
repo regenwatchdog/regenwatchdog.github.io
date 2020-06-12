@@ -92,7 +92,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
           </div>
           <div class="row mt-4">
             <div class="col-12">
-              <p>"there was a lot of dissatisfaction from the families we know in our estate. They were saying, ‘Well, what else can we do?’ We’ve raised our awareness and problems in public hearing meetings by the Council, but the shift in the Council side isn’t much. The maximum is 10% or we just take what they give us. So, there isn’t much room to accommodate, and one of my neighbours he’s thinking about moving with his brothers that live in Birmingham, and this would be like good money to invest in a good-sized house for him. Another neighbours has moved out to Leicester. So, he found really good work there, but, again the shift that people are saying, ‘Well, what else can we do?'."</p>
+              <p>"there was a lot of dissatisfaction from the families we know in our estate. They were saying, ‘Well, what else can we do?’ We’ve raised our awareness and problems in public hearing meetings by the Council, but the shift in the Council side isn’t much. The maximum is 10% or we just take what they give us. So, there isn’t much room to accommodate, and one of my neighbours he’s thinking about moving with his brothers that live in Birmingham, and this would be like good money to invest in a good-sized house for him. Another neighbour has moved out to Leicester. So, he found really good work there, but, again the shift that people are saying, ‘Well, what else can we do?'."</p>
             </div>
           </div>
         </div>
