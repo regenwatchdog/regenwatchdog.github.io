@@ -1,0 +1,49 @@
+I"�<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/greenwichmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/greenwichmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/greenwich/maryongrove/">
+                      <img class="card-img-top" src="/images/mw5.png" alt="Maryon Grove estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/greenwich/maryongrove/">
+                      <h5 class="card-title">Maryon Grove estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>562 homes on Greenwich’s Morris Walk estate in Charlton are earmarked for demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/greenwich/maryongrove/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/greenwich/morriswalk/">
+                      <img class="card-img-top" src="/images/mw1.png" alt="Morris Walk estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/greenwich/morriswalk/">
+                      <h5 class="card-title">Morris Walk estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>562 homes on Greenwich’s Morris Walk estate in Charlton are earmarked for demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/greenwich/morriswalk/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

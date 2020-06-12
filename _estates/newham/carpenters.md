@@ -29,7 +29,7 @@ coordinates:
 
 Plans for the estate's regeneration have been under consideration since 2000, with several buildings earmarked for demolition and the decanting of residents having started in 2005/06.  Three tower blocks on the estate have been emptied of council tenants, though some leaseholders remain.  The lower rise buildings continue to be occupied by a mixed community of council tenants, leaseholders and freeholders and this remains a strong and supportive community. 
 
-To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  Carpenters Community Plan was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
+To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  <a href="/images/ccplan.pdf">Carpenters Community Plan</a> was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
 
 <img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
 
