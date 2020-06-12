@@ -22,8 +22,60 @@ images:
 ---
 
 
-Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this includes the demolition of the Love Lane estate. Haringey  Council served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate.
+Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this included the demolition of the Love Lane estate. Haringey  Council  served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate.
 
+For more information see the following articles:
+
+<!------------- START OF SNIPPET---------------------------->
+<div class="album py-5 bg-light">
+<div class="container">
+
+<div class="row">
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/guardian_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+            <div class="card-body">
+		    <h5 class="card-title">Under the wrecking ball: hundreds of homeless families placed in housing slated for demolition. (The Guardian)</h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+			<a href="https://www.theguardian.com/cities/2019/nov/04/under-the-wrecking-ball-london-families-placed-in-housing-slated-for-demolition" role="button">Read</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+	
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/independent_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+            <div class="card-body">
+              <h5 class="card-title">Residents' group on Tottenham estate slams housing offer. (Enfield Independent)</h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+		<a href="https://www.enfieldindependent.co.uk/news/18397780.residents-group-tottenham-estate-slams-housing-offer/" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+	
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/mirror_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+            <div class="card-body">
+              <h5 class="card-title">Residents near Tottenham's new stadium fear they're being 'pushed out of area'. (Mirror) </h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+<a href="https://www.mirror.co.uk/news/uk-news/residents-near-tottenhams-new-stadium-18864998" role="button">Read</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	</div>
+	</div>
+	</div>
+<!------------------ END OF SNIPPET -------------------------------->
 
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>        
@@ -32,9 +84,9 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
 		<li>Love Lane residents state that there has been a lack of clear information about the regeneration of their estate, despite some council tenants being moved out several years ago and temporary tenants being moved into these vacated properties.</li>
 		<li>Those with temporary tenancies are very fearful, they feel especially disregarded and vulnerable to displacement.</li>
 		<li>Long term residents on Love Lane felt that there had been intentional degeneration of the estate (managed decline).</li>
-		<li>Those interviewed felt that the area is changing for a different, more middle-class demographic.</li>
+		<li>Those interviewed felt that the area is changing into a different, more middle-class demographic.</li>
 		<li>Long term housing affordability in the Tottenham area is a shared concern.</li>
-		<li>A common mistrust towards Haringey Council and its leadership was voiced; interviewees often referenced the failed Haringey Development Vehicle (HDV) scheme, the displacement and treatment of Latin Village, and the dominance of the new Tottenham Hotspurs Stadium on the area.</li></ul>
+		<li>A common mistrust towards Haringey Council and its leadership was voiced; interviewees often referenced the failed Haringey Development Vehicle (HDV) scheme, the displacement and treatment of Latin Village, and the dominance of the new Tottenham Hotspur's Stadium on the area.</li></ul>
 
 <p class="lead">Here is what some people said...</p>
 
@@ -100,7 +152,7 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
           </div>
           <div class="row mt-4">
             <div class="col-12">
-              <p>"I can't afford it [private sector rent]. Yeah, for, to have a, to pay [£]1,800 for two-bedroom flats, it is impossible. And then, they are helping you, the housing benefits covering 65%, and the rest we have to, you know, help ourselves, and no, the prices they are ridiculous! You can't rent it."</p>
+              <p>"I can't afford it [private sector rent] … to pay [£]1,800 for two-bedroom flats, it is impossible. And then, they are helping you, the housing benefits covering 65%, and the rest we have to, you know, help ourselves, and no, the prices they are ridiculous! You can't rent it."</p>
             </div>
           </div>
         </div>
