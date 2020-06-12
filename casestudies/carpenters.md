@@ -22,6 +22,7 @@ The [Planning Inspector’s report](https://www.queenelizabetholympicpark.co.uk/
 <i><strong>
 “Although the formal residents ballot is yet to take place, it is highly likely from all the written representations and spoken contributions at the hearing sessions, that most residents in the Greater Carpenters area are expressing the wish to remain where they live now and would resist comprehensive redevelopment and the inevitable disruption and community displacement....”
 </strong></i>
+
 More information on the Carpenters Community Plan can be found in <a href="https://justspace.org.uk/2014/06/19/staying-put-an-anti-gentrification-handbook-for-council-estates-in-london/">Staying Put: An Anti-Gentrification Handbook for Council Estates in London</a>, produced by The London Tenants Federation, Professor Loretta Lees, Just Space, and SNAG.
 
 <div class="card-body">
