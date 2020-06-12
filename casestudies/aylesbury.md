@@ -32,75 +32,20 @@ In February 2015 a group of protesters [occupied](https://www.theguardian.com/so
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
 
 
-<div class="container">
-    <div class="row">    
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<video width="560" height="315" controls><source src="http://35percent.org/img/blairaylesburyspeech.mp4" type="video/mp4"></video>
-</div>
-
-                    
-                </div><!-- card image -->
-                
-                <div class="card-content">
-                    <span class="card-title">Blair's 1997 inaugural speech on the estate</span>                    
-                    
-                </div><!-- card content -->
-                
-                
-            </div>
-        </div>
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
-</div>
-                    
-                </div><!-- card image -->           
-                <div class="card-content">
-                    <span class="card-title">BBC report on leaseholders' predicament</span>                    
-                </div><!-- card content -->              
-            </div>
-        </div>
+<div class="card-columns">
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">The Aylesbury by James Webber</h5>
+      <p class="card-text">In this short documentary film - The Aylesbury - directed by James Webber, Loretta Lees and estate residents are interviewed about the estate. The film begins with the building of the Aylesbury estate as part of the post-war slum clearances in South London, highlighting its use of the pre-fab method implemented by Laing Construction; it then compares the joy its new residents experienced on moving in with the more negative portrayals from the media, including its denigration by architect-planner Oscar Newman. The film continues by discussing the managed decline of the estate and the demolition and displacement its residents are currently experiencing. It underlines the story of a community that will soon disappear.</p>
+      <a href="https://drive.google.com/file/d/1SQHSv2uvwFeCkTrri-eDnApfMFBpzD63/view" class="btn btn-primary">Watch</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/images/aylesbury_film_pic.png" class="card-img-top" alt="...">
+  </div>	  
     </div>
 
-    <div class="row">    
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1j_UP39cn0" frameborder="0" allowfullscreen></iframe>
-</div>
-                    
-                </div><!-- card image -->
-                
-                <div class="card-content">
-                    <span class="card-title">BBC report on Compulsory Purchase Order</span>                    
-                    
-                </div><!-- card content -->
-                
-                
-            </div>
-        </div>
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<video width="560" height="315" controls><source src="/images/aylesburyident.mp4" type="video/mp4"></video>
-</div>
-                    
-                </div><!-- card image -->           
-                <div class="card-content">
-                    <span class="card-title">Residents' <a href="https://www.theguardian.com/tv-and-radio/2014/mar/14/channel-4-aylesbury-estate-ident-revamped">reworking of the Channel 4 ident</a></span>                    
-                </div><!-- card content -->              
-            </div>
-        </div>
-    </div>
 
-</div>
 
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 <div class="card-body">
@@ -232,6 +177,80 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
         </div>
       </div>
       </div>
+      
+<!--------------------------------VIDEO CARDS---------------------------------->      
+      
+      <div class="container">
+    <div class="row">    
+        <div class="col-md-6 ">
+            <div class="card">
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+<video width="560" height="315" controls><source src="http://35percent.org/img/blairaylesburyspeech.mp4" type="video/mp4"></video>
+</div>
+
+                    
+                </div><!-- card image -->
+                
+                <div class="card-content">
+                    <span class="card-title">Blair's 1997 inaugural speech on the estate</span>                    
+                    
+                </div><!-- card content -->
+                
+                
+            </div>
+        </div>
+        <div class="col-md-6 ">
+            <div class="card">
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
+</div>
+                    
+                </div><!-- card image -->           
+                <div class="card-content">
+                    <span class="card-title">BBC report on leaseholders' predicament</span>                    
+                </div><!-- card content -->              
+            </div>
+        </div>
+    </div>
+
+    <div class="row">    
+        <div class="col-md-6 ">
+            <div class="card">
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1j_UP39cn0" frameborder="0" allowfullscreen></iframe>
+</div>
+                    
+                </div><!-- card image -->
+                
+                <div class="card-content">
+                    <span class="card-title">BBC report on Compulsory Purchase Order</span>                    
+                    
+                </div><!-- card content -->
+                
+                
+            </div>
+        </div>
+        <div class="col-md-6 ">
+            <div class="card">
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+<video width="560" height="315" controls><source src="/images/aylesburyident.mp4" type="video/mp4"></video>
+</div>
+                    
+                </div><!-- card image -->           
+                <div class="card-content">
+                    <span class="card-title">Residents' <a href="https://www.theguardian.com/tv-and-radio/2014/mar/14/channel-4-aylesbury-estate-ident-revamped">reworking of the Channel 4 ident</a></span>                    
+                </div><!-- card content -->              
+            </div>
+        </div>
+    </div>
+
+</div>      
+      
+      
 		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 	
 		<hr class="featurette-divider">
