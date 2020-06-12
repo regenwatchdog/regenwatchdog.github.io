@@ -32,7 +32,7 @@ In February 2015 a group of protesters [occupied](https://www.theguardian.com/so
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
 </br>
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3" style="max-width: 680px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/aylesbury_film_pic.png" class="card-img" alt="...">
