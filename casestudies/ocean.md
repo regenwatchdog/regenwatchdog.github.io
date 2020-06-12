@@ -31,7 +31,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
 <p class="lead">Key themes discussed in the interviews:</p>
   <ul>
 		<li>The estate has seen a lot of demolition and new construction, with many households decanted from the original buildings and displaced from the area.</li>
-		<li>Rent and bills in the new-build homes were more expensive than in the previous council homes.</li>
+		<li>Rent and bills in the new-build homes were more expensive, and not like for like but smaller than in the previous council homes.</li>
 		<li>The move from a council property to a housing association property meant that some residents had a change in their tenure, losing their ‘secure’ tenancy and becoming an ‘assured’ tenant instead. Some residents fought hard to retain their secure tenancies after moving into the new-builds.</li>
 		<li>There were concerns from all tenures in general about the affordability of the new-build housing on the estate and across East London.</li>
 		<li>Leaseholders that were ‘bought out’ in order to allow for the demolition of their homes found that the money offered to them didn’t allow them to repurchase a home on the redeveloped site nor nearby, in fact leaseholders often moved out of the area and out of London all together into the fringes of Essex and beyond.</li>
@@ -105,7 +105,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
           <div class="row mt-4">
             <div class="col-12">
               <p>
-                "It’s okay, its new properties [in the housing associations] but financially a lot of people actually they’re not happy with that, they’re saying it’s way too much rent than what the Council properties were so they’re really squeezing tighter [financially]. Some of the people they complained and to be honest this is in a way putting them people into a benefit-trap."
+                "It’s okay, it is new properties [in the housing associations] but financially a lot of people actually they’re not happy with that, they’re saying it’s way too much rent than what the Council properties were so they’re really squeezing tighter [financially]. Some of the people they complained and to be honest this is in a way putting them people into a benefit-trap."
               </p>
             </div>
           </div>
