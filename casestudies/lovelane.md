@@ -36,7 +36,7 @@ For more information see the following articles:
 		    <h5 class="card-title">Under the wrecking ball: hundreds of homeless families placed in housing slated for demolition. (The Guardian)</h5>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-			<a href="https://www.theguardian.com/cities/2019/nov/04/under-the-wrecking-ball-london-families-placed-in-housing-slated-for-demolition" role="button">Read</a>
+			<a href="https://www.theguardian.com/cities/2019/nov/04/under-the-wrecking-ball-london-families-placed-in-housing-slated-for-demolition" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ For more information see the following articles:
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-<a href="https://www.mirror.co.uk/news/uk-news/residents-near-tottenhams-new-stadium-18864998" role="button">Read</a>
+<a href="https://www.mirror.co.uk/news/uk-news/residents-near-tottenhams-new-stadium-18864998" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
               </div>
             </div>
           </div>
