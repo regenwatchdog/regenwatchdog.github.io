@@ -30,7 +30,7 @@ In February 2015 a group of protesters [occupied](https://www.theguardian.com/so
 <img src="http://35percent.org/img/alag.png" class="img-fluid rounded img-thumbnail">
 
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
-</br>
+
 
 <div class="card mb-3" style="max-width: 900px;">
   <div class="row no-gutters">
@@ -40,7 +40,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">The Aylesbury by James Webber</h5>
-        <p class="card-text">In this short documentary film - The Aylesbury - directed by James Webber, Loretta Lees and estate residents are interviewed about the estate. The film begins with the building of the Aylesbury estate as part of the post-war slum clearances in South London, highlighting its use of the pre-fab method implemented by Laing Construction; it then compares the joy its new residents experienced on moving in with the more negative portrayals from the media, including its denigration by architect-planner Oscar Newman. The film continues by discussing the managed decline of the estate and the demolition and displacement its residents are currently experiencing. It underlines the story of a community that will soon disappear.</p>
+        <p class="font-weight-light">In this short documentary film - The Aylesbury - directed by James Webber, Loretta Lees and estate residents are interviewed about the estate. The film begins with the building of the Aylesbury estate as part of the post-war slum clearances in South London, highlighting its use of the pre-fab method implemented by Laing Construction; it then compares the joy its new residents experienced on moving in with the more negative portrayals from the media, including its denigration by architect-planner Oscar Newman. The film continues by discussing the managed decline of the estate and the demolition and displacement its residents are currently experiencing. It underlines the story of a community that will soon disappear.</p>
      <a href="https://drive.google.com/file/d/1SQHSv2uvwFeCkTrri-eDnApfMFBpzD63/view" class="btn btn-primary">Watch</a>
       </div>
     </div>
