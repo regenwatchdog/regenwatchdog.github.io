@@ -4,9 +4,9 @@ stage: Implementation
 name: Dollis Valley estate
 borough: barnet
 images:
+  - image_path: /images/dvalley3.png
   - image_path: /images/dvalley.png
   - image_path: /images/dvalley2.png
-  - image_path: /images/dvalley3.png
   - image_path: /images/dvalley4.png
 coordinates:
   - '-0.197573,51.644001'

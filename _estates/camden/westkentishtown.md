@@ -4,8 +4,8 @@ stage: Preparation
 name: West Kentish Town estate 
 borough: camden
 images:
-  - image_path: /images/wt1.png
   - image_path: /images/wkt1.jpg
+  - image_path: /images/wt1.png
   - image_path: /images/wkt2.jpg
   - image_path: /images/wkt3.jpg
   - image_path: /images/wkt4.jpg

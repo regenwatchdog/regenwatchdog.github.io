@@ -4,8 +4,8 @@ stage: Preparation
 name: Grahame Park estate
 borough: barnet
 images:
-  - image_path: /images/grahamepark.jpg
   - image_path: /images/grahamepark2.jpg
+  - image_path: /images/grahamepark.jpg
   - image_path: /images/grahamepark3.jpg
 coordinates:
   - '-0.244782,51.602271'

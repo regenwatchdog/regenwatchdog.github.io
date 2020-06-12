@@ -4,6 +4,7 @@ stage: Proposal
 name: Oriel estate 
 borough: hounslow 
 images:
+  - image_path: /images/or21.jpg
   - image_path: /images/or1.jpg
   - image_path: /images/or2.jpg
   - image_path: /images/or3.jpg
@@ -24,7 +25,6 @@ images:
   - image_path: /images/or18.jpg
   - image_path: /images/or19.jpg
   - image_path: /images/or20.jpg
-  - image_path: /images/or21.jpg
   - image_path: /images/or22.jpg
   - image_path: /images/orielaerial.png
 coordinates:

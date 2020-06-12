@@ -1,38 +1,42 @@
 ---
 category: underthreat
-stage: Proposal
+stage: Implementation 
 name: Alma estate 
 borough: enfield
 images:
-  - image_path: /images/joyce.jpg
-  - image_path: /images/joyce3.png
-  - image_path: /images/joyce5.jpg
+  - image_path: /images/alma3.png
+  - image_path: /images/almaaerial.png
+  - image_path: /images/alma1.png
+  - image_path: /images/alma2.png
+  - image_path: /images/alma4.png
+  - image_path: /images/alma5.png
 coordinates: 
-  - -0.066698,51.612022
+  - -0.036348,51.643512
 ---
-746 12 shops
+746 homes have been approved for demolition on Enfield's Alma estate at Ponders End.
 
-Countryside Properties Nov 2014.
+7.8 hectares, Ponders End Railway Station - four high rise tower blocks (each 23 storeys), and a number of low rise maisonette and flatted blocks.
 
-Phase 1 of 4 nearing completion. Remaining phases still occupied.
+Enfield Council signed a joint-venture agreement with developer Countryside Properties for the redevelopment of the estate in November 2014. 
 
-993 new homes of which just 200 have been secured at social rent.
+The scheme is being [funded](/approved/funding) by the Mayor and [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
-7.8 hectares, Ponders End Railway Station - four high rise tower blocks (each 23 storeys), and a number of low rise maisonette and flatted blocks
+Phase one of the four stage scheme has been demolished and is nearing completion. Remaining phases are still occupied.
 
-[s106](/images/almas106.pdf) June 2017
+Outline planning permission was granted in September 2015 but subject to the signing of a section 106 agreement when the first detailed application came forward. In June 2017 a [section 106 agreement was signed](/images/almas106.pdf) which guaranteed just 200 of the 993 replacement homes as social rent:
+
+<img src="/images/almaah.png" class="img-fluid rounded img-thumbnail">
 
 In its [Statement of Reasons](/images/almacpo.pdf) justifying the Compulsory Purchase Order. Enfield relies on its own neglect of the estate as justification for its demolition:
 
 <img src="/images/almacpo.png" class="img-fluid rounded img-thumbnail">
 
-In 2015, Enfield's Cabinet [agreed](https://governance.enfield.gov.uk/documents/g9278/Public%20reports%20pack%2018th-Nov-2015%2020.15%20Cabinet.pdf?T=10) to consider charging affordable rent for new council homes built as part of its estate renewals, albeit not necessarily at the full 80% of market rent.
+There is no provision on the redeveloped estate for the estate's 170 current leaseholders. Enfield has no shared equity scheme - if leaseholders want to buy one of the new shared ownership homes they will have to pay rent on the unowned equity.
 
-![](/images/enfieldar.png)
+__Links:__
 
-In October 2015, the Council's Cabinet agreed an Estate Renewal Programme (2016-2025) setting out its plans for redeveloping a number of its council estates (item 24):
-[https://governance.enfield.gov.uk/documents/s54537/final1610Estate%20Renewal%20Cabinet%20Report%20-%20Oct%202015%20Final%20v12%2015.10.15%202.pdf](https://governance.enfield.gov.uk/documents/s54537/final1610Estate%20Renewal%20Cabinet%20Report%20-%20Oct%202015%20Final%20v12%2015.10.15%202.pdf)
+Enfield's [planning application documents](https://planningandbuildingcontrol.enfield.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NO8O9NJN28000)
 
-Appendix 2 to that report, which lists the estates earmarked for renewal, has been witheld by the Council on grounds of commercial sensitivity.
+The Mayor's [stage 1 and stage 2 reports](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_285804///alma_estate_report.pdf)
 
-https://www.whatdotheyknow.com/request/estate_renewal_programme
+

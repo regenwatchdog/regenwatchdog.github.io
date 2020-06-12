@@ -4,6 +4,7 @@ stage: Proposal
 name: Wendling estate 
 borough: camden
 images:
+  - image_path: /images/wendling3.jpg
   - image_path: /images/wg1.jpg
   - image_path: /images/wg2.jpg
   - image_path: /images/wg3.jpg
@@ -12,7 +13,6 @@ images:
   - image_path: /images/wg6.jpg
   - image_path: /images/wg7.jpg
   - image_path: /images/wg8.jpg
-  - image_path: /images/wendling3.jpg
 coordinates: 
   - -0.156132,51.551117
 ---

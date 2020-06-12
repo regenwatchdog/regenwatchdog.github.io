@@ -4,6 +4,7 @@ stage: Proposal
 name: Convent Way estate
 borough: hounslow
 images:
+  - image_path: /images/cv12.jpg
   - image_path: /images/cv1.jpg
   - image_path: /images/cv2.jpg
   - image_path: /images/cv3.jpg
@@ -15,7 +16,6 @@ images:
   - image_path: /images/cv9.jpg
   - image_path: /images/cv10.jpg
   - image_path: /images/cv11.jpg
-  - image_path: /images/cv12.jpg
   - image_path: /images/cv13.jpg
   - image_path: /images/cv14.jpg
   - image_path: /images/cv15.jpg
