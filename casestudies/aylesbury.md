@@ -259,7 +259,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">Prof Loretta Lees Witness statement 2015</h5>
       <p class="card-text">Public Inquiry, Aylesbury Estate, London. April 2015. Data from Notting Hill Trust.</p>
-      <a href="{{ site.baseurl }}/papers/aylesbury1witness_statement_Lees2015.pdf" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/papers/aylesbury1witness_statement_Lees2015.pdf" class="btn btn-primary">View</a>
     </div>
   </div>
   
