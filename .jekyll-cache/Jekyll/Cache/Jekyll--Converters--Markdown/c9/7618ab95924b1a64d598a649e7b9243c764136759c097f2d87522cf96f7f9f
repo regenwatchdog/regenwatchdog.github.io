@@ -1,4 +1,4 @@
-I"G'<div class="col">
+I"_0<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/haringeymap.html" width="100%" height="400px"></iframe>
 </div>
@@ -10,6 +10,23 @@
               <ul class="row list-unstyled justify-content-center">
 
   
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/broadwaterfarm/">
+                      <img class="card-img-top" src="/images/bwfarm1.jpg" alt="Broadwater Farm estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/haringey/broadwaterfarm/">
+                      <h5 class="card-title">Broadwater Farm estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>At least 200 of the 1075 homes on Haringey’s Broadwater Farm estate are under threat of demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/broadwaterfarm/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/haringey/hillcrest/">
@@ -159,6 +176,23 @@
 		      <p class="card-text"><p>106 council homes are earmarked for redevelopment on Turner Avenue and Brunel Walk in south Tottenham (Haringey).</p>
 </p>
                       <a target="_blank" href="/estates/haringey/turneravenue/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/harrow/grangefarm/">
+                      <img class="card-img-top" src="/images/leabank.jpg" alt="Leabank View estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/harrow/grangefarm/">
+                      <h5 class="card-title">Leabank View estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>The Leabank View estate comprises circa 60 council homes overlooking the river Lea. The estate have been designated for comprehensive redevelopment in the Council’s <a href="https://www.minutes.haringey.gov.uk/documents/s48324/Housing%20Investment%20and%20Estate%20Renewal%20Strategy%20-%20whole%20report%20-%20Paul%20Munday.pdf">Estate Renewal Strategy</a> and its <a href="https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_site_allocations_dtp_online.pdf">Local Plan site allocations DPD</a> (site SA64).</p>
+</p>
+                      <a target="_blank" href="/estates/harrow/grangefarm/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>
