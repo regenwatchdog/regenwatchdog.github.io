@@ -5,7 +5,6 @@ name: Leabank View estate
 borough: haringey
 images:
   - image_path: /images/leabank.jpg
-  - image_path: /images/leabank2.jpg
   - image_path: /images/leabank1.jpg
   - image_path: /images/leabank4.png
 coordinates: 

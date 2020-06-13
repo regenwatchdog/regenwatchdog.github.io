@@ -22,17 +22,18 @@ images:
 coordinates: 
   - -0.272799,51.502295
 ---
-2,100 homes are earmarked for demolition on Ealing's South Acton estate in a [joint venture](https://www.countrysideproperties.com/all-developments/london/acton-gardens) with [Cataylst Housing Association](https://www.chg.org.uk/development-regeneration/regeneration/south-acton-ealing/) and developer Countryside Properties.
+2,100 homes are earmarked for demolition on Ealing's South Acton estate with replacement 'social' housing at up to 80% of market rent.
+
+
+The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.
+
+In 2013 Ealing Council signed a development agreement transferring the estate in phases to a [joint venture](https://www.countrysideproperties.com/all-developments/london/acton-gardens) between [Cataylst Housing Association](https://www.chg.org.uk/development-regeneration/regeneration/south-acton-ealing/) and developer Countryside Properties.
+
+The estate is well served by transport links with nearby Acton Town, a major interchange for the District and Piccadilly lines, with links to Heathrow and the West End is on the western boundary. On the southern boundary is South Acton railway station, a London Overground station running north through to Stratford and south to Richmond.
 
 In Dec 2018, the Mayor [approved](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/acton-gardens-masterplan) the revised masterplan for the South Acton estate, with replacement ‘social’ housing to be provided at social rent or London Affordable Rent affordable rent, but in fact the social housing can be let at up to 80% market rent.
 
 Shortly afterwards, the Mayor allocated funding to the scheme and [exempted](https://www.london.gov.uk/sites/default/files/list_of_exemptions.pdf) it from his requirement to ballot residents on the demolition of their homes.
-
-The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.
-
-The estate is well served by transport links with nearby Acton Town, a major interchange for the District and Piccadilly lines, with links to Heathrow and the West End is on the western boundary. On the southern boundary is South Acton railway station, a London Overground station running north through to Stratford and south to Richmond.
-
-In 2013 Ealing Council signed a development agreement transferring the estate in phases to a joint-venture between developer Countryside Properties and L&Q housing association.
 
 [Planning permission](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=ZZZW7IJMTA900) was subsequently granted for 2,350 new homes of which 796 will be social rent, albeit the planning consent's [Section 106 legal agreement](/images/sthactons106.pdf) defines 'social rent' as anything up to 80% market rent:
 
