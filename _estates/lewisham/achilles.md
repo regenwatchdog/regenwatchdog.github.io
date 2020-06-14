@@ -4,12 +4,16 @@ stage: Preparation
 name: Achilles Street area 
 borough: lewisham
 images:
-  - image_path: /images/ac1.png
-  - image_path: /images/ac2.png
-  - image_path: /images/ac3.png
-  - image_path: /images/ac4.png
-  - image_path: /images/ac5.png
-  - image_path: /images/ac6.png
+  - image_path: /images/ach1.jpg
+  - image_path: /images/ach2.jpg
+  - image_path: /images/ach3.jpg
+  - image_path: /images/ach4.jpg
+  - image_path: /images/ach5.jpg
+  - image_path: /images/ach6.jpg
+  - image_path: /images/ach7.jpg
+  - image_path: /images/ach8.jpg
+  - image_path: /images/ach9.jpg
+  - image_path: /images/ach10.jpg
 coordinates:
   - '-0.035341,51.476452'
 ---

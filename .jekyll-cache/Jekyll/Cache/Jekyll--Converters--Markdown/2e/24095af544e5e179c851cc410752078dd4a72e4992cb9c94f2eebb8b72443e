@@ -1,0 +1,32 @@
+I"Z<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/kingstonmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/kingstonmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/kingston/cambridgeroad/">
+                      <img class="card-img-top" src="/images/farnham1.png" alt="Cambridge Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/kingston/cambridgeroad/">
+                      <h5 class="card-title">Cambridge Road estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-warning">Stage: Preparation</h6>
+		      <p class="card-text"><p>Circa 200 homes are under threat of demolition at Havering’s Farnham and Hilldene estate in Harold Hill.</p>
+</p>
+                      <a target="_blank" href="/estates/kingston/cambridgeroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
