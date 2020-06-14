@@ -1,4 +1,4 @@
-I"Û<div class="col">
+I"ù"<div class="col">
 
 
 
@@ -246,8 +246,6 @@ Despite this the Mayor is signing off an increasing number of schemes that fail 
 
 
 
-
-
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="/estates/merton/eastfields/">
@@ -321,6 +319,27 @@ Despite this the Mayor is signing off an increasing number of schemes that fail 
 
 
 
+
+
+
+
+
+
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/wandsworth/winstanleyyork/">
+                      <img class="card-img-top" src="/images/wyestate.jpg" alt="Winstanley &amp; York Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <h5 class="card-title">Winstanley &amp; York Road estate</h5>
+		      <h6 class="card-subtitle mb-2 text-muted">Status: </h6>
+		      <p class="card-text"><p>759 homes on Wandsworth‚Äôs Winstanley and York Road estate are under threat of demolition, with just 36% affordable housing proposed.</p>
+</p>
+                      <a target="_blank" href="/estates/wandsworth/winstanleyyork/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
 
 
 

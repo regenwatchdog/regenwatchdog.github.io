@@ -1,0 +1,32 @@
+I"b<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/southwarkmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/southwarkmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/southwark/aylesbury/">
+                      <img class="card-img-top" src="/images/aylesburyicon.jpg" alt="Aylesbury estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/southwark/aylesbury/">
+                      <h5 class="card-title">Aylesbury estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>Circa 2,000 homes remain earmarked for demolition on the remaining 3 phases of Southwark’s Aylesbury estate redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/southwark/aylesbury/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
