@@ -11,7 +11,7 @@ images:
 coordinates: 
   - -0.212212,51.523537
 ---
-538 homes on RBKC's Wornington Green estate are undergoing phased demolition by Catalyst Housing Association, with stage 1 of 3 now complete. 
+Circa 150 homes of the 550 homes on RBKC's Wornington Green estate remain earmarked for demolition by Catalyst Housing Association, with stage 1 of 3 now complete. 
 
 Phase 1 of the scheme is complete and phase 2 is under construction. The 'decanting' of homes on phase 3 is due to commence in late 2020 as is the consultation period prior to submission of a planning application.
 
