@@ -138,3 +138,16 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
     <img src="{{ site.baseurl }}/images/pepys_documentary.png" class="card-img-top" alt="...">
   </div>	  
     </div>
+    
+    <div class="card-columns">
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Deptford is Changing - a creative exploration of the impact of gentrification</h5>
+      <p class="card-text">By Anita Strasser. ISBN: 9781527251588</p>
+      <a href="https://www.yumpu.com/en/document/view/63260301/deptford-is-changing-a-creative-exploration-of-gentrification#">Read</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="{{ site.baseurl }}/images/Anita_Strasser_book_pic.png" class="card-img-top" alt="...">
+  </div>	  
+    </div>
