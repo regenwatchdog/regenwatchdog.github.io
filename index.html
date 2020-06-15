@@ -66,7 +66,7 @@ title: Estates
                       <img class="card-img-top" src="{{ estate.images.first.image_path }}" alt="{{ estate.name }}">
                     </a>
                     <div class="card-footer d-flex justify-content-between bg-white">
-			    <a href="{{ estate.url }}" class="h6 m-0">{{ estate.name }}, {{ estate.borough | capitalize | replace: "and", " & " | replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" }}</a>
+			    <a href="{{ estate.url }}" class="h6 m-0">{{ estate.name }}, {{ estate.borough | capitalize | replace: "gand", "g & " | replace: "hand", "h & "| replace: "nand", "n & " | replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "dagenham", " Dagenham" | replace: "london", " London" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" }}</a>
 			    <a target="_blank" href="{{ estate.url }}" data-toggle="tooltip" data-placement="top" title="Open in new tab"><i class="icon-popup"></i></a>
                     </div>
                   </div>
