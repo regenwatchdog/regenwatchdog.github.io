@@ -5,6 +5,7 @@ name: Stokley Court
 borough: haringey
 images:
   - image_path: /images/stokley_court.jpg
+  - image_path: /images/stokely_court.jpg
 coordinates: 
   - -0.121308,51.589108
 ---

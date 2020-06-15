@@ -1,6 +1,5 @@
 ---
 category: underthreat
-erg: noncompliant
 stage: Proposal
 name: Winstanley & York Road estate 
 borough: wandsworth
@@ -9,7 +8,7 @@ images:
 coordinates: 
   - -0.176427,51.464762
 ---
-759 homes on Wandsworth's Winstanley and York Road estate are under threat of demolition, with just 36% affordable housing proposed.
+759 homes on Wandsworth's Winstanley and York Road estate have been earmarked for demolition, with just 36% affordable housing proposed in the redevelopment.
 
 11 hectare site, located across of a range of high rise buildings, large rectangular blocks and smaller two to four storey blocks. The site also includes York Gardens (an area of designated open space), the York Gardens Library and Community Centre, the York Garden’s nursery known locally as the One O’clock Club, Battersea Chapel Baptist Church,the Thames Christian School, a doctor’s surgery and a number of small retail units.
 
