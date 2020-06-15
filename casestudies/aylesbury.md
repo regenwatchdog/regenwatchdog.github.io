@@ -41,6 +41,8 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
       <div class="card-body">
         <h5 class="card-title">The Aylesbury by James Webber</h5>
         <p class="font-weight-light">In this short documentary film - The Aylesbury - directed by James Webber, Loretta Lees and estate residents are interviewed about the estate. The film begins with the building of the Aylesbury estate as part of the post-war slum clearances in South London, highlighting its use of the pre-fab method implemented by Laing Construction; it then compares the joy its new residents experienced on moving in with the more negative portrayals from the media, including its denigration by architect-planner Oscar Newman. The film continues by discussing the managed decline of the estate and the demolition and displacement its residents are currently experiencing. It underlines the story of a community that will soon disappear.</p>
+	   <p class="font-weight-normal">The Director, James Webber, has an MA in Screen Documentary from Goldsmiths, University of London, he currently works for the London-based documentary film distributor Dogwoof.</p>   
+	   <p class="font-weight-lighter">Contact: jamesgeorgewebber1@gmail.com</p>
      <a href="https://drive.google.com/file/d/1SQHSv2uvwFeCkTrri-eDnApfMFBpzD63/view" class="btn btn-primary">Watch</a>
       </div>
     </div>
