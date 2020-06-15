@@ -1,5 +1,4 @@
-I"
-+<div class="col">
+I"�9<div class="col">
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="/underthreat/haringeymap.html" width="100%" height="400px"></iframe>
 </div>
@@ -24,6 +23,23 @@
 		      <p class="card-text"><p>At least 200 of the 1075 homes on Haringey’s Broadwater Farm estate are under threat of demolition.</p>
 </p>
                       <a target="_blank" href="/estates/haringey/broadwaterfarm/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/chettlecourt/">
+                      <img class="card-img-top" src="/images/chettle1.jpg" alt="Chettle Court" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/haringey/chettlecourt/">
+                      <h5 class="card-title">Chettle Court</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 100 homes have been earmarked for potential demolition at Chettle Court in Haringey.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/chettlecourt/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>
@@ -166,6 +182,23 @@
 
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
+                    <a href="/estates/haringey/stokleycourt/">
+                      <img class="card-img-top" src="/images/stokley_court.jpg" alt="Stokley Court" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/haringey/stokleycourt/">
+                      <h5 class="card-title">Stokley Court</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 50 homes have been earmarked for potential demolition at Stokley Court in Haringey.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/stokleycourt/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
                     <a href="/estates/haringey/turneravenue/">
                       <img class="card-img-top" src="/images/turner.png" alt="Turner Avenue and Brunel Walk" />
                     </a>
@@ -177,6 +210,40 @@
 		      <p class="card-text"><p>106 council homes are earmarked for redevelopment on Turner Avenue and Brunel Walk in south Tottenham (Haringey).</p>
 </p>
                       <a target="_blank" href="/estates/haringey/turneravenue/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/wattyler/">
+                      <img class="card-img-top" src="/images/wtyler.jpg" alt="Wat Tyler House" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/haringey/wattyler/">
+                      <h5 class="card-title">Wat Tyler House</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 100 homes have been earmarked for potential demolition at Wat Tyler House on Haringey’s Campbourne estate.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/wattyler/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/haringey/woodridings/">
+                      <img class="card-img-top" src="/images/woodridings.jpg" alt="Woodridings Court" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/haringey/woodridings/">
+                      <h5 class="card-title">Woodridings Court</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 50 homes have been earmarked for potential demolition at Woodridings Court in Haringey.</p>
+</p>
+                      <a target="_blank" href="/estates/haringey/woodridings/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
                   </div>
                   </div>
                 </li>
