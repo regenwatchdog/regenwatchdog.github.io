@@ -39,7 +39,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">The Aylesbury by James Webber</h5>
+        <h5 class="card-title">The Aylesbury</h5>
         <p class="font-weight-light">In this short documentary film - The Aylesbury - directed by James Webber, Loretta Lees and estate residents are interviewed about the estate. The film begins with the building of the Aylesbury estate as part of the post-war slum clearances in South London, highlighting its use of the pre-fab method implemented by Laing Construction; it then compares the joy its new residents experienced on moving in with the more negative portrayals from the media, including its denigration by architect-planner Oscar Newman. The film continues by discussing the managed decline of the estate and the demolition and displacement its residents are currently experiencing. It underlines the story of a community that will soon disappear.</p>
 	   <p class="font-weight-normal">The Director, James Webber, has an MA in Screen Documentary from Goldsmiths, University of London, he currently works for the London-based documentary film distributor Dogwoof.</p>   
 	   <p class="font-weight-lighter">Contact: jamesgeorgewebber1@gmail.com</p>
@@ -271,7 +271,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map.jpg" class="btn btn-primary">View the map</a>
     </div>
   </div>
   
