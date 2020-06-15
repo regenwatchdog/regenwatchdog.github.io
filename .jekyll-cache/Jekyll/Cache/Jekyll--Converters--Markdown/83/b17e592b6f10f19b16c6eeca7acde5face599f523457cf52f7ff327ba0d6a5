@@ -1,0 +1,117 @@
+I"'<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/westminstermap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/westminstermap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/churchstreet/">
+                      <img class="card-img-top" src="/images/cs.jpg" alt="Church Street area estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/churchstreet/">
+                      <h5 class="card-title">Church Street area estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>Circa 200 homes on Westminster’s Church Street area estate are under threat of potential demolition.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/churchstreet/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/cundystreet/">
+                      <img class="card-img-top" src="/images/cundy1.png" alt="Cundy Street estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/cundystreet/">
+                      <h5 class="card-title">Cundy Street estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>40 Council homes are under threat of demolition on Westminster’s Cundy Street estate.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/cundystreet/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/eburybridge/">
+                      <img class="card-img-top" src="/images/eb1.jpg" alt="Ebury Bridge estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/eburybridge/">
+                      <h5 class="card-title">Ebury Bridge estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>Demolition has started on the first of 336 homes earmarked for demolition on Westminster’s Ebury Bridge estate in Pimlico. Westminster has taken the <a href="https://www.insidehousing.co.uk/news/news/westminster-city-council-accused-of-trying-to-dodge-scrutiny-over-estate-regeneration-63267">controversial decision</a> of decanting and demolishing the estate without first seeking planning permission or balloting residents.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/eburybridge/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/hallplace/">
+                      <img class="card-img-top" src="/images/hp7.jpg" alt="Hall Place estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/hallplace/">
+                      <h5 class="card-title">Hall Place estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 500 homes are under threat of demolition at the Hall Place estate in Maida Vale.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/hallplace/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lilestone/">
+                      <img class="card-img-top" src="/images/ls3.jpg" alt="Lilestone estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/lilestone/">
+                      <h5 class="card-title">Lilestone estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 150 homes are under threat of potential demolition on Westminster’ Lilestone estate.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lilestone/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/westminster/lissongreen/">
+                      <img class="card-img-top" src="/images/lissongreen3.jpg" alt="Lisson Green estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/westminster/lissongreen/">
+                      <h5 class="card-title">Lisson Green estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 500 homes are under threat of potential demolition on Westminster’s Lisson Green estate in Maida Vale.</p>
+</p>
+                      <a target="_blank" href="/estates/westminster/lissongreen/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

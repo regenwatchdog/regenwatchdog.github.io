@@ -29,7 +29,7 @@ coordinates:
   - '-0.175467,51.523358'
 published: true
 ---
-Circa 1,000 homes are under threat of demolition at the Hall Place estate in Maida Vale.
+Circa 500 homes are under threat of demolition at the Hall Place estate in Maida Vale.
 
 The estate is situated off the Edgware road near the Regent's Canal. It sits [within](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 
