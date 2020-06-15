@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Ealing 
+title: Ealing 
 category: underthreat
 ---
 <div class="col">

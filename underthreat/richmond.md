@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Richmond 
+title: Richmond 
 category: underthreat
 ---
 <div class="col">

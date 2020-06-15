@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Newham 
+title: Newham 
 category: underthreat
 ---
 <div class="col">

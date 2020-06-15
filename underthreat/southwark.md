@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Southwark 
+title: Southwark 
 category: underthreat
 ---
 <div class="col">

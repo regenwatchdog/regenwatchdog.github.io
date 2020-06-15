@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Bromley 
+title: Bromley 
 category: underthreat
 ---
 <div class="col">

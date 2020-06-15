@@ -4,10 +4,10 @@
             <div class="col-12 col-md-6">
               <div class="space-lg pb-0">
                 <h1 class="display-4">
-                 Estates under threat 
+			{% if page.url contains 'underthreat' %}{{ page.title | upcase }}{% else %}{{ page.name | upcase }}{% endif %} 
                 </h1>
                 <span class="lead">
-                 Over 100 council and housing association estates across London are under threat of demolition. Our research shows where they are.
+			Over 100 council and housing association estates across London are under threat of demolition. Our research shows where they are.
                 </span>
               </div>
             </div>

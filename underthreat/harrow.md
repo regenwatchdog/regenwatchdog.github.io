@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Harrow 
+title: Harrow 
 category: underthreat
 ---
 <div class="col">

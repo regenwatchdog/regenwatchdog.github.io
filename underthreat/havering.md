@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Havering 
+title: Havering 
 category: underthreat
 ---
 <div class="col">

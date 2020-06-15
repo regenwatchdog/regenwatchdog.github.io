@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Waltham Forest 
+title: Waltham Forest 
 category: underthreat
 ---
 <div class="col">

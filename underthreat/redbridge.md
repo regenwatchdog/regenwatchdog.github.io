@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Redbridge 
+title: Redbridge 
 category: underthreat
 ---
 <div class="col">

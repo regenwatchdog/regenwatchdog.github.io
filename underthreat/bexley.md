@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Bexley 
+title: Bexley 
 category: underthreat
 ---
 <div class="col">

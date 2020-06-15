@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Islington 
+title: Islington 
 category: underthreat
 ---
 <div class="col">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Barking & Dagenham 
+title: Barking & Dagenham 
 category: underthreat
 ---
 <div class="col">

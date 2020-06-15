@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Lambeth 
+title: Lambeth 
 category: underthreat
 ---
 <div class="col">

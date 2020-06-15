@@ -7,7 +7,7 @@
 		      {% assign boroughs_grouped = site.estates | group_by: 'borough' %}
 		      {% for borough in boroughs_grouped %}
 		      
-		      <a class="{% if page.url contains borough.name %}active {% endif %}nav-link" href="{{ site.baseurl }}/underthreat/{{ borough.name }}">{{ borough.name | capitalize | replace: "and", " & " | replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" | replace: "dagenham", "Dagenham" | replace: "london", "London" | replace: "wandsworth", "Wandsworth" }}</a>
+		      <a class="{% if page.url contains borough.name %}active {% endif %}nav-link" href="{{ site.baseurl }}/underthreat/{{ borough.name }}">{{ borough.name | capitalize | replace: "gand", "g & " | replace: "hand", "h & "| replace: "nand", "n & "| replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" | replace: "dagenham", "Dagenham" | replace: "london", "London" | replace: "wandsworth", "Wandsworth" }}</a>
 	   
                       {% endfor %}
 		      {% endif %}

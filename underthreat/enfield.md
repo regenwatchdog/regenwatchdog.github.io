@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Enfield 
+title: Enfield 
 category: underthreat
 ---
 <div class="col">

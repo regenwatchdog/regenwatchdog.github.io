@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Wandsworth 
+title: Wandsworth 
 category: underthreat
 ---
 <div class="col">

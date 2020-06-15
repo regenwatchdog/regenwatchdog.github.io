@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Westminster 
+title: Westminster 
 category: underthreat
 ---
 <div class="col">

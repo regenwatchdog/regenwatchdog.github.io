@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Barnet 
+title: Barnet 
 category: underthreat
 ---
 <div class="col">

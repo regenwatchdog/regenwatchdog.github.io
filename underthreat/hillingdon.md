@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Hillingdon 
+title: Hillingdon 
 category: underthreat
 ---
 <div class="col">

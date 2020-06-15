@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Hackney 
+title: Hackney 
 category: underthreat
 ---
 <div class="col">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Brent 
+title: Brent 
 category: underthreat
 ---
 <div class="col">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Hounslow 
+title: Hounslow 
 category: underthreat
 ---
 <div class="col">

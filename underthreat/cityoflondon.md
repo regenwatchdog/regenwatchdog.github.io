@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in City of London 
+title: City of London 
 category: underthreat
 ---
 <div class="col">

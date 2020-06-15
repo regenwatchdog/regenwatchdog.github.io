@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Kensington and Chelsea 
+title: Kensington and Chelsea 
 category: underthreat
 ---
 <div class="col">

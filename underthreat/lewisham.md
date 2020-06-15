@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Lewisham 
+title: Lewisham 
 category: underthreat
 ---
 <div class="col">

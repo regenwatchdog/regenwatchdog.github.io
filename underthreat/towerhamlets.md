@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Tower Hamlets 
+title: Tower Hamlets 
 category: underthreat
 ---
 <div class="col">

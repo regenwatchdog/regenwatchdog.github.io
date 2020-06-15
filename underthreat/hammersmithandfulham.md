@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Hammersmith and Fulham 
+title: Hammersmith and Fulham 
 category: underthreat
 ---
 <div class="col">

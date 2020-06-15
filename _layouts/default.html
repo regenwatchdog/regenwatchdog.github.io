@@ -28,8 +28,10 @@ title: Estates
 
 
     <div class="main-container">
-
-{% include slug.html %} 
+	    {% if page.category == 'underthreat' %}
+            {% include underthreat_slug.html %} 
+            {% else include slug.html %}
+	    {% endif %}
 
 {% if page.category == 'approved' %}
 {% include approved_header.html %}

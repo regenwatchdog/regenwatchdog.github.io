@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Sutton 
+title: Sutton 
 category: underthreat
 ---
 <div class="col">

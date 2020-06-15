@@ -7,7 +7,7 @@
                 </li>
 
                 <li class="breadcrumb-item active" aria-current="page">
-			{{ page.title }}
+			<a href="{{ site.baseurl }}/underthreat/estatesatrisk/">Estates under threat</a> {% if page.borough %} > {% endif %}<a href="{{ site.baseurl }}/underthreat/{{ page.borough }}"> {{ page.borough | capitalize }}</a> > {{ page.title }}
                 </li>
               </ol>
             </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Haringey 
+title: Haringey 
 category: underthreat
 ---
 <div class="col">

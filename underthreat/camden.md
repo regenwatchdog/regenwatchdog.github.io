@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Camden 
+title: Camden 
 category: underthreat
 ---
 <div class="col">

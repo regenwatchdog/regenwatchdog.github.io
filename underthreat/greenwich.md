@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estates under threat in Greenwich 
+title: Greenwich 
 category: underthreat
 ---
 <div class="col">

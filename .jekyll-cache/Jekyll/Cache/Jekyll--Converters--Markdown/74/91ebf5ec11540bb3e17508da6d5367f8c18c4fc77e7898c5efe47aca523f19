@@ -1,0 +1,83 @@
+I".<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/wandsworthmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/wandsworthmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/richmond/hamclose/">
+                      <img class="card-img-top" src="/images/wyestate.jpg" alt="Winstanley &amp; York Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/richmond/hamclose/">
+                      <h5 class="card-title">Winstanley &amp; York Road estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>759 homes on Wandsworth’s Winstanley and York Road estate have been earmarked for demolition, with just 36% affordable housing proposed in the redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/richmond/hamclose/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/wandsworth/altonarea/">
+                      <img class="card-img-top" src="/images/alton.jpg" alt="Alton estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/wandsworth/altonarea/">
+                      <h5 class="card-title">Alton estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>288 homes are earmarked for demolition on Wandsworth Alton estate in Roehampton.</p>
+</p>
+                      <a target="_blank" href="/estates/wandsworth/altonarea/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/wandsworth/stjohnshill/">
+                      <img class="card-img-top" src="/images/stjohns1.png" alt="St John's Hill estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/wandsworth/stjohnshill/">
+                      <h5 class="card-title">St John's Hill estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>Circa 100 homes remain earmarked for demolition in phase 3 of Peabody’s redevelopment of the St John’s Hill estate near Clapham Junction.</p>
+</p>
+                      <a target="_blank" href="/estates/wandsworth/stjohnshill/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/wandsworth/winstanleyyork/">
+                      <img class="card-img-top" src="/images/wyestate.jpg" alt="Winstanley &amp; York Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/wandsworth/winstanleyyork/">
+                      <h5 class="card-title">Winstanley &amp; York Road estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>759 homes on Wandsworth’s Winstanley and York Road estate have been earmarked for demolition, with just 36% affordable housing proposed in the redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/wandsworth/winstanleyyork/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET
