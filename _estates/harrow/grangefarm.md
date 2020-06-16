@@ -15,7 +15,7 @@ coordinates:
 ---
 282 homes have been earmarked for demolition on Harrow's Grange Farm estate.
 
-The scheme is being [progressed with Mayoral funding](/approved/funding) despite not having balloted residents on the demolition of their homesor applying for an [exemption](/approved/ballotexemptions). The Mayor says that ballots are a requirement for receiving funding but appears to have turned a blind eye to this estate regeneration. 
+The scheme is being [progressed with Mayoral funding](/approved/funding) despite not having balloted residents on the demolition of their homes or applying for an [exemption](/approved/ballotexemptions). The Mayor says that ballots are a requirement for receiving funding but appears to have turned a blind eye to this estate regeneration. 
 
 Planning permission was granted in March 2019, with detailed consent for Phase 1 (89 homes) and outline consent for Phases 2 and 3.
 

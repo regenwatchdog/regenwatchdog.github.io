@@ -24,4 +24,7 @@ In August 2019, it was [reported](https://www.hackneycitizen.co.uk/2019/08/20/ha
 
 The scheme is being [funded](/approved/funding) by the Mayor and [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
+__Links:__
+[Mayor's planning reports.](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search?scheme_title=woodberry+down&postcode=&borough=All&planning_authority=All&lpa_case_number=&gla_case_number=&paws_decision_date_from=&paws_decision_date_to=)
 
+[Guardian article - 18 May 2014](https://www.theguardian.com/society/2014/may/18/-sp-truth-about-gentrification-how-woodberry-down-became-woodberry-park)

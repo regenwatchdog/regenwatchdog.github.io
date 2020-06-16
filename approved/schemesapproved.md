@@ -15,7 +15,7 @@ published: true
 <p class="lead text-muted" align="left">
 The Mayor's <a href="http://estatewatch.london/guide/#headingOne">estate regeneration policy</a> says that schemes should provide at least 50% affordable housing and that there should be no net loss of social rented housing.
 
-Despite this the Mayor is signing off an increasing number of schemes that fail to meet these requirements and which have substituted social rented housing for affordable rent (i.e. up to 80% market rent): 
+Despite this the Mayor is signing off an increasing number of schemes that fail to meet these requirements and which have substituted social rented housing for affordable rent (i.e. up to 80% market rent) - here are a few examples, which we will add to over time: 
 </p>
 				
 				 
