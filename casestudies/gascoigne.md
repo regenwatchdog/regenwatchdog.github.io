@@ -153,7 +153,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne002.jpg" class="d-block w-100" alt="...">
     </div>
-	<div class="carousel-item active">
+	<div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne004.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
@@ -162,7 +162,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne006.jpg" class="d-block w-100" alt="...">
     </div>
-	<div class="carousel-item active">
+	<div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne007.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
@@ -171,7 +171,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne009.jpg" class="d-block w-100" alt="...">
     </div>
-	<div class="carousel-item active">
+	<div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne010.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
@@ -180,7 +180,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne012.jpg" class="d-block w-100" alt="...">
     </div>
-	<div class="carousel-item active">
+	<div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne014.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
@@ -189,7 +189,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne016.jpg" class="d-block w-100" alt="...">
     </div>
-	<div class="carousel-item active">
+	<div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne017.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
