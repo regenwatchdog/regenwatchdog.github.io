@@ -26,7 +26,17 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
 
 A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to protect the rights of temporary tenants.  
 
-<!-- Button trigger modal -->
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">T.A.G.</h5>
+        <p class="card-text">A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to protect the rights of temporary tenants.</p>
+	      
+        <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
   More info about TAG here
 </button>
@@ -53,11 +63,10 @@ A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to p
   </div>
 </div>
 
-<div class="card-columns">
-<div class="card" style="max-width: 230px">
-    <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="card-img-top" alt="...">
+      </div>
+    </div>
   </div>
-  </div> 
+</div>
    
    
 For more information see the following articles:
