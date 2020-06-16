@@ -24,6 +24,39 @@ images:
 
 Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this included the demolition of the Love Lane estate. Haringey  Council  served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate.
 
+A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to protect the rights of temporary tenants.  
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  More info about TAG here
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">T.A.G.</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <p>TAG are a campaign group made up of temporary tenants living on the Love Lane Estate in Tottenham who are fighting to achieve permanent and secure council housing from Haringey Council in the face of the proposed estate demolition. TAG is currently chaired by Joanna Morrison and Tionee Inni has recently been elected co-chair.</p>
+      <p>Haringey Council have placed temporary tenants on Love Lane estate on purpose for their ease of decant into the private sector, therefore discharging their statutory homelessness duties. This is specific to temporary tenants who were placed on the housing list after 9th November 2012. There are roughly 190 temporary households on the estate and this mainly consists of BAME households. The majority of households are also in low-paid employment and are ineligible for any benefit. This means that they are essentially priced out of private housing because of the higher rents. The estate is also home to many vulnerable households. Despite this, residents are frequently targeted by Haringey Council and developer Lendlease with false and contradictory information regarding future plans about available homes and facilities. TAG is constantly fighting the deceptive and aggressive tactics of these organisations. The group acts as an essential source of information and support for the local community, particularly in light of the upcoming regeneration ballot.</p>
+      <p>TAG are active on social media @TAGLoveLane before lock-down they organised public meetings at a local community hall so residents could meet and discuss their concerns with each other. They regularly email updates and provide counters to Haringey Council’s attempt to sell their image of regeneration. They support Peacock Industrial Estate @Peacock_Estate who are also threatened with demolition by the regen proposals. In the beginning, Haringey played the residents against the businesses, they would tell local traders that the residents agreed with demolition. They used the “Do you want a new park?” strategy to get resident support, but never let residents know the truth that the park would be where the Peacock Industrial Estate is. These divide and rule tactics have been exposed.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+    <img src="..." class="card-img-top" alt="...">
+  </div>
+
 For more information see the following articles:
 
 <!------------- START OF SNIPPET---------------------------->
