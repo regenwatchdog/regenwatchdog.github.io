@@ -53,7 +53,7 @@ A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to p
   </div>
 </div>
 
-    <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="img-fluid rounded img-thumbnail" style="width: 50%" alt="...">
+    <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="img-fluid rounded img-thumbnail" alt="...">
 
 For more information see the following articles:
 
