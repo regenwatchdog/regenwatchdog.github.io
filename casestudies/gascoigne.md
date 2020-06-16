@@ -121,5 +121,79 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
       
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne0013.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne001.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne002.jpg" class="d-block w-100" alt="...">
+    </div>
+	<div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne004.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne005.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne006.jpg" class="d-block w-100" alt="...">
+    </div>
+	<div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne007.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne008.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne009.jpg" class="d-block w-100" alt="...">
+    </div>
+	<div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne010.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne011.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne012.jpg" class="d-block w-100" alt="...">
+    </div>
+	<div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne014.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne015.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne016.jpg" class="d-block w-100" alt="...">
+    </div>
+	<div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/ABgascoigne017.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne018.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/ABgascoigne019.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+      
+      
+      
     </div>
     </div>
