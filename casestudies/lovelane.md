@@ -24,9 +24,8 @@ images:
 
 Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this included the demolition of the Love Lane estate. Haringey  Council  served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate.
 
-A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to protect the rights of temporary tenants.  
 
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3" style="max-width: 700px;">
   <div class="row no-gutters">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="card-img" alt="...">
