@@ -121,9 +121,10 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
       
-      <div class="container" width="25%">
-      <h3>Pictures of Gascoigne by photographer Andrew Brown</h3>
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <div class="container">
+      <h3>Pictures of Gascoigne Estate</h3>
+      <h5>by photographer Andrew Brown</h5>
+      <div id="carouselExampleIndicators" class="carousel slide" style="width: 300px" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
