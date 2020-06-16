@@ -121,7 +121,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
       
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <div id="carouselExampleIndicators" class="carousel slide" width="50%" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -145,7 +145,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.baseurl }}/images/ABgascoigne0013.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne013.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="{{ site.baseurl }}/images/ABgascoigne001.jpg" class="d-block w-100" alt="...">
