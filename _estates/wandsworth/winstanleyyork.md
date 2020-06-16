@@ -1,6 +1,6 @@
 ---
 category: underthreat
-stage: Proposal
+stage: Implementation 
 name: Winstanley & York Road estate 
 borough: wandsworth
 images:
@@ -8,23 +8,28 @@ images:
 coordinates: 
   - -0.176427,51.464762
 ---
-759 homes on Wandsworth's Winstanley and York Road estate have been earmarked for demolition, with just 36% affordable housing proposed in the redevelopment.
+759 homes on Wandsworth's Winstanley and York Road estate have been approved for demolition, to be replaced with 2,550 homes with just 36% affordable housing of which only 484 social rent.
 
-11 hectare site, located across of a range of high rise buildings, large rectangular blocks and smaller two to four storey blocks. The site also includes York Gardens (an area of designated open space), the York Gardens Library and Community Centre, the York Garden’s nursery known locally as the One O’clock Club, Battersea Chapel Baptist Church,the Thames Christian School, a doctor’s surgery and a number of small retail units.
+The 11-hectare estate near Clapham Junction station, is located across of a range of high rise buildings, large rectangular blocks and smaller two to four storey blocks. The proposed redevelopment also includes York Gardens (an area of designated open space), the York Gardens Library and Community Centre, the York Garden’s nursery a Baptist Church, the Thames Christian School, a doctor’s surgery and a number of small retail units.
 
-Clapham Junction station immediately to the South.
+The scheme is being progressed in a joint venture between Wandsworth Council and developer Taylor Wimpey.
 
-2550 new homes are proposed, of which 484 social rent, 100 affordable rent, 308 shared ownership and 1,658 private market homes.
+Wandsworth has avoided the Mayor's requirement to ballot residents on the demolition of their homes by avoiding to apply for grant funding. The Mayor's ballot requirement only applies to schemes that require grant funding - although applying for grant funding is itself a [requirement of the Mayor's London Plan.](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating)
 
-The Mayor's [stage 1 report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_454975///york_road_and_winstanley_estates_report.pdf) says:
+The planning application approved in January 2020, provides for only 484 of the 2,550 homes proposed in the new scheme for social rent, although a further 100 would be for affordable rent, 222 would be shared ownership and another 86 would be sold through shared equity schemes.
 
-<img src="/images/winstanleysr.png" class="img-fluid rounded img-thumbnail">
+The Mayor's report ignores his [requirement](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) for schemes to apply for grant funding and says that he is satisfied that, while the proposals involved a net loss of social rented units, the new homes would be larger, representing "an uplift of 154 habitable rooms".
 
+The Mayor's [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_454975///york_road_and_winstanley_estates_report.pdf) is not clear about the rent levels of the 484 social rented homes - it only says those taken up by returning tenants will be at social rents:
 
-Joint venture between Wandsworth Council and developer Taylor Wimpey
+<img src="/images/winstanleysr2.png" class="img-fluid rounded img-thumbnail">
 
+The [viability assessment](https://planning2.wandsworth.gov.uk/iam/IAMCache/5121327/5121327.pdf) submitted to justify the claim that the scheme can't meet the Mayor's requirement of 50% affordable housing, confirms that the developer is estimated to receive over £200m profit:
 
+<img src="/images/winstanleyprofit.png" class="img-fluid rounded img-thumbnail">
 
 __Links:__
 
 Mayor's stage 1 report: - [https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/york-road-and-winstanley-estates](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/york-road-and-winstanley-estates)
+
+Jan 2020 Planning Committee report - [https://planning2.wandsworth.gov.uk/iam/IAMCache/5261134/5261134.pdf](https://planning2.wandsworth.gov.uk/iam/IAMCache/5261134/5261134.pdf)

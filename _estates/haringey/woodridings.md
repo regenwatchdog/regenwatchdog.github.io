@@ -5,6 +5,7 @@ name: Woodridings Court
 borough: haringey
 images:
   - image_path: /images/woodridings.jpg
+  - image_path: /images/woodridingsaerial.jpg
 coordinates: 
   - -0.126031,51.601499
 ---
