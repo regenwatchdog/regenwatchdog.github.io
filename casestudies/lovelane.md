@@ -54,7 +54,7 @@ A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to p
 </div>
 
 <div class="card-columns">
-<div class="card" style="max-width: 240px">
+<div class="card" style="max-width: 230px">
     <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="card-img-top" alt="...">
   </div>
   </div> 
