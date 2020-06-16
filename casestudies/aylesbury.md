@@ -263,7 +263,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">The displacement of tenants from the Aylesbury Estate</h5>
       <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_tenants_map.jpg" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_tenants_map.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
   <div class="card">
@@ -271,7 +271,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map.jpg" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
   
@@ -292,7 +292,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate within Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 2nd Public Inquiry (2018), London. Data sourced from FOI data from Southwark Council. Witness Statement Professor Loretta Lees.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
 
@@ -301,7 +301,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 2nd Public Inquiry (2018), London. Data sourced from FOI data from Southwark Council. Witness Statement Professor Loretta Lees.</p>
-      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View the map</a>
+      <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
 
