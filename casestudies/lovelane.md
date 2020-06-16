@@ -53,8 +53,11 @@ A live campaign by Love Lane TAG (Temporary Accomodation group) is striving to p
   </div>
 </div>
 
-    <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="img-fluid rounded img-thumbnail" alt="...">
-
+<div class="card">
+    <img src="{{ site.baseurl }}/images/TAG_logo.jpg" class="card-img-top" width="10%" alt="...">
+  </div>
+   
+   
 For more information see the following articles:
 
 <!------------- START OF SNIPPET---------------------------->
