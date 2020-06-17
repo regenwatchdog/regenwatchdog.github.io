@@ -15,7 +15,6 @@ images:
   - image_path: /images/wb9.jpg
   - image_path: /images/wb10.jpg
   - image_path: /images/wb11.jpg
-  - image_path: /images/westbury.png
 coordinates: 
   - -0.140646,51.470468
 ---

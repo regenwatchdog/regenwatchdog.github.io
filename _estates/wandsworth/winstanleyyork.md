@@ -29,6 +29,9 @@ images:
   - image_path: /images/wy23.jpg
   - image_path: /images/wy24.jpg
   - image_path: /images/wy25.jpg
+  - image_path: /images/wy26.jpg
+  - image_path: /images/wy27.jpg
+  - image_path: /images/wy28.jpg
 coordinates: 
   - -0.176427,51.464762
 ---
