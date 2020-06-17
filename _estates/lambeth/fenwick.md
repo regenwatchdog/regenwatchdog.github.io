@@ -17,7 +17,7 @@ coordinates:
 ---
 431 homes are earmarked for demolition on Lambeth's Fenwick estate in Clapham.
 
-Fenwick is the largest of Lambeth's [five estates](/underthreat/lambeth) earmarked for demolition.
+Fenwick is one of the largest of Lambeth's [five estates](/underthreat/lambeth) earmarked for demolition.
 
 It was first earmarked for potential redevelopment in a [December 2014 Cabinet decision](https://moderngov.lambeth.gov.uk/documents/s70441/03_Lambeth%20Estate%20Regeneration%20and%20Housing%20Delivery%20-%20December%202014%20v3%20docx.pdf).
 

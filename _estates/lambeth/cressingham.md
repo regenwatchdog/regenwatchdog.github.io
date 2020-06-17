@@ -24,7 +24,11 @@ Lambeth also claims that the redevelopment of the estate will result in the prov
 
 The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme. It is not among those granted an [exemption](/approved/ballotexemptions) from the Mayor's requirement to ballot residents on the demolition of their homes.
 
-There is an active [campaign group](https://savecressingham.wordpress.com) created by residents on the estate. In July 2019, they [had their application approved](http://www.brixtonbuzz.com/2019/07/cressingham-gardens-residents-win-right-to-transfer/) for the Right To Transfer (RTT) ownership of the estate into a community-owned company outside of council control.
+There is an active [campaign group](https://savecressingham.wordpress.com) created by residents on the estate. In 2016 they launched ['Cressingham People's Plan - http://cressinghampeoplesplan.org.uk/](http://cressinghampeoplesplan.org.uk/) which offers a viable alternative to demolition.
+
+<img src="/images/peoplesplan.png" class="img-fluid rounded img-thumbnail">
+
+In July 2019, they [had their application approved](http://www.brixtonbuzz.com/2019/07/cressingham-gardens-residents-win-right-to-transfer/) for the Right To Transfer (RTT) ownership of the estate into a community-owned company outside of council control.
 
 Lambeth's [shared equity](https://moderngov.lambeth.gov.uk/documents/s87368/Appendix%20A2%20-%20HOMEOWNERS%20v5%20B.pdf) offer for leaseholders requires a minimum 60% equity, which may result in them having to invest personal savings or take out mortgages. This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend its policy](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) and reduce the requirement from 50% to 25%.
 
