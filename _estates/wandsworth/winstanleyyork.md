@@ -1,7 +1,7 @@
 ---
 category: underthreat
 stage: Implementation 
-name: Winstanley & York Road estate 
+name: Winstanley & York Road estates 
 borough: wandsworth
 images:
   - image_path: /images/wy22.jpg
@@ -32,9 +32,9 @@ images:
 coordinates: 
   - -0.176427,51.464762
 ---
-759 homes on Wandsworth's Winstanley and York Road estate have been approved for demolition, to be replaced with 2,550 homes with just 36% affordable housing of which only 484 social rent.
+759 homes on Wandsworth's Winstanley and York Road estates have been approved for demolition, to be replaced with 2,550 homes with just 36% affordable housing of which only 484 social rent.
 
-The 11-hectare estate near Clapham Junction station, is located across of a range of high rise buildings, large rectangular blocks and smaller two to four storey blocks. The proposed redevelopment also includes York Gardens (an area of designated open space), the York Gardens Library and Community Centre, the York Garden’s nursery a Baptist Church, the Thames Christian School, a doctor’s surgery and a number of small retail units.
+The two neighbouring estates are located near Clapham Junction station across 11-hectares, comprising a range of high rise buildings, large rectangular blocks and smaller two to four storey blocks. The proposed redevelopment also includes York Gardens (an area of designated open space), the York Gardens Library and Community Centre, the York Garden’s nursery a Baptist Church, the Thames Christian School, a doctor’s surgery and a number of small retail units.
 
 The scheme is being progressed in a joint venture between Wandsworth Council and developer Taylor Wimpey.
 
