@@ -18,13 +18,21 @@ images:
 coordinates: 
   - -0.140646,51.470468
 ---
-82 homes have been earmarked for demolition on Lambeth's Westbury estate.
+82 homes have been earmarked for demolition on Lambeth's Westbury estate, with planning approved for 270 new homes of which just 48 social rent.
 
-All low-rise blocks on the Westbury estate have been earmarked for demolition as part of Lambeth's ongoing estate renewal programme.
-
-Lambeth's [summary appraisal](https://moderngov.lambeth.gov.uk/documents/s77897/Westbury%20Appendix%20H%20-%20Summary%20-%20231015.pdf) says that it is looking to build 200-240 new homes on the site, of which 150 for council rent.
+All low-rise maisonette blocks on the Westbury estate have been earmarked for demolition as part of Lambeth's ongoing estate renewal programme.
 
 
-http://moderngov.lambeth.gov.uk/documents/s77897/Westbury%20Appendix%20H%20-%20Summary%20-%20231015.pdfttps://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_469672///south_lambeth_estate_report.pdf
+Planning permission was granted in July 2019 for the demolition of 82 homes comprising all of the estate's low-rise blocks and their replacement with 270 new homes of which 38% 'affordable' of which 48 social rent.
+
+The Mayor's [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_469670///westbury_estate_report.pdf) approving the planning permission explains that the scheme couldn't meet his 50% minimum affordable housing requirement because only 38% is viable. 
+
+In November 2019, the Council [resolved](https://moderngov.lambeth.gov.uk/mgIssueHistoryHome.aspx?IId=56827&PlanId=831&RPID=0) to commence compulsory purchase order proceedings in order to remove the 34 leaseholders from the maisonette blocks.
+
+
+
+__Links:__
+[Mayor's stage 1 and 2 reports](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_469670///westbury_estate_report.pdf)
+
 
 
