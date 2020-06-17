@@ -4,7 +4,31 @@ stage: Implementation
 name: Winstanley & York Road estate 
 borough: wandsworth
 images:
-  - image_path: /images/wyestate.jpg
+  - image_path: /images/wy22.jpg
+  - image_path: /images/wy1.jpg
+  - image_path: /images/wy2.jpg
+  - image_path: /images/wy3.jpg
+  - image_path: /images/wy4.jpg
+  - image_path: /images/wy5.jpg
+  - image_path: /images/wy6.jpg
+  - image_path: /images/wy7.jpg
+  - image_path: /images/wy8.jpg
+  - image_path: /images/wy9.jpg
+  - image_path: /images/wy10.jpg
+  - image_path: /images/wy11.jpg
+  - image_path: /images/wy12.jpg
+  - image_path: /images/wy13.jpg
+  - image_path: /images/wy14.jpg
+  - image_path: /images/wy15.jpg
+  - image_path: /images/wy16.jpg
+  - image_path: /images/wy17.jpg
+  - image_path: /images/wy18.jpg
+  - image_path: /images/wy19.jpg
+  - image_path: /images/wy20.jpg
+  - image_path: /images/wy21.jpg
+  - image_path: /images/wy23.jpg
+  - image_path: /images/wy24.jpg
+  - image_path: /images/wy25.jpg
 coordinates: 
   - -0.176427,51.464762
 ---
