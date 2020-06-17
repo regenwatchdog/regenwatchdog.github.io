@@ -4,6 +4,11 @@ stage: Implementation
 name: South Lambeth estate 
 borough: lambeth
 images:
+  - image_path: /images/slb5.jpg
+  - image_path: /images/slb4.jpg
+  - image_path: /images/slb3.jpg
+  - image_path: /images/slb2.jpg
+  - image_path: /images/slb1.jpg
   - image_path: /images/southlambeth.png
 coordinates: 
   - -0.118861,51.478668
