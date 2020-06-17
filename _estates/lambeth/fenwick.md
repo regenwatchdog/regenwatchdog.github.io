@@ -27,7 +27,11 @@ Lambeth [says](https://moderngov.lambeth.gov.uk/documents/g9750/Publicreports%20
 
 The scheme was stalled in 2018, when the Council was [forced](https://www.architectsjournal.co.uk/news/karakusevic-carson-forces-council-to-rerun-flawed-estate-contest/10028456.article) to re-run its procurement process because of a conflict of interests.
 
+The Mayor agreed [funding](/approved/funding) for the scheme in 2017, but Lambeth hasn't yet applied to an [exemption](/approved/ballotexemptions) from the Mayor's requirement to ballot residents on the demolition of their homes.
+
 Whilst the decant and re-housing programme started in 2016, the estate remains fully occupied with [void units being let out at full market rents or as temporary accommodation at LHA rates](https://www.whatdotheyknow.com/request/581698/response/1393236/attach/4/Attachment%202.pdf).
+
+
 
 __Links:__
 
