@@ -10,3 +10,20 @@ coordinates:
 ---
 306 homes are earmarked for demolition on Lambeth's Cressingham Gardens estate at Brockwell Park.
 
+In 2016, Lambeth Council took the decision to demolish the estate based on fact that refurbishment estimates were £14,000 higher per dwelling than the rest of its estates and this represents 'poor value for money':
+
+<img src="/images/cressinghamrefurb.png" class="img-fluid rounded img-thumbnail">
+
+Lambeth also claims that the redevelopment of the estate will result in the provision of more 'affordable' housing to address the housing crisis. It plans to reprovide the existing council homes and provide an extra 27 at council rent plus a further 48 at 'no higher than LHA rates':
+
+<img src="/images/cressinghamlha.png" class="img-fluid rounded img-thumbnail">
+
+[LHA rates for Lambeth](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=22&LHACategory=999&Month=6&Year=2020&SearchPageParameters=true) are currently as follows:
+
+<img src="/images/cressinghamlharates.png" class="img-fluid rounded img-thumbnail">
+
+__Links:__
+
+[Save Cressingham campaign website - https://savecressingham.wordpress.com](https://savecressingham.wordpress.com)
+
+[Lambeth Cabinet report 21 March 2016](https://moderngov.lambeth.gov.uk/documents/s80093/Cabinet%20Report%20-%20March%202016%20v8.pdf)
