@@ -4,9 +4,14 @@ stage: Implementation
 name: St John's Hill estate 
 borough: wandsworth
 images:
-  - image_path: /images/stjohns1.png
-  - image_path: /images/stjohns2.png
-  - image_path: /images/stjohns3.png
+  - image_path: /images/sj4.jpg
+  - image_path: /images/sj1.jpg
+  - image_path: /images/sj2.jpg
+  - image_path: /images/sj3.jpg
+  - image_path: /images/sj5.jpg
+  - image_path: /images/sj6.jpg
+  - image_path: /images/sj7.jpg
+  - image_path: /images/sj8.jpg
 coordinates: 
   - -0.170662,51.462352
 ---
