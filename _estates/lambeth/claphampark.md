@@ -27,4 +27,5 @@ __Links:__
 
 [GLA stage 1 and stage 2 reports](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_482169///clapham_park_estate_report.pdf)
 
+[Planning application documents](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=OTYBF7BOJXE00)
 
