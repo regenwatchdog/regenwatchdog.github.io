@@ -33,7 +33,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
 
 <div class="card mb-3 w-90 mx-auto"">
-  <div class="row no-gutters">
+  <div class="row no-gutters align-items-center justify-content-center">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/aylesbury_film_pic.png" class="card-img" alt="...">
     </div>
