@@ -216,9 +216,11 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
       </div>
 </div>
 
+</br>
+</br>
 <!-----------CARD FOR STEVE LAWES------->
 
-<div class="row no-gutters align-items-center justify-content-center">
+<div class="row no-gutters align-items-center justify-content-left">
       <div class="card mb-3" style="max-width: 700px">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/Lawes_pdf_pic.png" class="card-img" alt="...">
@@ -230,7 +232,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 	   <p class="font-weight-normal">This booklet explores the current crisis of social housing and social mobility through the lens of the Gascoigne Estate in Barking, East London. Photography, essay writing, poetry and digital art have all
 been used here in an attempt to assess the issue from a variety of creative and analytical angles, mirroring and highlighting the multi-dimensional nature of the issue at hand.</p>   
 	   <p class="font-weight-lighter">Contacts: www.stevelawesarts.co.uk steve.lawes1@hotmail.co.uk</p>
-     <a href="{{ site.baseurl }}/images/Steve_Lawes_2020.pdf" class="btn btn-primary">View</a>
+     <a href="/images/Steve_Lawes_2020.pdf" class="btn btn-primary">View</a>
       </div>
     </div>
   </div>
