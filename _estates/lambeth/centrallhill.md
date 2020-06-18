@@ -1,6 +1,6 @@
 ---
 category: underthreat
-stage: Preparation
+stage: Proposal
 name: Central Hill estate 
 borough: lambeth
 images:
@@ -26,5 +26,5 @@ In 2019, an [FOI request revealed](https://www.whatdotheyknow.com/request/581698
 
 Whilst the decant and re-housing programme started in 2016, the estate remains fully occupied with [void units being let out at full market rents or as temporary accommodation at LHA rates](https://www.whatdotheyknow.com/request/581698/response/1393236/attach/4/Attachment%202.pdf).
 
-
+The estate is not one of those listed as having agreed [grant funding](/approved/funding) from the mayor or that has been [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 

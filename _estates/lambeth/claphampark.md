@@ -19,6 +19,9 @@ Lambeth Borough Council transferred the estate housing stock to Metropolitan ove
 
 In 2018 Metropolitan applied to extend the scheme to include demolition of futher buildings in a revised masterplan.
 
+The new scheme is being [funded](/approved/funding) by the Mayor but hasn't been [exempted](/approved/ballotexemptions) from his requirement to ballot residents. 
+
+In the Mayor's [July 2019 planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_482169///clapham_park_estate_report.pdf) approving the scheme, it is argued that a ballot is not required because the original scheme was approved before his ballot requirement became effective in 2018.
 
 __Links:__
 
