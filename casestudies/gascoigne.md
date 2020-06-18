@@ -219,8 +219,8 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 
       <hr class="featurette-divider">
 <!-----------CARD FOR STEVE LAWES------->
-<div class="container align-items-center">
-      <div class="card mb-3" style="max-width: 700px">
+
+      <div class="card mb-3" align-items-center style="max-width: 700px">
       <div class="row no-gutters align-items-center justify-content-center">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/Lawes_pdf_pic.png" class="card-img" alt="...">
@@ -236,7 +236,6 @@ been used here in an attempt to assess the issue from a variety of creative and 
       </div>
     </div>
   </div>
-</div>
 </div>    
       
     
