@@ -120,7 +120,6 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
           </div>
         </div>
       </div>
-      
       <hr class="featurette-divider">
       
       <div class="row mt-5 align-items-center justify-content-center">
@@ -216,8 +215,8 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
       </div>
 </div>
 
-<br>
-<br>
+
+
       <hr class="featurette-divider">
 <!-----------CARD FOR STEVE LAWES------->
 
