@@ -83,6 +83,20 @@ For more information see the following articles:
 <!------------- START OF SNIPPET---------------------------->
 
 <div class="row">
+      <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/independent_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+            <div class="card-body">
+              <h5 class="card-title">Residents' group on Tottenham estate slams housing offer. (Enfield Independent)</h5>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+		<a href="https://www.enfieldindependent.co.uk/news/18397780.residents-group-tottenham-estate-slams-housing-offer/" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
 		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/guardian_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
@@ -97,19 +111,6 @@ For more information see the following articles:
           </div>
         </div>
 	
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/independent_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
-            <div class="card-body">
-              <h5 class="card-title">Residents' group on Tottenham estate slams housing offer. (Enfield Independent)</h5>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-		<a href="https://www.enfieldindependent.co.uk/news/18397780.residents-group-tottenham-estate-slams-housing-offer/" class="btn btn-sm btn-outline-secondary" role="button">Read</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 	
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">

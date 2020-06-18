@@ -1,5 +1,4 @@
-I"
-+<p>Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.</p>
+I"�/<p>Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.</p>
 
 <div class="card-body">
 
@@ -104,7 +103,6 @@
           </div>
         </div>
       </div>
-      
       <hr class="featurette-divider" />
       
       <div class="row mt-5 align-items-center justify-content-center">
@@ -198,8 +196,31 @@
   </a>
 </div>
       </div>
-      
-      
+</div>
+
+
+
+      <hr class="featurette-divider" />
+<!-----------CARD FOR STEVE LAWES------->
+
+      <div class="card mb-3" align-items-center="" style="max-width: 700px">
+      <div class="row no-gutters align-items-center justify-content-center">
+    <div class="col-md-4">
+      <img src="/images/Lawes_pdf_pic.png" class="card-img" alt="..." />
     </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">SOCIAL HOUSING AND MOBILITY IN 2017: THE GASCOIGNE ESTATE</h5>
+        <p class="font-weight-light">A creative investigation by Steve Lawes</p>
+	   <p class="font-weight-normal">This booklet explores the current crisis of social housing and social mobility through the lens of the Gascoigne Estate in Barking, East London. Photography, essay writing, poetry and digital art have all
+been used here in an attempt to assess the issue from a variety of creative and analytical angles, mirroring and highlighting the multi-dimensional nature of the issue at hand.</p>   
+	   <p class="font-weight-lighter">Contacts: www.stevelawesarts.co.uk steve.lawes1@hotmail.co.uk</p>
+     <a href="/images/Steve_Lawes_2020.pdf" class="btn btn-primary">View</a>
+      </div>
+    </div>
+  </div>
+</div>    
+      
+    
     </div>
 :ET
