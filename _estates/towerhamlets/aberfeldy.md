@@ -11,7 +11,7 @@ images:
 coordinates:
   - '-0.004851,51.512950'
 ---
-213 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
+225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
 
 The estate was transferred from Tower Hamlets to Poplar HARCA in 2007 under a stock transfer agreement.
 
@@ -27,7 +27,7 @@ The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https:/
 
 The scheme is being progressed in six phases in a joint venture with Malaysian investor, Ecoworld and will create 1176 new homes of which..
 
-The estate originally comprised 297 homes but 74 homes were demolished in phases 1-3 which are currently approaching completion in the first stage of the scheme.
+The estate originally comprised 297 homes but 72 homes were demolished in phases 1-3 which are currently approaching completion in the first stage of the scheme.
 
 The scheme is being [funded](/approved/funding) by the Mayor. It hasn't yet applied to be [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
