@@ -52,7 +52,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 <div class="card border-light mb-3" style="max-width: 900px">
   <div class="card-header">
-  <h6 class="card-title">Statement by Beverley Robison</h6>
+  <h5 class="card-title">Statement by Beverley Robison</h5>
 	  <p class="font-weight-light">Former Aylesbury resident</p>
   </div>
   <div class="card-body">
