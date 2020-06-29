@@ -50,13 +50,12 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 </div>
 
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
-<div class="card border-dark mb-3" style="max-width: 18rem;">
+<div class="card border-dark mb-3" style="max-width: 900px">
   <div class="card-header">Statement by Beverley Robison - former Aylesbury resident</div>
   <div class="card-body text-dark">
     <h5 class="card-title">Dark card title</h5>
     <p class="card-text">‘The Aylesbury estate in South London was one of the best estates to live on before deliberate managed decline. It is one of the largest council estates in England and Europe. With its beautiful brutalist architectural construction, the properties are homely, spacious, bright and airy with lots of outside space, greenery and communal space for bringing a community together. These types of homes would be excellent in a pandemic lockdown situation - for good health and well-being. Council homes and estates are great to establish a community and long term security. Unfortunately my community was taken away from me when I was forced to live alone for almost 5 years in a high rise council block of 171 empty flats, as I fought for my home and community. I was the only one living there in my two bedroom flat because the Council wanted to take my 31 year home and savings in the name of regeneration. Where is the justice in that? No homes, no community! Bring back council homes with community spirit. Don’t isolate and segregate in the name of profit. Having a secure home is the core of belonging and living. Community, community! Fight to save your home and community!’</p>
   </div>
-</div>
 </div>
 
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
