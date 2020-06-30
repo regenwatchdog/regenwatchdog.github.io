@@ -46,7 +46,7 @@ There is an active residents campaign group - TAG (Love Lane Temporary Accommoda
 	      
         <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-  More info about TAG here
+  What is TAG?
 </button>
 
 <!-- Modal -->
@@ -70,6 +70,8 @@ There is an active residents campaign group - TAG (Love Lane Temporary Accommoda
     </div>
   </div>
 </div>
+
+	      <a href="{{ site.baseurl }}/images/tag_struggle.pdf" class="btn btn-primary">Read about TAG's struggle</a>
 
       </div>
     </div>
