@@ -56,13 +56,12 @@ Love Lane estate was built in the early 1960s and has 297 homes. Regeneration 
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-	      
-	      <a href="{{ site.baseurl }}/images/tag_struggle_pdf" class="btn btn-primary">Read about TAG's struggle</a>
-	      
+	      	      
       </div>
     </div>
   </div>
 </div>
+	      <a href="{{ site.baseurl }}/images/tag_struggle_pdf" class="btn btn-primary">Read about TAG's struggle</a>
 
       </div>
     </div>
