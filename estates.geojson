@@ -1,7 +1,6 @@
 ---
 ---
 var freeBus = {
-
   "type": "FeatureCollection",
   "features": [{% for estate in site.estates %}
     {
