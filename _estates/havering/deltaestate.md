@@ -4,7 +4,7 @@ stage: Proposal
 name: Delta estate 
 borough: havering
 images:
-  - image_path: /images/delta2.png
+  - image_path: /images/delta2.jpg
   - image_path: /images/delta1.png
   - image_path: /images/delta3.png
   - image_path: /images/dellaerial.png

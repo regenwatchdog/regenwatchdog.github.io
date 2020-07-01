@@ -5,7 +5,7 @@ stage: Implementation
 name: New Avenue estate 
 borough: enfield
 images:
-  - image_path: /images/newavenue.png
+  - image_path: /images/newavenue.jpg
   - image_path: /images/newavenueaerial.png
   - image_path: /images/newavenue2.png
   - image_path: /images/newavenueaerial2.png

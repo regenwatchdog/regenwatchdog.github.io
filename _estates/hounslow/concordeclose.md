@@ -4,7 +4,7 @@ stage: Proposal
 name: Concorde Close
 borough: hounslow
 images:
-  - image_path: /images/cc1.png
+  - image_path: /images/cc1.jpg
   - image_path: /images/cc2.png
   - image_path: /images/cc3.png
 

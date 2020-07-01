@@ -4,7 +4,7 @@ stage: Proposal
 name: Parkhill and Sunrise estate 
 borough: havering
 images:
-  - image_path: /images/ss1.png
+  - image_path: /images/ss1.jpg
   - image_path: /images/ss2.png
   - image_path: /images/ss3.png
   - image_path: /images/ss4.png

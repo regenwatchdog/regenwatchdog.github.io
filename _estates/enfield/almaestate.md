@@ -4,7 +4,7 @@ stage: Implementation
 name: Alma estate 
 borough: enfield
 images:
-  - image_path: /images/alma3.png
+  - image_path: /images/alma3.jpg
   - image_path: /images/almaaerial.png
   - image_path: /images/alma1.png
   - image_path: /images/alma2.png

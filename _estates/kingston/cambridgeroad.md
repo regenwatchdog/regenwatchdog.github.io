@@ -4,7 +4,7 @@ stage: Preparation
 name: Cambridge Road estate 
 borough: kingston
 images:
-  - image_path: /images/cambridge1.png
+  - image_path: /images/cambridge1.jpg
   - image_path: /images/cambridge2.jpg
   - image_path: /images/cambridge3.jpg
   - image_path: /images/cambridge4.jpg

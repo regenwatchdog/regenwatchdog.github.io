@@ -4,7 +4,7 @@ stage: Implementation
 name: Agar Grove estate 
 borough: camden
 images:
-  - image_path: /images/agrove2.png
+  - image_path: /images/agrove2.jpg
   - image_path: /images/agrove.png
   - image_path: /images/agrove3.png
   - image_path: /images/agrove4.png

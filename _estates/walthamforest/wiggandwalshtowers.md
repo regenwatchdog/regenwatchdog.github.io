@@ -3,13 +3,11 @@ category: underthreat
 stage: Proposal
 name: Fred Wigg and John Walsh Towers
 borough: walthamforest
-images:
-  - image_path: /images/wiggandwalsh.png
 coordinates:
   - '-0.0141,51.5610'
 published: true
 images:
-  - image_path: /images/wiggandwalsh.png
+  - image_path: /images/wiggandwalsh.jpg
   - image_path: /images/FW_JW1.jpg
   - image_path: /images/FW_JW2.jpg
   - image_path: /images/FW_JW3.jpg

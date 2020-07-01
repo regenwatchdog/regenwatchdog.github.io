@@ -4,7 +4,7 @@ stage: Implementation
 name: Clapham Park estate 
 borough: lambeth
 images:
-  - image_path: /images/cpark6.png
+  - image_path: /images/cpark6.jpg
   - image_path: /images/cpark5.png
   - image_path: /images/cpark3.png
   - image_path: /images/cpark2.png

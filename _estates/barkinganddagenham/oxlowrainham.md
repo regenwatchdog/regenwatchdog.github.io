@@ -4,7 +4,7 @@ stage: Proposal
 name: Oxlow & Rainham houses 
 borough: barkinganddagenham
 images:
-  - image_path: /images/or1.png
+  - image_path: /images/or1a.jpg
   - image_path: /images/or2.png
   - image_path: /images/or3.png
   - image_path: /images/or4.png

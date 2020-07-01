@@ -4,7 +4,7 @@ stage: Proposal
 name: Maygreen Crescent estate 
 borough: havering
 images:
-  - image_path: /images/mg1.png
+  - image_path: /images/mg1.jpg
   - image_path: /images/mg2.png
   - image_path: /images/mg3.png
   - image_path: /images/mg4.png

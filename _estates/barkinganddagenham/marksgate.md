@@ -4,7 +4,7 @@ stage: Proposal
 name: Marks Gate estate 
 borough: barkinganddagenham
 images:
-  - image_path: /images/mgtower3.png
+  - image_path: /images/mgtower3.jpg
   - image_path: /images/mgtower2.png
   - image_path: /images/marksgate2.png
   - image_path: /images/marksgate3.png

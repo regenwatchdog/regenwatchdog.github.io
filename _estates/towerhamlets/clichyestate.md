@@ -4,7 +4,7 @@ stage: Preparation
 name: Clichy estate 
 borough: towerhamlets 
 images:
-  - image_path: /images/clichyestate.png
+  - image_path: /images/clichyestate.jpg
   - image_path: /images/clichyestate2.png
 coordinates:
   - '-0.048942,51.516104'

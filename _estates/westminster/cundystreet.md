@@ -4,7 +4,7 @@ stage: Proposal
 name: Cundy Street estate 
 borough: westminster
 images:
-  - image_path: /images/cundy1.png
+  - image_path: /images/cundy1.jpg
   - image_path: /images/cundy2.png
   - image_path: /images/cundy3.png
   - image_path: /images/cundy5.jpg

@@ -4,7 +4,7 @@ stage: Implementation
 name: Custom House regeneration
 borough: newham
 images:
-  - image_path: /images/customhouse2.png
+  - image_path: /images/customhouse2.jpg
   - image_path: /images/customhouse3.png
   - image_path: /images/customhouse4.png
 coordinates:

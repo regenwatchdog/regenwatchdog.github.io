@@ -4,7 +4,7 @@ stage: Proposal
 name: Chingford Hall estate 
 borough: walthamforest
 images:
-  - image_path: /images/chingfordhall.png
+  - image_path: /images/chingfordhalla.jpg
   - image_path: /images/chb.png
   - image_path: /images/chb2.png
 coordinates:

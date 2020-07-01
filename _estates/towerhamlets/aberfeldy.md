@@ -4,7 +4,7 @@ stage: Implementation
 name: Aberfeldy estate 
 borough: towerhamlets 
 images:
-  - image_path: /images/af1.png
+  - image_path: /images/af1.jpg
   - image_path: /images/af2.png
   - image_path: /images/af3.png
   - image_path: /images/afbrochure.png

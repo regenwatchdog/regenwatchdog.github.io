@@ -4,7 +4,7 @@ stage: Implementation
 name: Friary Park estate 
 borough: ealing
 images:
-  - image_path: /images/fpark3.png
+  - image_path: /images/fpark3.jpg
   - image_path: /images/fparkaerial.png
   - image_path: /images/fpark1.png
   - image_path: /images/fpark2.png

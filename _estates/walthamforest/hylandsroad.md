@@ -7,7 +7,7 @@ coordinates:
   - -0.004060,51.592118
 published: true
 images:
-  - image_path: /images/hylandsroad.png
+  - image_path: /images/hylandsroad.jpg
   - image_path: /images/hylandsroad2.png
   - image_path: /images/hylandsroad3.jpg
   - image_path: /images/hylandsroad4.jpg

@@ -4,7 +4,7 @@ stage: Proposal
 name: Rainham Road South estate 
 borough: barkinganddagenham
 images:
-  - image_path: /images/rroad4.png
+  - image_path: /images/rroad4.jpg
   - image_path: /images/rroad3.png
   - image_path: /images/rroad2.png
   - image_path: /images/rroad1.png

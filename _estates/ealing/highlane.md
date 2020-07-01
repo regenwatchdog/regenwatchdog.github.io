@@ -4,7 +4,7 @@ stage: Preparation
 name: High Lane estate 
 borough: ealing
 images:
-  - image_path: /images/highlane3.png
+  - image_path: /images/highlane3.jpg
   - image_path: /images/highlane2.png
   - image_path: /images/highlane1.png
   - image_path: /images/highlane5.png

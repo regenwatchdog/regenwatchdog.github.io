@@ -4,7 +4,7 @@ stage: Proposal
 name: Oldchurch Gardens estate 
 borough: havering
 images:
-  - image_path: /images/oc1.png
+  - image_path: /images/oc1.jpg
   - image_path: /images/oc2.png
   - image_path: /images/oc3.png
   - image_path: /images/oldchurchaerial.png

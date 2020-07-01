@@ -4,7 +4,7 @@ stage: Proposal
 name: Jervis Court 
 borough: barkinganddagenham
 images:
-  - image_path: /images/jervis1.png
+  - image_path: /images/jervis1.jpg
   - image_path: /images/jervis2.png
   - image_path: /images/jervis3.png
 coordinates:

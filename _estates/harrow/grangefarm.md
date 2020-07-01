@@ -4,7 +4,7 @@ stage: Implementation
 name: Grange Farm estate 
 borough: harrow
 images:
-  - image_path: /images/gfarm3.png
+  - image_path: /images/gfarm3.jpg
   - image_path: /images/gfarm2.png
   - image_path: /images/gfarm1.png
   - image_path: /images/gfarm5.png

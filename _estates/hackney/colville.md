@@ -4,7 +4,7 @@ stage: Implementation
 name: Colville estate 
 borough: hackney
 images:
-  - image_path: /images/colville9.png
+  - image_path: /images/colville9.jpg
   - image_path: /images/coleville2.png
   - image_path: /images/coleville3.png
   - image_path: /images/coleville1.png

@@ -4,7 +4,7 @@ stage: Proposal
 name: Dell Court 
 borough: havering
 images:
-  - image_path: /images/dell1.png
+  - image_path: /images/dell1.jpg
   - image_path: /images/dell2.png
   - image_path: /images/dell3.png
   - image_path: /images/dellaerial.png

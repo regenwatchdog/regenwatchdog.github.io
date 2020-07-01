@@ -4,7 +4,7 @@ stage: Proposal
 name: Barkantine estate
 borough: towerhamlets 
 images:
-  - image_path: /images/barkantine1.png
+  - image_path: /images/barkantine1.jpg
   - image_path: /images/barkantine2.png
   - image_path: /images/barkantine3.png
   - image_path: /images/barkantine4.png

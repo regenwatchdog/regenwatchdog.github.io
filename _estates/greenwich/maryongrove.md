@@ -4,7 +4,7 @@ stage: Implementation
 name: Maryon Grove estate 
 borough: greenwich
 images:
-  - image_path: /images/mw5.png
+  - image_path: /images/mw5.jpg
   - image_path: /images/mw6.png
   - image_path: /images/mw7.png
 coordinates: 

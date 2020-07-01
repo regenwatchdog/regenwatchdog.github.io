@@ -4,7 +4,7 @@ stage: Preparation
 name: Brookhill Close estate 
 borough: greenwich
 images:
-  - image_path: /images/bhill4.png
+  - image_path: /images/bhill4.jpg
   - image_path: /images/bhill3.png
   - image_path: /images/bhill2.png
   - image_path: /images/bhill1.png

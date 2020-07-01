@@ -4,7 +4,7 @@ stage: Implementation
 name: Morris Walk estate 
 borough: greenwich
 images:
-  - image_path: /images/mw1.png
+  - image_path: /images/mw1.jpg
   - image_path: /images/mw2.png
   - image_path: /images/mw3.png
   - image_path: /images/mw4.png

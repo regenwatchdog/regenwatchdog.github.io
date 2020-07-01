@@ -4,7 +4,7 @@ stage: Proposal
 name: Elm Grove estate 
 borough: sutton
 images:
-  - image_path: /images/elmgrove3.png
+  - image_path: /images/elmgrove3.jpg
   - image_path: /images/elmgrove2.png
   - image_path: /images/eg3.png
 coordinates:
