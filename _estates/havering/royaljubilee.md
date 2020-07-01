@@ -4,7 +4,7 @@ stage: Proposal
 name: Royal Jubilee Court 
 borough: havering
 images:
-  - image_path: /images/royaljubileeaerial.png
+  - image_path: /images/royaljubileeaerial.jpg
 coordinates: 
   - 0.193341,51.585675
 ---

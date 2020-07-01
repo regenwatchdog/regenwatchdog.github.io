@@ -4,7 +4,7 @@ stage: Proposal
 name: Samuda estate
 borough: towerhamlets 
 images:
-  - image_path: /images/samuda1.png
+  - image_path: /images/samuda1.jpg
   - image_path: /images/samuda2.png
   - image_path: /images/samuda3.png
   - image_path: /images/samuda.jpg

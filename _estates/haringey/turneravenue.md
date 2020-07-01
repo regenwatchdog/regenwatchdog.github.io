@@ -4,7 +4,7 @@ stage: Proposal
 name: Turner Avenue and Brunel Walk 
 borough: haringey
 images:
-  - image_path: /images/turner.png
+  - image_path: /images/turner.jpg
   - image_path: /images/turner1.png
   - image_path: /images/turner2.png
   - image_path: /images/turner3.png

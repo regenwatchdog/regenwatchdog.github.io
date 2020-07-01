@@ -4,7 +4,7 @@ stage: Preparation
 name: Waterloo Road estate 
 borough: havering
 images:
-  - image_path: /images/w1.png
+  - image_path: /images/w1.jpg
   - image_path: /images/w2.png
   - image_path: /images/w3.png
   - image_path: /images/w4.png

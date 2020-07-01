@@ -4,7 +4,7 @@ stage: Proposal
 name: Thames View estate 
 borough: barkinganddagenham
 images:
-  - image_path: /images/tv3.png
+  - image_path: /images/tv3b.jpg
   - image_path: /images/tv1.png
   - image_path: /images/tv2.png
   - image_path: /images/tv4.png
