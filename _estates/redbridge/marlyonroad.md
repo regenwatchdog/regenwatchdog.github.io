@@ -7,7 +7,7 @@ coordinates:
   - '0.121567,51.611731'
 published: true
 images:
-  - image_path: /images/marlyonroad2.png
+  - image_path: /images/marlyonroad2.jpg
   - image_path: /images/marlyonroad.png
   - image_path: /images/marlyon3.png
 ---

@@ -20,3 +20,11 @@ Catalyst's [website](https://www.chg.org.uk/development-regeneration/regeneratio
 <img src="/images/wgar.png" class="img-fluid rounded img-thumbnail">
 
 The Mayor <a href="/approved/funding">approved funding</a> for the scheme in 2017 and <a href="/approved/ballotexemptions">exempted</a> it from his requirement to ballot residents on the demolition of their homes.
+
+Natasha Langridge, a temporary resident on the estate, has directed a [project recording the oral histories of residents](https://worningtonword.renegadetheatre.co.uk/). Here's one of the audio extracts from Keith Stirling - chairman of the Wornington Green Residents Association:
+
+<img src="https://worningtonword.renegadetheatre.co.uk/sites/default/files/styles/portrait_gallery_style/public/2020-04/keith_stirlingportraits-2.jpg" class="img-fluid rounded img-thumbnail">
+<audio controls style="width: 100%;">
+  <source src="https://worningtonword.renegadetheatre.co.uk/sites/default/files/2020-05/13_keith_stirling.mp3" type="audio/mpeg">
+</audio>
+

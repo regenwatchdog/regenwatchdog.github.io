@@ -4,8 +4,8 @@ stage: Proposal
 name: Picardy Street estate 
 borough: bexley
 images:
-  - image_path: /images/picardystreet.png
   - image_path: /images/picardystreet.jpg
+  - image_path: /images/picardystreet.png
   - image_path: /images/picardystreet2.jpg
 coordinates: 
   - 0.150198,51.490741
