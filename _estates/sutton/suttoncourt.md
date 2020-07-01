@@ -4,7 +4,7 @@ stage: Proposal
 name: Sutton Court estate 
 borough: sutton
 images:
-  - image_path: /images/suttoncourt.png
+  - image_path: /images/suttoncourt.jpg
   - image_path: /images/suttoncourt2.jpg
   - image_path: /images/suttoncourt3.jpg
   - image_path: /images/suttoncourt4.jpg

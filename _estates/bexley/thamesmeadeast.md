@@ -4,7 +4,7 @@ stage: Proposal
 name: Thamesmead east (phase 2) 
 borough: bexley
 images:
-  - image_path: /images/wolvercoteaerial.png
+  - image_path: /images/wolvercoteaerial.jpg
   - image_path: /images/wolvercoteaerial2.png
   - image_path: /images/thamesmeadeast.jpg
   - image_path: /images/thamesmeadeast.png

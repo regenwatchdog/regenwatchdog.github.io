@@ -4,7 +4,7 @@ stage: Implementation
 name: Sherwood Close estate 
 borough: ealing
 images:
-  - image_path: /images/sherwood1.png
+  - image_path: /images/sherwood1.jpg
   - image_path: /images/sherwood2.png
   - image_path: /images/sherwood3.png
 coordinates: 
