@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Samuda estate
 borough: towerhamlets 
+thumb: /images/samuda1thumb.jpg
 images:
   - image_path: /images/samuda1.jpg
   - image_path: /images/samuda2.png

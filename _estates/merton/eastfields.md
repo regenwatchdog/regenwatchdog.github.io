@@ -4,6 +4,7 @@ erg: noncompliant
 name: Eastfields estate
 stage: Implementation 
 borough: merton
+thumb: /images/ef4thumb.jpg
 images:
   - image_path: /images/ef4.jpg
   - image_path: /images/ef1.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Hall Place estate
 borough: westminster
+thumb: /images/hp7thumb.jpg
 images:
   - image_path: /images/hp7.jpg
   - image_path: /images/hp1.jpg

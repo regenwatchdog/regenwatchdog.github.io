@@ -1,0 +1,83 @@
+I"1<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="/underthreat/walthamforestmap.html" width="100%" height="400px"></iframe>
+</div>
+<p align="right">Click <a href="/underthreat/walthamforestmap.html">here</a> to open map in new window.</p>
+</div>
+<p><br /></p>
+
+<div class="col">
+              <ul class="row list-unstyled justify-content-center">
+
+  
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/avenueroad/">
+                      <img class="card-img-top" src="/images/avenueroad.jpg" alt="Avenue Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/walthamforest/avenueroad/">
+                      <h5 class="card-title">Avenue Road estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>258 homes in 4 blocks of the Avenue Road estate have been <a href="https://walthamforest.gov.uk/content/regeneration-avenue-road-estate-leytonstone">earmarked</a> for demolition (Blackthorn Ct, Gean Ct, Mulberry Ct, Rosewood Ct).</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/avenueroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/chingfordhall/">
+                      <img class="card-img-top" src="/images/chingfordhalla.jpg" alt="Chingford Hall estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/walthamforest/chingfordhall/">
+                      <h5 class="card-title">Chingford Hall estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 300 homes on the Chingford Hall estate have been earmarked for renewal, according to the borough’s <a href="https://walthamforest.gov.uk/sites/default/files/Final%20Draft%20Local%20Plan_July2019_Web%20optimised_Part1.pdf">draft Local Plan</a>.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/chingfordhall/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/hylandsroad/">
+                      <img class="card-img-top" src="/images/hylandsroad.jpg" alt="Hylands Road estate" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/walthamforest/hylandsroad/">
+                      <h5 class="card-title">Hylands Road estate</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-danger">Stage: Implementation</h6>
+		      <p class="card-text"><p>Approximately 50 council homes have been earmarked for demolition on the remaining phases 2 and 3 of the Hylands Road regeneration in Walthamstow.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/hylandsroad/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+                <li class="col-5" data-aos="fade-up">
+                  <div class="card card-sm">
+                    <a href="/estates/walthamforest/wiggandwalshtowers/">
+                      <img class="card-img-top" src="/images/wiggandwalsh.jpg" alt="Fred Wigg and John Walsh Towers" />
+                    </a>
+		    <div class="card-body">
+                      <a href="/estates/walthamforest/wiggandwalshtowers/">
+                      <h5 class="card-title">Fred Wigg and John Walsh Towers</h5>
+		      </a>
+		      <h6 class="card-subtitle mb-2 text-success">Stage: Proposal</h6>
+		      <p class="card-text"><p>Circa 100 homes in two towers on the Montague road estate have been earmarked for redevelopment.</p>
+</p>
+                      <a target="_blank" href="/estates/walthamforest/wiggandwalshtowers/" data-toggle="tooltip" data-placement="top" title="Open in new tab">Read more here: <i class="icon-popup"></i></a>
+                  </div>
+                  </div>
+                </li>
+
+              </ul>
+</div>
+:ET

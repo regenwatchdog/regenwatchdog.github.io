@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Watling Gardens estate
 borough: brent
+thumb: /images/clairecourt1thumb.jpg
 images:
   - image_path: /images/clairecourt1.jpg
   - image_path: /images/windmillcourt2.jpg

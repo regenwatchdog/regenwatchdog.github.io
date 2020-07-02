@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Benhill estate 
 borough: sutton
+thumb: /images/benhill5thumb.jpg
 images:
   - image_path: /images/benhill5.jpg
   - image_path: /images/benhill1.jpg

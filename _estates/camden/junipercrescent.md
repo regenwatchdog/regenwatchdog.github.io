@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Juniper Crescent and Gilbeys Yard estate 
 borough: camden
+thumb: /images/jp12thumb.jpg
 images:
   - image_path: /images/jp12.jpg
   - image_path: /images/jp1.jpg

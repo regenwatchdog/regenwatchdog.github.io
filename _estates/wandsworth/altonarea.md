@@ -3,7 +3,10 @@ category: underthreat
 stage: Proposal
 name: Alton estate 
 borough: wandsworth
+thumb: /images/altonthumb.jpg
 images:
+  - image_path: /images/altonthumblarge.jpg
+  - image_path: /images/alton2.jpg
   - image_path: /images/alton.jpg
 coordinates: 
   - -0.243483,51.450221

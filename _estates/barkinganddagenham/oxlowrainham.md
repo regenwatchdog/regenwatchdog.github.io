@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Oxlow & Rainham houses 
 borough: barkinganddagenham
+thumb: /images/or1athumb.jpg
 images:
   - image_path: /images/or1a.jpg
   - image_path: /images/or2.png

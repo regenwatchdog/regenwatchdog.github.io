@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Abbey Road estate 
 borough: camden
+thumb: /images/abbeyestatethumb.jpg
 images:
   - image_path: /images/abbeyestate.jpg
   - image_path: /images/emminster2.jpg

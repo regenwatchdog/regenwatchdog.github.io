@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Stellar House & Atlair Close 
 borough: haringey
+thumb: /images/stellarthumb.jpg
 images:
   - image_path: /images/stellar.png
 coordinates: 

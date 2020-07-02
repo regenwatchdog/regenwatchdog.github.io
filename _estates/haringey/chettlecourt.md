@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Chettle Court 
 borough: haringey
+thumb: /images/chettle1thumb.jpg
 images:
   - image_path: /images/chettle1.jpg
   - image_path: /images/chettle2.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Reynardson Court 
 borough: haringey
+thumb: /images/reynardsonthumb.jpg
 images:
   - image_path: /images/reynardson.jpg
 coordinates: 

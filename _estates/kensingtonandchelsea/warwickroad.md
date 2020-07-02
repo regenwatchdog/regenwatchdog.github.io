@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Warwick Road estate 
 borough: kensingtonandchelsea
+thumb: /images/wr1thumb.jpg
 images:
   - image_path: /images/wr1.jpg
   - image_path: /images/wr2.jpg

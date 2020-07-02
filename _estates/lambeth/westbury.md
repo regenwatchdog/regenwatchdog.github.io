@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Westbury estate 
 borough: lambeth
+thumb: /images/wb1thumb.jpg
 images:
   - image_path: /images/wb1.jpg
   - image_path: /images/wb2.jpg

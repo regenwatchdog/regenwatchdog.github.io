@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Fenwick estate 
 borough: lambeth
+thumb: /images/fw7thumb.jpg
 images:
   - image_path: /images/fw7.jpg
   - image_path: /images/fw2.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Jervis Court 
 borough: barkinganddagenham
+thumb: /images/jervis1thumb.jpg
 images:
   - image_path: /images/jervis1.jpg
   - image_path: /images/jervis2.png

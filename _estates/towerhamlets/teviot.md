@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: Teviot estate 
 borough: towerhamlets 
+thumb: /images/te4thumb.jpg
 images:
   - image_path: /images/te4.jpg
   - image_path: /images/te1.jpg

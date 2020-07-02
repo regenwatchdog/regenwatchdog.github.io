@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Sutton Court estate 
 borough: sutton
+thumb: /images/suttoncourtthumb.jpg
 images:
   - image_path: /images/suttoncourt.jpg
   - image_path: /images/suttoncourt2.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Golf Links estate 
 borough: ealing
+thumb: /images/glinksthumb.jpg
 images:
   - image_path: /images/glinks.jpg
   - image_path: /images/glinks2.jpg

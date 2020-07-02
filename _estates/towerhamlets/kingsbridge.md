@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Kingsbridge estate
 borough: towerhamlets 
+thumb: /images/kingsbridge-estatethumb.jpg
 images:
   - image_path: /images/kingsbridge-estate.jpg
   - image_path: /images/kingsbridge2.png

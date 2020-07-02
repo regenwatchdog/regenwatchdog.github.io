@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: St. Raphael's estate
 borough: brent
+thumb: /images/straphaels2thumb.jpg
 images:
   - image_path: /images/straphaels2.jpg
   - image_path: /images/straphaels3.jpg

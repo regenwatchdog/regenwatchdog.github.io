@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: St John's estate
 borough: towerhamlets 
+thumb: /images/ashepherdthumb.jpg
 images:
   - image_path: /images/ashepherd.jpg
   - image_path: /images/oakhouse.png

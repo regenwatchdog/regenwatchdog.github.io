@@ -6,6 +6,7 @@ borough: brent
 coordinates:
   - '-0.246721,51.552401'
 published: true
+thumb: /images/Severn_way3LSthumb.jpg
 images:
   - image_path: /images/Severn_way3LS.jpg
   - image_path: /images/severnway.png

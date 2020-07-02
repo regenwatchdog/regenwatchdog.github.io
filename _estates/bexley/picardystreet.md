@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Picardy Street estate 
 borough: bexley
+thumb: /images/picardystreetthumb.jpg
 images:
   - image_path: /images/picardystreet.jpg
   - image_path: /images/picardystreet.png

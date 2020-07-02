@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation 
 name: Grahame Park estate
 borough: barnet
+thumb: /images/grahamepark2thumb.jpg
 images:
   - image_path: /images/grahamepark2.jpg
   - image_path: /images/grahamepark.jpg

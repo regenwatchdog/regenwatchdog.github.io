@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Broadwater Farm estate 
 borough: haringey
+thumb: /images/bwfarm1thumb.jpg
 images:
   - image_path: /images/bwfarm1.jpg
   - image_path: /images/bwfarm2.png

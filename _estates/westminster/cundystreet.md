@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Cundy Street estate 
 borough: westminster
+thumb: /images/cundy1thumb.jpg
 images:
   - image_path: /images/cundy1.jpg
   - image_path: /images/cundy2.png

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Brookwood Road estate
 borough: hounslow
+thumb: /images/brookwoodroadthumb.jpg
 images:
   - image_path: /images/brookwoodroad.jpg
   - image_path: /images/brookwoodaerial.png

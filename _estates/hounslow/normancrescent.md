@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Norman Crescent estate 
 borough: hounslow
+thumb: /images/nc1thumb.jpg
 images:
   - image_path: /images/nc1.jpg
   - image_path: /images/nc2.jpg

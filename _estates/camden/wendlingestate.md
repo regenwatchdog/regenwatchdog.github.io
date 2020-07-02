@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Wendling estate 
 borough: camden
+thumb: /images/wendling3thumb.jpg
 images:
   - image_path: /images/wendling3.jpg
   - image_path: /images/wg1.jpg

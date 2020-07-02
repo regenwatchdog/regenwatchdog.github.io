@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Chingford Hall estate 
 borough: walthamforest
+thumb: /images/chingfordhallathumb.jpg
 images:
   - image_path: /images/chingfordhalla.jpg
   - image_path: /images/chb.png

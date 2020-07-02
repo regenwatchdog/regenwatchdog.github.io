@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Maygreen Crescent estate 
 borough: havering
+thumb: /images/mg1thumb.jpg
 images:
   - image_path: /images/mg1.jpg
   - image_path: /images/mg2.png

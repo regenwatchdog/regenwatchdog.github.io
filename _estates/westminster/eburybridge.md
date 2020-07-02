@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Ebury Bridge estate 
 borough: westminster
+thumb: /images/eb1thumb.jpg
 images:
   - image_path: /images/eb1.jpg
   - image_path: /images/eb2.jpg

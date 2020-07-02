@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Carpenters estate
 borough: newham
+thumb: /images/cp8thumb.jpg
 images:
   - image_path: /images/cp8.jpg
   - image_path: /images/cp1.jpg

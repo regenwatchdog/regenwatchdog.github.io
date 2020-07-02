@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Turner Avenue and Brunel Walk 
 borough: haringey
+thumb: /images/turnerthumb.jpg
 images:
   - image_path: /images/turner.jpg
   - image_path: /images/turner1.png

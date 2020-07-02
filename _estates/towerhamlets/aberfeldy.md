@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Aberfeldy estate 
 borough: towerhamlets 
+thumb: /images/af1thumb.jpg
 images:
   - image_path: /images/af1.jpg
   - image_path: /images/af2.png

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Royal Jubilee Court 
 borough: havering
+thumb: /images/royaljubileeaerialthumb.jpg
 images:
   - image_path: /images/royaljubileeaerial.jpg
 coordinates: 

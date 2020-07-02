@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Beech Tree Place 
 borough: sutton
+thumb: /images/beechtreeplacethumb.jpg
 images:
   - image_path: /images/beechtreeplace.jpg
   - image_path: /images/beechtreeplace2.jpg

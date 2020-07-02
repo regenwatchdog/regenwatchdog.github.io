@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Thamesmead east (phase 2) 
 borough: bexley
+thumb: /images/wolvercoteaerialthumb.jpg
 images:
   - image_path: /images/wolvercoteaerial.jpg
   - image_path: /images/wolvercoteaerial2.png

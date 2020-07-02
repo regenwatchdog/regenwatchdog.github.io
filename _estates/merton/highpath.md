@@ -4,6 +4,7 @@ erg: noncompliant
 name: High Path estate
 stage: Implementation
 borough: merton
+thumb: /images/highpaththumb.jpg
 images:
   - image_path: /images/highpath.jpg
   - image_path: /images/highpath2.jpg

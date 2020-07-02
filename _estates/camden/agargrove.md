@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Agar Grove estate 
 borough: camden
+thumb: /images/agrove2thumb.jpg
 images:
   - image_path: /images/agrove2.jpg
   - image_path: /images/agrove.png

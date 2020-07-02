@@ -6,6 +6,7 @@ borough: redbridge
 coordinates:
   - '0.121567,51.611731'
 published: true
+thumb: /images/marlyonroad2thumb.jpg
 images:
   - image_path: /images/marlyonroad2.jpg
   - image_path: /images/marlyonroad.png

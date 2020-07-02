@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Woodberry Down estate 
 borough: hackney
+thumb: /images/woodberry1thumb.jpg
 images:
   - image_path: /images/woodberry1.jpg
   - image_path: /images/woodberry2.jpg

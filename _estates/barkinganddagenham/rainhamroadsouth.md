@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Rainham Road South estate 
 borough: barkinganddagenham
+thumb: /images/rroad4thumb.jpg
 images:
   - image_path: /images/rroad4.jpg
   - image_path: /images/rroad3.png

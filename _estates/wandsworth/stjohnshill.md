@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: St John's Hill estate 
 borough: wandsworth
+thumb: /images/sj4thumb.jpg
 images:
   - image_path: /images/sj4.jpg
   - image_path: /images/sj1.jpg

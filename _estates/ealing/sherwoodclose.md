@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Sherwood Close estate 
 borough: ealing
+thumb: /images/sherwood1thumb.jpg
 images:
   - image_path: /images/sherwood1.jpg
   - image_path: /images/sherwood2.png

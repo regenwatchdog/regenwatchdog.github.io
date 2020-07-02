@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Alma estate 
 borough: enfield
+thumb: /images/alma3thumb.jpg
 images:
   - image_path: /images/alma3.jpg
   - image_path: /images/almaaerial.png

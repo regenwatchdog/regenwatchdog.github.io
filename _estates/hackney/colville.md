@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Colville estate 
 borough: hackney
+thumb: /images/colville9thumb.jpg
 images:
   - image_path: /images/colville9.jpg
   - image_path: /images/coleville2.png

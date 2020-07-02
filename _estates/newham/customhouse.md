@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation
 name: Custom House regeneration
 borough: newham
+thumb: /images/customhouse2thumb.jpg
 images:
   - image_path: /images/customhouse2.jpg
   - image_path: /images/customhouse3.png

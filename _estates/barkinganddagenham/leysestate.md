@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Leys estate 
 borough: barkinganddagenham
+thumb: /images/leys2thumb.jpg
 images:
   - image_path: /images/leys2.png
   - image_path: /images/leys1.png

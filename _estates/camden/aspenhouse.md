@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Aspen House (Maitland Park estate) 
 borough: camden
+thumb: /images/ap2thumb.jpg
 images:
   - image_path: /images/ap2.jpg
   - image_path: /images/aspen.png

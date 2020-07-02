@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Leabank View estate 
 borough: haringey
+thumb: /images/leabankthumb.jpg
 images:
   - image_path: /images/leabank.jpg
   - image_path: /images/leabank1.jpg

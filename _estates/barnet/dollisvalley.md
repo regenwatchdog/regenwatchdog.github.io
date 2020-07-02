@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Dollis Valley estate
 borough: barnet
+thumb: /images/dvalley3thumb.jpg
 images:
   - image_path: /images/dvalley3.jpg
   - image_path: /images/dvalley.png

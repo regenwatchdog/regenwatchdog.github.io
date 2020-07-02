@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation 
 name: Mills Grove & Westhorpe Gdns estate
 borough: barnet
+thumb: /images/millsgrovethumb.jpg
 images:
   - image_path: /images/millsgrove.jpg
   - image_path: /images/mgrove2.png

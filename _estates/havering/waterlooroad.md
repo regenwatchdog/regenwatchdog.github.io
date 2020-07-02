@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: Waterloo Road estate 
 borough: havering
+thumb: /images/w1thumb.jpg
 images:
   - image_path: /images/w1.jpg
   - image_path: /images/w2.png

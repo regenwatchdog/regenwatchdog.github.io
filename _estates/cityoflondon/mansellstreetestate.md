@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Mansell Street estate
 borough: cityoflondon
+thumb: /images/mansell1thumb.jpg
 images:
   - image_path: /images/mansell1.jpg
   - image_path: /images/mansell2.jpg

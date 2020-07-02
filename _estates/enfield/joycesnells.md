@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Joyce Avenue and Snells Park estates 
 borough: enfield
+thumb: /images/joycethumb.jpg
 images:
   - image_path: /images/joyce.jpg
   - image_path: /images/joyce3.png

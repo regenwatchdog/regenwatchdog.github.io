@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: West Kentish Town estate 
 borough: camden
+thumb: /images/wkt1thumb.jpg
 images:
   - image_path: /images/wkt1.jpg
   - image_path: /images/wt1.png

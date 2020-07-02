@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Wornington Green estate 
 borough: kensingtonandchelsea
+thumb: /images/worning1thumb.jpg
 images:
   - image_path: /images/worning1.jpg
   - image_path: /images/worning2.jpg

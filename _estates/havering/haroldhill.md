@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Farnham and Hilldene estate 
 borough: havering
+thumb: /images/farnham1thumb.jpg
 images:
   - image_path: /images/farnham1.jpg
   - image_path: /images/farnham2.png

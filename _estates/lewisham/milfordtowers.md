@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Milford Towers 
 borough: lewisham
+thumb: /images/mt1thumb.jpg
 images:
   - image_path: /images/mt1.jpg
   - image_path: /images/mt2.jpg

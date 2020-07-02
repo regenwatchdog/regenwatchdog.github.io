@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation
 name: Maryon Grove estate 
 borough: greenwich
+thumb: /images/mw5thumb.jpg
 images:
   - image_path: /images/mw5.jpg
   - image_path: /images/mw6.png

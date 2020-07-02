@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Lisson Green estate
 borough: westminster
+thumb: /images/lissongreen3thumb.jpg
 images:
   - image_path: /images/lissongreen3.jpg
   - image_path: /images/lg1.jpg

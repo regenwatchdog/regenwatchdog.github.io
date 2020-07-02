@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Page High estate 
 borough: haringey
+thumb: /images/pagehigh1thumb.jpg
 images:
   - image_path: /images/pagehigh1.jpg
   - image_path: /images/pagehigh2.jpg

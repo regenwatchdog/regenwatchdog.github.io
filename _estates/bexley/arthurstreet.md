@@ -4,6 +4,7 @@ erg: noncompliant
 stage: Implementation 
 name: Arthur Street estate 
 borough: bexley
+thumb: /images/arthurthumb.jpg
 images:
   - image_path: /images/arthur.jpg
   - image_path: /images/as1.png

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Convent Way estate
 borough: hounslow
+thumb: /images/cv12thumb.jpg
 images:
   - image_path: /images/cv12.jpg
   - image_path: /images/cv1.jpg

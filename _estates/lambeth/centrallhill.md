@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Central Hill estate 
 borough: lambeth
+thumb: /images/centrallhillthumb.jpg
 images:
   - image_path: /images/centrallhill.jpg
   - image_path: /images/central1.jpg

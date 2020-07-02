@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Love Lane estate
 borough: haringey
+thumb: /images/love_lane5thumb.jpg
 images:
   - image_path: /images/love_lane5.jpg
   - image_path: /images/love_lane.jpg

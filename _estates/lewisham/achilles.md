@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: Achilles Street area 
 borough: lewisham
+thumb: /images/ach1thumb.jpg
 images:
   - image_path: /images/ach1.jpg
   - image_path: /images/ach2.jpg

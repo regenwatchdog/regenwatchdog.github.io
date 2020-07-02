@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Sky City estate 
 borough: haringey
+thumb: /images/skycity1thumb.jpg
 images:
   - image_path: /images/skycity1.jpg
   - image_path: /images/skycity2.jpg

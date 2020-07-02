@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Dell Court 
 borough: havering
+thumb: /images/dell1thumb.jpg
 images:
   - image_path: /images/dell1.jpg
   - image_path: /images/dell2.png

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Lilestone estate
 borough: westminster
+thumb: /images/ls3thumb.jpg
 images:
   - image_path: /images/ls3.jpg
   - image_path: /images/ls1.jpg

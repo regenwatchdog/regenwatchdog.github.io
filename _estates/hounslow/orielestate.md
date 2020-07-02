@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Oriel estate 
 borough: hounslow 
+thumb: /images/or21thumb.jpg
 images:
   - image_path: /images/or21.jpg
   - image_path: /images/or1.jpg

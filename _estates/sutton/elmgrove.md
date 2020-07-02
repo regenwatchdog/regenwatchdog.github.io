@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Elm Grove estate 
 borough: sutton
+thumb: /images/elmgrove3thumb.jpg
 images:
   - image_path: /images/elmgrove3.jpg
   - image_path: /images/elmgrove2.png

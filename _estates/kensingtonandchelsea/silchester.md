@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Silchester estate 
 borough: kensingtonandchelsea
+thumb: /images/sc1thumb.jpg
 images:
   - image_path: /images/sc1.jpg
   - image_path: /images/sc2.jpg

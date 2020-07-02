@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation
 name: Morris Walk estate 
 borough: greenwich
+thumb: /images/mw1thumb.jpg
 images:
   - image_path: /images/mw1.jpg
   - image_path: /images/mw2.png

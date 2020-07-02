@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation
 name: Church Street area estate 
 borough: westminster
+thumb: /images/csthumb.jpg
 images:
   - image_path: /images/cs.jpg
   - image_path: /images/cs1.jpg

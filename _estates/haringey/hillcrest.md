@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Hillcrest estate 
 borough: haringey
+thumb: /images/hillcrestthumb.jpg
 images:
   - image_path: /images/hillcrest.jpg
   - image_path: /images/hillcrest.png

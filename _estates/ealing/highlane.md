@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: High Lane estate 
 borough: ealing
+thumb: /images/highlane3thumb.jpg
 images:
   - image_path: /images/highlane3.jpg
   - image_path: /images/highlane2.png

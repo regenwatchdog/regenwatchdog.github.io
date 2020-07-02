@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Wat Tyler House 
 borough: haringey
+thumb: /images/wtylerthumb.jpg
 images:
   - image_path: /images/wtyler.jpg
 coordinates: 

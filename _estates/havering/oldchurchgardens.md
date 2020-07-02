@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Oldchurch Gardens estate 
 borough: havering
+thumb: /images/oc1thumb.jpg
 images:
   - image_path: /images/oc1.jpg
   - image_path: /images/oc2.png

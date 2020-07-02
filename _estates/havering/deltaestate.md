@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Delta estate 
 borough: havering
+thumb: /images/delta2thumb.jpg
 images:
   - image_path: /images/delta2.jpg
   - image_path: /images/delta1.png

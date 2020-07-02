@@ -4,6 +4,7 @@ category: underthreat
 status: Pre-ballot & Pre-planning
 name: Granville Road estate
 borough: barnet
+thumb: /images/granvilleroadthumb.jpg
 images:
   - image_path: /images/granvilleroad.jpg
   - image_path: /images/granvilleroad.png

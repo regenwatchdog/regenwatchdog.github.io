@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Green Man Lane estate 
 borough: ealing
+thumb: /images/gman1thumb.jpg
 images:
   - image_path: /images/gman1.jpg
   - image_path: /images/gman2.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Brabazon estate 
 borough: hounslow 
+thumb: /images/bz1thumb.jpg
 images:
   - image_path: /images/bz1.jpg
   - image_path: /images/bz2.jpg

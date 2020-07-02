@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Chaucer Gardens estate
 borough: sutton
+thumb: /images/chaucerthumb.jpg
 images:
   - image_path: /images/chaucer.jpg
   - image_path: /images/chaucer1.jpg

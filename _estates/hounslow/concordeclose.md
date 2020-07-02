@@ -2,6 +2,7 @@
 category: underthreat
 stage: Proposal
 name: Concorde Close
+thumb: /images/cc1thumb.jpg
 borough: hounslow
 images:
   - image_path: /images/cc1.jpg

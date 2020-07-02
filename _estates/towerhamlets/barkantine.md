@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Barkantine estate
 borough: towerhamlets 
+thumb: /images/barkantine1thumb.jpg
 images:
   - image_path: /images/barkantine1.jpg
   - image_path: /images/barkantine2.png

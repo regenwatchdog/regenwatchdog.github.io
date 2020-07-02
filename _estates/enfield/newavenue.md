@@ -4,6 +4,7 @@ erg: noncompliant
 stage: Implementation 
 name: New Avenue estate 
 borough: enfield
+thumb: /images/newavenuethumb.jpg
 images:
   - image_path: /images/newavenue.jpg
   - image_path: /images/newavenueaerial.png

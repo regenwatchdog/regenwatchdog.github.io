@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Ham Close estate 
 borough: richmond
+thumb: /images/hamclosethumb.jpg
 images:
   - image_path: /images/hamclose.jpg
 coordinates: 

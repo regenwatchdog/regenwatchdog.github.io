@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: Pike Close estate 
 borough: bromley 
+thumb: /images/pikeclosethumb.jpg
 images:
   - image_path: /images/pikeclose.jpg
   - image_path: /images/pclose2.png

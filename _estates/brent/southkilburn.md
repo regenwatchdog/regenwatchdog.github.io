@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation 
 name: South Kilburn estate 
 borough: brent 
+thumb: /images/southkilburnthumb.jpg
 images:
   - image_path: /images/southkilburn.jpg
   - image_path: /images/cronecourt.jpg

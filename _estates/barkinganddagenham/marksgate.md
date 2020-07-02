@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Marks Gate estate 
 borough: barkinganddagenham
+thumb: /images/mgtower3thumb.jpg
 images:
   - image_path: /images/mgtower3.jpg
   - image_path: /images/mgtower2.png

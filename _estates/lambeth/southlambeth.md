@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: South Lambeth estate 
 borough: lambeth
+thumb: /images/slb5thumb.jpg
 images:
   - image_path: /images/slb5.jpg
   - image_path: /images/slb4.jpg

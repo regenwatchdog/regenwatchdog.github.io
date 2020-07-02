@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Woodridings Court 
 borough: haringey
+thumb: /images/woodridingsthumb.jpg
 images:
   - image_path: /images/woodridings.jpg
   - image_path: /images/woodridingsaerial.jpg

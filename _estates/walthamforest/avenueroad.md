@@ -5,7 +5,7 @@ name: Avenue Road estate
 borough: walthamforest
 coordinates:
   - '-0.0027,51.5536'
-published: true
+thumb: /images/avenueroadthumb.jpg
 images:
   - image_path: /images/avenueroad.jpg
   - image_path: /images/Avenue_R1.jpg

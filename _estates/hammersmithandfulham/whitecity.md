@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: White City estate 
 borough: hammersmithandfulham
+thumb: /images/whitecity3thumb.jpg
 images:
   - image_path: /images/whitecity3.jpg
   - image_path: /images/whitecity4.jpg

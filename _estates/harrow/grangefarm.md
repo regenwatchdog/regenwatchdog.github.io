@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation
 name: Grange Farm estate 
 borough: harrow
+thumb: /images/gfarm3thumb.jpg
 images:
   - image_path: /images/gfarm3.jpg
   - image_path: /images/gfarm2.png

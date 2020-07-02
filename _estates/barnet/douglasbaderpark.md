@@ -4,6 +4,7 @@ stage: Preparation
 status: Planning and ballot approved 
 name: Douglas Bader Park estate
 borough: barnet
+thumb: /images/db1thumb.jpg
 images:
   - image_path: /images/db1.jpg
   - image_path: /images/db2.png

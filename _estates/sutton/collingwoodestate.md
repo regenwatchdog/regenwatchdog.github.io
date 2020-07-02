@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Collingwood estate
 borough: sutton
+thumb: /images/cw8thumb.jpg
 images:
   - image_path: /images/cw8.jpg
   - image_path: /images/cw7.jpg

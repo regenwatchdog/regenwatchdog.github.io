@@ -4,6 +4,7 @@ erg: noncompliant
 stage: Implementation
 name: Thamesmead South (phase 1) 
 borough: bexley
+thumb: /images/bw1thumb.jpg
 images:
   - image_path: /images/bw1.jpg
   - image_path: /images/bw2.jpg

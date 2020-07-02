@@ -5,7 +5,7 @@ name: Hylands Road estate
 borough: walthamforest
 coordinates:
   - -0.004060,51.592118
-published: true
+thumb: /images/hylandsroadthumb.jpg
 images:
   - image_path: /images/hylandsroad.jpg
   - image_path: /images/hylandsroad2.png

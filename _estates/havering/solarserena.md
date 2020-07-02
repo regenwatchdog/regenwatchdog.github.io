@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Parkhill and Sunrise estate 
 borough: havering
+thumb: /images/ss1thumb.jpg
 images:
   - image_path: /images/ss1.jpg
   - image_path: /images/ss2.png

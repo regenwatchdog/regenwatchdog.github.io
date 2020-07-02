@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation
 name: Reginald House/Tidemill Gardens
 borough: lewisham
+thumb: /images/reg1thumb.jpg
 images:
   - image_path: /images/reg1.jpg
   - image_path: /images/reg2.jpg

@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Roseberry Gardens estate 
 borough: sutton
+thumb: /images/roseberry1thumb.jpg
 images:
   - image_path: /images/roseberry1.jpg
   - image_path: /images/roseberry2.jpg

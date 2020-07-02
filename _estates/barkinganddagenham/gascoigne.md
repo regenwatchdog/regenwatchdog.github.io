@@ -4,6 +4,7 @@ stage: Implementation
 erg: noncompliant
 name: Gascoigne estate
 borough: barkinganddagenham
+thumb: /images/gascoigne1thumb.jpg
 images:
   - image_path: /images/gascoigne1.jpg
   - image_path: /images/gascoigne2.jpg

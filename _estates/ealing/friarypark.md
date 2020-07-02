@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Friary Park estate 
 borough: ealing
+thumb: /images/fpark3thumb.jpg
 images:
   - image_path: /images/fpark3.jpg
   - image_path: /images/fparkaerial.png

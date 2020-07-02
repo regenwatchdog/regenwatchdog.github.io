@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Treverton estate 
 borough: kensingtonandchelsea
+thumb: /images/tv10thumb.jpg
 images:
   - image_path: /images/tv10.jpg
   - image_path: /images/tv1.jpg

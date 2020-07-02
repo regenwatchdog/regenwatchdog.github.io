@@ -4,6 +4,7 @@ erg: noncompliant
 stage: Implementation 
 name: South Acton estate 
 borough: ealing
+thumb: /images/sacton1thumb.jpg
 images:
   - image_path: /images/sacton1.jpg
   - image_path: /images/sacton2.jpg

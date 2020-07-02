@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Cressingham Gardens estate 
 borough: lambeth
+thumb: /images/cressinghamthumb.jpg
 images:
   - image_path: /images/cressingham.jpg
   - image_path: /images/cressingham2.jpg

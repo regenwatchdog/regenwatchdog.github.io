@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Northumberland Park estates
 borough: haringey
+thumb: /images/northumberland2thumb.jpg
 images:
   - image_path: /images/northumberland2.jpg
   - image_path: /images/northumberland3.png

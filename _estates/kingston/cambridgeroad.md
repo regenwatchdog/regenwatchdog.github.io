@@ -3,6 +3,7 @@ category: underthreat
 stage: Preparation 
 name: Cambridge Road estate 
 borough: kingston
+thumb: /images/cambridge1thumb.jpg
 images:
   - image_path: /images/cambridge1.jpg
   - image_path: /images/cambridge2.jpg

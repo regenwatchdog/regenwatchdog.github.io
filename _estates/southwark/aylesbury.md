@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Aylesbury estate 
 borough: southwark
+thumb: /images/aylesburyiconthumb.jpg
 images:
   - image_path: /images/aylesburyicon.jpg
   - image_path: /images/aylesbury1.jpg

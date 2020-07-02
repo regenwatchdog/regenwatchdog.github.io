@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal
 name: Rosehill Court 
 borough: sutton
+thumb: /images/rosehillcourtthumb.jpg
 images:
   - image_path: /images/rosehillcourt.jpg
 coordinates:

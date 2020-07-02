@@ -3,6 +3,7 @@ category: underthreat
 stage: Implementation 
 name: Winstanley & York Road estates 
 borough: wandsworth
+thumb: /images/wy22thumb.jpg
 images:
   - image_path: /images/wy22.jpg
   - image_path: /images/wy1.jpg
