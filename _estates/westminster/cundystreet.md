@@ -33,3 +33,5 @@ __Links:__
 [Twitter campaign account](https://twitter.com/SaveCundyWalden).
 
 [Save Cundy Street online petition.](https://www.change.org/p/grosvenor-group-save-cundy-street-and-walden-house).
+
+[Planning application documents - 20/0330/FULL ](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QB2X8DRP06A00)
