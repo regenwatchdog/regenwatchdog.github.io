@@ -19,13 +19,13 @@ published: true
 
 The estate is owned by the Duke of Westminster (Grosvenor estates) who proposes to demolish the 111 homes (40 of which are council homes in one of the blocks - Walden House) which Grosvenor leases to the council. The plans are to replace these with 93 “affordable” homes, 70 for private market sale and 170 specialist “senior living” accommodation units.
 
-Grosvenor has launched a series of online 'webinar' consultation sessions and is planning to submit a planning application in late 2020. It is unclear whether Grosvenor is planning to apply for Mayoral funding which would trigger a ballot requirement.
+Grosvenor has launched a series of online 'webinar' consultation sessions and is planning to submit a planning application in late 2020. Grosvenor is planning to progress the scheme without mayoral funding such that it won't be subject to the Mayor's requirement to ballot residents on the demolition of their homes.
 
 There is an active campaign against the proposals with links provided below.
 
 <img src="/images/cundysaveourhomes.jpg" class="img-fluid rounded img-thumbnail">
 
-__Links:__
+__Links:__  
 [Save Cundy Street & Walden House campaign facebook page](https://business.facebook.com/savecundystreetandwaldenhouse/?__tn__=K-R&eid=ARCU6EkmWFjRLsSiZiHpK8HhmvH_D0BZB_MeEm9N83Eo10vqxRN2K5mC0dQavquellCeTNHJv2qS29Co&fref=mentions).
 
 [Westminster Labour web page](https://www.westminsterlabour.org.uk/westminster-news/2019/08/18/cundy-street-quarter-churchill-labour-councillors-support-residents-facing-demolition/).
