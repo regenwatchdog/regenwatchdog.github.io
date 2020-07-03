@@ -31,6 +31,6 @@ In May 2018, the plans for all three of the borough's estate regeneration scheme
 
 The borough's [Local Plan says](https://www.rbkc.gov.uk/sites/default/files/atoms/files/2019%20LOCAL%20PLAN%20SECTION%201%20SPATIAL%20STRATEGY.pdf) explains that the schemes will still be progressed but only with the consent of estate residents via a ballot:
 
-![](/images/rbkc.png)
+<img src"/images/rbkc.png" class="img-fluid rounded img-thumbnail">
 
 

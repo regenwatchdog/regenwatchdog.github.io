@@ -14,7 +14,7 @@ coordinates:
 
 In September 2017, it was [listed](https://moderngov.sutton.gov.uk/documents/s54307/7%20Housing%20Revenue%20Account%20Business%20Plan%20201718%20-%20204647%20-%20Appendix%20A.pdf) as 'amber' in Sutton's [stock investment review](https://moderngov.sutton.gov.uk/documents/s54306/7%20Housing%20Revenue%20Account%20Business%20Plan%20201718%20-%20204647.pdf) which requires an options appraisal on the future of the building before any continued investment in its upkeep:
 
-![](/images/rosehillamber.png)
+<img src="/images/rosehillamber.png" class="img-fluid rounded img-thumbnail">
 
 Beech Tree Place is also listed as a development site in Sutton's Local Plan (Site STC 11).
 

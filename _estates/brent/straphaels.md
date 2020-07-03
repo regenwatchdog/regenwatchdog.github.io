@@ -29,28 +29,28 @@ coordinates:
 
 The estate comprises a mix of low-rise three and four-storey maisonette blocks and detached town houses, situated in an area of greenspace alongside the river Brent. 
 
-![](/images/raphaelboundary.png)
+<img src="/images/raphaelboundary.png" class="img-fluid rounded img-thumbnail">
 
 This extract from a [2018 options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) confirms that the estate is home to a large proportion of BAME communities:
 
-![](/images/bame.png)
+<img src="/images/bame.png" class="img-fluid rounded img-thumbnail">
 
 Within the estate is a church (St Patrick's Roman Catholic Church) and a Tenants & Residents Association Hall (Henderson Hall).
 
-![](/images/stpatrick.jpg)
+<img src="/images/stpatrick.jpg" class="img-fluid rounded img-thumbnail">
 
 In 2018 Brent Council conducted an [options appraisal](http://democracy.brent.gov.uk/documents/s74722/07.%20St%20Raphaels%20Estate%20Cabinet%20Report.pdf) which confirmed that _"a stock condition survey was undertaken during August and September 2018. The findings of the survey reveal the properties to be in a reasonable state of repair (para 3.5)."_ However, it went on to attribute recent crime and anti-social behaviour issues to the poor design of the estate, which can only be addressed by full redevelopment. 
 
-![](/images/raphaelcrime.png)
+<img src="/images/raphaelcrime.png" class="img-fluid rounded img-thumbnail">
 
 A [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) acknowledges that the redevelopment scheme is currently unviable and that if it proceeds using current day values there will be a £22m viability gap, meaning that Brent could end up subsidising this or making concessions on design, affordability or infrastructure.
 
-![](/images/viabilitygap.png)
+<img src="/images/viabilitygap.png" class="img-fluid rounded img-thumbnail">
 *Extract from the Council's [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf)*
 
 A ballot is expected to be held in Autumn 2020, with two options for residents to choose from; infill or comprehensive redevelopment. Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) (distributed to residents in Dec 2019) makes it clear that if infill is the preferred option then the estate may not receive any investment for improving current housing conditions:  
 
-![](/images/st-raphaels-faq.png)
+<img src="/images/st-raphaels-faq.png" class="img-fluid rounded img-thumbnail">
 *Extract from Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) distributed to residents in Dec 2019*
 
 ## Rehousing offer
