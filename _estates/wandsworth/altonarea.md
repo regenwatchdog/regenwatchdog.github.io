@@ -1,6 +1,6 @@
 ---
 category: underthreat
-stage: Proposal
+stage: Preparation
 name: Alton estate 
 borough: wandsworth
 thumb: /images/altonthumb.jpg
@@ -13,7 +13,7 @@ coordinates:
 ---
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 
-In 2017 Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
+In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
 A planning application for the redevelopment was submitted by Redrow in June 2019 for the demolition of 288 homes and construction of 1,108 new homes.
 
@@ -30,5 +30,7 @@ Redrow submitted a revised planning application in January 2020, which claims to
 
 __Links:__  
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)
+
+[Link to the revised planning application docs (ref:2019/2156)](https://planning1.wandsworth.gov.uk/Northgate/PlanningExplorer/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=977340&XSLT=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/Menus/PL.xml&DAURI=PLANNING)
 
 Local Campaign group - [http://www.altonwatch.org.uk](http://www.altonwatch.org.uk)
