@@ -15,15 +15,15 @@ coordinates:
 
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
-Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is claimed that _"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"_.
+Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is [claimed](https://planning2.wandsworth.gov.uk/iam/IAMCache/5300271/5300271.pdf) that _"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"_.
 
 <img src="/images/socialmix.png" class="img-fluid rounded img-thumbnail">
 
 A planning application for the redevelopment was submitted by Redrow in June 2019 for the demolition of 288 homes and construction of 1,108 new homes.
 
-The Mayor raised objections to the planning application, which promised to make only 53 of the additional new homes affordable, with 30 for social rent and 23 for shared ownership. The Mayor said it was “unacceptable” that the affordable housing proposed was _“segregated in single tenure blocks on the periphery of the site”_, meaning the application did not comply with the London Plan.
+The Mayor [raised objections](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application, which promised to make only 53 of the additional new homes affordable, with 30 for social rent and 23 for shared ownership. The Mayor said it was “unacceptable” that the affordable housing proposed was _“segregated in single tenure blocks on the periphery of the site”_, meaning the application did not comply with the London Plan.
 
-The Mayor's report also concluded that although the 158 existing social rent homes set to be demolished would be re-provided, they would not be “like-for-like” replacements in terms of floorspace.
+The Mayor's [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) also concluded that although the 158 existing social rent homes set to be demolished would be re-provided, they would not be “like-for-like” replacements in terms of floorspace.
 
 The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as there has been no application for Mayoral grant funding to date.
 
@@ -33,12 +33,14 @@ Redrow submitted a revised planning application in May 2020, which claims to add
 
 <img src="/images/tenuremixalton.png" class="img-fluid rounded img-thumbnail">
 
-The Mayor's stage 2 report on the revised application has not yet been published.
+The Mayor's stage 2 report on the revised application is yet to be published.
 
 
 __Links:__  
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)
 
 [Link to the revised planning application docs (ref:2019/2156)](https://planning1.wandsworth.gov.uk/Northgate/PlanningExplorer/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=977340&XSLT=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/Menus/PL.xml&DAURI=PLANNING)
+
+Redrow's dedicated website for the scheme - [https://www.altonestateregen.co.uk](https://www.altonestateregen.co.uk)
 
 Local Campaign group - [http://www.altonwatch.org.uk](http://www.altonwatch.org.uk)
