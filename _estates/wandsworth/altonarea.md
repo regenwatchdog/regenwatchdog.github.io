@@ -15,6 +15,10 @@ coordinates:
 
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
+Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is claimed that _"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"_.
+
+<img src="/images/socialmix.png" class="img-fluid rounded img-thumbnail">
+
 A planning application for the redevelopment was submitted by Redrow in June 2019 for the demolition of 288 homes and construction of 1,108 new homes.
 
 The Mayor raised objections to the planning application, which promised to make only 53 of the additional new homes affordable, with 30 for social rent and 23 for shared ownership. The Mayor said it was “unacceptable” that the affordable housing proposed was _“segregated in single tenure blocks on the periphery of the site”_, meaning the application did not comply with the London Plan.
@@ -25,7 +29,7 @@ The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as t
 
 The Mayor's requirement to ballot residents on the demolition of their homes is linked to grant funding, such that if Redrow doesn't apply for grant funding then it isn't obliged to hold a ballot.
 
-Redrow submitted a revised planning application in May 2020, which claims to address the issues raised by the Mayor. The revised application proposes a total of 1,108 homes of which 261 affordable. 
+Redrow submitted a revised planning application in May 2020, which claims to address the issues raised by the Mayor. The revised application proposes a total of 1,108 homes of which 261 affordable (201 social rent). 
 
 <img src="/images/tenuremixalton.png" class="img-fluid rounded img-thumbnail">
 
