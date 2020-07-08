@@ -25,7 +25,11 @@ The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as t
 
 The Mayor's requirement to ballot residents on the demolition of their homes is linked to grant funding, such that if Redrow doesn't apply for grant funding then it isn't obliged to hold a ballot.
 
-Redrow submitted a revised planning application in January 2020, which claims to address the issues raised by the Mayor. The Mayor's stage 2 report on the revised application has not yet been published.
+Redrow submitted a revised planning application in May 2020, which claims to address the issues raised by the Mayor. The revised application proposes a total of 1,108 homes of which 261 affordable. 
+
+<img src="/images/tenuremixalton.png" class="img-fluid rounded img-thumbnail">
+
+The Mayor's stage 2 report on the revised application has not yet been published.
 
 
 __Links:__  
