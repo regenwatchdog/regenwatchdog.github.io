@@ -19,9 +19,15 @@ A planning application for the redevelopment was submitted by Redrow in June 201
 
 The Mayor raised objections to the planning application, which resulted in Redrow revising its plans and submitting a revised application in May 2020.  
 
+Redrow's initial planning application promised to make only 53 of the additional new homes affordable, with 30 for social rent and 23 for shared ownership. The Mayor said it was “unacceptable” that the affordable housing proposed was _“segregated in single tenure blocks on the periphery of the site”_, meaning the application did not comply with the London Plan.
+
+The Mayor's report also concluded that although the 158 existing social rent homes set to be demolished would be re-provided, they would not be “like-for-like” replacements in terms of floorspace.
+
+The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as there has been no application for Mayoral grant funding to date.
+
+The Mayor's requirement to ballot residents on the demolition of their homes is linked to grant funding, such that if Redrow doesn't apply for grant funding then it isn't obliged to hold a ballot.
+
 __Links:__  
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)
-
-
 
 Local Campaign group - [http://www.altonwatch.org.uk](http://www.altonwatch.org.uk)
