@@ -20,10 +20,13 @@ This is the second phase of Peabody's redevelopment of the Bexley side of the Th
 
 The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
 
-The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf).
+The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) but a planning application is yet to come forward.
 
 Bexley's [Growth Strategy](https://www.bexley.gov.uk/sites/default/files/2018-02/Bexley-Growth-Strategy.pdf) envisages 4,000 new homes in the Thamesmead area facilitated by the new Crossrail station and including the 'renewal' of existing estates.
 
-__Links:__  
+Peabody has [partnered with Australian developer Lendlease](https://www.insidehousing.co.uk/news/news/peabody-picks-lendlease-for-8bn-thamesmead-regeneration-60192) (Heygate estate regeneration) to deliver 11,500 homes in Thamesmead over the next 30 years.
+
+
+__Links:__   
 Peabody's [2017 consultation documents](https://www.thamesmeadnow.org.uk/media/1726/wolvercote_road_next_steps.pdf) for the scheme.
 
