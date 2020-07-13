@@ -63,10 +63,10 @@
   <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="/images/woodberrydownclip.mp4" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="/images/vid3.mp4" allowfullscreen></iframe>
 </div>
             <div class="card-body">
-              <p class="card-text">Woodberry Down estate, Hackney (credit: <a href="https://www.theguardian.com/society/2014/may/18/-sp-truth-about-gentrification-how-woodberry-down-became-woodberry-park">The Guardian)</a></p>
+              <p class="card-text">Heygate estate, Southwark (credit: Enrica Colusso)</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -78,10 +78,10 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="/images/northumberlandpark.mp4" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="/images/vid4.mp4" allowfullscreen></iframe>
 </div>
             <div class="card-body">
-              <p class="card-text">Northumberland Park estate, Haringey (credit: <a href="https://twitter.com/chunkymark/status/966760326942351360">@chunkymark)</a></p>
+              <p class="card-text">Carpenters estate, Newham (credit: BBC)</a></p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
