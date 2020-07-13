@@ -3,17 +3,16 @@ category: underthreat
 stage: Preparation 
 name: Geoffrey Close (Lambeth) estate 
 borough: lambeth
-thumb: /images/geoffreythumb.jpg
+thumb: /images/clethumb.jpg
 images:
-  - image_path: /images/geoffrey1.jpg
-  - image_path: /images/geoffrey.png
-  - image_path: /images/geoffrey1.png
-  - image_path: /images/geoffrey2.png
-  - image_path: /images/geoffrey3.png
-  - image_path: /images/geoffrey4.png
-  - image_path: /images/geoffrey5.png
-  - image_path: /images/geoffrey6.png
-  - image_path: /images/geoffrey7.png
+  - image_path: /images/cle8.jpg
+  - image_path: /images/cle7.jpg
+  - image_path: /images/cle6.jpg
+  - image_path: /images/cle5.jpg
+  - image_path: /images/cle4.jpg
+  - image_path: /images/cle3.jpg
+  - image_path: /images/cle2.jpg
+  - image_path: /images/cle1.jpg
 coordinates: 
   - -0.099011,51.469493, -0.099011
 ---
