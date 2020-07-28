@@ -30,4 +30,4 @@ Prior to the ballot, residents were [told](/images/wtoffer.pdf) that if they vot
 
 Unsurprisingly the majority of residents voted in favour and a detailed design is being drawn up to submit for planning consent in Summer 2021.
 
-Camden has [indicated](https://www.camden.gov.uk/documents/20142/0/Landlord+Offer.pdf/3ad1506b-c675-eba6-b346-f542b47a7f1d?t=1581423416504) that the tenure mix will comprise at least 40% affordable housing (despite the Mayor's minimum requirement being 50%) and this will comprise a mix of 'Council homes', 'Camden Living Rent'.
+Camden has [indicated](https://www.camden.gov.uk/documents/20142/0/Landlord+Offer.pdf/3ad1506b-c675-eba6-b346-f542b47a7f1d?t=1581423416504) that the tenure mix will comprise at least 40% affordable housing (despite the Mayor's minimum requirement being 50%) and this will comprise a mix of 278 council homes and a number of homes for 'Camden Living Rent'.
