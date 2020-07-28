@@ -14,7 +14,7 @@ images:
   - image_path: /images/cle2.jpg
   - image_path: /images/cle1.jpg
 coordinates: 
-  - -0.099011,51.469493, -0.099011
+  - -0.099011,51.469493
 ---
 135 homes are earmarked for demolition on Lambeth's Geoffrey Close estate near Coldharbour Lane.
 
