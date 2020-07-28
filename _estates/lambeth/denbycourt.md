@@ -12,7 +12,7 @@ images:
 coordinates: 
   - -0.115040,51.493660
 ---
-42 homes are earmarked for demolition by Lambeth at Denby Court in Kennington.
+42 homes have been earmarked for demolition by Lambeth Council at Denby Court in Kennington.
 
 Lambeth proposes to demolish this former sheltered housing block, which is currently being used as "temporary" accommodation for families on its housing waiting list.
 
@@ -20,4 +20,4 @@ The site also contains a former education facility, which will also be demolishe
 
 <img src="https://d3n8a8pro7vhmx.cloudfront.net/yourshout2/pages/3336/attachments/original/1593791818/map.png?1593791818" class="img-fluid rounded img-thumbnail">
 
-The scheme is at consultation stage with draft proposals exhibited online here: [https://denbycourt.communityuk.live/overview](https://denbycourt.communityuk.live/overview)
+There is no planning application yet as the scheme has only recently entered consultation stage, with draft proposals exhibited for online consultation here: [https://denbycourt.communityuk.live/overview](https://denbycourt.communityuk.live/overview)
