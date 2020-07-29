@@ -30,6 +30,7 @@ The webinar gave an introduction to sustainability, and the net-zero opportuniti
 </center>
 
   
+  
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
@@ -68,7 +69,7 @@ The [briefing](https://estatewatch.london/papers/cacheresearch.pdf) uses qualita
 <img src="https://estatewatch.london/images/cacheresearch.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 ## Have we missed something?
-Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch: info@estatewatch.london or by leaving a comment below &#8595;
+Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch at info@estatewatch.london or by leaving a comment below &#8595;
 
 
 
