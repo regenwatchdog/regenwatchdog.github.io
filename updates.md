@@ -1,5 +1,5 @@
 ---
-title: Regeneration Updates
+title: Monthly News Updates 
 layout: default
 category: updates
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
 category: updates
-title: July news roundup 
+title: JULY NEWS ROUND-UP 
 ---
-Hi, here's our brief roundup of July's __EstateWatch__ news. But first a quick thanks to all those who have taken the time to get in touch and keep us in the loop with what is happening on their estates.
+Hi, here's our brief roundup of July's __Estate Watch__ news. But first a quick thanks to all those who have taken the time to get in touch and keep us in the loop with what is happening on their estates.
 
 ## Alton estate - uncertainty looms as result of Covid-19 pandemic 
 
@@ -11,7 +11,7 @@ A cloud of uncertainty has loomed over Wandsworth's regeneration of the Alton es
 
 At July's [full Council meeting](https://democracy.wandsworth.gov.uk/ieListDocuments.aspx?CId=296&MId=6910&Ver=4) Wandsworth's Cabinet member confirmed Redrow's decision but provided little in the way of what discussions have taken place.
 
-<img src="/images/altonquestion.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/altonquestion.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to help its development partner complete the first phase of the Aylesbury estate redevelopment.
 
@@ -23,7 +23,7 @@ Some London boroughs have already understood the benefits of refurbishment. At t
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel including Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
 
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src=""https://www.youtube.com/embed/o1BMT_ujxn0></iframe>
+  <iframe class="embed-responsive-item" width="50%" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
 
 The Lancaster West refurbishment was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
@@ -37,7 +37,7 @@ Hackney [says](http://mginternet.hackney.gov.uk/documents/s70551/200720%20Report
 
 More info here: [http://mginternet.hackney.gov.uk/ieListDocuments.aspx?CId=111&MID=4912#AI36922](https://hackney.gov.uk/de-beauvoir-estate)
 
-## Zoom meeting
+## Estate Watch Zoom meeting
 On 5th August, we are hosting a zoom meeting to provide an opportunity for residents of estates going through estate regeneration and who are at risk of demolition to come together to share and exchange with others in the same situation. We will also explore possible ongoing mutual support and effective working together.
 
 <img src="/images/ewzoom.png" class="img-fluid rounded img-thumbnail">
@@ -61,7 +61,7 @@ Professor Loretta Lees (Leicester University) and Professor Phil Hubbard (Kings 
 
 The briefing uses qualitative methods to explore the impacts of decanting on different resident groups affected by estate regeneration.
 
-<img src="https://estatewatch.london/images/cacheresearch.png" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/cacheresearch.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 
 
