@@ -14,7 +14,7 @@ At July's [full Council meeting](https://democracy.wandsworth.gov.uk/ieListDocum
 
 <img src="/images/altonquestion.png" width="50%" class="img-fluid rounded img-thumbnail">
 
-This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to help its development partner complete the first phase of the Aylesbury estate redevelopment.
+This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to help its development partner complete the first phase of the [Aylesbury estate regeneration](https://estatewatch.london/estates/southwark/aylesbury/).
 
 With the impacts of Covid-19 and Brexit, uncertainty is likely to become a recurring element within London's pipeline of estate demolition schemes, which are highly dependent on the cross-subsidy model. Progressive boroughs will now be looking increasingly to [refurbishment as a more viable and cost effective](https://estatewatch.london/refurbishment/) alternative.
 
