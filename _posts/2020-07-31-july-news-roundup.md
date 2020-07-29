@@ -4,7 +4,7 @@ category: updates
 title: JULY NEWS ROUND-UP 
 ---
 
-Many thanks to all those who have taken the time to get in touch or leave a comment on the *Estate Watch* website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
+Many thanks to all those who have taken the time to get in touch or leave a comment on the *Estate Watch* website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news:
 
 ## Alton estate regeneration - uncertainty looms 
 
@@ -29,6 +29,7 @@ The webinar gave an introduction to sustainability, and the net-zero opportuniti
 </div>
 </center>
 
+  
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
