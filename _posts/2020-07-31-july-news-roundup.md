@@ -3,7 +3,7 @@ layout: default
 category: updates
 title: JULY NEWS ROUND-UP 
 ---
-Hi, here's our brief roundup of July's __Estate Watch__ news. But first a quick thanks to all those who have taken the time to get in touch and keep us in the loop with what is happening on their estates.
+Thanks to all those who have taken the time to get in touch or leave a comment on the __Estate Watch__ website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
 
 ## Alton estate - uncertainty looms as result of Covid-19 pandemic 
 
