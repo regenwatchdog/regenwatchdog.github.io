@@ -1,7 +1,7 @@
 ---
 layout: default
 category: updates
-title: 'JULY NEWS ROUND-UP' 
+title: July news 
 ---
 Thanks to all those who have taken the time to get in touch or leave a comment on the __Estate Watch__ website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
 
@@ -11,7 +11,7 @@ A cloud of uncertainty has loomed over Wandsworth's regeneration of the Alton es
 
 At July's [full Council meeting](https://democracy.wandsworth.gov.uk/ieListDocuments.aspx?CId=296&MId=6910&Ver=4) Wandsworth's Cabinet member confirmed Redrow's decision but provided little in the way of what discussions have taken place.
 
-<img src="/images/altonquestion.png" width="50%" class="img-fluid rounded img-thumbnail">
+<img src="/images/altonquestion.png" class="img-fluid rounded img-thumbnail">
 
 This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to help its development partner complete the first phase of the Aylesbury estate redevelopment.
 
@@ -61,7 +61,7 @@ Professor Loretta Lees (Leicester University) and Professor Phil Hubbard (Kings 
 
 The briefing uses qualitative methods to explore the impacts of decanting on different resident groups affected by estate regeneration.
 
-<img src="https://estatewatch.london/images/cacheresearch.png" width="50%" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/cacheresearch.png" class="img-fluid rounded img-thumbnail">
 
 
 
