@@ -40,4 +40,6 @@ In February 2015 a group of protesters [occupied](https://www.theguardian.com/so
 
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
 
+In July 2020, Southwark resolved to step in and [stump up £193m](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) to help its development partner complete the first phase of the Aylesbury estate redevelopment, in what has been [termed as a bail out](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) after its development partner was forced scale back its operations by the Social Housing Regulator.
+
 The Aylesbury estate features as one of the [case studies](/casestudies/aylesbury) in the research section of this website, which provides more detailed information about the regeneration.
