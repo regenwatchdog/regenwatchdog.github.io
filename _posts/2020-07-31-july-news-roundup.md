@@ -1,7 +1,7 @@
 ---
 layout: default
 category: updates
-title: JULY NEWS ROUND-UP 
+title: 'JULY NEWS ROUND-UP' 
 ---
 Thanks to all those who have taken the time to get in touch or leave a comment on the __Estate Watch__ website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
 
