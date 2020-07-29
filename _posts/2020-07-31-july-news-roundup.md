@@ -23,7 +23,7 @@ Some London boroughs have already understood the benefits of refurbishment. At t
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel including Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
 
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" width="50%" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
 
 The Lancaster West refurbishment was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
