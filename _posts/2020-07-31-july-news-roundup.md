@@ -23,7 +23,7 @@ Some London boroughs have already understood the benefits of refurbishment. At t
 
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
  
-<div class="embed-responsive embed-responsive-4by3 w-50 p-3">
+<div class="embed-responsive embed-responsive-4by3 w-50 p-3 justify-content-center">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
 
