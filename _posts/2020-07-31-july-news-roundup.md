@@ -46,7 +46,9 @@ Please email info@londontenants.org to request attendance
 
 
 ## Estates added since launch 
-Thanks to a number of people who took the time to contact us, we have added 8 further estates to our list of those under threat of demolition. These are the [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/) in Lambeth; the [Marlowe Road estate](https://estatewatch.london/estates/walthamforest/marloweroad/) in Waltham Forest; the [Marian Court estate](https://estatewatch.london/estates/hackney/mariancourt/) in Hackney; the [Calverley Close estate](https://estatewatch.london/estates/bromley/calverleyclose/) in Bromley; the [Ladderswood estate](https://estatewatch.london/estates/enfield/ladderswood/) in Enfield; the [Clapham Park estate](https://estatewatch.london/estates/lambeth/claphampark/) in Lambeth; the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/) in Tower Hamlets and [Denby Court](https://estatewatch.london/estates/lambeth/denbycourt/) in Lambeth.
+Thanks to a number of people who took the time to contact us, we have added 8 further estates to our list of those under threat of demolition. This brings the total number of estates under threat to 130, comprising over 40,000 homes.
+
+The 8 additions comprise the [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/) in Lambeth; the [Marlowe Road estate](https://estatewatch.london/estates/walthamforest/marloweroad/) in Waltham Forest; the [Marian Court estate](https://estatewatch.london/estates/hackney/mariancourt/) in Hackney; the [Calverley Close estate](https://estatewatch.london/estates/bromley/calverleyclose/) in Bromley; the [Ladderswood estate](https://estatewatch.london/estates/enfield/ladderswood/) in Enfield; the [Clapham Park estate](https://estatewatch.london/estates/lambeth/claphampark/) in Lambeth; the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/) in Tower Hamlets and [Denby Court](https://estatewatch.london/estates/lambeth/denbycourt/) in Lambeth.
 
 <img src="/images/addedestates.jpg" class="img-fluid rounded img-thumbnail">
 
