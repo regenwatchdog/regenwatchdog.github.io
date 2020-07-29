@@ -22,10 +22,12 @@ With the impacts of Covid-19 and Brexit, uncertainty is likely to become a recur
 Some London boroughs have already understood the benefits of refurbishment. At the beginning of July, the Royal Borough of Kensington & Chelsea hosted a webinar to explore the feasibility of improving energy efficiency in its refurbishment of the Lancaster West Estate.
 
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
- 
-<div class="embed-responsive embed-responsive-4by3 w-50 p-3 justify-content-center">
+
+<center> 
+<div class="embed-responsive embed-responsive-4by3 w-50 p-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
+</center>
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
