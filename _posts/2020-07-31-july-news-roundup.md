@@ -1,10 +1,10 @@
 ---
 layout: default
 category: updates
-title: July News Roundup 
+title: JULY NEWS ROUND-UP 
 ---
 
-Thanks to all those who have taken the time to get in touch or leave a comment on the *Estate Watch* website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
+Many thanks to all those who have taken the time to get in touch or leave a comment on the *Estate Watch* website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news.
 
 ## Alton estate regeneration - uncertainty looms 
 
@@ -18,13 +18,13 @@ This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/
 
 With the impacts of Covid-19 and Brexit, uncertainty is likely to become a recurring element within London's pipeline of estate demolition schemes, which are highly dependent on the cross-subsidy model. Progressive boroughs will now be looking increasingly to [refurbishment as a more viable and cost effective](https://estatewatch.london/refurbishment/) alternative.
 
-## Lancaster West estate refurbishment - sustainability webinar
+## Lancaster West estate refurb - webinar
 Some London boroughs have already understood the benefits of refurbishment. At the beginning of July, the Royal Borough of Kensington & Chelsea hosted a webinar to explore the feasibility of improving energy efficiency in its refurbishment of the Lancaster West Estate.
 
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
-
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" width="50%" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
+ 
+<div class="embed-responsive embed-responsive-4by3 w-50 p-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
