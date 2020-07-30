@@ -26,11 +26,12 @@ Some London boroughs have already understood the benefits of refurbishment. At t
 
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
 
+<center>
 <div class="embed-responsive embed-responsive-4by3 w-50 p-3">
   <iframe class="embed-responsive-item float-right" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
 </div>
+</center>
 <br>
-
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
 ## Hackney runs 'pilot' ballot on De Beauvoir estate
@@ -43,13 +44,13 @@ Hackney [says](http://mginternet.hackney.gov.uk/documents/s70551/200720%20Report
 More info is available in Hackney's Cabinet report here: [http://mginternet.hackney.gov.uk/ieListDocuments.aspx?CId=111&MID=4912#AI36922](https://hackney.gov.uk/de-beauvoir-estate)
 
 ## Estate Watch Zoom meeting
-On 5th August, we will be hosting a zoom meeting to provide an opportunity for residents of estates going through estate regeneration and who are at risk of demolition to come together to share and exchange with others in the same situation. We will also explore possible ongoing mutual support and effective working together.
+Next week, we will be hosting a zoom meeting to provide an opportunity for residents of estates going through estate regeneration and who are at risk of demolition to come together to share and exchange with others in the same situation. We will also explore possible ongoing mutual support and effective working together.
 
 <img src="/images/ewzoom.png" width="75%" class="img-fluid rounded img-thumbnail">
 
 Please email info@londontenants.org to request attendance
 
-## More estates added to the Watch List 
+## More estates added to Watch List 
 Thanks to a number of people who took the time to get in touch, we have added 8 further estates to our list of those under threat of demolition. This brings the total number of estates under threat to 130, comprising over 40,000 homes.
 
 The 8 additions comprise the [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/) in Lambeth; the [Marlowe Road estate](https://estatewatch.london/estates/walthamforest/marloweroad/) in Waltham Forest; the [Marian Court estate](https://estatewatch.london/estates/hackney/mariancourt/) in Hackney; the [Calverley Close estate](https://estatewatch.london/estates/bromley/calverleyclose/) in Bromley; the [Ladderswood estate](https://estatewatch.london/estates/enfield/ladderswood/) in Enfield; the [Clapham Park estate](https://estatewatch.london/estates/lambeth/claphampark/) in Lambeth; the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/) in Tower Hamlets and [Denby Court](https://estatewatch.london/estates/lambeth/denbycourt/) in Lambeth.
