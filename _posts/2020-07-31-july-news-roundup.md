@@ -10,9 +10,7 @@ Many thanks to all those who have taken the time to get in touch or leave a comm
 
 A cloud of uncertainty has loomed over Wandsworth's regeneration of the Alton estate, since its development partner Redrow [announced](https://www.investegate.co.uk/redrow-plc--rdw-/rns/trading-statement/202006300700044407R/) that it was scaling back all but one of its London developments (the Colindale Gardens scheme) as a consequence of the impact of the Covid-19 pandemic.
 
-At July's [full Council meeting](https://democracy.wandsworth.gov.uk/ieListDocuments.aspx?CId=296&MId=6910&Ver=4) Wandsworth's Cabinet member confirmed Redrow's decision but provided little clarification on what discussions have taken place or the implications for the Alton estate scheme.
-
-<img src="/images/altonquestion.png" width="50%" class="float-left rounded img-thumbnail">
+At July's [full Council meeting](https://democracy.wandsworth.gov.uk/ieListDocuments.aspx?CId=296&MId=6910&Ver=4) Wandsworth's Cabinet member confirmed Redrow's decision but provided little clarification on what discussions have taken place or the implications for the Alton estate scheme.<img src="/images/altonquestion.png" width="50%" class="float-right rounded img-thumbnail">
 
 This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to rescue the [Aylesbury estate regeneration](https://estatewatch.london/estates/southwark/aylesbury/) after its development partner was [forced to scale back its development pipeline](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506).
 
