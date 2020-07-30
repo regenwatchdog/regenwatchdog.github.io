@@ -4,7 +4,7 @@ category: updates
 title: JULY NEWS ROUND-UP
 ---
 
-Many thanks to all those who have taken the time to get in touch or leave a comment on the *Estate Watch* website telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news:
+Many thanks to all those who have taken the time to get in touch or leave a comment on the [*Estate Watch* website](https://estatewatch.london) telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news:
 
 ## Alton estate regeneration - uncertainty looms 
 
@@ -65,7 +65,7 @@ The [briefing](https://estatewatch.london/papers/cacheresearch.pdf) uses qualita
 <img src="https://estatewatch.london/images/cacheresearch.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 ## Have we missed something?
-Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch at info@estatewatch.london or by leaving a comment below &#8595;
+Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch at info@estatewatch.london or by leaving a comment in the comments section. 
 
 
 
