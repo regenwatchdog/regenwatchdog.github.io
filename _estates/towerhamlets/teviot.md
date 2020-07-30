@@ -49,7 +49,7 @@ The estate borders the Limehouse Cut canal to the North, the River Lea to the Ea
 
 The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https://www.architectsjournal.co.uk/download?ac=1222139) which envisages the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
 
-![](/images/reshapingpoplar.png)
+<img src="/images/reshapingpoplar.png" class="img-fluid rounded img-thumbnail">
 
 In December 2018, residents were [told](/images/teviotDec2018.pdf) they would be balloted on the regeneration options for their estate, but that if they chose refurbishment then they would have to have new homes built above them in order to pay for the refurbishment.
 
