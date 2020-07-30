@@ -17,23 +17,19 @@ At July's <a href="https://democracy.wandsworth.gov.uk/ieListDocuments.aspx?CId=
 
 
 This follows Southwark's [recent decision](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) to step in and stump up £193m to rescue the [Aylesbury estate regeneration](https://estatewatch.london/estates/southwark/aylesbury/) after its development partner was [forced to scale back its development pipeline](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506).
-<img src="/images/snbailout.jpg" width="50%" class="float-left rounded img-thumbnail">
+<img src="/images/snbailout.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
 With the impending double-shock impacts of Covid-19 and Brexit, uncertainty is likely to become a recurring element within London's pipeline of estate demolition schemes, which are highly dependent on a cross-subsidy model. Progressive boroughs will now be looking increasingly to [refurbishment as a more viable and cost effective](https://estatewatch.london/refurbishment/) alternative.
 
 ## Lancaster West estate refurb - webinar
 Some London boroughs have already understood the benefits of refurbishment. At the beginning of July, the Royal Borough of Kensington & Chelsea hosted a webinar to explore the feasibility of improving energy efficiency in its refurbishment of the Lancaster West Estate.
 
-The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
-
-<center> 
+<div class="clearfix">
 <div class="embed-responsive embed-responsive-4by3 w-50 p-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
+  <iframe class="embed-responsive-item float-right" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
+The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
 </div>
-</center>
-
-  
-  
+</div>
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
