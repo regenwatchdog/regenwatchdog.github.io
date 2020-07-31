@@ -27,7 +27,11 @@ Some London boroughs have already understood the benefits of refurbishment. At t
 
 The webinar gave an introduction to sustainability, and the net-zero opportunities for Lancaster West, with an expert panel which included Professor Anne Power (London School of Economics), Lizzy Westmacott (ECD Architects), and James Traynor (ECD Architects and author of “EnerPhit: A Step by Step Guide to Low Energy Retrofit).
 
-<a href="https://youtu.be/o1BMT_ujxn0"><img src="https://estatewatch.london/images/lancwestvid.png" width="50%" class="img-fluid img-thumbnail"></a>
+<center>
+<div class="embed-responsive embed-responsive-4by3 w-50 p-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o1BMT_ujxn0"></iframe>
+</div>
+</center>
 
 The refurbishment of the Lancaster West estate was funded by RBKC and the GLA - we hope to see a lot more such schemes in the pipeline now that the benefits of refurbishment are becoming more widely acknowledged. 
 
@@ -69,4 +73,10 @@ The [briefing](https://estatewatch.london/papers/cacheresearch.pdf) uses qualita
 Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch at info@estatewatch.london or by leaving a comment in the comments section. 
 
 
-
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@LondonTenants" />
+<meta name="twitter:creator" content="@justspace7" />
+<meta property="og:url" content="https://estatewatch.london/july-news-roundup/" />
+<meta property="og:title" content="Monthly estate regeneration news roundup - July" />
+<meta property="og:description" content="Two major schemes wobble as Covid crisis hits cross-subsidy model; 8 more estates added to watch list; Hackney runs pilot ballot and RBKC shows off its Lancaster West refurb." />
+<meta property="og:image" content="https://estatewatch.london/images/julyscreenshot.jpg" />
