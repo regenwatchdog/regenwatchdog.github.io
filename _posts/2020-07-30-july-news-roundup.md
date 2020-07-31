@@ -77,6 +77,6 @@ Have we missed anything or got it wrong? help us keep keep this resource up to d
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
 <meta property="og:url" content="https://estatewatch.london/july-news-roundup/" />
-<meta property="og:title" content="Monthly estate regeneration news roundup - July" />
+<meta property="og:title" content="Estate Watch news roundup - July" />
 <meta property="og:description" content="Two major schemes wobble as Covid crisis hits cross-subsidy model; 8 more estates added to watch list; Hackney runs pilot ballot and RBKC shows off its Lancaster West refurb." />
-<meta property="og:image" content="https://estatewatch.london/images/julyscreenshot.jpg" />
+<meta property="og:image" content="https://estatewatch.london/images/julyscreenshot.png" />
