@@ -6,5 +6,5 @@
 	"stage": "{{ estate.stage }}",
         "image": "{{ estate.images[0].image_path }}",
         "url": "{{estate.url}}"
-      },{% endfor %}
-}];
+      }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
+};
