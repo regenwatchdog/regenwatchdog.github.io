@@ -1,10 +1,10 @@
 ---
 ---
   {% for estate in site.estates %}
-    {
+  [{
         "title": "{{ estate.name }}",
 	"stage": "{{ estate.stage }}",
         "image": "{{ estate.images[0].image_path }}",
         "url": "{{estate.url}}"
       },{% endfor %}
-};
+}];
