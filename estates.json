@@ -1,7 +1,5 @@
 ---
 ---
-{
-	"estates_under_threat": [
 	{% for estate in site.estates %}
       {
         "title": "{{ estate.name }}",
@@ -9,5 +7,5 @@
         "image": "{{ estate.images[0].image_path }}",
         "url": "{{estate.url}}"
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
-   ]
-}
+
+
