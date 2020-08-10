@@ -4,7 +4,8 @@
       {
         "title": "{{ estate.name }}",
 	"borough": "{{ borough.name | capitalize | replace: "gand", "g & " | replace: "hand", "h & "| replace: "nand", "n & "| replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" | replace: "dagenham", "Dagenham" | replace: "london", "London" | replace: "wandsworth", "Wandsworth" }}",
-        "image": "{{ estate.thumb }}",
+        "description": "{{ estate.content | strip_html | truncatewords: 15 }}",
+	"image": "{{ estate.thumb }}",
         "url": "{{estate.url}}"
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
 ]
