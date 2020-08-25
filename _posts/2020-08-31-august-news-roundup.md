@@ -12,7 +12,10 @@ http://www.putneysw15.com/default.asp?section=info&page=ldrsaltonactivity001.htm
 No - vote. only yes votes are publicised.
 91 against, 68 for and 26 who didn’t vote
 
+## Fixmyblock.org
 
+##
+https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines
 
 
 <meta name="twitter:card" content="summary" />
