@@ -41,6 +41,11 @@ https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220
 
 https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce
 
+## South Kilburn
+https://www.ealingtimes.co.uk/news/18665504.brent-council-cabinet-update-south-kilburn-regeneration/
+
+https://www.kilburntimes.co.uk/news/south-kilburn-residents-feel-stuck-1-6809347
+
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
