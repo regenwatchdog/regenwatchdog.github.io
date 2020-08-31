@@ -6,6 +6,9 @@ borough: wandsworth
 thumb: /images/altonthumb.jpg
 images:
   - image_path: /images/altonthumblarge.jpg
+  - image_path: /images/altont1.jpg
+  - image_path: /images/altont2.jpg
+  - image_path: /images/altonlibrary.jpg
   - image_path: /images/alton2.jpg
   - image_path: /images/alton.jpg
 coordinates: 
@@ -29,12 +32,11 @@ The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as t
 
 The Mayor's requirement to ballot residents on the demolition of their homes is linked to grant funding, such that if Redrow doesn't apply for grant funding then it isn't obliged to hold a ballot.
 
-Redrow submitted a revised planning application in May 2020, which claims to address the issues raised by the Mayor. The revised application proposes a total of 1,108 homes of which 261 affordable (201 social rent). 
+Redrow submitted a revised planning application in May 2020, which claimed to address the issues raised by the Mayor. The revised application proposed a total of 1,108 homes of which 261 affordable (201 social rent). 
 
 <img src="/images/tenuremixalton.png" class="img-fluid rounded img-thumbnail">
 
-The Mayor's stage 2 report on the revised application is yet to be published.
-
+In August 2020, Redrow announced that it was withdrawing from the scheme and terminating its partnership with Wandsworth Council.
 
 __Links:__  
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)
