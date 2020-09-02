@@ -7,9 +7,7 @@ title: JULY NEWS ROUND-UP
 
 ## Alton estate regeneration  
 
-Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the Alton estate regeneration.
-
-
+Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the [Alton estate regeneration](https://estatewatch.london/estates/wandsworth/altonarea/).
 
 <img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail">
 
@@ -23,28 +21,43 @@ Leonie Cooper, London Assembly member for Wandsworth, has [issued a statement](h
 
 
 ## Gilbey's Yard estate - ballot
-No - vote. only yes votes are publicised.
-91 against, 68 for and 26 who didn’t vote
+Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot.
 
-## Fixmyblock.org
+Of the 185 eligible residents 91 voted against demolition, 68 voted for and 26 didn't vote.
 
-## Graheme Park estate
-https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines
+Reasons why - TRA points
+Estate only xx years old.
+Space standards?
 
-All the more important now in light of the proposed changes to planning legislation. 
+
+This puts a spanner in One Housing's plan to xxxx and the Camden Goods Yard scheme.
+
+The Mayor introduced the requirement to ballot residents in 2017? and while there is a general count of the number of successful ballots, unsuccessful ones are not publicised and therefore tend to go unreported. 
+
+## Grahame Park estate
+Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) came under the spotlight in an [article](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
+
+It revealed that Barnet council received £223,000 from the housing association redeveloping the estate (Notting Hill Genesis) to cover the costs of a planning brief, which specified that additional social housing be provided "only where viable”.
+
+The housing association subsequently proposed cutting the number of affordable homes by 257.
 
 ## Joyce snells
-Letter from Enfield Council leader to Tom Copley
-https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf
+The leader of Enfield Council has written to Tom Copley, deputy Mayor for Housing. The [letter](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) 
 
 <img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail"> 
 
 https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce
 
 ## South Kilburn
-https://www.ealingtimes.co.uk/news/18665504.brent-council-cabinet-update-south-kilburn-regeneration/
+Residents in new-build homes on the first phase of the regenerated South Kilburn estate have reported continued issues with the quality of ...
 
 https://www.kilburntimes.co.uk/news/south-kilburn-residents-feel-stuck-1-6809347
+
+## Fixmyblock.org
+
+## Estate Watch Zoom meeting
+
+
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
