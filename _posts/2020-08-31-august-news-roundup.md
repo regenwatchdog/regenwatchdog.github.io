@@ -1,9 +1,10 @@
 ---
 layout: default
 category: updates
-published: false
-title: JULY NEWS ROUND-UP
+published: true 
+title: AUGUST NEWS ROUND-UP
 ---
+Here's our brief round up of estate regeneration news for August.
 
 ## Alton estate regeneration  
 
@@ -23,19 +24,31 @@ Leonie Cooper, London Assembly member for Wandsworth, has [issued a statement](h
 ## Gilbey's Yard estate - ballot
 Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot.
 
-Of the 185 eligible residents 91 voted against demolition, 68 voted for and 26 didn't vote.
+A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot confirms that of the 185 eligible residents 91 voted against demolition, 68 voted for and 26 didn't vote.
 
-Reasons why - TRA points
-Estate only xx years old.
-Space standards?
+<img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail">
 
+One Housing's head of Regeneration also [wrote to residents](/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals based on feedback.
 
-This puts a spanner in One Housing's plan to xxxx and the Camden Goods Yard scheme.
+A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair sets out residents' issues with the proposals, including:
+
+* Lack of clarity on the amount of social housing proposed
+* Lack of detailed information about proposed tenures and security of tenure
+* Concerns about space standards of the proposed replacement affordable housing
+* Concerns about increased Service Charges and Council Tax on the redeveloped estate
+
+The report ends with the Vice Chair's summing up of residents' negotiations with their Landlord: 
+
+_"On a personal note, as the Vice Chair of GY TRA I have found negotiations with One Housing unsatisfactory and frustrating. They seem to me to want to appear to be complying with the regulations of the GLA and Camden Council whilst taking no real interest in the needs of the tenants.There are many complaints about them from tenants regarding repairs and maintenance and their staff turnover is very high so that any continuity in communications or development of an on-going relationship with the estate officer is made very difficult."_
+
+_"It feels to me as though repairs and maintenance have been considerably rundown prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
 
 The Mayor introduced the requirement to ballot residents in 2017? and while there is a general count of the number of successful ballots, unsuccessful ones are not publicised and therefore tend to go unreported. 
 
 ## Grahame Park estate
 Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) came under the spotlight in an [article](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
+
+<img src="/images/grestate.png" class="img-fluid rounded img-thumbnail">
 
 It revealed that Barnet council received £223,000 from the housing association redeveloping the estate (Notting Hill Genesis) to cover the costs of a planning brief, which specified that additional social housing be provided "only where viable”.
 
