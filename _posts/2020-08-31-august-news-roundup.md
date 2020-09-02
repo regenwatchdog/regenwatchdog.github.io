@@ -1,7 +1,7 @@
 ---
 layout: default
 category: updates
-published: true 
+published: false 
 title: AUGUST NEWS ROUND-UP
 ---
 Here's our brief round up of estate regeneration news for August.
@@ -10,7 +10,7 @@ Here's our brief round up of estate regeneration news for August.
 
 Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the [Alton estate regeneration](https://estatewatch.london/estates/wandsworth/altonarea/).
 
-<img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail">
+<img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 Wandsworth Council leader, Ravi Govindia issued a statement [indicating](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431) that the Council is exploring other options for proceeding with the scheme:
 
@@ -26,7 +26,7 @@ Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.lo
 
 A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot confirms that of the 185 eligible residents 91 voted against demolition, 68 voted for and 26 didn't vote.
 
-<img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail">
+<img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 One Housing's head of Regeneration also [wrote to residents](/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals based on feedback.
 
@@ -48,25 +48,21 @@ The Mayor introduced the requirement to ballot residents in 2017? and while ther
 ## Grahame Park estate
 Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) came under the spotlight in an [article](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
 
-<img src="/images/grestate.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/grestate.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 It revealed that Barnet council received £223,000 from the housing association redeveloping the estate (Notting Hill Genesis) to cover the costs of a planning brief, which specified that additional social housing be provided "only where viable”.
 
 The housing association subsequently proposed cutting the number of affordable homes by 257.
 
 ## Joyce snells
-The leader of Enfield Council has written to Tom Copley, deputy Mayor for Housing. The [letter](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) 
+The leader of Enfield Council has written to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's Housing Recovery Task Force use emergency pandemic funding to accelerate estate regeneration, citing its Joyce Park and Snells Avenue estate scheme as a candidate.
 
-<img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail"> 
+The [letter](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) 
+
+<img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail" width="50%"> 
 
 https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce
 
-## South Kilburn
-Residents in new-build homes on the first phase of the regenerated South Kilburn estate have reported continued issues with the quality of ...
-
-https://www.kilburntimes.co.uk/news/south-kilburn-residents-feel-stuck-1-6809347
-
-## Fixmyblock.org
 
 ## Estate Watch Zoom meeting
 
@@ -75,7 +71,7 @@ https://www.kilburntimes.co.uk/news/south-kilburn-residents-feel-stuck-1-6809347
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
-<meta property="og:url" content="https://estatewatch.london/july-news-roundup/" />
-<meta property="og:title" content="Estate Watch news roundup - July" />
-<meta property="og:description" content="Two major schemes wobble as Covid crisis hits cross-subsidy model; 8 more estates added to watch list; Hackney runs pilot ballot and RBKC shows off its Lancaster West refurb." />
+<meta property="og:url" content="https://estatewatch.london/august-news-roundup/" />
+<meta property="og:title" content="Estate Watch news roundup - August" />
+<meta property="og:description" content="Camden Goods Yard estates vote against demolition in ballot and Alton estate regen sent back to drawing board as developer pulls out." />
 <meta property="og:image" content="https://estatewatch.london/images/julyscreenshot.png" />
