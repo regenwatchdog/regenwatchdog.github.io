@@ -11,7 +11,7 @@ Wandsworth Council's development partner Redrow has confirmed that it is pulling
 
 <img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-Wandsworth Council leader, Ravi Govindia [is reported](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431) as saying that the Council intends to explore other options for proceeding with the scheme:
+Wandsworth Council leader, Ravi Govindia is subsequently [reported](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431) as saying that the Council intends to explore other options for proceeding with the scheme:
 
 _“Despite these unprecedented times, the council remains completely committed to delivering the transformational regeneration the residents of the Alton Estate expect and deserve. We will be exploring options as to how to deliver the scheme without Redrow and to maintain momentum subject to planning permission being granted."_
 
@@ -24,7 +24,7 @@ Hopefully Wandsworth will take heed of the calls to review its plans and explore
 ## Residents vote against demolition at Gilbey's Yard & Juniper Crescent estates
 Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot held by Civica on behalf of housing association [One Housing](https://www.onehousing.co.uk/).
 
-A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition, 68 voted for and 26 didn't vote.
+A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
 
 <img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
@@ -43,7 +43,7 @@ _"On a personal note, as the Vice Chair of GY TRA I have found negotiations with
 
 _"It feels to me as though repairs and maintenance have been considerably run down prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
 
-The Mayor introduced the [requirement to ballot residents](https://estatewatch.london/approved/ballotexemptions/) in 2018 and while the GLA keeps a [list of estates where positive ballots have taken place](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data), it doesn't record ballots where residents voted against redevelopment.
+The Mayor introduced the [requirement to ballot residents](https://estatewatch.london/approved/ballotexemptions/) in 2018 and while the GLA keeps a [list of estates where positive ballots have taken place](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data), it doesn't record ballots where residents have voted against redevelopment.
 
 ## Grahame Park estate - developer influenced planning policy
 Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) has come under criticism in an [investigation](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
@@ -53,6 +53,8 @@ Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/es
 It revealed that Barnet council received £223,000 from the housing association redeveloping the estate ([Notting Hill Genesis](https://www.nhg.org.uk/)) to cover the costs of a planning brief, which specified that additional social housing be provided _"only where viable”_.
 
 The housing association subsequently proposed cutting the number of affordable homes by 257.
+
+This doesn't bode well for the Grahame Park scheme, which is one of London's largest council estate demolitions or the other large-scale demolitions which Notting Hill Genesis is involved in, like the [aylesbury estate](https://estatewatch.london/estates/southwark/aylesbury/) in Southwark and the [Woodberry Down estate](https://estatewatch.london/estates/hackney/woodberrydown/) in Hackney.
 
 ## Joyce Park and Snells Avenue estate - Council seeks funding
 The leader of Enfield Council has [written](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's [COVID-19 Housing Recovery Task Force](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce) use emergency pandemic funding for the redevelopment of its Joyce Park and Snells Avenue estate.
@@ -74,7 +76,7 @@ The foreword to the report sounds promising with Tom Copley saying that _"The ho
 ## September Zoom meeting
 Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the key issues for leaseholders and reviewing the resources currently available on the website.
 
-The meeting will take place on either 14th or 15th September (to be confirmed) at 2pm. 
+The meeting will take place on 15th September at 2pm. 
 Please email info@londontenants.org to request attendance.
 
 
