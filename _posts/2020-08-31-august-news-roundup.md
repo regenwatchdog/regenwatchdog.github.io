@@ -46,9 +46,9 @@ _"It feels to me as though repairs and maintenance have been considerably rundow
 The Mayor introduced the requirement to ballot residents in 2017? and while there is a general count of the number of successful ballots, unsuccessful ones are not publicised and therefore tend to go unreported. 
 
 ## Grahame Park estate
-Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) came under the spotlight in an [article](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
+Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) has come under criticism in an [investigation](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
 
-<img src="/images/grestate.png" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="/images/grahame.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 It revealed that Barnet council received £223,000 from the housing association redeveloping the estate (Notting Hill Genesis) to cover the costs of a planning brief, which specified that additional social housing be provided "only where viable”.
 
