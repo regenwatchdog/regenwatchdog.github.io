@@ -6,7 +6,7 @@ title: AUGUST NEWS ROUND-UP
 ---
 Here is our brief round up of estate regeneration news for August. Thanks to everyone who got in touch to let us know what is going on with their estates.
 
-## Alton estate regeneration  
+## Alton estate - developer pulls out  
 Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the [Alton estate regeneration](https://estatewatch.london/estates/wandsworth/altonarea/).
 
 <img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
@@ -21,7 +21,7 @@ Leonie Cooper, London Assembly member for Wandsworth, has [issued a statement](h
 
 Hopefully Wandsworth will take heed of the calls to review its plans and explore the [growing evidence](https://estatewatch.london/refurbishment/) showing that refurbishment of council estates is the best option socially, environmentally and economically.  
 
-## Gilbey's Yard estate - ballot
+## Residents vote against demolition at Gilbey's Yard & Juniper Crescent estates
 Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot held by Civica on behalf of housing association [One Housing](https://www.onehousing.co.uk/).
 
 A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition, 68 voted for and 26 didn't vote.
@@ -45,7 +45,7 @@ _"It feels to me as though repairs and maintenance have been considerably run do
 
 The Mayor introduced the [requirement to ballot residents](https://estatewatch.london/approved/ballotexemptions/) in 2018 and while the GLA keeps a [list of estates where positive ballots have taken place](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/estate-regeneration-data), it doesn't record ballots where residents voted against redevelopment.
 
-## Grahame Park estate
+## Grahame Park estate - developer paid to influence planning policy
 Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) has come under criticism in an [investigation](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
 
 <img src="/images/grahame.png" class="img-fluid rounded img-thumbnail" width="50%">
@@ -54,7 +54,7 @@ It revealed that Barnet council received £223,000 from the housing association 
 
 The housing association subsequently proposed cutting the number of affordable homes by 257.
 
-## Joyce snells
+## Joyce Park and Snells Avenue estate
 The leader of Enfield Council has [written](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's [COVID-19 Housing Recovery Task Force](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce) use emergency pandemic funding to accelerate estate regeneration, citing its Joyce Park and Snells Avenue estate scheme as a candidate for funding.
 
 <img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail" width="50%"> 
