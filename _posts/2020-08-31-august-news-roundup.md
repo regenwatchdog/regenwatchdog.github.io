@@ -4,10 +4,9 @@ category: updates
 published: true 
 title: AUGUST NEWS ROUND-UP
 ---
-Here's our brief round up of estate regeneration news for August.
+Here is our brief round up of estate regeneration news for August. Thanks to everyone who got in touch to let us know what is going on with their estates.
 
 ## Alton estate regeneration  
-
 Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the [Alton estate regeneration](https://estatewatch.london/estates/wandsworth/altonarea/).
 
 <img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
@@ -55,14 +54,21 @@ It revealed that Barnet council received £223,000 from the housing association 
 The housing association subsequently proposed cutting the number of affordable homes by 257.
 
 ## Joyce snells
-The leader of Enfield Council has written to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's Housing Recovery Task Force use emergency pandemic funding to accelerate estate regeneration, citing its Joyce Park and Snells Avenue estate scheme as a candidate.
-
-The [letter](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) 
+The leader of Enfield Council has [written](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's [COVID-19 Housing Recovery Task Force](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce) use emergency pandemic funding to accelerate estate regeneration, citing its Joyce Park and Snells Avenue estate scheme as a candidate.
 
 <img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail" width="50%"> 
 
-https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce
+The COVID-19 Housing Delivery Taskforce, chaired and convened by Deputy Mayor for Housing and Residential Development Tom Copley, is made up of leaders from across London’s housing delivery sector including councils, construction, unions, and housing associations.
 
+The group met six times between April and July 2020 to consider how the sector should adapt and maintain resilience following the coronavirus pandemic.
+
+It looked at specific support needed from Government that would be effective in maintaining housing supply and providing confidence in the market, as well as what can be achieved by collaboration between the Mayor, councils, and housing delivery sector working in partnership.
+
+<img src="/images/taskforce.png" class="img-fluid rounded img-thumbnail" width="50%">
+
+The Taskforce has produced a [report](https://www.london.gov.uk/sites/default/files/2020-07-21_housing_delivery_taskforce_recovery_plan_rev1_1.pdf) identifying ways that public funding could be used to mitigate the economic shock on the housing sector.
+
+The foreword to the report sounds promising with Tom Copley saying that _"The housing market we had before did not work for most Londoners, and Covid-19 presents an opportunity to rebuild a model which works better for all"_. But the report fails to say anything about retrofitting council estates, or reviewing the current funding regime which favours demolition over refurbishment.
 
 ## September Zoom meeting
 Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the key issues for leaseholders and reviewing the resources currently available on the website.
