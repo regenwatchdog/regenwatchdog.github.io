@@ -11,7 +11,7 @@ Wandsworth Council's development partner Redrow has confirmed that it is pulling
 
 <img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-Wandsworth Council leader, Ravi Govindia issued a [statement](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431), saying that the Council intends to explore other options for proceeding with the scheme:
+Wandsworth Council leader, Ravi Govindia [is reported](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431)as saying that the Council intends to explore other options for proceeding with the scheme:
 
 _“Despite these unprecedented times, the council remains completely committed to delivering the transformational regeneration the residents of the Alton Estate expect and deserve. We will be exploring options as to how to deliver the scheme without Redrow and to maintain momentum subject to planning permission being granted."_
 
@@ -24,20 +24,20 @@ Hopefully Wandsworth will take heed of the calls to review its plans and explore
 ## Gilbey's Yard estate - ballot
 Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot held by Civica on behalf of housing association [One Housing](https://www.onehousing.co.uk/).
 
-A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents 91 voted against demolition, 68 voted for and 26 didn't vote.
+A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition, 68 voted for and 26 didn't vote.
 
 <img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 One Housing's head of Regeneration has since [written to residents](/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
 
-A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' issues with the proposals, including:
+A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
 
 * Lack of clarity on the amount of social housing proposed
 * Lack of detailed information about proposed tenures and security of tenure
 * Concerns about space standards of the proposed replacement affordable housing
 * Concerns about increased Service Charges and Council Tax on the redeveloped estate
 
-The report ends with the Vice Chair's summing up of residents' negotiations with their Landlord: 
+The report concludes with the Vice Chair summing up negotiations with the housing association prior to the ballot: 
 
 _"On a personal note, as the Vice Chair of GY TRA I have found negotiations with One Housing unsatisfactory and frustrating. They seem to me to want to appear to be complying with the regulations of the GLA and Camden Council whilst taking no real interest in the needs of the tenants. There are many complaints about them from tenants regarding repairs and maintenance and their staff turnover is very high so that any continuity in communications or development of an on-going relationship with the estate officer is made very difficult."_
 
@@ -50,7 +50,7 @@ Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/es
 
 <img src="/images/grahame.png" class="img-fluid rounded img-thumbnail" width="50%">
 
-It revealed that Barnet council received £223,000 from the housing association redeveloping the estate (Notting Hill Genesis) to cover the costs of a planning brief, which specified that additional social housing be provided _"only where viable”_.
+It revealed that Barnet council received £223,000 from the housing association redeveloping the estate ([Notting Hill Genesis](https://www.nhg.org.uk/)) to cover the costs of a planning brief, which specified that additional social housing be provided _"only where viable”_.
 
 The housing association subsequently proposed cutting the number of affordable homes by 257.
 
@@ -63,7 +63,7 @@ The taskforce, chaired and convened by Deputy Mayor for Housing and Residential 
 
 The group met six times between April and July 2020 to consider how the sector should adapt and maintain resilience following the coronavirus pandemic.
 
-It looked at specific support needed from Government that would be effective in maintaining housing supply and providing confidence in the market, as well as what can be achieved by collaboration between the Mayor, councils, and housing delivery sector working in partnership.
+It looked at specific support needed from Government that would be effective in maintaining housing supply and providing confidence in the market.
 
 <img src="/images/taskforce.png" class="img-fluid rounded img-thumbnail" width="50%">
 
@@ -75,7 +75,7 @@ The foreword to the report sounds promising with Tom Copley saying that _"The ho
 Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the key issues for leaseholders and reviewing the resources currently available on the website.
 
 The meeting will take place on either 14th or 15th September (to be confirmed) at 2pm. 
-Please email info@londontenants.org to request attendance
+Please email info@londontenants.org to request attendance.
 
 
 <meta name="twitter:card" content="summary" />
@@ -84,4 +84,4 @@ Please email info@londontenants.org to request attendance
 <meta property="og:url" content="https://estatewatch.london/august-news-roundup/" />
 <meta property="og:title" content="Estate Watch news roundup - August" />
 <meta property="og:description" content="Camden Goods Yard estates vote against demolition in ballot and Alton estate regen sent back to drawing board as developer pulls out." />
-<meta property="og:image" content="https://estatewatch.london/images/julyscreenshot.png" />
+<meta property="og:image" content="https://estatewatch.london/images/august.png" />
