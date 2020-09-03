@@ -1,7 +1,7 @@
 ---
 layout: default
 category: updates
-published: false 
+published: true 
 title: AUGUST NEWS ROUND-UP
 ---
 Here's our brief round up of estate regeneration news for August.
@@ -30,7 +30,7 @@ A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot con
 
 One Housing's head of Regeneration also [wrote to residents](/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals based on feedback.
 
-A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair sets out residents' issues with the proposals, including:
+A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' issues with the proposals, including:
 
 * Lack of clarity on the amount of social housing proposed
 * Lack of detailed information about proposed tenures and security of tenure
@@ -64,8 +64,11 @@ The [letter](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/T
 https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce
 
 
-## Estate Watch Zoom meeting
+## September Zoom meeting
+Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the key issues for leaseholders and reviewing the resources currently available on the website.
 
+The meeting will take place on either 14th or 15th September (to be confirmed) at 2pm. 
+Please email info@londontenants.org to request attendance
 
 
 <meta name="twitter:card" content="summary" />
