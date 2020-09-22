@@ -6,7 +6,7 @@ borough: barnet
 thumb: /images/whitefieldthumb.jpg
 images:
   - image_path: /images/whitefield2.png
-  - image_path: /images/whitefield3.png
+  - image_path: /images/whitefield3.jpg
   - image_path: /images/whitefield1.png
 coordinates:
   - '-0.219515,51.572426'
