@@ -3,22 +3,23 @@ category: underthreat
 stage: Proposal
 name: Lesnes estate (Thamesmead East phase 2) 
 borough: bexley
-thumb: /images/wolvercoteaerialthumb.jpg
+thumb: /images/lesnesthumb.jpg
 images:
   - image_path: /images/wolvercoteaerial.jpg
   - image_path: /images/wolvercoteaerial2.png
   - image_path: /images/thamesmeadeast.jpg
   - image_path: /images/thamesmeadeast.png
+  - image_path: /images/lesnesaerial.png
 coordinates: 
   - 0.126122,51.495310
 ---
-596 homes are under threat of demolition on the Wolvercote Road site of the Thamesmead estate, which is situated in the borough of Bexley.
+596 homes are earmarked for demolition on the Lesnes estate (part of the larger Thamesmead estate) situated in the borough of Bexley.
 
 This is the second phase of Peabody's redevelopment of the Bexley side of the Thamesmead estate. In 2017, Bexley approved the [first phase](/estates/bexley/thamesmeadsouth) highlighted below in orange:
 
 <img src="/images/thamemeadsouthphase1.png" class="img-fluid rounded img-thumbnail">
 
-The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
+The whole of the Bexley side of the Thamesmead estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
 
 The Lesnes estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) but a planning application is yet to come forward.
 
@@ -26,7 +27,7 @@ In March 2020 Peabody balloted residents on the Lesnes estate, asking them _“A
 
 The result saw 65.4% of eligible residents taking part in the ballot, with 70.2% voting ‘yes’.
 
-This is despite tenants being told that the rents of the new homes will increase above their current levels - albeit tapered over a period of 10 years.
+This is despite tenants being told that the rents of the new homes will increase above their current levels - albeit tiered over a period of 10 years.
 
 <img src="/images/lesnesrent.png" class="img-fluid rounded img-thumbnail">
 
@@ -37,8 +38,10 @@ Bexley's [Growth Strategy](https://www.bexley.gov.uk/sites/default/files/2018-02
 Peabody has [partnered with Australian developer Lendlease](https://www.insidehousing.co.uk/news/news/peabody-picks-lendlease-for-8bn-thamesmead-regeneration-60192) (Heygate estate regeneration) to deliver 11,500 homes in Thamesmead over the next 30 years.
 
 __Links:__   
-Peabody's [2017 consultation documents](https://www.thamesmeadnow.org.uk/media/1726/wolvercote_road_next_steps.pdf) for the scheme.
+Peabody's [2017 consultation documents](https://www.thamesmeadnow.org.uk/media/1726/wolvercote_road_next_steps.pdf) for the Lesnes estate scheme.
 
-Peabody's final 2019 masterplan - [https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf](https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf)
+Peabody's final 2019 Lesnes estate masterplan - [https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf](https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf)
+
+Peabody's website for the Lesnes estate regeneration - [http://www.lesnes.org.uk](http://www.lesnes.org.uk)
 
 Peabody's website for the Thamesmead regeneration - [http://www.thamesmeadnow.org.uk](http://www.thamesmeadnow.org.uk)
