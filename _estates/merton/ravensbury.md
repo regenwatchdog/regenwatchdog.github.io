@@ -15,17 +15,19 @@ images:
 coordinates: 
   - '-0.181542,51.399087'
 ---
-Circa 100 homes on Merton's Eastfields estate are earmarked for demolition, to be replaced by 180 homes of which 50 affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
+Circa 100 homes on Merton's Ravensbury estate are earmarked for demolition, to be replaced by 180 homes of which 50% affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 
 In Nov 2018, the Mayor [approved](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437643///ravensbury_estate_report.pdf) the demolition of 97 homes on the Ravensbury estate and subsequently [exempted](/approved/ballotexemptions) it from his requirement to ballot residents on the demolition plans.
 
 This is despite Merton having previously carried out its own [consultation](/images/mertonconsultation.pdf) of residents which showed the overwhelming majority in favour of refurbishment.
 
-![](/images/ravensburyconsultation.png)
+<img src="/images/ravensburyconsultation.png" class="img-fluid rounded img-thumbnail">
 
 Indeed the [consultation report](/images/mertonconsultationreport.pdf) itself confers that _' there is little appetite for regeneration of the Estate, with a strong preference for refurbishment of existing properties to bring them up to minimum modern standards.'_
 
 The five-hectare estate overlooks the river wandle and is situated adjacent to the Wandle Valley conservation area.
+
+<img src="/images/rgrovemap.jpg" class="img-fluid rounded img-thumbnail">
 
 The scheme is being progressed in phases with the first 'kickstart' phase of 21 homes currently underway. As of September 2020 four homes had been demolished.
 
@@ -35,7 +37,7 @@ The scheme is being progressed by Clarion Housing Association (formerly Circle/A
 
 <img src="/images/mertonestates.png" class="img-fluid rounded img-thumbnail">
 
-The three Merton schemes have been [awarded](https://planning.merton.gov.uk/MVM.DMS/Planning%20Application/1000098000/1000098159/17P1721_Clarions%20Financial%20Viability%20Appraisal%20Summary%20Report.pdf) £43m funding by the Mayor from his current affordable housing programme (of which £15m for the Eastfields estate) and have all been [granted an exemption](https://www.london.gov.uk/sites/default/files/12.04.19_for_website_-_list_of_exemptions.pdf) from his requirement to ballot residents.
+The three Merton schemes have been [awarded](https://planning.merton.gov.uk/MVM.DMS/Planning%20Application/1000098000/1000098159/17P1721_Clarions%20Financial%20Viability%20Appraisal%20Summary%20Report.pdf) £43m funding by the Mayor from his current affordable housing programme (of which £6.4m for the Eastfields estate) and have all been [granted an exemption](https://www.london.gov.uk/sites/default/files/12.04.19_for_website_-_list_of_exemptions.pdf) from his requirement to ballot residents.
 
 <img src="/images/mertongrant.png" class="img-fluid rounded img-thumbnail">
 
@@ -43,7 +45,9 @@ It is worth noting that the three Merton estates provide a somewhat less ungener
 
 Here is a clip of residents airing their concerns at a residents association meeting with local MP Siobhain McDonagh:
 
+<center>
 <iframe width="420" height="270" src="https://www.youtube.com/embed/v9qqNeneFl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## Links
 
