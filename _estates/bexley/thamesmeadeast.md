@@ -1,7 +1,7 @@
 ---
 category: underthreat
 stage: Proposal
-name: Thamesmead east (phase 2) 
+name: Lesnes estate (Thamesmead East phase 2) 
 borough: bexley
 thumb: /images/wolvercoteaerialthumb.jpg
 images:
@@ -20,13 +20,25 @@ This is the second phase of Peabody's redevelopment of the Bexley side of the Th
 
 The whole of the Bexley side of the estate has been earmarked for redevelopment in [this capacity study](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) commissioned by Bexley Council. 
 
-The Wolvercote Road section of the estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) but a planning application is yet to come forward.
+The Lesnes estate has been identified as a priority site to come forward in the Council's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2017-11/London-Borough-of-Bexley-DIFS-Higher-Growth-Report.pdf) but a planning application is yet to come forward.
+
+In March 2020 Peabody balloted residents on the Lesnes estate, asking them _“Are you in favour of Peabody’s proposal to include Lesnes Estate in their regeneration plans for South Thamesmead?”_
+
+The result saw 65.4% of eligible residents taking part in the ballot, with 70.2% voting ‘yes’.
+
+This is despite tenants being told that the rents of the new homes will increase above their current levels - albeit tapered over a period of 10 years.
+
+<img src="/images/lesnesrent.png" class="img-fluid rounded img-thumbnail">
+
+In its [ballot offer to residents](https://www.thamesmeadnow.org.uk/media/3337/lesnes-estate_landlord-offer-document.pdf), Peabody also makes it clear that if residents vote against the proposals there will be no refurbishment. Instead Peabody says _'We would maintain the homes on Lesnes Estate as best we can and a new proposal would be put together with feedback from residents.'_
 
 Bexley's [Growth Strategy](https://www.bexley.gov.uk/sites/default/files/2018-02/Bexley-Growth-Strategy.pdf) envisages 4,000 new homes in the Thamesmead area facilitated by the new Crossrail station and including the 'renewal' of existing estates.
 
 Peabody has [partnered with Australian developer Lendlease](https://www.insidehousing.co.uk/news/news/peabody-picks-lendlease-for-8bn-thamesmead-regeneration-60192) (Heygate estate regeneration) to deliver 11,500 homes in Thamesmead over the next 30 years.
 
-
 __Links:__   
 Peabody's [2017 consultation documents](https://www.thamesmeadnow.org.uk/media/1726/wolvercote_road_next_steps.pdf) for the scheme.
 
+Peabody's final 2019 masterplan - [https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf](https://www.thamesmeadnow.org.uk/media/3020/lesnes-masterplan_public-consultation_july-2019_compressedxs.pdf)
+
+Peabody's website for the Thamesmead regeneration - [http://www.thamesmeadnow.org.uk](http://www.thamesmeadnow.org.uk)
