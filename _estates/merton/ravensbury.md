@@ -35,10 +35,14 @@ The three Merton schemes have been [awarded](https://planning.merton.gov.uk/MVM.
 
 It is worth noting that the three Merton estates provide a somewhat less ungenerous [re-housing offer](http://35percent.org/img/mertonoffer.pdf) to resident leaseholders, which gives them full equity of one of the new-build replacement homes after 11 years. Most other schemes offer only shared equity deals for leaseholders.
 
+<iframe width="420" height="270" src="https://www.youtube.com/embed/v9qqNeneFl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Links
 
 Mayor's [Stage 1 and Stage 2 planning reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/ravensbury-estate) - approved Nov 2018
 
 Ravensbury Grove blog - [https://ravensburygrove.wordpress.com](https://ravensburygrove.wordpress.com)
+
+Clarion's website for the scheme - [https://ravensburylive.com](https://ravensburylive.com)
 
 
