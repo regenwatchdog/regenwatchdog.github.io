@@ -23,7 +23,7 @@ images:
 coordinates: 
   - -0.272799,51.502295
 ---
-2,100 homes are earmarked for demolition on Ealing's South Acton estate with replacement 'social' housing at up to 80% of market rent.
+In Dec 2018, the Mayor approved the demolition of 2,100 homes at Ealing's South Acton estate with all replacement 'social' housing at up to 80% of market rent.
 
 
 The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.

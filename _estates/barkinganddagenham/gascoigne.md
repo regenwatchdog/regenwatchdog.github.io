@@ -13,11 +13,11 @@ coordinates:
   - '0.078037,51.533476'
 published: true
 ---
-179 homes have been approved for demolition on the latest phase of Barking & Dagenham's Gascoigne estate regeneration, to be replaced by 850 new homes of which 78 at 'London Affordabe Rent' (defined as up to 80% market rent). Leaseholders have the 'right to return'  only if they can afford to pay the rent in one of the new shared-ownership flats. 
+In Dec 2018, the Mayor approved the demolition of 179 homes on the latest phase of Barking & Dagenham's Gascoigne estate regeneration, to be replaced by 850 new homes of which 78 at 'London Affordabe Rent' (defined as up to 80% market rent). Leaseholders have the 'right to return'  only if they can afford to pay the rent in one of the new shared-ownership flats. 
 
-In Dec 2018, the Mayor [approved](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west) the demolition of 179 homes on this latest phase of the scheme, Gascoigne estate West - the [east side of the estate](/casestudies/gascoigne/) having been approved for demolition in September 2015.
+The Mayor's [planning report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west) approves the demolition of 179 homes on this latest phase of the scheme, Gascoigne estate West - the [east side of the estate](/casestudies/gascoigne/) having been approved for demolition in September 2015.
 
-The definition of 'London Affordable Rent' in the [planning consent's section 106 legal agreement](/images/gascoignes106.pdf) allows rents of up to 80% market rent.
+This is despite the Mayor's own estate regeneration policy requiring no net loss of social rented housing. Indeed, the replacement 'social' housing is all 'London Affordable Rent' which is defined in the [planning consent's section 106 legal agreement](/images/gascoignes106.pdf) as up to 80% market rent.
 
 <img src="/images/gascoignes106.png" class="img-fluid rounded img-thumbnail">
 

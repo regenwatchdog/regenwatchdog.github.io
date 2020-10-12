@@ -13,7 +13,7 @@ images:
 coordinates: 
   - -0.135530,51.639810
 ---
-171 homes on Enfield's New Avenue estate have been approved for demolition with just 60 replacement properties at 'social rent'.
+In April 2018, the Mayor approved the demolition of 171 homes on Enfield's New Avenue estate with just 60 replacement properties at social rent.
 
 Enfield Council signed a joint-venture agreement with developer Countryside Properties for the redevelopment of the estate in 2015.
 

@@ -15,9 +15,9 @@ images:
 coordinates: 
   - '-0.181542,51.399087'
 ---
-Circa 100 homes on Merton's Ravensbury estate are earmarked for demolition, to be replaced by 180 homes of which 50% affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
+In Nov 2018, the Mayor approved the demolition of 100 homes on Merton's Ravensbury estate, to be replaced by 180 homes of which 50% affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 
-In Nov 2018, the Mayor [approved](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437643///ravensbury_estate_report.pdf) the demolition of 97 homes on the Ravensbury estate and subsequently [exempted](/approved/ballotexemptions) it from his requirement to ballot residents on the demolition plans.
+The Mayor's [approval notice](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437643///ravensbury_estate_report.pdf) confirms the demolition of 97 homes and the replacement tenure of affordable rent, as well as the [exempted](/approved/ballotexemptions) he granted from his requirement to ballot residents on the demolition of their homes.
 
 This is despite Merton having previously carried out its own [consultation](/images/mertonconsultation.pdf) of residents which showed the overwhelming majority in favour of refurbishment.
 
