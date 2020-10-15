@@ -7,6 +7,17 @@ coordinates:
   - '-0.006070,51.587181'
 thumb: /images/mwrthumb.jpg
 images:
+  - image_path: /images/001.jpg
+  - image_path: /images/002.jpg
+  - image_path: /images/003.jpg
+  - image_path: /images/004.jpg
+  - image_path: /images/005.jpg
+  - image_path: /images/006.jpg
+  - image_path: /images/007.jpg
+  - image_path: /images/008.jpg
+  - image_path: /images/009.jpg
+  - image_path: /images/0010.jpg
+  - image_path: /images/0011.jpg
   - image_path: /images/mwr.png
   - image_path: /images/mwr1.png
   - image_path: /images/mwr2.png
