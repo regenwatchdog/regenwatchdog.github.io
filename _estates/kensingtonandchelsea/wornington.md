@@ -29,3 +29,4 @@ Natasha Langridge, a temporary resident on the estate, has directed a [project r
   <source src="https://worningtonword.renegadetheatre.co.uk/sites/default/files/2020-05/13_keith_stirling.mp3" type="audio/mpeg">
 </audio>
 
+The full documentary is available for viewing online here: [https://vimeo.com/461591871](https://vimeo.com/461591871)

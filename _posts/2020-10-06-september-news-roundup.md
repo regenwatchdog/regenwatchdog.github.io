@@ -2,17 +2,38 @@
 layout: default
 category: updates
 published: false 
-title: SEPTEMBER NEWS ROUND-UP
+title: SEPTEMBER/OCTOBER NEWS ROUND-UP
 ---
-Here is our brief round up of estate regeneration news for August. Thanks to everyone who got in touch to let us know what is going on with their estates.
+Here is our brief round up of estate regeneration news for September and October. Many thanks to everyone who got in touch to let us know what is going on with their estates.
 
 ## GLA removes exemptions for Lambeth demolitions
+Lambeth's [plans to raze six of its housing estates](https://estatewatch.london/underthreat/lambeth/) are up in the air, after it emerged that City Hall funding has been withdrawn for three major schemes ([Fenwick estate](https://estatewatch.london/estates/lambeth/fenwick/), [Westbury estate](https://estatewatch.london/estates/lambeth/westbury/) and [Cressingham Gardens](https://estatewatch.london/estates/lambeth/cressingham/)).
 
-New Director of Regen
+The news was revealed by an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) a letter from Deputy Mayor Tom Copley. The letter is reported to confirm that all residents must now be balloted as a condition of any new funding deal.
 
-## Woodberry Approvals
+Meanwhile, Cressingham residents have championed their own alternative proposal for the estate. The [People’s Plan](http://cressinghampeoplesplan.org.uk), drawn up in 2016 with local architect Variant Office, includes refurbishing the existing homes and building 33 new homes for social rent. A [survey](http://cressinghampeoplesplan.org.uk/docs/TPP.pdf) of residents by the Cressingham People’s Plan found that 86% want refurbishment and only 4% want demolition.
 
-## Bakerloo set back
+According to [reports](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) from Inside Housing Magazine, Lambeth Council intends to proceed with at least one of the estates (Westbury estate) using its own funding from Right to Buy receipts. 
+
+The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Councils can avoid having to ballot residents on the demolition of their homes. 
+
+This is the approach that some Westminster
+
+
+https://londonnewsonline.co.uk/more-than-100-people-sign-petition-against-demolition-of-block-in-phase-one-of-controversial-rebuild-of-upper-norwoods-central-hill-estate/
+
+
+## Wornington Word
+Residents of RBKC's Wornington Green estate have released a documentary about the regeneration of the estate. 
+
+The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
+
+<iframe src="https://player.vimeo.com/video/461591871" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/461591871">The Wornington Word</a> from <a href="https://vimeo.com/user100863644">RENEGADE THEATRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Phase 1 of the Wornington Green estate is complete and phase 2 is under construction. The ‘decanting’ of the remaining 150 homes on phase 3 is due to commence in late 2020, as is the consultation period prior to submission of a planning application.
+
+Read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
 
 ## Retrofit 
 Alexandra Willey from Clarion

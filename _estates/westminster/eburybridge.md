@@ -5,18 +5,12 @@ name: Ebury Bridge estate
 borough: westminster
 thumb: /images/eb1thumb.jpg
 images:
-  - image_path: /images/eb1.jpg
-  - image_path: /images/eb2.jpg
-  - image_path: /images/eb3.jpg
-  - image_path: /images/eb4.jpg
-  - image_path: /images/eb5.jpg
-  - image_path: /images/eb6.jpg
-  - image_path: /images/eb7.jpg
-  - image_path: /images/eb8.jpg
-  - image_path: /images/eb9.jpg
+  - image_path: /images/ebry.jpg
+  - image_path: /images/ebry1.jpg
+  - image_path: /images/ebry2.jpg
+  - image_path: /images/ebry3.jpg
   - image_path: /images/eb10.jpg
   - image_path: /images/eb11.jpg
-  - image_path: /images/eb12.jpg
   - image_path: /images/eb13.jpg
   - image_path: /images/eb14.jpg
   - image_path: /images/eb15.jpg
@@ -37,7 +31,17 @@ images:
 coordinates:
   - '-0.149611,51.488945'
 ---
-Demolition has started on the first of 336 homes earmarked for demolition on Westminster's Ebury Bridge estate in Pimlico. Westminster has taken the [controversial decision](https://www.insidehousing.co.uk/news/news/westminster-city-council-accused-of-trying-to-dodge-scrutiny-over-estate-regeneration-63267) of decanting and demolishing the estate without first seeking planning permission or balloting residents.
+Demolition is well underway of the 172 homes earmarked for demolition on Westminster's Ebury Bridge estate in Pimlico. Westminster has taken the [controversial decision](https://www.insidehousing.co.uk/news/news/westminster-city-council-accused-of-trying-to-dodge-scrutiny-over-estate-regeneration-63267) of decanting and demolishing the estate without first seeking planning permission or balloting residents.
 
-<img src="/images/ebridgenews.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/ebridgenews.png" class="img-fluid rounded img-thumbnail" width="50%">
 
+Westminster Council's intention to regenerate the estate started in 2010, when the estate was first identified in the Council's Housing Renewal Strategy as one of five key estates within the borough in need of significant investment.
+
+Plans were submitted in 2014 [(ref:14/01295/COFUL)](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_255164///ebury_bridge_estate_report.pdf) which were subsequently approved in 2016. These proposals were found to be unviable and remained unimplemented until they subsequently expired in 2019.
+
+A fresh planning application was submitted in July 2020.
+
+__Links:__
+Westminster Council's planning application documents: [https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDECO3RP2RE00](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDECO3RP2RE00)
+
+Mayor's planning reports: [https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100](https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100)
