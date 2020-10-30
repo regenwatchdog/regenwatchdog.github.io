@@ -46,7 +46,11 @@ Overall the scheme will provide 436 new homes of which 34% will be 'affordable'.
 
 The redevelopment is being [funded](/approved/funding) by the Mayor and has been granted an [exemption](/approved/ballotrequirements) from his requirement to ballot residents.
 
+Waltham Forest applied for a Compulsory Purchase Order to be able to remove remaining leaseholders in 2019. 
+
 __Links:__
+Waltham Forest's [Statement of Reasons](/images/MarloweRdCPO.pdf) for its 2019 Compulsory Purchase Order.
+
 [Waltham Forest's planning application docs (ref:151652)](https://planning.walthamforest.gov.uk/planning/search-applications?civica.query.FullTextSearch=151652#VIEW?RefType=APPPlanCase&KeyText=151652)
 
 [The Mayor's Stage 1 and Stage 2 reports](https://gla.force.com/pr/s/planning-application/a0i4J0000003TaCQAU/20163106as2?tabset-c2f3b=2)

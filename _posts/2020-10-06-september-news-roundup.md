@@ -17,10 +17,18 @@ According to [reports](https://www.insidehousing.co.uk/news/news/gla-funding-wit
 
 The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Councils can avoid having to ballot residents on the demolition of their homes. 
 
-This is the approach that some Westminster
+
+## Ebury Bridge estate
+Westminster Council has followed this route and has avoided the Mayor's ballot requirement by not applying for GLA funding.
+
+Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek the maximum viable amount of affordable housing taking into account any grant funding available. But no stage 1 or stage 2 report published so we don't know what the Mayor has to say on the Ebury scheme yet. Submit your objections to the Mayor here:
+
+Ebury is first of Westminster's investment vehicle - hope it doesn't follow route of Croydon's..
+https://www.westminster.gov.uk/council-launches-its-own-development-vehicle
 
 
 https://londonnewsonline.co.uk/more-than-100-people-sign-petition-against-demolition-of-block-in-phase-one-of-controversial-rebuild-of-upper-norwoods-central-hill-estate/
+
 
 
 ## Wornington Word
