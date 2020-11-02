@@ -25,7 +25,6 @@ images:
   - image_path: /images/eb18.jpg
   - image_path: /images/eb19.jpg
   - image_path: /images/eb20.jpg
-  - image_path: /images/eb21.jpg
   - image_path: /images/eb22.jpg
   - image_path: /images/eb23.jpg
   - image_path: /images/eb24.jpg

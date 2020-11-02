@@ -1,5 +1,5 @@
 ---
-title: Monthly news updates
+title: Regular news updates
 layout: default
 category: updates
 ---

@@ -16,6 +16,10 @@ coordinates:
 ---
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 
+Wandsworth [claims](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition is necessary because the design of the buildings is poor and encourages anti-social behaviour.
+
+<img src="/images/altonspd.png" class="img-thumbnail rounded img-fluid">
+
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
 Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is [claimed](https://planning2.wandsworth.gov.uk/iam/IAMCache/5300271/5300271.pdf) that _"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"_.
@@ -39,6 +43,8 @@ Redrow submitted a revised planning application in May 2020, which claimed to ad
 In August 2020, Redrow announced that it was withdrawing from the scheme and terminating its partnership with Wandsworth Council.
 
 __Links:__  
+[Roehampton (Alton estate) SPD Oct 2015](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf)
+
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)
 
 [Link to the revised planning application docs (ref:2019/2156)](https://planning1.wandsworth.gov.uk/Northgate/PlanningExplorer/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=977340&XSLT=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/Northgate/PlanningExplorer/SiteFiles/Skins/Wandsworth/Menus/PL.xml&DAURI=PLANNING)

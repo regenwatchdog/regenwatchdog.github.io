@@ -1,13 +1,15 @@
 ---
 layout: default
 category: updates
-published: false 
+published: true 
 title: SEPTEMBER/OCTOBER NEWS ROUND-UP
 ---
 Here is our brief round up of estate regeneration news for September and October. Many thanks to everyone who got in touch to let us know what is going on with their estates.
 
 ## GLA removes exemptions for Lambeth demolitions
 Lambeth's [plans to raze six of its housing estates](https://estatewatch.london/underthreat/lambeth/) are up in the air, after it emerged that City Hall funding has been withdrawn for three major schemes ([Fenwick estate](https://estatewatch.london/estates/lambeth/fenwick/), [Westbury estate](https://estatewatch.london/estates/lambeth/westbury/) and [Cressingham Gardens](https://estatewatch.london/estates/lambeth/cressingham/)).
+
+<img src="http://estatewatch.london/images/lambethestates.png" class="img-fluid rounded img-thumbnail">
 
 The news was revealed by an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) a letter from Deputy Mayor Tom Copley. The letter is reported to confirm that all residents must now be balloted as a condition of any new funding deal.
 
@@ -19,17 +21,27 @@ The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-an
 
 
 ## Ebury Bridge estate
-Westminster Council has followed this route and has avoided the Mayor's ballot requirement by not applying for GLA funding.
+Westminster Council has followed this route, avoiding the Mayor's ballot requirement by not applying for GLA funding.
 
 Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek the maximum viable amount of affordable housing taking into account any grant funding available. But no stage 1 or stage 2 report published so we don't know what the Mayor has to say on the Ebury scheme yet. Submit your objections to the Mayor here:
+
+<img src="http://estatewatch.london/images/eburycomp.jpg" class="img-fluid rounded img-thumbnail"> 
 
 Ebury is first of Westminster's investment vehicle - hope it doesn't follow route of Croydon's..
 https://www.westminster.gov.uk/council-launches-its-own-development-vehicle
 
+## Alton estate 
+Wandsworth Council is also using the funding loophole to avoid balloting residents of the Alton estate on the demolition of their homes. 
 
-https://londonnewsonline.co.uk/more-than-100-people-sign-petition-against-demolition-of-block-in-phase-one-of-controversial-rebuild-of-upper-norwoods-central-hill-estate/
+In July, we [reported] that the Alton estate scheme was in trouble after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it sought a new partner and last week, the Council granted itself planning permission.
 
+This is in spite of the Mayor's concerns laid out in his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application. These highlighted concerns about lack of consultation (para 36), quantum and rent levels of replacement 'social housing' (para 27) and the failure to apply for grant funding (para 39) and the failure to explore alternatives to demolition (para 20).
 
+The requirement for the demolition of housing estates only to be considered as a last resort, is enshrined both in the Mayor's Estate Regeneration Guidance and the [London Plan itself](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf):  
+
+<img src="http://estatewatch.london/images/londonplanh8.png" class="img-fluid img-thumbnail rounded">
+
+All eyes are now on the Mayor, who has the power to 'call-in' Wandsworth's application. This will be a test of the Mayor's will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
 
 ## Wornington Word
 Residents of RBKC's Wornington Green estate have released a documentary about the regeneration of the estate. 
