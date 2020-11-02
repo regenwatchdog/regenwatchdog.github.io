@@ -18,7 +18,7 @@ coordinates:
 
 Wandsworth [claims](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition is necessary because the design of the buildings is poor and encourages anti-social behaviour.
 
-<img src="/images/altonspd.png" class="img-thumbnail rounded img-fluid">
+<img src="/images/altospd.png" class="img-thumbnail rounded img-fluid">
 
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
@@ -26,21 +26,20 @@ Despite the existing estate comprising an almost even split of social rented and
 
 <img src="/images/socialmix.png" class="img-fluid rounded img-thumbnail">
 
-A planning application for the redevelopment was submitted by Redrow in June 2019 for the demolition of 288 homes and construction of 1,108 new homes.
+Redrow submitted a planning application in late 2019, but in August 2020 it announced that it was pulling out of the scheme. Wandsworth Council went ahead and approved the application despite this in October 2020, giving consent for demolition and construction of 1,108 new homes of which 261 affordable (201 social rent). 
 
-The Mayor [raised objections](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application, which promised to make only 53 of the additional new homes affordable, with 30 for social rent and 23 for shared ownership. The Mayor said it was “unacceptable” that the affordable housing proposed was _“segregated in single tenure blocks on the periphery of the site”_, meaning the application did not comply with the London Plan.
+In his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application, the Mayor highlighted concerns about lack of consultation (para 36), quantum and rent levels of replacement 'social housing' (para 27) and the failure to apply for grant funding (para 39) and the failure to explore alternatives to demolition (para 20).
 
-The Mayor's [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) also concluded that although the 158 existing social rent homes set to be demolished would be re-provided, they would not be “like-for-like” replacements in terms of floorspace.
+The requirement for the demolition of housing estates only to be considered as a last resort, is enshrined both in the Mayor's [Estate Regeneration Guidance](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) and the [London Plan itself](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf):
 
-The Mayor also required Redrow _'to model the impact of GLA grant funding'_ as there has been no application for Mayoral grant funding to date.
+<img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
 
-The Mayor's requirement to ballot residents on the demolition of their homes is linked to grant funding, such that if Redrow doesn't apply for grant funding then it isn't obliged to hold a ballot.
+All eyes are now on the Mayor, who has the power to 'call-in' Wandsworth's application. This will be a test of the Mayor's will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment). Comments on Wandsworth's proposals can be submitted to the Mayor on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
-Redrow submitted a revised planning application in May 2020, which claimed to address the issues raised by the Mayor. The revised application proposed a total of 1,108 homes of which 261 affordable (201 social rent). 
+In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
-<img src="/images/tenuremixalton.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
 
-In August 2020, Redrow announced that it was withdrawing from the scheme and terminating its partnership with Wandsworth Council.
 
 __Links:__  
 [Roehampton (Alton estate) SPD Oct 2015](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf)
