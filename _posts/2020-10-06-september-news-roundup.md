@@ -3,6 +3,7 @@ layout: default
 category: updates
 published: true 
 title: SEPTEMBER/OCTOBER NEWS ROUND-UP
+date: 2020-11-02
 ---
 Here is our brief round up of estate regeneration news for September and October. Many thanks to everyone who got in touch to let us know what is going on with their estates.
 
@@ -39,7 +40,7 @@ This is in spite of the Mayor's concerns laid out in his [stage 1 response](http
 
 The requirement for the demolition of housing estates only to be considered as a last resort, is enshrined both in the Mayor's Estate Regeneration Guidance and the [London Plan itself](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf):  
 
-<img src="http://estatewatch.london/images/londonplanh8.png" class="img-fluid img-thumbnail rounded">
+<img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
 
 All eyes are now on the Mayor, who has the power to 'call-in' Wandsworth's application. This will be a test of the Mayor's will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
 
@@ -48,35 +49,45 @@ Residents of RBKC's Wornington Green estate have released a documentary about th
 
 The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
 
+<center>
 <iframe src="https://player.vimeo.com/video/461591871" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/461591871">The Wornington Word</a> from <a href="https://vimeo.com/user100863644">RENEGADE THEATRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</center>
 
 Phase 1 of the Wornington Green estate is complete and phase 2 is under construction. The ‘decanting’ of the remaining 150 homes on phase 3 is due to commence in late 2020, as is the consultation period prior to submission of a planning application.
 
 Read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
 
 ## Retrofit 
-Alexandra Willey from Clarion
-Sustainable Housing Label - http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/
+In October, RIBA held a virtual conference in conjunction with the Institute of Government as part of the Conservative Party's fringe conference. 
 
-Professor Gary Clark from RIBA Sustainable xxx xxx - 'retrofit first' most sustainable building is the one already standing.
+The conference discussed ways of meeting the government's new target of net zero carbon development by 2030. Professor Gary Clark, Chair of RIBA's Sustainable Futures Group outlined the principles of RIBA's new [Sustainable Outcomes Guide](https://www.architecture.com/-/media/GatherContent/Test-resources-page/Additional-Documents/RIBASustainableOutcomesGuide2019pdf.pdf), which recognises the huge impact of embodied carbon and prioritises the retrofit of existing buildings before any new-build is considered. Retrofitting existing buildings is the first of RIBA's key design principles, which it is lobbying to be incorporated into regulations in the form of a sustainable design code.
 
-https://www.youtube.com/watch?v=x-dZCt3hT-k&feature=youtu.be
+<img src="http://estatewatch.london/images/ribaprinciples.png" class="img-thumbnail rounded img-fluid">
 
-In August, the xxx gave evidence to the xxx arguing that the VAT on demolition should be..
-https://www.bbc.com/news/business-53642581
+Profeessor Clark was followed by Alexandra Willey, Clarion housing association's Head of Regeneration. Alexandra re-iterated the need for retrofit and talked about the group's retrofit plans for existing stock, as well as its recently becoming the first housing association to be awarded the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
+
+Alexandra's claims may upset some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents..
+
+<img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
+
+You can watch a recording of the virtual conference online here:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-dZCt3hT-k?start=489" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## EstateWatch Zoom meeting
 Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the following issues:
 
-The meeting will take place on ???? at ???pm. 
+The meeting will take place on [TBC] at [TBC]pm. 
 Please email info@londontenants.org to request attendance.
 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
-<meta property="og:url" content="https://estatewatch.london/august-news-roundup/" />
-<meta property="og:title" content="Estate Watch news roundup - August" />
-<meta property="og:description" content="Camden Goods Yard estates vote against demolition in ballot and Alton estate regen sent back to drawing board as developer pulls out." />
-<meta property="og:image" content="https://estatewatch.london/images/august.png" />
+<meta property="og:url" content="https://estatewatch.london/september-news-roundup/" />
+<meta property="og:title" content="Estate Watch news roundup - Sep/Oct" />
+<meta property="og:description" content="Will Sadiq Khan approve Ebury Bridge and Alton estate demolitions despite ballot avoidance?" />
+<meta property="og:image" content="https://estatewatch.london/images/eburycomp.jpg" />
