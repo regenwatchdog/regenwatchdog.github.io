@@ -20,7 +20,6 @@ According to [reports](https://www.insidehousing.co.uk/news/news/gla-funding-wit
 
 The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Lambeth is able to avoid having to ballot residents on the demolition of their homes. 
 
-
 ## Ebury Bridge estate
 Westminster Council is also using this loophole and avoiding having to ballot residents on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
 
@@ -32,10 +31,10 @@ All eyes will be on the Mayor as the final decision to approve the application o
 
 The Ebury estate regeneration is the first scheme undertaken by [Westminster's new Council-owned investment vehicle](https://www.westminster.gov.uk/council-launches-its-own-development-vehicle) and perhaps the first of many more such schemes to come. It will be up to the Mayor to decide whether he allows the Ebury Bridge scheme to set a precedent. 
 
-## Alton estate 
+## Reckoning looms for Wandsorth's Alton estate
 Wandsworth Council is also using the funding loophole to avoid balloting residents of the [Alton estate](https://estatewatch.london/estates/wandsworth/altonarea/) on the demolition of their homes. 
 
-In August, we [reported](https://estatewatch.london/august-news-roundup/) that the Alton estate plans were in trouble, after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it sought a new partner and last week, the Council granted itself planning permission.
+In August, we [reported](https://estatewatch.london/august-news-roundup/) that the Alton estate plans were in trouble, after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it sought a new partner and last week, the Council [granted itself planning permission](https://www.wandsworth.gov.uk/housing/housing-regeneration-projects/alton-regeneration/alton-news/).
 
 This is in spite of the Mayor's concerns laid out in his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application. These highlighted concerns about lack of consultation (para 36), quantum and rent levels of replacement 'social housing' (para 27) and the failure to apply for grant funding (para 39) and the failure to explore alternatives to demolition (para 20).
 
@@ -49,7 +48,7 @@ In the meantime, estate residents have been [getting organised](https://twitter.
 
 <img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
 
-## Wornington Word
+## Wornington Word - new documentary about Wornington Green estate
 Residents of RBKC's Wornington Green estate have released a documentary about the regeneration of the estate. 
 
 The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
@@ -63,29 +62,29 @@ Phase 1 of the Wornington Green estate is complete and phase 2 is under construc
 
 Read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
 
-## Retrofit 
+## RIBA seeks to put Retrofit at forefront of 2030 NET ZERO policy 
 In October, RIBA held a virtual conference in conjunction with the Institute of Government as part of the Conservative Party's fringe conference. 
 
 The conference discussed ways of meeting the government's new target of net zero carbon development by 2030. Professor Gary Clark, Chair of RIBA's Sustainable Futures Group outlined the principles of RIBA's new [Sustainable Outcomes Guide](https://www.architecture.com/-/media/GatherContent/Test-resources-page/Additional-Documents/RIBASustainableOutcomesGuide2019pdf.pdf), which recognises the huge impact of embodied carbon and prioritises the retrofit of existing buildings before any new-build is considered. Retrofitting existing buildings is the first of RIBA's key design principles, which it is lobbying to be incorporated into regulations in the form of a sustainable design code.
 
 <img src="http://estatewatch.london/images/ribaprinciples.png" class="img-thumbnail rounded img-fluid">
 
-Profeessor Clark was followed by Alexandra Willey, Clarion housing association's Head of Regeneration. Alexandra re-iterated the need for retrofit and talked about the group's retrofit plans for existing stock, as well as its recently becoming the first housing association to be awarded the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
+Profeessor Clark was followed by Alexandra Willey, Clarion housing association's Head of Regeneration. Alexandra re-iterated the need for retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
 
-Alexandra's claims may upset some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents..
+Alexandra's claims may upset some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents.
 
 <img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
-You can watch a recording of the virtual conference online here:
+You can watch a recording of the conference online here:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-dZCt3hT-k?start=489" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## EstateWatch Zoom meeting
-Last month's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. During this month's meeting we will be going through some of the following issues:
+## Estate Watch Zoom meeting
+September's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. 
 
-The meeting will take place on [TBC] at [TBC]pm. 
+The next meeting will take place on [TBC] at [TBC]pm. 
 Please email info@londontenants.org to request attendance.
 
 
