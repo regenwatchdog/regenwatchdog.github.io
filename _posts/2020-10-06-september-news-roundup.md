@@ -18,11 +18,11 @@ Meanwhile, Cressingham residents have championed their own alternative proposal 
 
 According to [reports](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) from Inside Housing Magazine, Lambeth Council intends to proceed with at least one of the estates (Westbury estate) using its own funding from Right to Buy receipts. 
 
-The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Councils can avoid having to ballot residents on the demolition of their homes. 
+The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Lambeth is able to avoid having to ballot residents on the demolition of their homes. 
 
 
 ## Ebury Bridge estate
-Westminster Council has followed this route, avoiding the Mayor's ballot requirement by not applying for GLA funding.
+Westminster Council is also using this loophole and avoiding having to ballot residents on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
 
 Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek the maximum viable amount of affordable housing and take into account any grant funding available.
 
