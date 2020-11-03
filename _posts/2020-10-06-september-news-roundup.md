@@ -83,7 +83,7 @@ Retrofitting existing buildings is the first of RIBA's key design principles, wh
 
 Alexandra Willey, Clarion housing association's Head of Regeneration also took part in the conference. Alexandra re-iterated the extensive benefits of retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
 
-In the face of Alexandra's claims, residents of the four London housing estates that Clarion has earmarked for demolition, may start asking why Clarion hasn't considered retrofitting their homes..
+In the face of Alexandra's claims, residents of the four London housing estates that Clarion has earmarked for demolition may start asking why Clarion hasn't considered retrofitting their homes..
 
 <img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
