@@ -22,7 +22,7 @@ According to a [report](https://www.insidehousing.co.uk/news/news/gla-funding-wi
 
 A loophole in the Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) allows Councils to avoid balloting residents by avoiding applying for GLA funding altogether. 
 
-## Ebury Bridge estate
+## Westminster bypasses ballot for Ebury Bridge estate
 Westminster Council is exploiting this loophole and avoiding a ballot on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
 
 Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek grant funding by virtue of the fact that it is a pre-requisite of the requirement to maximise the amount of affordable housing. 
