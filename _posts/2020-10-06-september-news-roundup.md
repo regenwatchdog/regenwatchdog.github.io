@@ -25,7 +25,7 @@ A loophole in the Mayor's [ballot requirement](https://www.london.gov.uk/what-we
 ## Ebury Bridge estate
 Westminster Council is exploiting this loophole and avoiding a ballot on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
 
-Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek grant funding by virtue of the fact that it is a pre-requisite of the requirement to provide the maximum amount of affordable housing possible. 
+Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek grant funding by virtue of the fact that it is a pre-requisite of the requirement to maximise the amount of affordable housing. 
 
 All eyes will now be on the Mayor as the final decision to approve the application or call it in lies with him. In the meantime, objections to Westminster's proposals can be submitted directly to the Mayor using the GLA's new [online comment submission form](https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100?tabset-c2f3b=3).
 
@@ -36,7 +36,9 @@ The Ebury estate regeneration is the first scheme undertaken by [Westminster's n
 ## Reckoning looms for Wandsorth's Alton estate
 Wandsworth Council is also using the funding loophole to avoid balloting residents of its [Alton estate](https://estatewatch.london/estates/wandsworth/altonarea/) in Roehampton. 
 
-In August, we [reported](https://estatewatch.london/august-news-roundup/) that the Alton estate plans were in trouble, after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it sought a new partner and last week, the Council [granted itself planning permission](https://www.wandsworth.gov.uk/housing/housing-regeneration-projects/alton-regeneration/alton-news/).
+<img src="http://estatewatch.london/images/altonaerial.jpg" class="img-fluid rounded img-thumbnail">
+
+In August, we [reported](https://estatewatch.london/august-news-roundup/) that the Alton estate plans were in trouble, after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it seeks a new partner and last week, the Council [granted itself planning permission](https://www.wandsworth.gov.uk/housing/housing-regeneration-projects/alton-regeneration/alton-news/).
 
 This is in spite of the Mayor's concerns laid out in his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_471293///alton_estate_report.pdf) to the planning application. These highlighted concerns about lack of consultation (para 36), quantum and rent levels of replacement 'social housing' (para 27) and the failure to apply for grant funding (para 39) and the failure to explore alternatives to demolition (para 20).
 
@@ -44,7 +46,7 @@ The requirement for the demolition of housing estates only to be considered as a
 
 <img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
 
-Again, the Mayor has the power to 'call-in' Wandsworth's application and this will be a test of his will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
+Again, the Mayor has the power to 'call-in' Wandsworth's application and again this will be a test of his will to tackle Council's that evade his ballot requirement and which fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
 
 You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
@@ -81,7 +83,7 @@ Retrofitting existing buildings is the first of RIBA's key design principles, wh
 
 Alexandra Willey, Clarion housing association's Head of Regeneration also took part in the conference. Alexandra re-iterated the extensive benefits of retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
 
-Alexandra's claims may not lie well with some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents.
+In the face of Alexandra's claims, residents of the four London housing estates that Clarion has earmarked for demolition, may start asking why Clarion hasn't considered retrofitting their homes..
 
 <img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
