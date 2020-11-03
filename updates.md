@@ -1,5 +1,5 @@
 ---
-title: Regular news updates
+title: Estate regeneration news updates 
 layout: default
 category: updates
 ---

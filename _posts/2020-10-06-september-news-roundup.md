@@ -12,27 +12,29 @@ Lambeth's [plans to raze six of its housing estates](https://estatewatch.london/
 
 <img src="http://estatewatch.london/images/lambethestates.png" class="img-fluid rounded img-thumbnail">
 
-The news was revealed by an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) a letter from Deputy Mayor Tom Copley. The letter is reported to confirm that all residents must now be balloted as a condition of any new funding deal.
+The news was revealed by a response to an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) from the Director of the GLA's Affordable Housing Programme and a letter from Deputy Mayor Tom Copley, which it is [reported](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) to state that any new funding bid would require residents to be balloted on the demolition of their homes.
 
-Meanwhile, Cressingham residents have championed their own alternative proposal for the estate. The [People’s Plan](http://cressinghampeoplesplan.org.uk), drawn up in 2016 with local architect Variant Office, includes refurbishing the existing homes and building 33 new homes for social rent. A [survey](http://cressinghampeoplesplan.org.uk/docs/TPP.pdf) of residents by the Cressingham People’s Plan found that 86% want refurbishment and only 4% want demolition.
+This could mean the end for some of these schemes, especially Cressingham Gardens estate where the Council's plans have met with fierce opposition from the outset.
 
-According to [reports](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) from Inside Housing Magazine, Lambeth Council intends to proceed with at least one of the estates (Westbury estate) using its own funding from Right to Buy receipts. 
+Residents there have championed their own alternative [refurbishment plans](http://cressinghampeoplesplan.org.uk) for the estate with a [survey](http://cressinghampeoplesplan.org.uk/docs/TPP.pdf) finding that 86% wanted refurbishment versus only 4% in favour demolition.
 
-The Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) only requires ballots for estates applying for GLA funding. By avoiding applying for funding Lambeth is able to avoid having to ballot residents on the demolition of their homes. 
+According to a [report](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) from Inside Housing Magazine, Lambeth Council says it intends to proceed with at least one of the estates (Westbury estate) regardless, using its own funding from Right to Buy receipts rather than GLA funding. 
+
+A loophole in the Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) allows Councils to avoid balloting residents by avoiding applying for GLA funding altogether. 
 
 ## Ebury Bridge estate
-Westminster Council is also using this loophole and avoiding having to ballot residents on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
+Westminster Council is exploiting this loophole and avoiding a ballot on its [Ebury Bridge estate](https://estatewatch.london/estates/westminster/eburybridge/) by not applying for GLA funding.
 
-Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek the maximum viable amount of affordable housing and take into account any grant funding available.
+Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek grant funding by virtue of the fact that it is a pre-requisite of the requirement to provide the maximum amount of affordable housing possible. 
 
-All eyes will be on the Mayor as the final decision to approve the application or call it in lies with him. In the meantime, objections to Westminster's proposals can be submitted directly to the Mayor using the GLA's new [online comment submission form](https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100?tabset-c2f3b=3).
+All eyes will now be on the Mayor as the final decision to approve the application or call it in lies with him. In the meantime, objections to Westminster's proposals can be submitted directly to the Mayor using the GLA's new [online comment submission form](https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100?tabset-c2f3b=3).
 
 <img src="http://estatewatch.london/images/eburycomp.jpg" class="img-fluid rounded img-thumbnail"> 
 
-The Ebury estate regeneration is the first scheme undertaken by [Westminster's new Council-owned investment vehicle](https://www.westminster.gov.uk/council-launches-its-own-development-vehicle) and perhaps the first of many more such schemes to come. It will be up to the Mayor to decide whether he allows the Ebury Bridge scheme to set a precedent. 
+The Ebury estate regeneration is the first scheme undertaken by [Westminster's new Council-owned investment vehicle](https://www.westminster.gov.uk/council-launches-its-own-development-vehicle) and perhaps the first of more such schemes to come. It will be up to the Mayor to decide whether he allows Westminster to by-pass his ballot requirement at Ebury Bridge and set a precedent for future schemes. 
 
 ## Reckoning looms for Wandsorth's Alton estate
-Wandsworth Council is also using the funding loophole to avoid balloting residents of the [Alton estate](https://estatewatch.london/estates/wandsworth/altonarea/) on the demolition of their homes. 
+Wandsworth Council is also using the funding loophole to avoid balloting residents of its [Alton estate](https://estatewatch.london/estates/wandsworth/altonarea/) in Roehampton. 
 
 In August, we [reported](https://estatewatch.london/august-news-roundup/) that the Alton estate plans were in trouble, after the Council's development partner pulled out. Despite this, Wandsworth Council vowed to press on with the scheme whilst it sought a new partner and last week, the Council [granted itself planning permission](https://www.wandsworth.gov.uk/housing/housing-regeneration-projects/alton-regeneration/alton-news/).
 
@@ -42,7 +44,9 @@ The requirement for the demolition of housing estates only to be considered as a
 
 <img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
 
-All eyes are now on the Mayor, who has the power to 'call-in' Wandsworth's application. This will be a test of the Mayor's will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment). You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
+Again, the Mayor has the power to 'call-in' Wandsworth's application and this will be a test of his will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
+
+You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
 In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
@@ -60,26 +64,26 @@ The documentary 'Wornington Word' stems from a [project](https://worningtonword.
 
 Phase 1 of the Wornington Green estate is complete and phase 2 is under construction. The ‘decanting’ of the remaining 150 homes on phase 3 is due to commence in late 2020, as is the consultation period prior to submission of a planning application.
 
-Read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
+You can read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
 
 ## RIBA seeks to put Retrofit at forefront of 2030 NET ZERO policy 
 In October, RIBA held a virtual conference in conjunction with the Institute of Government as part of the Conservative Party's fringe conference. 
 
-The conference discussed ways of meeting the government's new target of net zero carbon development by 2030. Professor Gary Clark, Chair of RIBA's Sustainable Futures Group outlined the principles of RIBA's new [Sustainable Outcomes Guide](https://www.architecture.com/-/media/GatherContent/Test-resources-page/Additional-Documents/RIBASustainableOutcomesGuide2019pdf.pdf), which recognises the huge impact of embodied carbon and prioritises the retrofit of existing buildings before any new-build is considered. Retrofitting existing buildings is the first of RIBA's key design principles, which it is lobbying to be incorporated into regulations in the form of a sustainable design code.
-
-<img src="http://estatewatch.london/images/ribaprinciples.png" class="img-thumbnail rounded img-fluid">
-
-Profeessor Clark was followed by Alexandra Willey, Clarion housing association's Head of Regeneration. Alexandra re-iterated the need for retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
-
-Alexandra's claims may upset some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents.
-
-<img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
-
-You can watch a recording of the conference online here:
-
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-dZCt3hT-k?start=489" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+The conference discussed ways of meeting the government's new target of net zero carbon development by 2030. Professor Gary Clark, Chair of RIBA's Sustainable Futures Group outlined the principles of RIBA's new [Sustainable Outcomes Guide](https://www.architecture.com/-/media/GatherContent/Test-resources-page/Additional-Documents/RIBASustainableOutcomesGuide2019pdf.pdf), which recognises the huge impact of embodied carbon and prioritises the retrofit of existing buildings before any new-build is considered.
+
+Retrofitting existing buildings is the first of RIBA's key design principles, which it is lobbying to be incorporated into regulations in the form of a sustainable design code.
+
+<img src="http://estatewatch.london/images/ribaprinciples.png" class="img-thumbnail rounded img-fluid">
+
+Alexandra Willey, Clarion housing association's Head of Regeneration also took part in the conference. Alexandra re-iterated the extensive benefits of retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
+
+Alexandra's claims may not lie well with some residents of the 1,300 homes across four London estates which Clarion has earmarked for demolition, without considering retrofit or balloting residents.
+
+<img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
 ## Estate Watch Zoom meeting
 September's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. 
