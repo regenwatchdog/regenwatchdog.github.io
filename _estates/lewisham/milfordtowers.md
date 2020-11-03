@@ -3,14 +3,12 @@ category: underthreat
 stage: Proposal
 name: Milford Towers 
 borough: lewisham
-thumb: /images/mt1thumb.jpg
+thumb: /images/mtowersthumb.jpg
 images:
-  - image_path: /images/mt1.jpg
-  - image_path: /images/mt2.jpg
-  - image_path: /images/mt3.jpg
-  - image_path: /images/mt4.jpg
-  - image_path: /images/mt5.jpg
-  - image_path: /images/mt6.jpg
+  - image_path: /images/mtowers1.jpg
+  - image_path: /images/mtowers2.png
+  - image_path: /images/mtowers3.png
+
 coordinates:
   - '-0.022020,51.446550'
 published: true
