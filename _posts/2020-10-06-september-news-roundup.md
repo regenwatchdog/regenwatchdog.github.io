@@ -50,12 +50,12 @@ Again, the Mayor has the power to 'call-in' Wandsworth's application and again t
 
 You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
-In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+In the meantime, Alton estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and the Alton Action group has received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
 <img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
 
 ## Wornington Word - new documentary about Wornington Green estate
-Residents of RBKC's Wornington Green estate have released a documentary about the regeneration of the estate. 
+The Renegade Theatre and Venture Community Association have released a documentary about the regeneration of the Wornington Green estate. 
 
 The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
 
@@ -90,8 +90,9 @@ In the face of Alexandra's claims, residents of the four London housing estates 
 ## Estate Watch Zoom meeting
 September's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. 
 
-The next meeting will take place on [TBC] at [TBC]pm. 
-Please email info@londontenants.org to request attendance.
+The date of the next Zoom meeting is yet to be confirmed.
+
+Please email info@londontenants.org to request attendance and further details.
 
 
 <meta name="twitter:card" content="summary" />
