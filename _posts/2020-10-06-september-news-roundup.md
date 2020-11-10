@@ -60,7 +60,9 @@ In the meantime, Alton estate residents have been [getting organised](https://tw
 ## RIBA seeks to put Retrofit at forefront of 2030 NET ZERO policy 
 In October, RIBA held a [virtual conference](https://youtu.be/x-dZCt3hT-k) in conjunction with the Institute of Government as part of the Conservative Party's fringe conference. 
 
-![](http://estatewatch.london/images/ribavid.png)
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-dZCt3hT-k?start=489" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 The conference discussed ways of meeting the government's new target of net zero carbon development by 2030. Professor Gary Clark, Chair of RIBA's Sustainable Futures Group outlined the principles of RIBA's new [Sustainable Outcomes Guide](https://www.architecture.com/-/media/GatherContent/Test-resources-page/Additional-Documents/RIBASustainableOutcomesGuide2019pdf.pdf), which recognises the huge impact of embodied carbon and prioritises the retrofit of existing buildings before any new-build is considered.
 
@@ -70,14 +72,17 @@ Retrofitting existing buildings is the first of RIBA's key design principles, wh
 
 Alexandra Willey, Clarion housing association's Head of Regeneration also took part in the conference. Alexandra re-iterated the extensive benefits of retrofit and talked about the group's ambitious retrofit plans for its existing homes, as well as its recently becoming the first housing association to adopt the [Sustainable Housing Label](http://www.clarionhg.com/news-research/2019/november/clarion-to-adopt-sustainable-housing-label/).
 
-In the face of Alexandra's claims, residents of the four London housing estates that Clarion has earmarked for demolition may start asking why Clarion hasn't considered retrofitting their homes..
+In the face of Alexandra's claims, residents of the [four London housing estates that Clarion has earmarked for demolition](https://estatewatch.london/underthreat/merton/) may start asking why Clarion hasn't considered retrofitting their homes..
 
 <img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
 ## Wornington Word - new documentary about Wornington Green estate
 The [Renegade Theatre](https://renegadetheatre.co.uk) and the [Venture Community Association](https://www.venturecentre.org.uk/) have released a [documentary](https://vimeo.com/461591871) about the regeneration of the Wornington Green estate.
 
-![](http://estatewatch.london/images/worningtonvid.png)
+<center>
+<iframe src="https://player.vimeo.com/video/461591871" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/461591871">The Wornington Word</a> from <a href="https://vimeo.com/user100863644">RENEGADE THEATRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</center>
 
 The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
 
