@@ -3,7 +3,7 @@ layout: default
 category: updates
 published: true 
 title: SEPTEMBER/OCTOBER NEWS ROUND-UP
-date: 2020-11-02
+date: 2020-11-10
 ---
 Here is our brief round up of estate regeneration news for September and October. Many thanks to everyone who got in touch to let us know what is going on with their estates.
 
@@ -12,13 +12,15 @@ Lambeth's [plans to raze six of its housing estates](https://estatewatch.london/
 
 <img src="http://estatewatch.london/images/lambethestates.png" class="img-fluid rounded img-thumbnail">
 
-The news was revealed by a response to an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) from the Director of the GLA's Affordable Housing Programme and a letter from Deputy Mayor Tom Copley, which it is [reported](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) to state that any new funding bid would require residents to be balloted on the demolition of their homes.
+The news was revealed by a response to an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) from the Director of the GLA's Affordable Housing Programme and a letter from Deputy Mayor Tom Copley.
+
+Inside Housing magazine [reports](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) the deputy Mayor as stating that any new funding bid would require residents to be balloted on the demolition of their homes. (you can register to gain free access to the article)
 
 This could mean the end for some of these schemes, especially Cressingham Gardens estate where the Council's plans have met with fierce opposition from the outset.
 
-Residents there have championed their own alternative [refurbishment plans](http://cressinghampeoplesplan.org.uk) for the estate with a [survey](http://cressinghampeoplesplan.org.uk/docs/TPP.pdf) finding that 86% wanted refurbishment versus only 4% in favour demolition.
+Cressingham residents have come forward with their own alternative regeneration plans, involving refurbishment and in-fill development. The [Cressingham People's Plan](http://cressinghampeoplesplan.org.uk) also conducted a survey showing that 86% of residents favoured refurbishment versus only 4% demolition.
 
-According to a [report](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) from Inside Housing Magazine, Lambeth Council says it intends to proceed with at least one of the estates (Westbury estate) regardless, using its own funding from Right to Buy receipts rather than GLA funding. 
+Lambeth Council is reported to have said that it intends to proceed with at least one of the schemes (Westbury estate) regardless, using its own funding from Right to Buy receipts rather than GLA funding. 
 
 A loophole in the Mayor's [ballot requirement](https://www.london.gov.uk/what-we-do/housing-and-land/improving-quality/estate-regeneration) allows Councils to avoid balloting residents by avoiding applying for GLA funding altogether. 
 
@@ -28,6 +30,7 @@ Westminster Council is exploiting this loophole and avoiding a ballot on its [Eb
 Technically, the Mayor's London Plan [Policy 3.12 (Section A, sub-section [g])](https://www.london.gov.uk/what-we-do/planning/london-plan/current-london-plan/london-plan-chapter-3/policy-312-negotiating) requires all schemes to seek grant funding by virtue of the fact that it is a pre-requisite of the requirement to maximise the amount of affordable housing. 
 
 All eyes will now be on the Mayor as the final decision to approve the application or call it in lies with him. In the meantime, objections to Westminster's proposals can be submitted directly to the Mayor using the GLA's new [online comment submission form](https://gla.force.com/pr/s/planning-application/a0i4J000002RmHdQAK/20206100?tabset-c2f3b=3).
+A copy of detailed objections to the scheme being submitted by residents and deputy Mayor Tom Copley can be downloaded [here](http://estatewatch.london/images/eburyobjections.docx). 
 
 <img src="http://estatewatch.london/images/eburycomp.jpg" class="img-fluid rounded img-thumbnail"> 
 
@@ -50,23 +53,9 @@ Again, the Mayor has the power to 'call-in' Wandsworth's application and again t
 
 You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
-In the meantime, Alton estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and the Alton Action group has received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+In the meantime, Alton estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and the [Alton Action](https://www.facebook.com/altonaction/) group has received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
 <img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
-
-## Wornington Word - new documentary about Wornington Green estate
-The Renegade Theatre and Venture Community Association have released a documentary about the regeneration of the Wornington Green estate. 
-
-The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
-
-<center>
-<iframe src="https://player.vimeo.com/video/461591871" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/461591871">The Wornington Word</a> from <a href="https://vimeo.com/user100863644">RENEGADE THEATRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</center>
-
-Phase 1 of the Wornington Green estate is complete and phase 2 is under construction. The ‘decanting’ of the remaining 150 homes on phase 3 is due to commence in late 2020, as is the consultation period prior to submission of a planning application.
-
-You can read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
 
 ## RIBA seeks to put Retrofit at forefront of 2030 NET ZERO policy 
 In October, RIBA held a virtual conference in conjunction with the Institute of Government as part of the Conservative Party's fringe conference. 
@@ -87,6 +76,20 @@ In the face of Alexandra's claims, residents of the four London housing estates 
 
 <img src="http://estatewatch.london/images/clarioncomp.png" class="img-fluid rounded img-thumbnail">
 
+## Wornington Word - new documentary about Wornington Green estate
+The [Renegade Theatre](https://renegadetheatre.co.uk) and the [Venture Community Association](https://www.venturecentre.org.uk/) have released a documentary about the regeneration of the Wornington Green estate.
+
+The documentary 'Wornington Word' stems from a [project](https://worningtonword.renegadetheatre.co.uk/) to record oral histories of residents' experiences and funded by the Heritage Lottery Fund.
+
+<center>
+<iframe src="https://player.vimeo.com/video/461591871" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/461591871">The Wornington Word</a> from <a href="https://vimeo.com/user100863644">RENEGADE THEATRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</center>
+
+Phase 1 of the Wornington Green estate is complete and phase 2 is under construction. The ‘decanting’ of the remaining 150 homes on phase 3 is due to commence in late 2020, as is the consultation period prior to submission of a planning application.
+
+You can read more about the Wornington Green estate regeneration here: [https://estatewatch.london/estates/kensingtonandchelsea/wornington/](https://estatewatch.london/estates/kensingtonandchelsea/wornington/)
+
 ## Estate Watch Zoom meeting
 September's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. 
 
@@ -100,5 +103,5 @@ Please email info@londontenants.org to request attendance and further details.
 <meta name="twitter:creator" content="@justspace7" />
 <meta property="og:url" content="https://estatewatch.london/september-news-roundup/" />
 <meta property="og:title" content="Estate Watch news roundup - Sep/Oct" />
-<meta property="og:description" content="Will Sadiq Khan approve Ebury Bridge and Alton estate demolitions despite ballot avoidance?" />
-<meta property="og:image" content="https://estatewatch.london/images/eburycomp.jpg" />
+<meta property="og:description" content="GLA withdraws funding for Lambeth estate demolitions, Westminster bypasses ballot, Alton estate refurb plan and RIBA says 'RETROFIT FIRST'" />
+<meta property="og:image" content="https://estatewatch.london/images/octcomp.png" />
