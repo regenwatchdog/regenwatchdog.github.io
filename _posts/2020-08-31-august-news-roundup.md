@@ -9,7 +9,7 @@ Here is our brief round up of estate regeneration news for August. Thanks to eve
 ## Alton estate - developer pulls out  
 Wandsworth Council's development partner Redrow has confirmed that it is pulling out of the [Alton estate regeneration](https://estatewatch.london/estates/wandsworth/altonarea/).
 
-<img src="/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="http://estatewatch.london/images/altonlibrary.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 Wandsworth Council leader, Ravi Govindia is subsequently [reported](https://www.insidehousing.co.uk/news/news/house-builder-backs-out-of-1000-home-regeneration-scheme-67431) as saying that the Council intends to explore other options for proceeding with the scheme:
 
@@ -24,13 +24,13 @@ Hopefully Wandsworth will take heed of the calls to review its plans and explore
 ## Residents vote against demolition at Gilbey's Yard & Juniper Crescent estates
 Residents of [Gilbey's Yard and Juniper Crescent estates](https://estatewatch.london/estates/camden/junipercrescent/) have voted against the demolition of their homes in a ballot held by Civica on behalf of housing association [One Housing](https://www.onehousing.co.uk/).
 
-A [letter](/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
+A [letter](http://estatewatch.london/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
 
-<img src="/images/jp4.jpg" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="http://estatewatch.london/images/jp4.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-One Housing's head of Regeneration has since [written to residents](/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
+One Housing's head of Regeneration has since [written to residents](http://estatewatch.london/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
 
-A [newsletter](/images/gilbeynewsletter.pdf) from the TRA and [report](/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
+A [newsletter](http://estatewatch.london/images/gilbeynewsletter.pdf) from the TRA and [report](http://estatewatch.london/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
 
 * Lack of clarity on the amount of social housing proposed
 * Lack of detailed information about proposed tenures and security of tenure
@@ -48,7 +48,7 @@ The Mayor introduced the [requirement to ballot residents](https://estatewatch.l
 ## Grahame Park estate - developer influenced planning policy
 Barnet's regeneration of the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) has come under criticism in an [investigation](https://www.theguardian.com/politics/2020/aug/23/revealed-councils-accept-payments-from-developers-to-fund-planning-guidelines) by the Guardian.
 
-<img src="/images/grahame.png" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="http://estatewatch.london/images/grahame.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 It revealed that Barnet council received £223,000 from the housing association redeveloping the estate ([Notting Hill Genesis](https://www.nhg.org.uk/)) to cover the costs of a planning brief, which specified that additional social housing be provided _"only where viable”_.
 
@@ -59,7 +59,7 @@ This doesn't bode well for the Grahame Park scheme, which is one of London's lar
 ## Joyce Park and Snells Avenue estate - Council seeks funding
 The leader of Enfield Council has [written](https://joyceandsnells.co.uk/wp-content/uploads/sites/132/2020/07/Tom-Copley-220720.pdf) to Tom Copley, deputy Mayor for Housing suggesting that the Mayor's [COVID-19 Housing Recovery Task Force](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/covid-19-housing-delivery-taskforce) use emergency pandemic funding for the redevelopment of its Joyce Park and Snells Avenue estate.
 
-<img src="/images/jsnells.jpg" class="img-fluid rounded img-thumbnail" width="50%"> 
+<img src="http://estatewatch.london/images/jsnells.jpg" class="img-fluid rounded img-thumbnail" width="50%"> 
 
 The taskforce, chaired and convened by Deputy Mayor for Housing and Residential Development Tom Copley, is made up of leaders from across London’s housing delivery sector including councils, construction, unions, and housing associations.
 
@@ -67,7 +67,7 @@ The group met six times between April and July 2020 to consider how the sector s
 
 It looked at specific support needed from Government that would be effective in maintaining housing supply and providing confidence in the market.
 
-<img src="/images/taskforce.png" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="http://estatewatch.london/images/taskforce.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 The Taskforce has produced a [report](https://www.london.gov.uk/sites/default/files/2020-07-21_housing_delivery_taskforce_recovery_plan_rev1_1.pdf) identifying ways that public funding could be used to mitigate the economic shock on the housing sector.
 
