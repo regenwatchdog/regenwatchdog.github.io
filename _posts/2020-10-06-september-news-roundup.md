@@ -12,7 +12,7 @@ Lambeth's [plans to raze six of its housing estates](https://estatewatch.london/
 
 <img src="http://estatewatch.london/images/lambethestates.png" class="img-fluid rounded img-thumbnail">
 
-The news was revealed by a response to an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) from the Director of the GLA's Affordable Housing Programme and a letter from Deputy Mayor Tom Copley.
+The news was revealed by a response to an [FOI request](https://www.whatdotheyknow.com/request/cressingham_gardens_3?nocache=incoming-1639570#incoming-1639570) from a member of the [Cressingham estate People's Plan](http://cressinghampeoplesplan.org.uk) and a subsequent letter of clarification from Deputy Mayor Tom Copley.
 
 Inside Housing magazine [reports](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045) the deputy Mayor as stating that any new funding bid would require residents to be balloted on the demolition of their homes. (you can register to gain free access to the article)
 
