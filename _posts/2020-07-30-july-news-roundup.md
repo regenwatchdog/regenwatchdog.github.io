@@ -2,6 +2,7 @@
 layout: default
 category: updates
 title: JULY NEWS ROUND-UP
+comments: true
 ---
 
 Many thanks to all those who have taken the time to get in touch or leave a comment on the [ESTATE WATCH website](https://estatewatch.london) telling us what's going on with their estates. Here's our monthly round-up of July's estate regeneration news:

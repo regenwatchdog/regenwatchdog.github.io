@@ -1,25 +1,30 @@
-<div id="coral_thread"></div>
-<script type="text/javascript">
-  (function() {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://estatewatch.herokuapp.com/assets/js/embed.js';
-      s.async = false;
-      s.defer = true;
-      s.onload = function() {
-          Coral.createStreamEmbed({
-              id: "coral_thread",
-              autoRender: true,
-              rootURL: 'https://estatewatch.herokuapp.com',
-              // Uncomment these lines and replace with the ID of the
-              // story's ID and URL from your CMS to provide the
-              // tightest integration. Refer to our documentation at
-              // https://docs.coralproject.net for all the configuration
-              // options.
-              // storyID: '${storyID}',
-	      storyURL: '{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}',
-          });
-      };
-      (d.head || d.body).appendChild(s);
-  })();
-</script>
+<section class="comments" id="comment-section">
+  <hr>
+  {% if site.data.comments[page.slug] %}
+  <!-- Existing comments -->
+  <div class="comments__existing">
+    <h2>Comments</h2>
+    {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to_uid == ''" %}
+    {% assign comments_by_date = comments | sort: 'date' | reverse %}
+    <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
+    {% for comment in comments_by_date %}
+    {%- assign email           = comment.email %}
+    {%- assign name            = comment.name %}
+    {%- assign url             = comment.url %}
+    {%- assign date            = comment.date %}
+    {%- assign message         = comment.message %}
+    {%- assign uid             = comment._id %}
+    {% include comment.html is_reply=false uid=uid replying_to=0 email=email name=name url=url date=date message=message uid=uid %}
+    {% endfor %}
+  </div>
+  {% endif %}
 
+  <!-- New comment form -->
+  <div id="respond" class="comment__new">
+    {% include comment_form.html %}
+  </div>
+</section>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="{{ '/assets/main.js' | relative_url }}"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
