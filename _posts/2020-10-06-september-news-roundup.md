@@ -99,7 +99,7 @@ Please email info@londontenants.org to request attendance and further details.
 
 
 __Postscript__
-[^1]: This paragraph was re-worded post script to more accurately depict the recipients of the grant funding.
+[^1]: This paragraph was re-worded post script, in order to more accurately describe the source of the grant funding and its recipients.
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
