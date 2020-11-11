@@ -10659,6 +10659,14 @@ img.zoom-img {
   padding-bottom: 0rem;
 }
 
+/* Comment form Classes */
+.textfield__input {
+    border: 1px solid rgba(0,0,0,0.12);
+    padding: 4px 5px;
+    width: 100%;
+    font-size: 17px;
+}
+
 /* Sticky Footer Classes */
 
 html,
