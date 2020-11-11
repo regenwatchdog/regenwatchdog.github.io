@@ -147,4 +147,5 @@ prose:
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
 staticman_url: https://ewcomments.herokuapp.com/v2/entry/estatewatch/estatewatch.github.io/master/comments
-
+siteKey: 6LeEuOEZAAAAAI3A3bhA1ID3uEM04X3l-N-sfBo8
+secret: 6LeEuOEZAAAAAHRJOFjwmJVYIqDNhKZpj-UJrM8z
