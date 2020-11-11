@@ -53,7 +53,7 @@ Again, the Mayor has the power to 'call-in' Wandsworth's application and again t
 
 You can let the Mayor know what you think of Alton's proposals, by submitting a comment on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
-In the meantime, Alton estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and the [Alton Action](https://www.facebook.com/altonaction/) group has received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+In the meantime, Alton estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and the [Alton Action](https://www.facebook.com/altonaction/) group has partnered with a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk) to co-produce an alternative Community Plan, exploring alternatives to demolition. Research England's [Higher Education Innovation Fund](https://re.ukri.org/knowledge-exchange/the-higher-education-innovation-fund-heif/) (managed by [UCL Innovation & Enterprise](https://www.ucl.ac.uk/enterprise/)) has awarded a grant for the development of the Alton estate's Community Plan[^1].
 
 <img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
 
@@ -97,6 +97,9 @@ The date of the next Zoom meeting is yet to be confirmed.
 
 Please email info@londontenants.org to request attendance and further details.
 
+
+__Postscript__
+[^1]: This paragraph was re-worded post script to more accurately depict the recipients of the grant funding.
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
