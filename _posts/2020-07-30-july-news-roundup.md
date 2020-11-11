@@ -70,9 +70,6 @@ The [briefing](https://estatewatch.london/papers/cacheresearch.pdf) uses qualita
 
 <img src="https://estatewatch.london/images/cacheresearchshadow.png" width="50%" class="img-fluid rounded img-thumbnail">
 
-## Have we missed something?
-Have we missed anything or got it wrong? help us keep keep this resource up to date by getting in touch at info@estatewatch.london or by leaving a comment in the comments section. 
-
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
