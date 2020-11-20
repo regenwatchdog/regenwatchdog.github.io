@@ -37,7 +37,7 @@ Residents were told in the [consultation documents](/images/juniperno.pdf) that 
 
 <img src="/images/juniperno.png" class="img-fluid rounded img-thumbnail">
 
-This is reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) to residents ahead of the ballot:
+This was reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) made to residents ahead of the ballot:
 
 <img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
 
