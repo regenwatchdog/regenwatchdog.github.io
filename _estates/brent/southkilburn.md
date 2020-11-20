@@ -5,10 +5,9 @@ name: South Kilburn estate
 borough: brent 
 thumb: /images/southkilburnthumb.jpg
 images:
-  - image_path: /images/southkilburn.jpg
-  - image_path: /images/cronecourt.jpg
-  - image_path: /images/herefordhouse1.jpg
-  - image_path: /images/herefordhouse2.jpg
+  - image_path: /images/skil1.png
+  - image_path: /images/skil2.jpg
+  - image_path: /images/skil3.png
 coordinates:
   - -0.198561,51.533219
 ---

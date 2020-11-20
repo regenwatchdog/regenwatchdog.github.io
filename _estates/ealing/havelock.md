@@ -5,7 +5,7 @@ name: Havelock estate
 borough: ealing
 thumb: /images/havelock1thumb.jpg
 images:
-  - image_path: /images/havelock1.jpg
+  - image_path: /images/havelockgreen.jpg
   - image_path: /images/havelock2.jpg
   - image_path: /images/havelock3.jpg
   - image_path: /images/havelock4.jpg

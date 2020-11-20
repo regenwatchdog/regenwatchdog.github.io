@@ -5,12 +5,10 @@ name: Woodberry Down estate
 borough: hackney
 thumb: /images/woodberry1thumb.jpg
 images:
-  - image_path: /images/woodberry1.jpg
-  - image_path: /images/woodberry2.jpg
-  - image_path: /images/woodberry3.jpg
-  - image_path: /images/woodberry4.jpg
-  - image_path: /images/woodberry5.png
-  - image_path: /images/woodberry6.jpg
+  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-27.jpg 
+  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-5.jpg
+  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-24.jpg
+  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-estate-signboard.jpg
   - image_path: /images/woodberryaerial.jpg
 coordinates: 
   - -0.090658,51.572949
@@ -45,3 +43,7 @@ __Links:__
 [Guardian article - 18 May 2014](https://www.theguardian.com/society/2014/may/18/-sp-truth-about-gentrification-how-woodberry-down-became-woodberry-park)
 
 [Hackney's planning application portal documents - ref 2013/3223](http://planning.hackney.gov.uk/Northgate/PlanningExplorer/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=203701&XSLT=/Northgate/PlanningExplorer/SiteFiles/Skins/Hackney/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/Northgate/PlanningExplorer/SiteFiles/Skins/Hackney/Menus/PL.xml&DAURI=PLANNING)
+
+Municipal Dreams' 2013 blog post on the Woodberry Down regeneration: [https://municipaldreams.wordpress.com/2013/09/17/woodberry-down-hackney-the-estate-of-the-future/](https://municipaldreams.wordpress.com/2013/09/17/woodberry-down-hackney-the-estate-of-the-future/)
+
+(Photo Credits: Municipal Dreams)

@@ -6,9 +6,9 @@ name: Thamesmead South (phase 1)
 borough: bexley
 thumb: /images/bw1thumb.jpg
 images:
-  - image_path: /images/bw1.jpg
-  - image_path: /images/bw2.jpg
-  - image_path: /images/bw3.jpg
+  - image_path: /images/smere1.png
+  - image_path: /images/smere2.png
+  - image_path: /images/smere3.png
 coordinates: 
   - 0.122512,51.497783
 ---

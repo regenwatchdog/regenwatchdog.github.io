@@ -6,7 +6,9 @@ name: Arthur Street estate
 borough: bexley
 thumb: /images/arthurthumb.jpg
 images:
-  - image_path: /images/arthur.jpg
+  - image_path: /images/ats1.jpg
+  - image_path: /images/ats2.jpg
+  - image_path: /images/ats3.jpg
   - image_path: /images/as1.png
   - image_path: /images/as2.png
   - image_path: /images/as3.png

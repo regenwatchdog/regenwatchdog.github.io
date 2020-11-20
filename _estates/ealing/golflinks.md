@@ -5,7 +5,6 @@ name: Golf Links estate
 borough: ealing
 thumb: /images/glinksthumb.jpg
 images:
-  - image_path: /images/glinks.jpg
   - image_path: /images/glinks2.jpg
   - image_path: /images/glinks3.jpg
   - image_path: /images/glinks4.png
