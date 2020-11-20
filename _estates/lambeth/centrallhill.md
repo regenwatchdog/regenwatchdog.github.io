@@ -7,7 +7,7 @@ thumb: /images/centrallhillthumb.jpg
 images:
   - image_path: /images/centrallhill.jpg
   - image_path: /images/central1.jpg
-  - image_path: /images/central2.png
+  - image_path: /images/centralhillaerial.jpg
   - image_path: /images/central3.jpg
   - image_path: /images/central4.jpg
 coordinates: 

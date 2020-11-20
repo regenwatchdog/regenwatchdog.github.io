@@ -23,4 +23,6 @@ Circa 2,000 homes on the White City estate have been earmarked for redevelopment
 ![](/images/whitecitywcra2.png)
 
 
-A detailed history of the estate can be found on the [Municipal Dreams website](https://municipaldreams.wordpress.com/2017/01/17/the_white_city_estate_part_one/). 
+A detailed history of the estate can be found on the [Municipal Dreams website](https://municipaldreams.wordpress.com/2017/01/17/the_white_city_estate_part_one/).
+
+(Photo credits: Municipal Dreams)

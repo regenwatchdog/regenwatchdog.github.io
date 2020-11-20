@@ -6,6 +6,11 @@ borough: richmond
 thumb: /images/hamclosethumb.jpg
 images:
   - image_path: /images/hamclose.jpg
+  - image_path: /images/hcl1.jpg
+  - image_path: /images/hcl2.jpg
+  - image_path: /images/hcl3.jpg
+  - image_path: /images/hcl4.jpg
+  - image_path: /images/hcl5.jpg
 coordinates: 
   - -0.316239,51.437734
 ---

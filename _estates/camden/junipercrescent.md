@@ -41,4 +41,22 @@ This is reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) to
 
 <img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
 
-There is no information in the landlord offer about leaseholders/homeowners and whether they have any right to be rehoused on the redeveloped estate (or elsewhere), which is in contravention of the [Mayor's planning policy on ballot requirements](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf).
+In July 2020, it was confirmed that residents had voted against demolition in the ballot, which was held by Civica on behalf of the estate's Landlord - [One Housing](https://www.onehousing.co.uk/).
+
+A [letter](http://estatewatch.london/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
+
+One Housing's head of Regeneration has since [written to residents](http://estatewatch.london/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
+
+A [newsletter](http://estatewatch.london/images/gilbeynewsletter.pdf) from the TRA and [report](http://estatewatch.london/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
+
+* Lack of clarity on the amount of social housing proposed
+* Lack of detailed information about proposed tenures and security of tenure
+* Concerns about space standards of the proposed replacement affordable housing
+* Concerns about increased Service Charges and Council Tax on the redeveloped estate
+
+The report concludes with the Vice Chair summing up negotiations with the housing association prior to the ballot:
+
+_"On a personal note, as the Vice Chair of GY TRA I have found negotiations with One Housing unsatisfactory and frustrating. They seem to me to want to appear to be complying with the regulations of the GLA and Camden Council whilst taking no real interest in the needs of the tenants. There are many complaints about them from tenants regarding repairs and maintenance and their staff turnover is very high so that any continuity in communications or development of an on-going relationship with the estate officer is made very difficult."_
+
+_"It feels to me as though repairs and maintenance have been considerably run down prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
+

@@ -9,6 +9,7 @@ images:
   - image_path: /images/highpath.jpg
   - image_path: /images/highpath2.jpg
   - image_path: /images/highpath3.png
+  - image_path: /images/highpath4.jpg
 coordinates: 
   - '-0.190444,51.414691'
 ---

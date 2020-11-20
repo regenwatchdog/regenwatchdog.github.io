@@ -51,4 +51,10 @@ This goes against the legal “principle of equivalence” which says that perso
 
 Similarly unfair policies were [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
 
+__Links:__
+Mayor's stage 1 and 2 reports [https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west)
+
+Planning consent's [section 106 agreement](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/gascoigne-estate-west)
+
+(Photo credits: Andrew Brown)
 
