@@ -6,9 +6,23 @@ name: Gascoigne estate
 borough: barkinganddagenham
 thumb: /images/gascoigne1thumb.jpg
 images:
-  - image_path: /images/gascoigne1.jpg
-  - image_path: /images/gascoigne2.jpg
-  - image_path: /images/gascoigne3.jpg
+  - image_path: /images/Lor_gascoigne1.jpg
+  - image_path: /images/Lor_gascoigne2.jpg
+  - image_path: /images/Lor_gascoigne3.jpg
+  - image_path: /images/Lor_gascoigne4.jpg
+  - image_path: /images/Lor_gascoigne.jpg
+  - image_path: /images/Lor_gascoigne6.jpg
+  - image_path: /images/Lor_gascoigne5.jpg
+  - image_path: /images/Lor_gascoigne7.jpg
+  - image_path: /images/gascoigneab.jpg
+  - image_path: /images/gascoigneab1.jpg
+  - image_path: /images/gascoigneab2.jpg
+  - image_path: /images/gascoigneab3.jpg
+  - image_path: /images/gascoigneab4.jpg
+  - image_path: /images/gascoigneab5.jpg
+  - image_path: /images/gascoigneab6.jpg
+  - image_path: /images/gascoigneab7.jpg
+
 coordinates:
   - '0.078037,51.533476'
 published: true
@@ -27,7 +41,9 @@ Planning application [documents](/images/bdreside.pdf) confirm that tenants have
 
 <img src="/images/bdreside.png" class="img-fluid rounded img-thumbnail">
 
-Compulsory Purchase Orders have been issued and demolition is due to start in 2020. Barking and Dagenham only offers an option of shared ownership for leaseholders who want to return to the estate.  
+Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.
+
+Barking and Dagenham Council only offers an option of shared ownership for leaseholders who want to return to the estate - i.e. paying rent on the unowned share.  
 
 <img src="/images/bdresideso.png" class="img-fluid rounded img-thumbnail">
 
@@ -35,4 +51,4 @@ This goes against the legal “principle of equivalence” which says that perso
 
 Similarly unfair policies were [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
 
-The lack of a credible rehousing option on replacement homes for leaseholders is a breach of section 233(5&7) of the Town and Country Planning Act 1990, which requires that persons compulsorily removed from their homes for planning purposes are offered 'suitable accommodation' on the redeveloped land _'on terms settled with due regard to the price at which any such land has been acquired from him'_.
+
