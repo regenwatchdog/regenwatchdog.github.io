@@ -5,7 +5,17 @@ published: false
 title: NOVEMBER NEWS ROUND-UP
 date: 2020-11-05
 ---
-The festive season is approaching and Christmas is a great time for submitting controversial planning applications, limiting feedback as residents are less able to respond. Planning applications have just been submitted for no less than four of our estates under threat. We'll be exploring them further as we find out more but here's a brief summary based on the documents submitted to date.
+The festive season is approaching and we are pleased to report some good news - the Mayor has agreed to stop funding the demolition of homes on London's Council estates.
+
+The Mayor's new [funding guidance](https://www.london.gov.uk/sites/default/files/201123_homes_for_londoners_-_affordable_homes_programme_2021-2026_-_funding_guidance_fa.pdf) issued last week says that from now on he will only fund additional affordable homes built as part of an estate redevelopment.
+
+>"The Affordable Homes Programme 2021-2026 provides funding for estate regeneration projects where the grant is used for additional homes. Funding will not be available for units that replace homes that have been, or will be, demolished."
+
+The new guidance comes with the caveat however, that in _'exceptional circumstances'_ funding will be provided where existing homes _'have become obsolete'_.
+
+It remains to be seen what effect this will have on London's [132 estates under threat](https://estatewatch.london/underthreat/estatesatrisk/). We [reported last month](https://estatewatch.london/september-news-roundup/) on the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents.
+
+Christmas is a great time for submitting controversial planning applications, limiting feedback as residents are less able to respond. Planning applications have just been submitted for three of our estates under threat. We'll be exploring them further as we find out more but here's a brief summary based on the documents submitted to date.
 
 
 ## Cressingham Gardens
@@ -17,18 +27,18 @@ The [planning statement](https://planning.lambeth.gov.uk/online-applications/fil
 
 Supporting docs for the planning application are available on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDRW4MBOGMR00).
 
-There appears to be no viability assessment submitted with this scheme, despite the Mayor's [policy requirement](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf) for applications to be accompanied by a viability assessment showing that the maximum amount of affordable housing is being provided.
+There appears to be no viability assessment submitted with this scheme, despite the Mayor's policy requirement for applications to be accompanied by a viability assessment showing that the maximum amount of affordable housing is being provided.[^1]
 
-<img src="/images/tested.png" class="img-fluid rounded img-thumbnail">
 
 ## Morris Walk estate - planning application submitted
-https://planning.royalgreenwich.gov.uk/online-applications/files/2455BA8EEACB17ACB6EBC9322FF68785/pdf/20_3445_R-PLANNING_STATEMENT_-_MORRIS_NORTH-685744.pdf
+Developer Lovell has submitted its planning application to redevelop the Morris Walk Estate in Charlton.
 
-https://planning.royalgreenwich.gov.uk/online-applications/files/269AF26CDBCE0168A8C068FDCBF42B4A/pdf/20_3403_R-PLANNING_STATEMENT-685043.pdf
+Demolition is already underway of the estate's 562 existing homes. Lovell's planning application seeks permission for 766 new homes with a pitiful 177 at affordable rent. There won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category allows rents of up to 80% market rent.   
+
 
 FVA not made public
 
-https://twitter.com/DanLThorpe
+You can view the planning application documents and submit a comment on Greenwich Council's planning portal [here (refs: 20/3403/R and 20/3445/R).](https://planning.royalgreenwich.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=_GRNW_DCAPR_104919)
 
 ## Cambridge Road estate
 A planning application has been submitted for the demolition and redevelopment of Kingston's [Cambridge Road estate](https://estatewatch.london/estates/kingston/cambridgeroad/.
@@ -91,8 +101,9 @@ Please email info@londontenants.org to request attendance and further
 details.
 
 
-__Postscript__
-[^1]: This paragraph was re-worded post script, in order to more accurately describe the source of the grant funding and its recipients.
+__Footnotes:__
+[^1]: The Mayor's [Affordable Housing and Viability SPG](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/london-plan-guidance-and-spgs/affordable-housing-and-viability-supplementary-planning-guidance-spg) states in paragraph 2.66 requires all estate regeneration schemes to follow the Viability Tested Route(VTR). This is reiterated by Policy H8 (E) of the [New London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf).
+
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />

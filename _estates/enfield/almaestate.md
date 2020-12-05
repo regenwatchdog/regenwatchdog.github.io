@@ -32,7 +32,9 @@ In its [Statement of Reasons](/images/almacpo.pdf) justifying the Compulsory Pur
 
 <img src="/images/almacpo.png" class="img-fluid rounded img-thumbnail">
 
-There is no provision on the redeveloped estate for the estate's 170 current leaseholders. Enfield has no shared equity scheme - if leaseholders want to buy one of the new shared ownership homes they will have to pay rent on the unowned equity.
+Unlike most schemes, there is no housing re-provision proposed for the estate's 170 current leaseholders. Enfield has no shared equity scheme - if leaseholders want to buy one of the new shared ownership homes they will have to pay rent on the unowned equity.
+
+In 2017 it was [reported](http://www.ourcity.london/issues/regeneration/blackmail-at-the-alma-estate/) that Enfield Council was not meeting its statutory duty to pay for independent surveyor valuations and threatening to deny shared ownership offers to leaseholders who raised objections to the Council's scheme.
 
 __Links:__
 
