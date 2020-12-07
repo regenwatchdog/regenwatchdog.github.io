@@ -1,21 +1,19 @@
 ---
 layout: default
 category: updates
-published: false 
+published: true 
 title: NOVEMBER NEWS ROUND-UP
-date: 2020-11-05
+date: 2020-12-07
 ---
-The festive season is approaching and we are pleased to report some good news - the Mayor has agreed to stop funding the demolition of homes on London's Council estates.
+This month's news roundup begins with some good news - the next round of the Mayor's affordable housing grants won't fund the demolition of homes on London's Council estates.
 
 The Mayor's new [funding guidance](https://www.london.gov.uk/sites/default/files/201123_homes_for_londoners_-_affordable_homes_programme_2021-2026_-_funding_guidance_fa.pdf) issued last week says that from now on he will only fund additional affordable homes built as part of an estate redevelopment.
 
 >"The Affordable Homes Programme 2021-2026 provides funding for estate regeneration projects where the grant is used for additional homes. Funding will not be available for units that replace homes that have been, or will be, demolished."
 
-The new guidance comes with the caveat however, that in _'exceptional circumstances'_ funding will be provided where existing homes _'have become obsolete'_.
+This is welcome news but it remains to be seen what effect this will have on London's [132 estates under threat](https://estatewatch.london/underthreat/estatesatrisk/). We [reported last month](https://estatewatch.london/september-news-roundup/) on the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents. The Mayor's [Housing Zone](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones) funding also remains available to provide funding for estate demolitions in the Mayor's [Opportunity Areas](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/opportunity-areas/what-are-opportunity-areas). The Mayor's _Building Council Homes for Londoners_ grant scheme also continues to fund the demolition of Council homes by funding replacements. For example, the [Cambridge Road](https://estatewatch.london/estates/kingston/cambridgeroad/) estate scheme is receiving £60.2M funding from the Mayor under these two programmes[^1].
 
-It remains to be seen what effect this will have on London's [132 estates under threat](https://estatewatch.london/underthreat/estatesatrisk/). We [reported last month](https://estatewatch.london/september-news-roundup/) on the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents.
-
-Christmas is a great time for submitting controversial planning applications, limiting feedback as residents are less able to respond. Planning applications have just been submitted for three of our estates under threat. We'll be exploring them further as we find out more but here's a brief summary based on the documents submitted to date.
+In other news, Christmas has always been a good time for submitting controversial planning applications, limiting feedback as residents are less able to respond. Applications have just been submitted for three of our estates under threat. We'll be exploring them further as we find out more but here's a brief summary based on the documents submitted to date.
 
 
 ## Cressingham Gardens
@@ -27,46 +25,48 @@ The [planning statement](https://planning.lambeth.gov.uk/online-applications/fil
 
 Supporting docs for the planning application are available on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDRW4MBOGMR00).
 
-There appears to be no viability assessment submitted with this scheme, despite the Mayor's policy requirement for applications to be accompanied by a viability assessment showing that the maximum amount of affordable housing is being provided.[^1]
+There appears to be no viability assessment submitted with this scheme, despite the Mayor's policy requirement for applications to be accompanied by a viability assessment showing that the maximum amount of affordable housing is being provided.[^2]
 
+Last month Lambeth [approved](https://moderngov.lambeth.gov.uk/documents/s122755/PAC%20-%20Fenwick%2020-02374-RG3%20FINAL.pdf) a similar 'kick-start' application for the first phase of the Fenwick estate regeneration.
+
+<img src="/images/fwickkick.png" class="img-fluid rounded img-thumbnail">
 
 ## Morris Walk estate - planning application submitted
 Developer Lovell has submitted its planning application to redevelop the Morris Walk Estate in Charlton.
 
 Demolition is already underway of the estate's 562 existing homes. Lovell's planning application seeks permission for 766 new homes with a pitiful 177 at affordable rent. There won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category allows rents of up to 80% market rent.   
 
+The 177 affordable rent homes will be accompanied by 76 for shared ownership, bringing the total proportion of affordable housing to 35% - well below the Mayor's minimum requirement of 50% affordable housing on public land.
 
-FVA not made public
+Despite the Mayor's [policy requirement](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/london-plan-guidance-and-spgs/affordable-housing-and-viability-supplementary-planning-guidance-spg) that viability assessments be made public, none has been made available on Greenwich's planning portal.
 
-You can view the planning application documents and submit a comment on Greenwich Council's planning portal [here (refs: 20/3403/R and 20/3445/R).](https://planning.royalgreenwich.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=_GRNW_DCAPR_104919)
+You can view the other planning application documents and submit a comment on Greenwich Council's planning portal [here (refs: 20/3403/R and 20/3445/R).](https://planning.royalgreenwich.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=_GRNW_DCAPR_104919)
 
 ## Cambridge Road estate
 A planning application has been submitted for the demolition and redevelopment of Kingston's [Cambridge Road estate](https://estatewatch.london/estates/kingston/cambridgeroad/.
 
 ![](/images/croadaerial.png)
 
-The application, submitted by Kingston's development partner [Countryside Properties](https://www.countrysideproperties.com/) seeks approval for demolition of the existing 832 homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
+The [application](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00), submitted by Kingston's development partner [Countryside Properties](https://www.countrysideproperties.com/) seeks approval for demolition of the existing 832 homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
 
-This is in clear breach of the Council's own policy and Mayor's policy which requires 50% affordable housing on public land. 
+This is in clear contradiction to the Council's own policy and Mayor's policy which both require 50% affordable housing on public land. 
 
-Regeneration will take place over a period of 10-15 years in 5 phases.
-33.5% affordable housing - below the 50% required by the Mayor..
+The planning application says that 767 of the 2,170 new homes will be social rent but these will be predominantly smaller flats (531 of the social rented homes will be 1 or 2-beds). It says that in addition, approximately 100 new homes will be earmarked as shared equity homes for the estate's leaseholders - depending on take up. 
 
-Demolition of existing 832 homes
-2,170 new homes plus 452
-767 new social rented homes, 531 of which 1 and 2-beds.
+The application also proposes 848 new parking spaces despite Norbiton train station being located just 400m to the north of the estate.
 
-Existing gas boilers will be replaced by new gas boilers
-Despite Norbiton train station being located just 400m to the north of the estate and having one of the highest PTALs (Public Transport Accessibility Levels),  
-848 994 new parking spaces.
+The [viability appraisal](https://publicaccess.kingston.gov.uk/online-applications/files/B700018DECE543EDE307FE31F2767E57/pdf/20_02942_FUL-FINANCIAL_VIABILITY_APPRAISAL_-DEC._2020-4589185.pdf) submitted with the planning application discloses some interesting information about the financing of the scheme.
 
+Kingston Council is stumping up nearly £200M to see this scheme through. This includes:
 
-80M in leaseholder buyback costs
-11.2M in planning costs
-130M for the social rented units of which 60M grant funding.
-29M for the shared equity units for leaseholders
+* £80M in leaseholder buyback costs
+* £11.2M in planning costs
+* £130M for the social rented units of which £60M grant funding.
+* £29M for the shared equity units for leaseholders
 
-250M / 832 = more than 300k per home..
+Combined with £60M funding agreed by the Mayor that's £250M of public money to replace a Council estate of 832 homes - more than £300k is being spent demolishing and replacing each home. 
+
+Despite it being one of the Mayor's requirements for estate redevelopments, the application provides no cost/benefit analysis of refurbishment vs demolition. So it is impossible to say whether these public funds could be better spent exploring the [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment).
 
 
 The [New London Plan (Policy SI7)]() requires major planning applications to provide a 'Circular Economy Statement' to demonstrate how circular economy principles have been accommodated through the scheme.
@@ -102,7 +102,10 @@ details.
 
 
 __Footnotes:__
-[^1]: The Mayor's [Affordable Housing and Viability SPG](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/london-plan-guidance-and-spgs/affordable-housing-and-viability-supplementary-planning-guidance-spg) states in paragraph 2.66 requires all estate regeneration schemes to follow the Viability Tested Route(VTR). This is reiterated by Policy H8 (E) of the [New London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf).
+
+[^1]: See paragraph of 5.22 of the [Viability Appraisal](https://publicaccess.kingston.gov.uk/online-applications/files/B700018DECE543EDE307FE31F2767E57/pdf/20_02942_FUL-FINANCIAL_VIABILITY_APPRAISAL_-DEC._2020-4589185.pdf) for the Cambridge Road scheme. 
+
+[^2]: The Mayor's [Affordable Housing and Viability SPG](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/london-plan-guidance-and-spgs/affordable-housing-and-viability-supplementary-planning-guidance-spg) states in paragraph 2.66 requires all estate regeneration schemes to follow the Viability Tested Route(VTR). This is reiterated by Policy H8 (E) of the [New London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf).
 
 
 <meta name="twitter:card" content="summary" />
