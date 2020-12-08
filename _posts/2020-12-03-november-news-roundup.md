@@ -41,9 +41,8 @@ Lambeth also approved a similar 'kick-start' phase for its redevelopment of Cent
 ## Morris Walk estate (Greenwich)
 Developer Lovell has submitted its planning application to redevelop the [Morris Walk Estate](https://estatewatch.london/estates/greenwich/morriswalk/) in Charlton.
 
-<img src="https://estatewatch.london/images/mw2.png" class="img-fluid rounded img-thumbnail">
-
 Demolition is already underway of the estate's 562 existing homes. Lovell's planning application seeks permission for 766 new homes, 177 of which at affordable rent - there won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category in general allows rents of up to 80% market rent.   
+<img src="https://estatewatch.london/images/mw2.png" class="img-fluid rounded img-thumbnail">
 
 The 177 affordable rent homes will be accompanied by 76 for shared ownership, bringing the total proportion of affordable housing to 35% - well below the Mayor's minimum requirement of 50% affordable housing on public land.
 
@@ -54,11 +53,11 @@ You can read more about the Morris Walk estate [here](https://estatewatch.london
 ## Cambridge Road estate (Kingston)
 A planning application has also been submitted for the demolition and redevelopment of Kingston's [Cambridge Road estate](https://estatewatch.london/estates/kingston/cambridgeroad/).
 
-![](/images/croadaerial.png)
-
 The [application](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00), submitted by Kingston's development partner [Countryside Properties](https://www.countrysideproperties.com/) seeks approval for demolition of the estate's 832 existing homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
 
 This is in contradiction to the Council's own policy and Mayor's policy which both require a minimum of 50% affordable housing on public-owned land. 
+
+<img src="/images/croadaerial.png" class="img-fluid rounded img-thumbnail">
 
 The planning application says that 767 of the 2,170 new homes will be social rent but these will be predominantly smaller flats (531 of the social rented homes will be 1 or 2-beds). It says that in addition, approximately 100 new homes will be earmarked as shared equity homes for the estate's leaseholders - depending on take up. 
 
