@@ -29,3 +29,4 @@ Whilst the decant and re-housing programme started in 2016, the estate remains f
 
 The estate is not one of those listed as having agreed [grant funding](/approved/funding) from the mayor or that has been [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
+In November 2020, Lambeth approved a 'kick-start' initial phase of redevelopment involving a decanted block previously used for temporary housing. Campaigners have now set up camp at the foot of the empty block as it is being prepared for demolition. You can read more about it on the Brixton Buzz blog [here.](https://www.brixtonbuzz.com/2020/12/campaigners-set-up-camp-to-stop-lambeth-demolishing-truslove-house-on-the-central-hill-estate-photos/)

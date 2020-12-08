@@ -32,6 +32,7 @@ The Mayor agreed [funding](/approved/funding) for the scheme in 2017, but Lambet
 
 Whilst the decant and re-housing programme started in 2016, the estate remains fully occupied with [void units being let out at full market rents or as temporary accommodation at LHA rates](https://www.whatdotheyknow.com/request/581698/response/1393236/attach/4/Attachment%202.pdf).
 
+In November 2020, Lambeth approved a 'kick-start' phase involving the redevelopment of a small, decanted former supported housing block on the corner of the estate. You can read more about the application on Lambeth's planning portal [here](https://moderngov.lambeth.gov.uk/documents/s122755/PAC%20-%20Fenwick%2020-02374-RG3%20FINAL.pdf).
 
 
 __Links:__

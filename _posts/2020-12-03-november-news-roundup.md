@@ -34,6 +34,10 @@ Last month Lambeth approved a similar 'kick-start' phase of its redevelopment of
 
 <img src="/images/fwickkick.png" class="img-fluid rounded img-thumbnail">
 
+Lambeth also approved a similar 'kick-start' phase for its redevelopment of Central Hill estate in November. Campaigners have now set up camp at the foot of the empty block being prepared for demolition. You can read more about it on the Brixton Buzz blog [here.](https://www.brixtonbuzz.com/2020/12/campaigners-set-up-camp-to-stop-lambeth-demolishing-truslove-house-on-the-central-hill-estate-photos/) You can also read more about the Central Hill estate on the Estate Watch entry [here.](https://estatewatch.london/estates/lambeth/centrallhill/)
+
+<img src="https://i0.wp.com/www.brixtonbuzz.com/images/central-hill-tents-01.jpg" class="img-fluid rounded img-thumbnail">
+
 ## Morris Walk estate (Greenwich)
 Developer Lovell has submitted its planning application to redevelop the [Morris Walk Estate](https://estatewatch.london/estates/greenwich/morriswalk/) in Charlton.
 
