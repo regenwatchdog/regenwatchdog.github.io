@@ -11,14 +11,13 @@ The Mayor's new [funding guidance](https://www.london.gov.uk/sites/default/files
 
 <img src="/images/guidegla.jpg" class="img-fluid rounded img-thumbnail">
 
-This is welcome news but it remains to be seen what effect this will have on London's [132 estates under threat](https://estatewatch.london/underthreat/estatesatrisk/). We [reported last month](https://estatewatch.london/september-news-roundup/) on the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents.
+This is welcome news as it may encourage estate landlords to look more closely at the [benefits of refurbishment](https://estatewatch.london/refurbishment/) over demolition. Precisely what impact this will have on London's [132 estates under threat of demolition](https://estatewatch.london/underthreat/estatesatrisk/) remains to be seen. In [last month's roundup](https://estatewatch.london/september-news-roundup/) we highlighted the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents.
 
-The Mayor's [Housing Zone](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones) funding also remains available to provide funding for estate demolitions in the Mayor's [Opportunity Areas](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/opportunity-areas/what-are-opportunity-areas). The Mayor's _Building Council Homes for Londoners_ grant scheme also continues to fund the demolition of Council homes by funding replacements. For example, the [Cambridge Road](https://estatewatch.london/estates/kingston/cambridgeroad/) estate scheme is receiving £60.2M funding from the Mayor under these two programmes[^1].
+It's also worth noting that this funding programme is one of several different programmes managed by the Mayor. The Mayor's [Housing Zone](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones) funding remains available to provide funding for estate demolitions which are located in the Mayor's [Opportunity Areas](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/opportunity-areas/what-are-opportunity-areas). The Mayor's _Building Council Homes for Londoners_ grant scheme also remains available to fund the demolition of Council homes by funding replacements. For example, the [Cambridge Road](https://estatewatch.london/estates/kingston/cambridgeroad/) estate scheme is receiving £60.2M funding from the Mayor under these two programmes[^1].
 
-In other news, the festive season approaches and several major planning applications have been submitted for the redevelopment of some of our estates under threat. Christmas is always a good time to submit controversial planning applications because feedback is limited as residents are less able to respond.
+In other news, the festive season approaches and several planning applications have been submitted for estate demolitions. Christmas is always a popular time for developers to submit controversial planning applications because feedback is limited as residents are less able to respond.
 
-We have summarised them briefly below and will be exploring them in more detail in future bulletins as we find out more.
-
+We have briefly summarised the applications below. We will be exploring them in more detail in future bulletins as we find out more.
 
 ## Cressingham Gardens estate (Lambeth)
 Lambeth Council (or rather its [SPV - 'Homes for Lambeth'](https://www.homesforlambeth.co.uk/)) has applied for permission to demolish 12 family homes in two maisonette blocks on the South-east corner of the [Cressingham Gardens estate](https://estatewatch.london/estates/lambeth/cressingham/).
@@ -40,7 +39,7 @@ Developer Lovell has submitted its planning application to redevelop the [Morris
 
 <img src="https://estatewatch.london/images/mw2.png" class="img-fluid rounded img-thumbnail">
 
-Demolition is already underway of the estate's 562 existing homes. Lovell's planning application seeks permission for 766 new homes with a pitiful 177 at affordable rent. There won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category allows rents of up to 80% market rent.   
+Demolition is already underway of the estate's 562 existing homes. Lovell's planning application seeks permission for 766 new homes, 177 of which at affordable rent - there won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category in general allows rents of up to 80% market rent.   
 
 The 177 affordable rent homes will be accompanied by 76 for shared ownership, bringing the total proportion of affordable housing to 35% - well below the Mayor's minimum requirement of 50% affordable housing on public land.
 
@@ -53,9 +52,9 @@ A planning application has also been submitted for the demolition and redevelopm
 
 ![](/images/croadaerial.png)
 
-The [application](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00), submitted by Kingston's development partner [Countryside Properties](https://www.countrysideproperties.com/) seeks approval for demolition of the existing 832 homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
+The [application](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00), submitted by Kingston's development partner [Countryside Properties](https://www.countrysideproperties.com/) seeks approval for demolition of the estate's 832 existing homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
 
-This is in contradiction to the Council's own policy and Mayor's policy which both require 50% affordable housing on public land. 
+This is in contradiction to the Council's own policy and Mayor's policy which both require a minimum of 50% affordable housing on public-owned land. 
 
 The planning application says that 767 of the 2,170 new homes will be social rent but these will be predominantly smaller flats (531 of the social rented homes will be 1 or 2-beds). It says that in addition, approximately 100 new homes will be earmarked as shared equity homes for the estate's leaseholders - depending on take up. 
 
@@ -85,11 +84,11 @@ Beside the shortcomings in affordable housing provision, there is a common threa
 
 <img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thubnail rounded">
 
-The new [London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf) (Policy SI7 - Reducingwaste and supporting the circular economy) requires planning applications to be accompanied by a Circular Economy Statement showing how circular economy principles have been applied. One of the Mayor's [circular economy principles](https://www.london.gov.uk/sites/default/files/design_for_a_circular_economy_web.pdf) is that refurbishment should be pursued wherever possible: 
+In addition, the new [London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf) (Policy SI7 - Reducing waste and supporting the circular economy) requires planning applications to be accompanied by a Circular Economy Statement showing how circular economy principles have been applied. One of the Mayor's [circular economy principles](https://www.london.gov.uk/sites/default/files/design_for_a_circular_economy_web.pdf) is that refurbishment should be pursued wherever possible: 
 
 <img src="/images/circular.png" class="img-fluid rounded img-thumbnail">
 
-The Mayor has the power to 'call-in' all of these applications, so this will be a test of whether he intends for his affordable housing policies and circular economy principles to be mere aspirations, or whether they should apply in practice.
+The Mayor has the power to 'call-in' these planning applications, so this will be a test of whether he intends his affordable housing policies and circular economy principles to be mere aspirations, or whether they should actually apply in practice.
 
 
 
@@ -112,7 +111,7 @@ __Footnotes:__
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
-<meta property="og:url" content="https://estatewatch.london/september-news-roundup/" />
-<meta property="og:title" content="Estate Watch news roundup - Sep/Oct" />
-<meta property="og:description" content="GLA withdraws funding for Lambeth estate demolitions, Westminster bypasses ballot, Alton estate refurb plan and RIBA says 'RETROFIT FIRST'" />
-<meta property="og:image" content="https://estatewatch.london/images/octcomp.png" />
+<meta property="og:url" content="https://estatewatch.london/november-news-roundup/" />
+<meta property="og:title" content="Estate Watch news roundup - November" />
+<meta property="og:description" content="Mayor withdraws funding for demolition replacements and four more planning applications submitted for estate demolitions." />
+<meta property="og:image" content="https://estatewatch.london/images/guidegla.jpg" />
