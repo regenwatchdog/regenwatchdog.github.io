@@ -95,14 +95,12 @@ In addition, the new [London Plan](https://www.london.gov.uk/sites/default/files
 The Mayor has the power to 'call-in' these planning applications, so this will be a test of whether he intends his affordable housing policies and circular economy principles to be mere aspirations, or whether they should actually apply in practice.
 
 
-
 ## Estate Watch Zoom meeting
 November's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences. 
 
-The date of the next Zoom meeting is yet to be confirmed.
+The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
 
-Please email info@londontenants.org to request attendance and further 
-details.
+NB. Estate Watch meetings are exclusively for tenants and leaseholders of estates that are under threat of demolition, have managed to stave off demolition or whose estates are currently being demolished.
 
 
 __Footnotes:__
