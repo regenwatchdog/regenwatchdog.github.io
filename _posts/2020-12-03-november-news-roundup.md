@@ -9,7 +9,7 @@ This month's roundup begins with some good news - the Mayor will no longer provi
 
 The Mayor's new [funding guidance](https://www.london.gov.uk/sites/default/files/201123_homes_for_londoners_-_affordable_homes_programme_2021-2026_-_funding_guidance_fa.pdf) issued last week, says that from now on he will only fund additional affordable homes built as part of an estate redevelopment.
 
-<img src="/images/guidegla.jpg" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/guidegla.jpg" class="img-fluid rounded img-thumbnail">
 
 This is welcome news as it may encourage estate landlords to look more closely at the [benefits of refurbishment](https://estatewatch.london/refurbishment/) over demolition. Precisely what impact this will have on London's [132 estates under threat of demolition](https://estatewatch.london/underthreat/estatesatrisk/) remains to be seen. In [last month's roundup](https://estatewatch.london/september-news-roundup/) we highlighted the growing number of schemes avoiding applying for grant funding in order to avoid the requirement to ballot residents.
 
@@ -24,7 +24,7 @@ Lambeth Council (or rather its [SPV - 'Homes for Lambeth'](https://www.homesforl
 
 The [planning statement](https://planning.lambeth.gov.uk/online-applications/files/83BAE4274987382EE947282499316D28/pdf/20_02406_RG3-REVISED_PLANNING_STATEMENT-2579279.pdf) (prepared by Savills) explains that 20 new homes will be built of which 14 will be 'Council level' rent and the remaining 6 shared ownership.
 
-<img src="/images/trise.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/trise.png" class="img-fluid rounded img-thumbnail">
 
 There appears to be no viability assessment submitted with this scheme, despite the Mayor's policy requirement for planning applications involving estate demolitions to be accompanied by one.[^2]
 
@@ -32,7 +32,7 @@ Supporting documents for the planning application and details of how to submit o
 
 Last month Lambeth approved a similar 'kick-start' phase of its redevelopment of the Fenwick estate. You can read more about the application on Lambeth's planning portal [here](https://moderngov.lambeth.gov.uk/documents/s122755/PAC%20-%20Fenwick%2020-02374-RG3%20FINAL.pdf) and more about the Fenwick estate regeneration on our website [here](https://estatewatch.london/estates/lambeth/fenwick/).
 
-<img src="/images/fwickkick.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/fwickkick.png" class="img-fluid rounded img-thumbnail">
 
 Lambeth also approved a similar 'kick-start' phase for its redevelopment of Central Hill estate in November. Campaigners have now set up camp at the foot of the empty block being prepared for demolition. You can read more about it on the Brixton Buzz blog [here.](https://www.brixtonbuzz.com/2020/12/campaigners-set-up-camp-to-stop-lambeth-demolishing-truslove-house-on-the-central-hill-estate-photos/) You can also read more about the Central Hill estate on the Estate Watch entry [here.](https://estatewatch.london/estates/lambeth/centrallhill/)
 
@@ -57,7 +57,7 @@ The [application](https://publicaccess.kingston.gov.uk/online-applications/appli
 
 This is in contradiction to the Council's own policy and Mayor's policy which both require a minimum of 50% affordable housing on public-owned land. 
 
-<img src="/images/croadaerial.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/croadaerial.png" class="img-fluid rounded img-thumbnail">
 
 The planning application says that 767 of the 2,170 new homes will be social rent but these will be predominantly smaller flats (531 of the social rented homes will be 1 or 2-beds). It says that in addition, approximately 100 new homes will be earmarked as shared equity homes for the estate's leaseholders - depending on take up. 
 
@@ -89,7 +89,7 @@ Beside the shortcomings in affordable housing provision, there is a common threa
 
 In addition, the new [London Plan](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf) (Policy SI7 - Reducing waste and supporting the circular economy) requires planning applications to be accompanied by a Circular Economy Statement showing how circular economy principles have been applied. One of the Mayor's [circular economy principles](https://www.london.gov.uk/sites/default/files/design_for_a_circular_economy_web.pdf) is that refurbishment should be pursued wherever possible: 
 
-<img src="/images/circular.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/circular.png" class="img-fluid rounded img-thumbnail">
 
 The Mayor has the power to 'call-in' these planning applications, so this will be a test of whether he intends his affordable housing policies and circular economy principles to be mere aspirations, or whether they should actually apply in practice.
 
