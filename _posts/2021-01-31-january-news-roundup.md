@@ -7,13 +7,13 @@ date: 2021-01-31
 ---
 In our last [roundup](https://estatewatch.london/november-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolition schemes. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before March next year. The New Year has seen yet another major application submitted for the demolition of Ealing's High Lane estate.
 
-<img src="https://estatewatch.london/images/highlane3.jpg" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/highlane3.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
 The application submitted by Ealing's development partner Rydon proposes demolition of all 264 homes on the High Lane estate and replacement with 505 homes, of which 142 social rent.
 
 However, the devil in the detail of the planning application's [supporting documents](https://pam.ealing.gov.uk/online-applications/files/215D963AA11B3A1D76601F0EF5101378/pdf/210009OUT-2020.12.17_FINAL_AFFORDABLE_HOUSING_STATEMENT-3542754.pdf) shows that these will incur a 'new build supplement' of £20pw above the Council's current council rents. 
 
-<img src="/images/highlanesr.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/highlanesr.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 As with all the other estate regeneration applications submitted before Christmas, this application fails the Mayor’s requirement to explore alternatives to demolition, which is enshrined both in the Mayor’s Estate Regeneration Guidance and the new London Plan.
 
@@ -26,7 +26,7 @@ You can view the planning application documents on Ealing's planning portal [her
 ## Geoffrey Close estate
 Last month, the Mayor published his [stage 1 report](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2) for Riverside Housing Association's demolition of Lambeth's Geoffrey Close estate off Coldharbour Lane.
 
-<img src="https://estatewatch.london/images/cle8.jpg" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/cle8.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
 The report is critical of Riverside's proposal to gate the entire development (para 39) and failure to re-provide the ball court (para 43). It also criticises the increase the number of social rented homes by just one unit despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49) 
 
@@ -34,7 +34,7 @@ It does take issue with the failure to consider alternatives to demolition (para
 
 One interesting point raised in the report rightly points out that residents were balloted on a different tenure mix to that now proposed. 
 
-<img src="/images/gclosestage1.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/gclosestage1.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 It is disappointing to see the Mayor's report then gloss over this discrepancy, accepting Riverside's justification that it has subsequently 'consulted' residents on the tenure change. Especially so given that the Mayor has allocated nearly £10M funding to the reprovision of the 134 social rented homes being replaced.  
 
@@ -45,13 +45,13 @@ An [FOI request](https://www.whatdotheyknow.com/request/affordable_housing_fundi
 
 A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent. 
 
-<img src="http://35percent.org/img/gparkaudit2.png" class="img-fluid rounded img-thumbnail">  
+<img src="http://35percent.org/img/gparkaudit2.png" width="50%" class="img-fluid rounded img-thumbnail">  
 
 The audit makes no mention of the fact that the planning permission envisaged the tenure of these homes to be social rent, which is even lower than the Mayor's London Affordable Rent benchmark levels. 
 
 This is because the scope of the audit is limited only to verifying that rents are in line with grant funding conditions on first let. The Mayor's audit is not concerned with rent levels on subsequent lets or whether the rents are in line with the tenure required by the planning consent. 
 
-<img src="http://35percent.org/img/glachecklist.jpg" class="img-fluid rounded img-thumbnail">
+<img src="http://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
 Details of the planning consent for the phase in question are available on Barnet's planning portal [here](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NEVAH5JIFWV00) and details of the Mayor's annual compliance audit are available on the GLA website [here](https://www.london.gov.uk/sites/default/files/11_gla_cfg_section_9._compliance_audit_-_august_2020.pdf)
 
@@ -60,7 +60,7 @@ London Assembly member Sian Berry has published a [report](https://www.sianberry
 
 The report is based on an analysis of the GLA's London Development Database and gives a breakdown of the figures by borough. In addition, it shows that another 6,791 homes are due to be demolished within the current pipeline.  
 
-<img src="https://www.sianberry.london/wp-content/uploads/2021/01/Total_2020.png" class="img-fluid rounded img-thumbnail">
+<img src="https://www.sianberry.london/wp-content/uploads/2021/01/Total_2020.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 ## Estate Watch Zoom meeting
 The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
