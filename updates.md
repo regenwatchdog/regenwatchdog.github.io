@@ -1,5 +1,5 @@
 ---
-title: Estate regeneration news updates 
+title: Estate Watch news updates 
 layout: default
 category: updates
 ---
