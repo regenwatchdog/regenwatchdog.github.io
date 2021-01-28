@@ -2,12 +2,14 @@
 layout: default
 category: updates
 published: true 
-title: JANUARY NEWS ROUND-UP
+title: DEC/JANUARY NEWS ROUND-UP
 date: 2021-01-31
 ---
-In last month's [roundup](https://estatewatch.london/november-news-roundup/) we reported a flurry of planning applications submitted in the run up to Christmas. The New Year has seen another major application submitted - that for the redevelopment of Ealing's High Lane estate.
+In our last [roundup](https://estatewatch.london/november-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolition schemes. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before March next year. The New Year has seen yet another major application submitted for the demolition of Ealing's High Lane estate.
 
-The application submitted by Ealing's development partner Rydon on 16th December (but not validated until 4th Jan) proposes demolition of the estate's 264 homes and replacement with 505 homes, of which 142 social rent.
+<img src="https://estatewatch.london/images/highlane3.jpg" class="img-fluid rounded img-thumbnail">
+
+The application submitted by Ealing's development partner Rydon proposes demolition of all 264 homes on the High Lane estate and replacement with 505 homes, of which 142 social rent.
 
 However, the devil in the detail of the planning application's [supporting documents](https://pam.ealing.gov.uk/online-applications/files/215D963AA11B3A1D76601F0EF5101378/pdf/210009OUT-2020.12.17_FINAL_AFFORDABLE_HOUSING_STATEMENT-3542754.pdf) shows that these will incur a 'new build supplement' of £20pw above the Council's current council rents. 
 
@@ -66,14 +68,12 @@ The date of the next Zoom meeting is yet to be confirmed. Please email info@lond
 NB. Estate Watch meetings are exclusively for tenants and leaseholders of estates that are under threat of demolition, have managed to stave off demolition or whose estates are currently being demolished.
 
 
-__Footnotes:__
-
 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
-<meta property="og:url" content="https://estatewatch.london/november-news-roundup/" />
-<meta property="og:title" content="Estate Watch news roundup - January" />
-<meta property="og:description" content="Mayor withdraws funding for demolition replacements and four more planning applications submitted for estate demolitions." />
-<meta property="og:image" content="https://estatewatch.london/images/guidegla.jpg" />
+<meta property="og:url" content="https://estatewatch.london/january-news-roundup/" />
+<meta property="og:title" content="Estate Watch news roundup - Dec/January" />
+<meta property="og:description" content="More estate demolitions being rushed through the Mayor's funding changes come into effect." />
+<meta property="og:image" content="https://estatewatch.london/images/highlanecle.png" />
