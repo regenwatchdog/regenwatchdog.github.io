@@ -41,7 +41,7 @@ Disappointingly this is then glossed over by Riverside's justification that it h
 You can view the Mayor's report [here](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2), the full planning application documents (except the financial viability assessment which hasn't been published) on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QHD9R4BO08M00) and our web page about the Geoffrey Close estate [here](https://estatewatch.london/estates/lambeth/geoffreyclose/).
 
 ## Grahame Park estate
-An [FOI request](https://www.whatdotheyknow.com/request/affordable_housing_funding_annua) has revealed that housing association [Notting Hill Genesis](https://www.nhg.org.uk) charged higher rents than it was supposed to for the replacement social housing on the Grahame Park estate - in breach of both funding conditions and the planning permission.
+An [FOI request](https://www.whatdotheyknow.com/request/affordable_housing_funding_annua) has revealed that housing association [Notting Hill Genesis](https://www.nhg.org.uk) charged higher rents than it was supposed to for replacement social housing on the Grahame Park estate - in breach of both funding conditions and the planning permission.
 
 A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent. 
 
