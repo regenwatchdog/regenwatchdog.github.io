@@ -30,16 +30,16 @@ Another point worth noting is that the application proposes just 10 shared equit
 
 As with the estate demolition applications submitted before Christmas, this application fails to comply with the Mayor’s requirement to explore alternatives to demolition. It is therefore impossible to know whether the £23M that Ealing Council is spending on the scheme would be better spent on refurbishment - (see para 3.4.7 of [this Council report](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=T29KJkkv6%2B%2FEOf%2F4pv0XwtQAUSiI7enW%2FlmOaGncZVyUQOQgHSXqXw%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) for estimated scheme costs).
 
-Rydon has also failed to publish its viability assessment for the application so it is impossible to know whether the maximum amount of affordable housing is beieng provided. Since 2018, making viability assessments public has been another one of the Mayor's policy requirements which is being routinely ignored by developers and local authorities.
+Rydon has also failed to publish its viability assessment for the application so it is impossible to know whether the maximum amount of affordable housing is being provided. Since 2018, making viability assessments public has been another one of the Mayor's policy requirements which is being routinely ignored by developers and local authorities.
 
-You can view the planning application documents on Ealing's planning portal [here](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00) or read more about the High Lane estate on our web page [here.](https://estatewatch.london/estates/ealing/highlane/)
+You can view the planning application documents on Ealing's planning portal [here](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00) and read more about the High Lane estate on our web page [here.](https://estatewatch.london/estates/ealing/highlane/)
 
 ## Geoffrey Close estate
-Last month, the Mayor published his [stage 1 planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2) for [Riverside Housing Association](https://www.riverside.org.uk/)'s demolition of Lambeth's [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/) off Coldharbour Lane. Riverside applied to demolish the estate's 134 homes in November last year and replace them with 441 homes of which just 135 social rent. 
+Last month, the Mayor published his [stage 1 planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2) for [Riverside Housing Association](https://www.riverside.org.uk/)'s demolition of Lambeth's [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/). Riverside applied to demolish the estate's 134 homes in November last year and replace them with 441 homes of which just 135 social rent. 
 
 <img src="https://estatewatch.london/images/cle8.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
-The report is critical of Riverside's proposal to gate the entire development (para 39) and failure to re-provide the ball court (para 43). It also criticises the uplift of just one social rented home, despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49) 
+The report is critical of Riverside's proposal to gate the entire development (para 39) and its failure to re-provide the ball court (para 43). It also criticises the uplift of just one social rented home, despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49) 
 
 The report also takes issue with Riverside's failure to consider alternatives to demolition (para 31) and has requested more information to be submitted, but it is otherwise silent on the application's failure to meet the Mayor's key policy requirement of min 50% affordable housing, which applies to all estate redevelopments. 
 
@@ -49,9 +49,9 @@ The tenure mix in Riverside's [Landlord Offer](http://estatewatch.london/images/
 
 <img src="/images/roffer.png" class="img-fluid rounded img-thumbnail">
 
-But the tenure mix proposed in its planning application includes an extra 43 homes in total, while reducing the number of social rented habitable rooms by 44 to 431 and increasing the number of market sale habitable rooms by 72 to 781. 
+But the tenure mix now proposed in its planning application includes an extra 43 homes in total, while reducing the number of social rented habitable rooms by 44 to 431 and increasing the number of market sale habitable rooms by 72 to 781. 
 
-While it is good to see the Mayor's planning report pick this up, it is disappointing to see that the Mayor proposes to take no action. The Mayor has provisionally granted £10M funding to this scheme. He ought to be using this leverage to ensure it complies with his basic policy requirements, not just on ballots and affordable housing tenure mix, but also on the more fundamental question of whether these buildings need to be demolished in the first place. 
+While it is good to see the Mayor's planning report pick this up, it is disappointing to see that the Mayor proposes to take no action. The Mayor has provisionally granted £10M funding to this scheme. He ought to be using this leverage to ensure it complies with his basic policy requirements, not just on honouring ballot promises and affordable housing requirements, but also on the more fundamental question of whether this estate needs to be demolished in the first place. 
 
 You can view the Mayor's report [here](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2), the full planning application documents (except the financial viability assessment which hasn't been published) on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QHD9R4BO08M00) and our web page about the Geoffrey Close estate [here](https://estatewatch.london/estates/lambeth/geoffreyclose/).
 
@@ -84,7 +84,7 @@ The pace of London's estate demolitions is clearly not sustainable. Last week th
 The [letter](https://www.architectsjournal.co.uk/news/big-names-call-on-government-to-adopt-retrofirst-reforms) was signed by big names including Thomas Heatherwick and Norman Foster and calls on the government to adopt the campaign's three recommendations – cutting VAT on refurbishment to 5 per cent or less; amending planning guidance and the Building Regs to promote reuse of existing buildings; and insisting all publicly funded projects look to retrofit solutions first.
 
 Our research with the [Engineering Exchange at UCL](https://www.ucl.ac.uk/engineering-exchange/) shows that refurbishment of council estates is the best option when environmental and social factors are properly taken into account.
-They produced a series of factsheets, videos and a peer-reviewed report, which you can view on our web page [here](https://estatewatch.london/refurbishment/).
+They have produced a series of factsheets, videos and a peer-reviewed report, which you can view on our web page [here](https://estatewatch.london/refurbishment/).
 
 
 ## Estate Watch Zoom meeting
