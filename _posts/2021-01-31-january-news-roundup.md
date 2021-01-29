@@ -11,11 +11,20 @@ The New Year has seen yet another major application submitted, this time for the
 
 <img src="https://estatewatch.london/images/highlane3.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
-The application submitted by Ealing's development partner Rydon proposes demolition of all 264 homes on the High Lane estate and replacement with 505 homes, of which just 142 social rent.
+The application submitted by Ealing's development partner Rydon proposes demolition of all 264 homes on the High Lane estate and replacement with 505 homes, of which just 142 social rent. 
+
 
 The planning application's [supporting documents](https://pam.ealing.gov.uk/online-applications/files/215D963AA11B3A1D76601F0EF5101378/pdf/210009OUT-2020.12.17_FINAL_AFFORDABLE_HOUSING_STATEMENT-3542754.pdf) say that these will be let as council homes, but they will incur a 'new build supplement' of £20pw above the Council's current social rent levels. 
 
 <img src="/images/highlanesr.png" class="img-fluid rounded img-thumbnail">
+
+The application also proposes 75 homes at London Affordable Rent and 10 shared equity homes (for the estate's 51 leaseholders..) and 278 private market homes.
+
+We note that the proposed tenure mix is different from the tenure mix presented in Ealing's formal [Landlord Offer](http://estatewatch.london/images/highlaneoffer.pdf) to residents at the time of the ballot, with an extra 44 homes proposed in total, most of which (36) are private sale units.
+
+<img src="/images/highlanetm.png" class="img-fluid rounded img-thumbnail">
+
+This raises a question about the integrity of the Mayor's ballot requirement. The Mayor's [policy on ballots](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) is clear that he may terminate funding for schemes, which have deviated from the original tenure mix that residents were balloted on (see para 8.7.3). It remains to be seen whether the Mayor will pick this up or take any action.
 
 As with the estate demolition applications submitted before Christmas, this application fails to comply with the Mayor’s requirement to explore alternatives to demolition. It is therefore impossible to know whether the £23M that Ealing Council is spending on the scheme would be better spent on refurbishment - (see para 3.4.7 of [this Council report](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=T29KJkkv6%2B%2FEOf%2F4pv0XwtQAUSiI7enW%2FlmOaGncZVyUQOQgHSXqXw%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) for scheme costs.
 
@@ -32,17 +41,15 @@ The report is critical of Riverside's proposal to gate the entire development (p
 
 The report also takes issue with Riverside's failure to consider alternatives to demolition (para 31) and has requested more information to be submitted, but it is otherwise silent on the application's failure to meet the Mayor's key policy requirement of min 50% affordable housing, which applies to all estate redevelopments. 
 
-Another interesting point raised in the report points is that residents were balloted on a different tenure mix to that now being proposed (para 30). 
+Interestingly, the report does raise the issue that residents were balloted on a different tenure mix to that now being proposed (para 30). 
 
-The tenure mix in Riverside's [Landlord Offer](https://www.riverside.org.uk/wp-content/uploads/2019/07/Offer-document-Lambeth.pdf) to residents at the time of the ballot was as follows:
+The tenure mix in Riverside's [Landlord Offer](http://estatewatch.london/images/geoffreycloseoffer.pdf) to residents at the time of the ballot was as follows:
 
 <img src="/images/roffer.png" class="img-fluid rounded img-thumbnail">
 
 But the tenure mix proposed in its planning application includes an extra 43 homes in total, while reducing the number of social rented habitable rooms by 44 to 431 and increasing the number of market sale habitable rooms by 72 to 781. 
 
-This raises a fundamental question about the integrity of the Mayor's ballot requirement. The Mayor's [policy on ballots](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) is clear that he may terminate funding for schemes that deviate from the tenure mix that residents were balloted on (see para 8.7.3).
-
-It is therefore disappointing to see the Mayor's report fail to take proper issue with this. The Mayor has provisionally granted £10M funding to this scheme. He ought to be using this leverage to ensure it complies with his basic policy requirements, not just on ballots and affordable housing but also on the more fundamental question of whether these buildings need to be demolished in the first place. 
+While it is good to see the Mayor's planning report pick this up, it is disappointing to see that the Mayor proposes to take no action. The Mayor has provisionally granted £10M funding to this scheme. He ought to be using this leverage to ensure it complies with his basic policy requirements, not just on ballots and affordable housing tenure mix, but also on the more fundamental question of whether these buildings need to be demolished in the first place. 
 
 You can view the Mayor's report [here](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2), the full planning application documents (except the financial viability assessment which hasn't been published) on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QHD9R4BO08M00) and our web page about the Geoffrey Close estate [here](https://estatewatch.london/estates/lambeth/geoffreyclose/).
 
