@@ -83,7 +83,7 @@ The pace of London's estate demolitions is clearly not sustainable. Last week th
 
 The [letter](https://www.architectsjournal.co.uk/news/big-names-call-on-government-to-adopt-retrofirst-reforms) was signed by big names including Thomas Heatherwick and Norman Foster and calls on the government to adopt the campaign's three recommendations – cutting VAT on refurbishment to 5 per cent or less; amending planning guidance and the Building Regs to promote reuse of existing buildings; and insisting all publicly funded projects look to retrofit solutions first.
 
-Our research with the Engineering Exchange at UCL shows that refurbishment of council estates is the best option when environmental and social factors are properly taken into account.
+Our research with the [Engineering Exchange at UCL](https://www.ucl.ac.uk/engineering-exchange/) shows that refurbishment of council estates is the best option when environmental and social factors are properly taken into account.
 They produced a series of factsheets, videos and a peer-reviewed report, which you can view on our web page [here](https://estatewatch.london/refurbishment/).
 
 
