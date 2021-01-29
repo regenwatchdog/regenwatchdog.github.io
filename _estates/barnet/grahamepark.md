@@ -30,4 +30,26 @@ The GLA's stage 1 report says that _"while Plots 13 to 16 are expected to come f
 
 In May 2020, it was [reported](https://www.insidehousing.co.uk/news/news/sadiq-khan-approves-housing-associations-2000-home-estate-regeneration-plan-66346) that Barnet Council had agreed to spend £33m on repairs to the estate for maintenance upkeep whilst redevelopment is pending.
 
-The scheme is being funded by the Mayor and has been exempted from his requirement to ballot residents on the demolition of their homes. Neither the Mayor's stage 2 report or section 106 agreement are publicly available at this stage.
+In December 2020, An [FOI request](https://www.whatdotheyknow.com/request/affordable_housing_funding_annua) has revealed that housing association [Notting Hill Genesis](https://www.nhg.org.uk) charged higher rents than it was supposed to for replacement social housing on Barnet's [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) - in breach of both funding conditions and the planning permission.
+
+A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent.
+
+<img src="http://35percent.org/img/gparkaudit2.png" width="50%" class="img-fluid rounded img-thumbnail">
+
+It is disappointing that while the GLA audit considers this a 'high breach' of funding conditions, it fails to impose any kind of penalty. Unless RSLs face consequences it is only natural that they will seek to maximise revenue in such ways, especially given the growing number of 'for profit' providers.
+
+It is also disappointing to see the audit make no mention of the fact that the planning permission envisaged the tenure of these homes to be social rent, which is even lower than the Mayor's London Affordable Rent benchmark levels.
+
+This is because the [scope of the audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions on first let. The Mayor's audit is not concerned with rent levels on subsequent lets or whether the rents are in line with the tenure required by the planning consent.
+
+<img src="http://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
+
+Details of the planning consent for the phase in question are available on Barnet's planning portal [here](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NEVAH5JIFWV00) and details of the Mayor's annual compliance audit are available on the GLA website [here](https://www.london.gov.uk/sites/default/files/11_gla_cfg_section_9._compliance_audit_-_august_2020.pdf).
+
+The Grahame Park scheme is being funded by the Mayor and has been exempted from his requirement to ballot residents on the demolition of their homes.
+
+__Links:__
+
+[Mayor's Stage 2 planning report](https://gla.force.com/pr/s/planning-application/a0i4J0000003Tu8QAE/20200543hs2?tabset-c2f3b=2)
+
+[Barnet Planning Portal - planning application supporting docs (ref:19/5493/OUT)](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=PZ5MNBJI0I700)
