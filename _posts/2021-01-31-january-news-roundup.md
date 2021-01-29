@@ -66,7 +66,7 @@ It is disappointing that while the GLA audit considers this a 'high breach' of f
 
 It is also disappointing to see the audit make no mention of the fact that the planning permission envisaged the tenure of these homes to be social rent, which is even lower than the Mayor's London Affordable Rent benchmark levels. 
 
-This is because the [scope of the audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions on first let. The Mayor's audit is not concerned with rent levels on subsequent lets or whether the rents are in line with the tenure required by the planning consent. 
+This is because the [scope of the audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions, not the tenure requirements of any planning permission. It's also interesting to note that the Mayor's audit is only concerned with rent levels on the first letting. It appears that with subsequent lets RSLs are free to charge whatever rent levels they see fit. 
 
 <img src="http://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
@@ -78,6 +78,14 @@ London Assembly member Sian Berry has published a [report](https://www.sianberry
 The report is based on an analysis of the GLA's London Development Database and gives a breakdown of the figures by borough. In addition, it shows that another 6,791 homes are due to be demolished within the current pipeline.  
 
 <img src="https://www.sianberry.london/wp-content/uploads/2021/01/Total_2020.png" width="50%" class="img-fluid rounded img-thumbnail">
+
+The pace of London's estate demolitions is clearly not sustainable. Last week the [Retrofirst](https://www.architectsjournal.co.uk/news/retrofirst) campaign published a letter in the Times newspaper calling on the government to stop ignoring _'our wasteful addiction to demolition and rebuilding'_. 
+
+The [letter](https://www.architectsjournal.co.uk/news/big-names-call-on-government-to-adopt-retrofirst-reforms) was signed by big names including Thomas Heatherwick and Norman Foster and calls on the government to adopt the campaign's three recommendations – cutting VAT on refurbishment to 5 per cent or less; amending planning guidance and the Building Regs to promote reuse of existing buildings; and insisting all publicly funded projects look to retrofit solutions first.
+
+Our research with the Engineering Exchange at UCL shows that refurbishment of council estates is the best option when environmental and social factors are properly taken into account.
+They produced a series of factsheets, videos and a peer-reviewed report, which you can view on our web page [here](https://estatewatch.london/refurbishment/).
+
 
 ## Estate Watch Zoom meeting
 The next Estate Watch Zoom meeting will be held on Monday at 2pm. The guest spot will be a presentation on the Community Plan for two estates in South Kilburn.
