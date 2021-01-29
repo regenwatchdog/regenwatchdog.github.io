@@ -82,5 +82,5 @@ NB. Estate Watch meetings are exclusively for tenants and leaseholders of estate
 <meta name="twitter:creator" content="@justspace7" />
 <meta property="og:url" content="https://estatewatch.london/january-news-roundup/" />
 <meta property="og:title" content="Estate Watch news roundup - Dec/January" />
-<meta property="og:description" content="More estate demolitions being rushed through the Mayor's funding changes come into effect." />
+<meta property="og:description" content="More estate demolitions rushed through ahead of funding changes and more post-ballot tenure mix changes." />
 <meta property="og:image" content="https://estatewatch.london/images/highlanecle.png" />
