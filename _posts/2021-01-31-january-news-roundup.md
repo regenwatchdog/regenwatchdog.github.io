@@ -20,7 +20,7 @@ The application also proposes 75 homes at London Affordable Rent and 10 shared e
 
 We note that the proposed tenure mix is different from the tenure mix presented in Ealing's formal [Landlord Offer](http://estatewatch.london/images/highlaneoffer.pdf) to residents at the time of the ballot, with an extra 44 homes proposed in total, most of which (36) are private sale units.
 
-<img src="/images/highlanetm.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/highlanetm.png" class="img-fluid rounded img-thumbnail">
 
 This raises a question about the integrity of the Mayor's ballot requirement. The Mayor's [policy on ballots](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) is clear that he may terminate funding for schemes, which have deviated from the original tenure mix that residents were balloted on (see para 8.7.3). It remains to be seen whether the Mayor will pick this up or take any action.
 
@@ -45,7 +45,7 @@ Interestingly, the report does raise the issue that residents were balloted on a
 
 The tenure mix in Riverside's [Landlord Offer](http://estatewatch.london/images/geoffreycloseoffer.pdf) to residents at the time of the ballot was as follows:
 
-<img src="/images/roffer.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/roffer.png" class="img-fluid rounded img-thumbnail">
 
 But the tenure mix now proposed in its planning application includes an extra 43 homes in total, while reducing the number of social rented habitable rooms by 44 to 431 and increasing the number of market sale habitable rooms by 72 to 781. 
 
