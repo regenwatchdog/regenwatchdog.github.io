@@ -37,7 +37,7 @@ Last month, the Mayor published his [stage 1 planning report](https://gla.force.
 
 <img src="https://estatewatch.london/images/cle8.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
-The report is critical of Riverside's proposal to gate the entire development (para 39) and its failure to re-provide the ball court (para 43). It also criticises the uplift of just one social rented home, despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49) 
+The Mayor's report is critical of Riverside's proposal to gate the entire development (para 39) and its failure to re-provide the ball court (para 43). It also criticises the uplift of just one social rented home, despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49) 
 
 The report also takes issue with Riverside's failure to consider alternatives to demolition (para 31) and has requested more information to be submitted, but it is otherwise silent on the application's failure to meet the Mayor's key policy requirement of min 50% affordable housing, which applies to all estate redevelopments. 
 
