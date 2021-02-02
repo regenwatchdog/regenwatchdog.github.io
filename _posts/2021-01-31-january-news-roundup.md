@@ -3,11 +3,11 @@ layout: default
 category: updates
 published: true 
 title: DEC/JAN NEWS ROUND-UP
-date: 2021-01-29
+date: 2021-02-02
 ---
-In our last [roundup](https://estatewatch.london/november-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolition schemes. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before the end of March next year.
+In our last [roundup](https://estatewatch.london/november-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolitions. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before the end of March next year.
 
-The New Year has seen yet another major application submitted, this time for the demolition of Ealing's High Lane estate.
+The New Year has seen yet another major application submitted, this time for the demolition of Ealing's [High Lane estate](https://estatewatch.london/estates/ealing/highlane/).
 
 <img src="https://estatewatch.london/images/highlane3.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
@@ -15,8 +15,6 @@ The application submitted by Ealing's development partner Rydon proposes demolit
 
 
 The planning application's [supporting documents](https://pam.ealing.gov.uk/online-applications/files/215D963AA11B3A1D76601F0EF5101378/pdf/210009OUT-2020.12.17_FINAL_AFFORDABLE_HOUSING_STATEMENT-3542754.pdf) say that these will be let as council homes, but they will incur a 'new build supplement' of £20pw above the Council's current social rent levels. 
-
-<img src="/images/highlanesr.png" class="img-fluid rounded img-thumbnail">
 
 The application also proposes 75 homes at London Affordable Rent and 10 shared equity homes (for the estate's leaseholders) and 278 private market homes.
 
@@ -26,7 +24,7 @@ We note that the proposed tenure mix is different from the tenure mix presented 
 
 This raises a question about the integrity of the Mayor's ballot requirement. The Mayor's [policy on ballots](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) is clear that he may terminate funding for schemes, which have deviated from the original tenure mix that residents were balloted on (see para 8.7.3). It remains to be seen whether the Mayor will pick this up or take any action.
 
-Another point worth noting is that the application proposes just 10 shared equity homes when there are 51 leaseholders on the estate. Perhaps the reason for expecting such a low take up is that Ealing's [shared equity offer to leaseholders](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=orv9zlc1hcwmefvl%2FzC77iPz0uNaQowGhPWmce8m8fB%2FMzqMI5BQBA%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) requires them to invest their personal savings and take out a mortgage if they want to take up the offer (see para 2.2). This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
+Another point worth noting is that the application proposes just 10 shared equity homes when there are 51 leaseholders on the estate. Perhaps the reason for expecting such a low take up is that Ealing's [shared equity offer to leaseholders](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=orv9zlc1hcwmefvl%2FzC77iPz0uNaQowGhPWmce8m8fB%2FMzqMI5BQBA%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) requires them to invest their personal savings and take out a mortgage if they want to take up the Council's shared-equity offer (see para 2.2). This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
 
 As with the estate demolition applications submitted before Christmas, this application fails to comply with the Mayor’s requirement to explore alternatives to demolition. It is therefore impossible to know whether the £23M that Ealing Council is spending on the scheme would be better spent on refurbishment - (see para 3.4.7 of [this Council report](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=T29KJkkv6%2B%2FEOf%2F4pv0XwtQAUSiI7enW%2FlmOaGncZVyUQOQgHSXqXw%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D) for estimated scheme costs).
 
@@ -66,7 +64,7 @@ It is disappointing that while the GLA audit considers this a 'high breach' of f
 
 It is also disappointing to see the audit make no mention of the fact that the planning permission envisaged the tenure of these homes to be social rent, which is even lower than the Mayor's London Affordable Rent benchmark levels. 
 
-This is because the [scope of the audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions, not the tenure requirements of any planning permission. It's also interesting to note that the Mayor's audit is only concerned with rent levels on the first letting. It appears that with subsequent lets RSLs are free to charge whatever rent levels they see fit. 
+This is because the [scope of the audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions, not the tenure requirements of any planning permission. It's also disappointing to note that the Mayor's audit is only concerned with rent levels on the first letting. It appears that with subsequent lets RSLs are free to charge whatever rent levels they see fit. 
 
 <img src="http://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
@@ -88,12 +86,13 @@ They have produced a series of factsheets, videos and a peer-reviewed report, wh
 
 
 ## Estate Watch Zoom meeting
-The next Estate Watch Zoom meeting will be held on Monday at 2pm. The guest spot will be a presentation on the Community Plan for two estates in South Kilburn.
-Please email info@londontenants.org to request attendance and further details.
+Yesterday's Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences and a guest presentation by [UCL's Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez), who talked about his work with residents on the South Kilburn and Alton estates to create alternative community-led plans.
+
+Pablo is the co-author of the book ['Community-Led Regeneration - a Toolkit for Residents and Planners'](https://www.uclpress.co.uk/products/125696) which can be downloaded for free [here](https://www.uclpress.co.uk/products/125696).
+
+The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
 
 NB. Estate Watch meetings are exclusively for tenants and leaseholders of estates that are under threat of demolition, have managed to stave off demolition or whose estates are currently being demolished.
-
-
 
 
 <meta name="twitter:card" content="summary" />
