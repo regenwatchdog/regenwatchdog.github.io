@@ -151,3 +151,56 @@ More information on the Carpenters Community Plan can be found in <a href="https
       </div>
 
 </div>
+
+<!----------SAMPLE INTERVIEWS SNIPPET------------->
+
+ <h2 class="featurette-heading">Interview Recordings<span class="text-muted"> - sample extracts</span></h2>
+<div class="mb-5">
+                    <table class="table table-hover align-items-center table-borderless">
+
+                      <tbody>
+
+                        <tr class="bg-white">
+                          <th scope="row">
+                            <div class="media align-items-center">
+                              <img alt="Image" src="/images/nounpodcast.png" class="avatar avatar-rect" />
+                            </div>
+                          </th>
+                          <td>Carpenters estate Leaseholder. </td>
+			  <audio controls src="/interviews/Carpentersinterview1.mp3"></audio>
+                        </tr>
+
+
+                        <tr class="bg-white">
+                          <th scope="row">
+                            <div class="media align-items-center">
+                              <img alt="Image" src="/images/uclwellbeing.png" class="avatar avatar-rect" />
+                              <div class="media-body">
+                                <span class="h6 mb-0">University College London</span>
+                                <span class="text-muted">Engineering Exchange</span>
+                              </div>
+                            </div>
+                          </th>
+                          <td>Health & Well-being: Factsheet</td>
+			  <td><a href="https://www.ucl.ac.uk/engineering-exchange/sites/engineering-exchange/files/fact-sheet-health-and-wellbeing-social-housing.pdf">Download</a></td>
+                        </tr>
+
+
+
+      <tr class="bg-white">
+                          <th scope="row">
+                            <div class="media align-items-center">
+                              <img alt="Image" src="/images/toolkit.png" class="avatar avatar-rect" />
+                              <div class="media-body">
+                                <span class="h6 mb-0">University College London</span>
+                                <span class="text-muted">Engineering Exchange</span>
+                              </div>
+                            </div>
+                          </th>
+                          <td>Refurbishment and Demoliton: Community Toolkit</td>
+			  <td><a href="https://www.ucl.ac.uk/engineering-exchange/sites/engineering-exchange/files/ucl150_a4-demolition-toolkit_v4_online.pdf">Download</a></td>
+                        </tr>
+
+                      </tbody>
+                    </table>
+                  </div>
