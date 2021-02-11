@@ -153,7 +153,10 @@ More information on the Carpenters Community Plan can be found in <a href="https
 </div>
 
 <!----------------- AUDIO SNIPPET-------------------------->
-<div class="row mt-5 align-items-left justify-content-left">
+<div class="container">
+  <div class="row row-cols-3">
+
+  <div class="col">
 <figure>
     <figcaption>Interview with Carpenters estate Leaseholder</figcaption>
     <audio
@@ -161,7 +164,9 @@ More information on the Carpenters Community Plan can be found in <a href="https
         src="/interviews/Carpentersinterview1.mp3">
     </audio>
 </figure>
+</div>
 
+  <div class="col">
 <figure>
     <figcaption>Interview with Carpenters estate tenant:</figcaption>
     <audio
@@ -169,8 +174,9 @@ More information on the Carpenters Community Plan can be found in <a href="https
         src="/interviews/Carpentersinterview7.mp3">
     </audio>
 </figure>
+</div>
 
-
+  <div class="col">
 <figure>
     <figcaption>Interview with Carpenters estate Leaseholder:</figcaption>
     <audio
@@ -178,4 +184,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
         src="/interviews/Carpentersinterview12.mp3">
     </audio>
 </figure>
+</div>
+
+</div>
 </div>
