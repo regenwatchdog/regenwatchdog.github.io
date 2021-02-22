@@ -158,7 +158,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
 
   <div class="col">
 <figure>
-    <figcaption>Interview with Carpenters estate Leaseholder</figcaption>
+    <figcaption>Interview with a Leaseholder</figcaption>
     <audio
         controls
         src="/interviews/Carpentersinterview1.mp3">
@@ -168,7 +168,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
 
   <div class="col">
 <figure>
-    <figcaption>Interview with Carpenters estate tenant:</figcaption>
+    <figcaption>Interview with a tenant:</figcaption>
     <audio
         controls
         src="/interviews/Carpentersinterview7.mp3">
@@ -178,7 +178,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
 
   <div class="col">
 <figure>
-    <figcaption>Interview with Carpenters estate Leaseholder:</figcaption>
+    <figcaption>Interview with a Leaseholder:</figcaption>
     <audio
         controls
         src="/interviews/Carpentersinterview12.mp3">
