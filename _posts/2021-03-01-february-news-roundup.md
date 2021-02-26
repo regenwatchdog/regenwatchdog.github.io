@@ -22,8 +22,19 @@ https://publicaccess.barnet.gov.uk/online-applications/files/859A2669EF7723EEEE0
 Planning application documents confirm that the affordable homes will all have separate 'cores' and will be in seperate buildings to the private homes. Despite the Masterplan's intention for the design of the new estate to be 'tenure blind', the layout proposed is clearly designed such that the private flats are situated in the prime locations overlooking the surrounding green spaces.
 
 
+## Marion Court
+Demolition whilst family still living in block:
+https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/
 
+Similar to the situation at South Lambeth estate:
+https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/
 
+## Cressingham
+Approved despite 83 yr old objector.
+
+## Winstanley and York Road estate
+Approved by the Mayor:
+https://www.insidehousing.co.uk/news/news/london-councils-2550-home-regeneration-scheme-gets-green-light-69380
 
 
 

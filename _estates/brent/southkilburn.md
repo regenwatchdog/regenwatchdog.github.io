@@ -31,4 +31,10 @@ This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/gover
 
 It is also a breach of the legal “principle of equivalence” which says that persons affected by compulsory purchase should be no worse off in financial terms after the acquisition. 
 
-The lack of a rehousing option for leaseholders which doesn't leave them financially disadvantaged is a breach of section 233(5&7) of the Town and Country Planning Act 1990, which requires that persons compulsorily removed from their homes for planning purposes are offered 'suitable accommodation' on the redeveloped land _'on terms settled with due regard to the price at which any such land has been acquired from him'_.
+UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
+
+You can read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
+
+There is also a presentation of the plans by Dr Sendra online here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
