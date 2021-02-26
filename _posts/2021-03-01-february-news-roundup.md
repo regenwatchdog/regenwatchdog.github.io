@@ -36,6 +36,16 @@ Approved despite 83 yr old objector.
 Approved by the Mayor:
 https://www.insidehousing.co.uk/news/news/london-councils-2550-home-regeneration-scheme-gets-green-light-69380
 
+## South Kilburn community plan
+
+UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
+
+You can read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
+
+There is also a presentation of the plans by Dr Sendra online here:
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
 In our last [roundup](https://estatewatch.london/ember-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolitions. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before the end of March next year.

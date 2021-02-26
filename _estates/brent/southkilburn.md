@@ -36,5 +36,6 @@ UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pabl
 You can read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
 
 There is also a presentation of the plans by Dr Sendra online here: 
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
