@@ -13,11 +13,11 @@ coordinates:
 ---
 129 homes are under threat of demolition at Stangate & Canterbury House in Lambeth.
 
-Stangate House, a fourteen storey block containing 52 flats and, Canterbury House, a nine storey block containing 77 units were initially earmarked for demolition in 2001. 
+Stangate House is a fourteen storey block containing 52 flats and Canterbury House is a nine storey block containing 77 units. Both buildings are owned by the Guy's and St Thomas' Charity.
 
-The buildings are owned by the Guy's and St Thomas' Charity. Whilst the charity is independent of the NHS Trust, it is understood that Stangate and Canterbury Houses were originally intended to house key workers from the adjacent hospital. Council briefing papers confirm that a number of the homes are still occupied on protected tenancies. The remainder [appear to be](https://www.zoopla.co.uk/to-rent/property/london/royal-street/) let out at market rent as private accommodation.   
+ Whilst the charity is independent of the NHS Trust, it is understood that Stangate and Canterbury Houses were originally intended to house key workers from the adjacent hospital. Council briefing papers confirm that a number of the homes are still occupied on protected tenancies. The remainder [appear to be](https://www.zoopla.co.uk/to-rent/property/london/royal-street/) let out at market rent as private accommodation.   
 
-Plans to redevelop the land north and south of Royal Street, close to St Thomas' Hospital, have been on the agenda since at least 2003.
+Plans to redevelop the site close to St Thomas' Hospital including a former victorian primary school on Royal Street, have been on the agenda since at least 2003.
 
 Lambeth Council originally rejected the Terry Farrell-designed proposals for Founder's Place in 2006 but after a public inquiry the scheme was eventually approved in 2007 by the then communities secretary Hazel Blears.
 
