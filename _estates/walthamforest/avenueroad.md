@@ -22,17 +22,24 @@ The estate was one of 11 estates [identified](https://democracy.walthamforest.go
 
 ![](/images/11estates.png)
 
-Early options appraisal studies are being conducted according to this <a href="https://democracy.walthamforest.gov.uk/documents/s68553/Avenue%20Rd%20Regeneration%20Update%20Final.pdf">Council report</a>. The report also confirms that residents will be balloted if a demolition option is pursued.
+The Council appointed a residents' advisor to the scheme in 2019 (Newman Francis). Newman Francis has also been [involved in Lambeth's estate regeneration schemes](http://newmanfrancis.org/projects/westbury-lambeth/).
 
-Further information is available in this [Feb 2020](https://democracy.walthamforest.gov.uk/documents/s71385/4%20-%20Avenue%20Road%20Regeneration%20Final%2029-01-20%20v5.pdf) update to the Council's Housing Scrutiny Committee.
+In April 2020, the Council [resolved](https://democracy.walthamforest.gov.uk/documents/s72449/Avenue%20Road%20Estate%20Regeneration%20report.pdf) to proceed with redevelopment on the basis of an options appraisal study but witheld publication of the study on grounds of 'commercial sensitivity.
 
-[This March 2020 update](https://democracy.walthamforest.gov.uk/documents/s72245/4%20-%20Report%20Scrutiny%20Committee%20_24%20March%202020%20final.pdf) provides the latest most up-to-date picture: 
+In January 2021, Waltham Forest Council held a ballot in which 161 of the 269 eligible residents voted in favour of redevelopment. As with many such ballots, refurbishment of the estate was not an option on the ballot paper. Neither was proposed tenure mix stated, which is a requirement of the Mayor's [Ballot Funding Conditions](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf). 
 
-_"The Council has been engaging closely with residents on the Avenue Road Estate including a detailed housing  needs survey carried out in Summer 2019 to identify the needs and future aspirations of residents. A majority of those interviewed were in favour of the estate being redeveloped. In July 2019 Cabinet gave the go ahead for officers to appoint a consultant team to carry out a feasibility and options appraisal and the outcome of  the studies will be presented to Cabinet for approval this April. There was a residents’ workshop, run by Newman Francis, Independent Tenant Resident Advisor(ITRA) on 10th March, to feed into the proposals and answer questions. There are also weekly drop in with Council officers for residents. If redevelopment of the Estate becomes the preferred option, this will require a positive resident ballot scheduled for September 2020. Meanwhile, the Council has engaged a resident advisor and a firm of architects to work with residents to help develop the design and estate requirements. This capacity building exercise will help shape the future of this estate."_
+In February 2021, the Council [resolved](https://democracy.walthamforest.gov.uk/documents/s77115/Avenue%20Road%20Estate%20Regeneration%20Project%20Update%20Report.pdf) to initiate CPO proceedings and serve a demolition notice. Again, the appendix to this report setting out the financial implications of the scheme were witheld on grounds of commercial sensitivity.
 
-NB. The residents' advisor (Newman Francis) has also been [involved in Lambeth's estate regeneration schemes](http://newmanfrancis.org/projects/westbury-lambeth/).
+## Links
+<a href="https://democracy.walthamforest.gov.uk/documents/s68553/Avenue%20Rd%20Regeneration%20Update%20Final.pdf">July 2019 Council report</a>.
 
-## Footnote
-Waltham Forest is [planning](https://democracy.walthamforest.gov.uk/documents/s71384/3%20-%20Housing%20Delivery%20Report%20FINAL%20200128%20incs%204%20appendices_2.pdf) to carry out a 'Council estates development capacity review' in 2020 in order to identify further redevelopment opportunities:
 
-![](/images/estatesreview.png)
+[Feb 2020 Council briefing report](https://democracy.walthamforest.gov.uk/documents/s71385/4%20-%20Avenue%20Road%20Regeneration%20Final%2029-01-20%20v5.pdf) update to the Council's Housing Scrutiny Committee.
+
+[March 2020 Council briefing update](https://democracy.walthamforest.gov.uk/documents/s72245/4%20-%20Report%20Scrutiny%20Committee%20_24%20March%202020%20final.pdf). 
+
+[April 2020 Cabinet report](https://democracy.walthamforest.gov.uk/documents/s72449/Avenue%20Road%20Estate%20Regeneration%20report.pdf).
+
+[February 2021 Cabinet report](https://democracy.walthamforest.gov.uk/documents/s77115/Avenue%20Road%20Estate%20Regeneration%20Project%20Update%20Report.pdf).
+
+Waltham Forest's [Landlord Offer](https://www.avenue-road-estate-regeneration.co.uk/storage/app/media/lwf-arl-hta-g-landlord-offer-main-webspreads.pdf) to residents ahead of the ballot.

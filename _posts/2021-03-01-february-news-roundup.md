@@ -29,6 +29,29 @@ https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolis
 Similar to the situation at South Lambeth estate:
 https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/
 
+## Juniper Crescent and Gilbey's Yard estate
+Residents on Camden's Juniper Crescent and Gilbey's Yard estate have set up a campaign website to protest against One Housing's plans to re-run the ballot. Residents on the estate voted overwhelmingly against demolition in a ballot run last year 
+
+www.handsoffouryard.com
+
+## Chrisp Street CPO
+
+## Church Street article by owen in slp
+
+
+## Avenue Road
+<img src="/images/aroadaerial.png" class="img-fluid rounded img-thumbnail">
+
+Council proceed with CPO
+
+Ballot - no tenure mix
+no refurbishment
+No financial report
+
+https://www.avenue-road-estate-regeneration.co.uk/storage/app/media/lwf-arl-hta-g-landlord-offer-main-webspreads.pdf
+
+https://democracy.walthamforest.gov.uk/documents/s77115/Avenue%20Road%20Estate%20Regeneration%20Project%20Update%20Report.pdf
+
 ## Cressingham
 Approved despite 83 yr old objector.
 
