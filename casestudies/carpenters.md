@@ -153,7 +153,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
 </div>
 
 <!----------------- AUDIO SNIPPET-------------------------->
-    <h2 class="display-4">Audio extracts</h2>
+    <h2 class="display-4">Audio extracts:</h2>
 <hr class="my-4">
 
 <div class="container">
