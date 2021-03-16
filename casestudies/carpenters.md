@@ -153,8 +153,6 @@ More information on the Carpenters Community Plan can be found in <a href="https
 </div>
 
 <!----------------- AUDIO SNIPPET-------------------------->
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
     <h2 class="display-4">Audio extracts</h2>
 <hr class="my-4">
 
@@ -194,5 +192,3 @@ More information on the Carpenters Community Plan can be found in <a href="https
 </div>
 </div>
 
-</div>
-</div>
