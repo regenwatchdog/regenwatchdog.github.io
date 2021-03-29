@@ -8,7 +8,7 @@ date: 2021-03-29
 ## Douglas Bader Park estate
 The Mayor has published his ['stage 1' planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2) giving in principle approval to the [redevelopment of Barnet's Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark/).
 
-<img src="https://estatewatch.london/images/db3.png" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/baderscreenshot.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 The estate is managed by housing association ['Home Group'](https://homegroup.org.uk), which is one of the Mayor's [strategic partners](https://www.insidehousing.co.uk/news/news/six-partnerships-announced-as-490m-grant-allocated-59289) in receipt of £46m GLA funding for agreeing to provide at least 60% affordable housing across its pipeline (see para 3.17 of the Mayor's [funding guidance](https://www.london.gov.uk/sites/default/files/smha_offer_2019.pdf) for more info). 
 
@@ -22,10 +22,10 @@ You can view the Mayor's report online [here](https://gla.force.com/pr/s/plannin
 
 Barnet has also failed to publish the viability assessment for the application so it is impossible to know whether the maximum amount of affordable housing is being provided. Since 2018, making viability assessments public has been another one of the Mayor’s policy requirements which is being routinely ignored by developers and local authorities.
 
-## Marion Court
-Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/) in February after bulldozers started demolishing one of the [Marion Court](https://estatewatch.london/estates/hackney/mariancourt/) blocks with a family still living in one of the flats.
+## Marian Court
+Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/) in February after bulldozers started demolishing one of the [Marian Court](https://estatewatch.london/estates/hackney/mariancourt/) blocks with a family still living in one of the flats.
  
-<img src="http://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded">
+<img src="http://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
 
 Meanwhile, remaining residents on Lambeth's [South Lambeth estate](https://estatewatch.london/estates/lambeth/southlambeth/) have [complained](https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/) about ongoing disturbance from demolition works on their estate.
 
@@ -43,7 +43,7 @@ The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) 
 ## Lansbury (South) estate
 Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their Chrisp Street redevelopment. 
 
-<img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="75%">
+<img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="60%">
 
 The scheme will provide 643 new homes, of which 163 will be replacement 'social' housing units built with £13m of Mayoral funding and provided as London Affordable Rent. This is one of the numerous estate redevelopment schemes that the Mayor [exempted](https://estatewatch.london/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
