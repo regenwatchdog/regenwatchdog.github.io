@@ -8,11 +8,13 @@ date: 2021-03-29
 ## Douglas Bader Park estate
 The Mayor has published his ['stage 1' planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2) giving in principle approval to the [redevelopment of Barnet's Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark/).
 
+<img src="https://estatewatch.london/images/db3.png" class="img-fluid rounded img-thumbnail">
+
 The estate is managed by housing association ['Home Group'](https://homegroup.org.uk), which is one of the Mayor's [strategic partners](https://www.insidehousing.co.uk/news/news/six-partnerships-announced-as-490m-grant-allocated-59289) in receipt of £46m GLA funding for agreeing to provide at least 60% affordable housing across its pipeline (see para 3.17 of the Mayor's [funding guidance](https://www.london.gov.uk/sites/default/files/smha_offer_2019.pdf) for more info). 
 
-The Mayor's report confirms that the estate's 271 existing homes will be replaced by 753 new homes of which 272 will be affordable in a mix of social rent and London Affordable Rent. While it praises the _'like for like replacement of social rent accommodation'_, it conflates social rent with London Affordable Rent andis silent on the application's failure to meet the Mayor's minimum 50% affordable housing requirement for estate regenerations. 
+The Mayor's report confirms that the estate's 271 existing homes will be replaced by 753 new homes of which 272 will be affordable in a mix of social rent and London Affordable Rent. While it praises the _'like for like replacement of social rent accommodation'_, it conflates social rent with London Affordable Rent and is silent on the application's failure to meet the Mayor's minimum 50% affordable housing requirement for estate regenerations. 
 
-The Mayor's report says nothing about how Home Group's affordable housing offer (28% by unit/40% by habitable room) complies with its strategic partner's commitment to providing 60% across its current pipeline.
+The Mayor's report says nothing about how Home Group's affordable housing offer (28% by unit/40% by habitable room) complies with its strategic partnership commitment of 60% affordable housing across its pipeline.
 
 Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the tens of millions of pounds of Mayoral funding might be better spent elsewhere, building new social rented homes rather than replacements.
 
@@ -25,26 +27,23 @@ Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/ac
  
 <img src="http://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded">
 
-Meanwhile, remaining residents on Lambeth's [South Lambeth estate](https://estatewatch.london/estates/lambeth/southlambeth/) have [complained](https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/) about ongoing disturbance from demolition works.
+Meanwhile, remaining residents on Lambeth's [South Lambeth estate](https://estatewatch.london/estates/lambeth/southlambeth/) have [complained](https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/) about ongoing disturbance from demolition works on their estate.
 
-## Lambeth estates
 Lambeth Council's Cabinet received an update on its estate regeneration programme last week. The [report to Cabinet](https://moderngov.lambeth.gov.uk/documents/s126053/HFL%20JDP%20presentation%20final%20for%20OSP%2023Feb21.pdf) showed that estimated costs of redeveloping the [six estates](https://estatewatch.london/underthreat/lambeth/) in its pipeline had increased to £256m.
 
-The update said that of the 930 households on these six estates, only 30 tenants have been re-housed and 29 leaseholders bought out, adding that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
-
-<img src="/images/lambethreport.png" class="img-fluid rounded img-thumbnail">
-
-The report also confirmed that of the 4,146 replacement homes on these estates, only 1,025 will be Council rent.
+The update also showed that 576 secure tenants and 295 leaseholders remain to be re-housed/bought out, stating that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
 
 ## Juniper Crescent and Gilbey's Yard estate
 Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord One Housing's plans to re-run the ballot. Residents on the estate voted overwhelmingly against demolition in a ballot run last year. 
+
+<img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
 
 The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden).
 
 ## Lansbury (South) estate
 Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their Chrisp Street redevelopment. 
 
-<img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail">
+<img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="75%">
 
 The scheme will provide 643 new homes, of which 163 will be replacement 'social' housing units built with £13m of Mayoral funding and provided as London Affordable Rent. This is one of the numerous estate redevelopment schemes that the Mayor [exempted](https://estatewatch.london/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
@@ -57,7 +56,7 @@ We are currently working on creating a basic guide to the CPO process for those 
 ## Church Street estates
 Westminster Council has come under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
 
-<img src="http://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail">
+<img src="http://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
 
 The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these are retailers and pharmacists who have been part of the community for 40 years but are now being asked to leave. 
 
