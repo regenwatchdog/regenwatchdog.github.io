@@ -14,7 +14,7 @@ The estate is managed by housing association ['Home Group'](https://homegroup.or
 
 The Mayor's report confirms that the estate's 271 existing homes will be replaced by 753 new homes of which 272 will be affordable in a mix of social rent and London Affordable Rent. While it praises the _'like for like replacement of social rent accommodation'_, it conflates social rent with London Affordable Rent and is silent on the application's failure to meet the Mayor's minimum 50% affordable housing requirement for estate regenerations. 
 
-The Mayor's report says nothing about how Home Group's affordable housing offer (28% by unit/40% by habitable room) complies with its strategic partnership commitment of 60% affordable housing across its pipeline.
+The Mayor's report is also silent on how the affordable housing offer (28% by unit/40% by habitable room) complies with the strategic partnership commitment of 60% affordable housing.
 
 Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the tens of millions of pounds of Mayoral funding might be better spent elsewhere, building new social rented homes rather than replacements.
 
@@ -51,7 +51,7 @@ The affected residents and retailers have been [given](https://www.towerhamlets.
 
 The Council has published the Compulsory Purchase Order and supporting documents on its website [here](https://www.towerhamlets.gov.uk/News_events/2021/February-2021/Chrisp-Street-CPO.aspx).
 
-We are currently working on creating a basic guide to the CPO process for those affected - watch this space!
+We are currently working on creating a general guide to the CPO process for residents on estates under threat - watch this space!
 
 ## Church Street estates
 Westminster Council has come under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
