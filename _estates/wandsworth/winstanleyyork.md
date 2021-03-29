@@ -60,4 +60,6 @@ __Links:__
 
 Mayor's stage 1 report: - [https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/york-road-and-winstanley-estates](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/york-road-and-winstanley-estates)
 
+Mayor's stage 2 report: - [https://gla.force.com/pr/s/planning-application/a0i4J000002RqoBQAS/20206193?tabset-c2f3b=2](https://gla.force.com/pr/s/planning-application/a0i4J000002RqoBQAS/20206193?tabset-c2f3b=2)
+
 Jan 2020 Planning Committee report - [https://planning2.wandsworth.gov.uk/iam/IAMCache/5261134/5261134.pdf](https://planning2.wandsworth.gov.uk/iam/IAMCache/5261134/5261134.pdf)

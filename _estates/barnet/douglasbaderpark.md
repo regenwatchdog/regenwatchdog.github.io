@@ -14,7 +14,7 @@ images:
 coordinates:
   - '-0.249247,51.604697'
 ---
-271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale - a planning application is expected to be submitted in Autumn 2020.
+271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale.
 
 The estate is under the management of housing association [Home Group](http://homegroup.org.uk) and housebuilder [Hill Group](http://hill.co.uk).
 
