@@ -46,7 +46,7 @@ Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retaile
 
 <img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail">
 
-The scheme is being [funded](https://estatewatch.london/approved/funding) by the Mayor and [exempted](https://estatewatch.london/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
+The scheme will provide 643 new homes, of which 163 will be replacement 'social' housing units built with £13m of Mayoral funding and provided as London Affordable Rent. This is one of the numerous estate redevelopment schemes that the Mayor [exempted](https://estatewatch.london/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
 The affected residents and retailers have been [given](https://www.towerhamlets.gov.uk/Documents/Chrisp-St-CPO/D26.-Signed-Site-Notice-02.02.2021.pdf) until 1st April to object to the CPO, which may be subject to a public inquiry if the Secretary of State decides the objections should be given a hearing.
 
