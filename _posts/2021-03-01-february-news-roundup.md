@@ -34,14 +34,14 @@ Lambeth Council's Cabinet received an update on its estate regeneration programm
 The update also showed that 576 secure tenants and 295 leaseholders remain to be re-housed/bought out, stating that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
 
 ## Juniper Crescent and Gilbey's Yard estate
-Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord One Housing's plans to re-run the ballot. Residents on the estate voted overwhelmingly against demolition in a ballot run last year. 
+Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord [One Housing](www.onehousing.co.uk)'s plans to re-run the ballot. Residents on the estate voted overwhelmingly against demolition in a ballot run last year. 
 
 <img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
 
 The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden).
 
 ## Lansbury (South) estate
-Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their Chrisp Street redevelopment. 
+Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their [Chrisp Street redevelopment](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/chrisp-street-market/). 
 
 <img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="60%">
 
@@ -58,18 +58,18 @@ Westminster Council has come under fire after it was [reported](https://londonne
 
 <img src="http://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
 
-The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these are retailers and pharmacists who have been part of the community for 40 years but are now being asked to leave. 
+The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these is a pharmacist who says the redevelopment could put him out of business after being part of the local community for 40 years. 
 
-## South Kilburn community plan
+## South Kilburn Community Plan
+A presentation of the South Kilburn Community Plan is now available to view online: 
 
-UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
-
-You can read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
-
-There is also a presentation of the plans by Dr Sendra online here:
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
+
+You can also read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
 
 ## Estate Watch Zoom meeting
 The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
