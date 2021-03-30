@@ -38,7 +38,7 @@ Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estate
 
 <img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
 
-The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden).
+The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden). The [Twentieth Century Society](www.c20society.org.uk) - a charity campaigning for 20th century architecture, has [written](https://twitter.com/C20Society/status/1376593494383411207) to the residents group supporting their objections to One Housing Group's demolition plans.
 
 ## Lansbury (South) estate
 Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their [Chrisp Street redevelopment](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/chrisp-street-market/). 
