@@ -34,7 +34,7 @@ Lambeth Council's Cabinet received an update on its estate regeneration programm
 The update also showed that 576 secure tenants and 295 leaseholders remain to be re-housed/bought out, stating that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
 
 ## Juniper Crescent and Gilbey's Yard estate
-Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord [One Housing](www.onehousing.co.uk)'s plans to re-run the ballot. Residents on the estate voted overwhelmingly against demolition in a ballot run last year. 
+Residents on Camden's [Juniper Crescent and Gilbey's Yard estate](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord [One Housing](www.onehousing.co.uk)'s plans to re-run the ballot. Residents on the estate [voted overwhelmingly against demolition](https://estatewatch.london/august-news-roundup/#residents-vote-against-demolition-at-gilbeys-yard--juniper-crescent-estates) in a ballot run last year. 
 
 <img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
 
@@ -67,7 +67,7 @@ A presentation of the South Kilburn Community Plan is now available to view onli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
+UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the [South Kilburn estate](https://estatewatch.london/estates/brent/southkilburn/) to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.
 
 You can also read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
 
