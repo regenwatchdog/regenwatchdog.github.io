@@ -27,4 +27,13 @@ Some blocks on the estate were specifically earmarked for demolition in the 2012
 
 <img src="/images/masterplansites.png" class="img-fluid rounded img-thumbnail">
 
+In February 2021, Westminster Council came under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
+
+<img src="http://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
+
+The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these is a pharmacist who says the redevelopment could put him out of business after being part of the local community for 40 years.
+
+
+
+__Links:__
 Westminster Council has a [dedicated website](https://churchstreet.org/) for the Church Street regeneration.

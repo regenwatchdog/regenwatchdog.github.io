@@ -29,6 +29,8 @@ Lambeth's [Tenancy Strategy](https://www.lambeth.gov.uk/sites/default/files/ho-t
 
 <img src="/images/cressinghamlharates.png" class="img-fluid rounded img-thumbnail">
 
+In November 2020, residents [complained](https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/) about ongoing disturbance from demolition works on the first phase of the scheme.
+
 __Links:__
 
 [VOA website with LHA rates for Lambeth](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=22&LHACategory=999&Month=6&Year=2020&SearchPageParameters=true)

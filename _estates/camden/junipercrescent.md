@@ -60,3 +60,9 @@ _"On a personal note, as the Vice Chair of GY TRA I have found negotiations with
 
 _"It feels to me as though repairs and maintenance have been considerably run down prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
 
+In January 2021, residents set up a campaign website to protest against landlord [One Housing](www.onehousing.co.uk)'s plans to re-run the ballot.
+
+<img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
+
+The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden). The [Twentieth Century Society](www.c20society.org.uk) - a charity campaigning for 20th century architecture, has [written](https://twitter.com/C20Society/status/1376593494383411207) to the residents group supporting their objections to One Housing Group's demolition plans.
+
