@@ -80,7 +80,7 @@ NB. Estate Watch meetings are exclusively for tenants and leaseholders of estate
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@LondonTenants" />
 <meta name="twitter:creator" content="@justspace7" />
-<meta property="og:url" content="https://estatewatch.london/january-news-roundup/" />
-<meta property="og:title" content="Estate Watch news roundup - Dec/January" />
-<meta property="og:description" content="More estate demolitions rushed through ahead of funding changes and more post-ballot tenure mix changes." />
-<meta property="og:image" content="https://estatewatch.london/images/highlanecle.png" />
+<meta property="og:url" content="https://estatewatch.london/february-news-roundup/" />
+<meta property="og:title" content="Estate Watch news roundup - Feb/March" />
+<meta property="og:description" content="Mayor gives nod to more demolitions, Tower Hamlets issues Chrisp St CPO and Westminster serves Church St retailers Notice to Quit." />
+<meta property="og:image" content="https://estatewatch.london/images/churchstreetarticle.png" />
