@@ -71,6 +71,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 		<li>There is a fear for the future and residents shared an opinion that the Council is intentionally displacing residents.</li>
 		<li>The symbolic loss of the adjacent Heygate Estate and the displacement of its residents is referenced often and likely adds to these fears.</li></ul>
 
+<h2>Research Interviews</h2>
 <p class="lead">Here is what some people said... </p>
 
 <div class="row mt-5 align-items-left justify-content-left">
@@ -191,8 +192,52 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
       </div>
       </div>
       
+<!----------------- AUDIO SNIPPET-------------------------->
+<h2>Audio extracts:</h2>
+<hr class="my-4">
+
+<div class="container">
+  <div class="row row-cols-3">
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a Leaseholder</figcaption>
+    <audio
+        controls
+        src="/interviews/Aylesburyinterview3.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/Aylesburyinterview20.mp3">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a Leaseholder:</figcaption>
+    <audio
+        controls
+        src="/interviews/Aylesburyinterview8.m4a">
+    </audio>
+</figure>
+</div>
+
+</div>
+</div>
+
+
+
 <!--------------------------------VIDEO CARDS---------------------------------->      
-      
+<hr class="featurette-divider">
+
+<h2>Media Clips</h2>      
       <div class="container">
     <div class="row">    
         <div class="col-md-6 ">

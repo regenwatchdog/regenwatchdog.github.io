@@ -256,12 +256,22 @@ For more information see the following articles:
 </figure>
 </div>
 
+ <div class="col">
+<figure>
+    <figcaption>Interview with a temporary tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/NPLLInterview22.mp3">
+    </audio>
+</figure>
+</div>
+
 </div>
 </div>
 
 
 <!----------------- MovingMe SNIPPET-------------------------->
-<hr class="featurette-divider>
+<hr class="featurette-divider">
 
 <h2>Moving Me Project</h2>
 
