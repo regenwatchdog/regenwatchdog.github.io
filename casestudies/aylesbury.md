@@ -62,6 +62,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
 <!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 <div class="card-body">
+<h2>Research Interviews</h2>
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
 		<li>Residents have experienced long term interference and disruption (including to services) due to building works from the regeneration.</li>
@@ -71,7 +72,6 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 		<li>There is a fear for the future and residents shared an opinion that the Council is intentionally displacing residents.</li>
 		<li>The symbolic loss of the adjacent Heygate Estate and the displacement of its residents is referenced often and likely adds to these fears.</li></ul>
 
-<h2>Research Interviews</h2>
 <p class="lead">Here is what some people said... </p>
 
 <div class="row mt-5 align-items-left justify-content-left">
@@ -193,7 +193,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
       </div>
       
 <!----------------- AUDIO SNIPPET-------------------------->
-<h2>Audio extracts:</h2>
+<h2>Audio extracts</h2>
 <hr class="my-4">
 
 <div class="container">
@@ -311,9 +311,12 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
       
 		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 	
-		<hr class="featurette-divider">
+<hr class="featurette-divider">
+
+<h2>Displacement Maps</h2>
+<p>(submitted to the CPO Public Inquiry)</p>
 	
-        <div class="card-columns">
+<div class="card-columns">
   <div class="card">
     <img src="{{ site.baseurl }}/images/tenants_disp_map.png" class="card-img-top" alt="...">
     <div class="card-body">
