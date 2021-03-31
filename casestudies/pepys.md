@@ -26,6 +26,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
 
 
 <div class="card-body">
+<h2>Research Interviews</h2>
 <p class="lead">Key themes discussed in the interviews:</p>
        
 <ul>
@@ -108,8 +109,90 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
         </div>
       </div>
     </div>   
+
+<!----------------- AUDIO SNIPPET-------------------------->
+<h2">Audio extracts:</h2>
+<hr class="my-4">
+
+<div class="container">
+  <div class="row row-cols-3">
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a private renter:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview1Luciana.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a leaseholder:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview2Dominic.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a council tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview6Malcolm.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a council tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview7Travis.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a council tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview5Mark.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a council tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview14Ivana.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a council tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/PepysInterview19Ross.m4a">
+    </audio>
+</figure>
+</div>
+
+</div>
+</div>
+
+
 <!-----------------------------------------START OF CARD SNIPPET----------------------------------->
-	       <div class="card-columns">
+<div class="card-columns">
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">MOVING_ME project by Platform 7</h5>
