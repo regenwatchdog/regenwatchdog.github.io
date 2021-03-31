@@ -201,7 +201,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
   <div class="col">
 <figure>
-    <figcaption>Interview with a Leaseholder:</figcaption>
+    <figcaption>Interview with a leaseholder:</figcaption>
     <audio
         controls
         src="/interviews/Aylesburyinterview3.m4a">
@@ -221,7 +221,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
   <div class="col">
 <figure>
-    <figcaption>Interview with a Leaseholder:</figcaption>
+    <figcaption>Interview with a leaseholder:</figcaption>
     <audio
         controls
         src="/interviews/Aylesburyinterview8.m4a">

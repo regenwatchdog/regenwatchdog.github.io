@@ -111,7 +111,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
     </div>   
 
 <!----------------- AUDIO SNIPPET-------------------------->
-<h2">Audio extracts:</h2>
+<h2>Audio extracts</h2>
 <hr class="my-4">
 
 <div class="container">
@@ -192,6 +192,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
 
 
 <!-----------------------------------------START OF CARD SNIPPET----------------------------------->
+<h2>Links</h2>
 <div class="card-columns">
   <div class="card">
     <div class="card-body">

@@ -220,7 +220,7 @@ For more information see the following articles:
 
 
 <!----------------- AUDIO SNIPPET-------------------------->
-<h2>Audio extracts:</h2>
+<h2>Audio extracts</h2>
 <hr class="my-4">
 
 <div class="container">
@@ -228,7 +228,7 @@ For more information see the following articles:
 
   <div class="col">
 <figure>
-    <figcaption>Interview with a Leaseholder</figcaption>
+    <figcaption>Interview with a leaseholder</figcaption>
     <audio
         controls
         src="/interviews/NPLLInterview8.mp3">
@@ -248,7 +248,7 @@ For more information see the following articles:
 
   <div class="col">
 <figure>
-    <figcaption>Interview with a Leaseholder:</figcaption>
+    <figcaption>Interview with a leaseholder:</figcaption>
     <audio
         controls
         src="/interviews/NPLLInterview14.m4a">
