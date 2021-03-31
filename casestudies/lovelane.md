@@ -134,7 +134,7 @@ For more information see the following articles:
 	</div>
 	
 <!------------------ END OF SNIPPET -------------------------------->
-<h2>Interviews</h2>
+<h2>Research Interviews</h2>
 <div class="card-body">
 <p class="lead">Key themes discussed in the interviews:</p>        
 
@@ -220,7 +220,7 @@ For more information see the following articles:
 
 
 <!----------------- AUDIO SNIPPET-------------------------->
-<h2 class="display-4">Audio extracts:</h2>
+<h2>Audio extracts:</h2>
 <hr class="my-4">
 
 <div class="container">
@@ -231,17 +231,17 @@ For more information see the following articles:
     <figcaption>Interview with a Leaseholder</figcaption>
     <audio
         controls
-        src="/interviews/Carpentersinterview1.mp3">
+        src="/interviews/NPLLInterview8.mp3">
     </audio>
 </figure>
 </div>
 
   <div class="col">
 <figure>
-    <figcaption>Interview with a tenant:</figcaption>
+    <figcaption>Interview with a temporary tenant:</figcaption>
     <audio
         controls
-        src="/interviews/Carpentersinterview7.mp3">
+        src="/interviews/NPLLInterview11.mp3">
     </audio>
 </figure>
 </div>
@@ -251,7 +251,7 @@ For more information see the following articles:
     <figcaption>Interview with a Leaseholder:</figcaption>
     <audio
         controls
-        src="/interviews/Carpentersinterview12.mp3">
+        src="/interviews/NPLLInterview14.m4a">
     </audio>
 </figure>
 </div>
@@ -261,6 +261,8 @@ For more information see the following articles:
 
 
 <!----------------- MovingMe SNIPPET-------------------------->
+<hr class="featurette-divider>
+
 <h2>Moving Me Project</h2>
 
 <div class="card-columns">
