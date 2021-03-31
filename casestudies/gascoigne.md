@@ -130,6 +130,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
 
+</div>
 <!----------------- AUDIO SNIPPET-------------------------->
 <h2>Audio extracts:</h2>
 <hr class="my-4">
