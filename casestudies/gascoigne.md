@@ -36,6 +36,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 		<li>Interviewees recognised that their borough was changing and attracting more affluent, professional households.</li>
 		<li>References were made to there being lots of new construction and developments in the borough, especially the Riverside Development site.</li></ul>
 
+<h2>Research Interviews</h2>
 <p class="lead">Here is what some people said...</p>
 
  <div class="row mt-5 align-items-left justify-content-left">
@@ -128,10 +129,54 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
           </div>
         </div>
       </div>
-      <hr class="featurette-divider">
+
+<!----------------- AUDIO SNIPPET-------------------------->
+<h2>Audio extracts:</h2>
+<hr class="my-4">
+
+<div class="container">
+  <div class="row row-cols-3">
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/Gascoigneinterview1KeithS.m4a">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/Gascoigneinterview6Mohammad.mp3">
+    </audio>
+</figure>
+</div>
+
+  <div class="col">
+<figure>
+    <figcaption>Interview with a tenant:</figcaption>
+    <audio
+        controls
+        src="/interviews/Gascoigneinterview14Amie.mp3">
+    </audio>
+</figure>
+</div>
+
+</div>
+</div>
+
+
+
+
+<hr class="featurette-divider">
       
-      <div class="row mt-5 align-items-center justify-content-center">
-<h3>Gascoigne Estate by photographer Andrew Brown</h3>
+<h2>Gascoigne Estate by photographer Andrew Brown</h2>
+<div class="row mt-5 align-items-center justify-content-center">
 
       <div id="carouselExampleIndicators" class="carousel slide" style="width: 70%; margin: 0 auto" data-ride="carousel">
  <ol class="carousel-indicators">
