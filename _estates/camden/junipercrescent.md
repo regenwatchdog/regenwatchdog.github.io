@@ -66,3 +66,14 @@ In January 2021, residents set up a campaign website to protest against landlord
 
 The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden). The [Twentieth Century Society](www.c20society.org.uk) - a charity campaigning for 20th century architecture, has [written](https://twitter.com/C20Society/status/1376593494383411207) to the residents group supporting their objections to One Housing Group's demolition plans.
 
+It is worth noting that the Mayor's [Resident Ballot Requirement](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) allows landlords to keep going back for further ballots - seemingly until they get the result they are seeking.
+
+<img src="https://estatewatch.london/images/furtherballots.jpg" class="img-fluid rounded img-thumbnail">
+
+__Links:__
+Residents' campaign website: [www.handsoffouryard.com](www.handsoffouryard.com)
+
+Online [petition](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden).
+
+Article in the local press: [http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid](http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid)
+

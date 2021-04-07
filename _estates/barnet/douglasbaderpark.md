@@ -17,7 +17,7 @@ coordinates:
 ---
 271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale.
 
-The estate is under the management of housing association [Home Group](http://homegroup.org.uk) and housebuilder [Hill Group](http://hill.co.uk).
+The estate is owned by housing association [Home Group](http://homegroup.org.uk) and housebuilder [Hill Group](http://hill.co.uk).
 
 In May 2019, residents were balloted on the redevelopment options for the estate, but were [told](/images/DouglasBaderParkBallot.pdf) that if they voted against full redevelopment then only essential repairs would be carried out on their homes:
 
@@ -33,6 +33,6 @@ The Mayor's report confirms that the estate's 271 existing homes will be replace
 
 The Mayor's report is also silent on how the affordable housing offer (28% by unit/40% by habitable room) complies with the strategic partnership commitment of 60% affordable housing.
 
-Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the tens of millions of pounds of Mayoral funding might be better spent elsewhere, building new social rented homes rather than replacements.
+Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the Mayoral funding might have been better spent elsewhere, building new social rented homes rather than replacements.
 
-
+The estate is located adjacent to another of Barnet's large scale estate redevelopments - the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/).
