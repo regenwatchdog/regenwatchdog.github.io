@@ -22,7 +22,7 @@ Newlon plans to replace the 351 existing social rented homes and build around 55
 
 In March 2021, a residents ballot was held in which 73% of those who voted supported the proposals on a 79% turnout.
 
-Unsurprising, given that Newlon's formal [Landlord Offer](/images/BarnsburyOffer.pdf) made it clear that if residents voted against redevelopment then it wouldn't tackle the ongoing symptoms of the estate's neglect. 
+Newlon's formal [Landlord Offer](/images/BarnsburyOffer.pdf) made it clear that if residents voted against redevelopment then it wouldn't tackle the ongoing symptoms of the estate's neglect. 
 
 <img src="/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail">
 
@@ -30,4 +30,7 @@ This is an a recurring element in resident ballots, where residents are forced t
 
 In 2018, residents [accused](https://www.islingtongazette.co.uk/news/has-newlon-housing-trust-left-barnsbury-estate-to-rot-3795818) Newlon of neglecting the estate and _'running it into the ground'_.
 
+__Links:__
+Newlon's website for the scheme: [https://betterbarnsbury.org.uk](https://betterbarnsbury.org.uk)
 
+Newlon's [Landlord Offer](/images/BansburyOffer.pdf)
