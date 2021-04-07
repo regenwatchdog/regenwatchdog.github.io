@@ -1,6 +1,7 @@
 ---
 category: underthreat
 stage: Proposal
+published: false
 name: Stangate and Canterbury House 
 borough: lambeth
 thumb: /images/canterbury.jpeg
