@@ -3,7 +3,7 @@ layout: default
 category: updates
 published: true 
 title: FEB/MARCH NEWS ROUND-UP
-date: 2021-03-29
+date: 2021-04-08
 ---
 ## Douglas Bader Park estate
 The Mayor has published his ['stage 1' planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2) giving in principle approval to the [redevelopment of Barnet's Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark/).
