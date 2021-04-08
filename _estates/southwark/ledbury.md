@@ -1,7 +1,7 @@
 ---
 category: underthreat
 stage: Preparation 
-name: Tustin estate 
+name: Ledbury estate 
 borough: southwark
 thumb: /images/tustinthumb.jpeg
 images:
@@ -12,9 +12,9 @@ images:
   - image_path: /images/tustin5.jpeg
   - image_path: /images/tustin6.jpeg
 coordinates: 
-  - -0.054867,51.480339
+  - -0.061766,51.481221
 ---
-298 homes are earmarked for demolition on Southwark's Tustin estate on the Old Kent Road.
+Circa 2,000 homes remain earmarked for demolition on the remaining 3 phases of Southwark's Aylesbury estate redevelopment.
 
 In March 2017, a [council briefing report](http://moderngov.southwark.gov.uk/documents/s67406/Report.pdf) disclosed that _'there are initial plans being led by Regeneration for the overall development of the Tustin Estate, which would involve large scale demolition of the majority of the estate'._ (para 4)
 
@@ -42,8 +42,7 @@ This remaining £153.8m therefore represents the cost of replacing the existing 
 
 In April 2020, Southwark commissioned a [stock condition survey](/images/tustinsurvey.pdf) for the low-rise blocks on the estate. It estimated that the cost of refurbishing the homes to Decent Homes Standard, replacing kitchens and bathrooms and making some minor improvements to external areas would amount to £33m over thirty years (approx £3.5k per home per year).
 
-__Links:__  
-
+__Links:__
 Southwark Council website: [https://www.southwark.gov.uk/housing/southwark-estates/tustin-estate](https://www.southwark.gov.uk/housing/southwark-estates/tustin-estate)
 
 Residents' Facebook Group: [https://www.facebook.com/tustinestateresidents/](https://www.facebook.com/tustinestateresidents/)
