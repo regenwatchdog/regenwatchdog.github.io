@@ -72,7 +72,7 @@ As has become [common practice](https://estatewatch.london/approved/ballotexempt
 <img src="https://estatewatch.london/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="65%"> 
 
 ## South Kilburn Community Plan
-A presentation of the South Kilburn Community Plan is now available to view online: 
+A presentation of the South Kilburn Community Plan is now available to view online: [https://youtu.be/I8YKW0fIqfM](https://youtu.be/I8YKW0fIqfM)
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
