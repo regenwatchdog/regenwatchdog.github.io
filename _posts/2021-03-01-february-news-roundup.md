@@ -67,7 +67,7 @@ The Council plans to demolish 432 homes and 30 retail units in the next phase of
 ## More ballots 
 Three more estate ballots have come back with YES votes for demolition, including [Charlton House](https://estatewatch.london/estates/hounslow/charltonhouse/) in Hounslow, the [Barnsbury estate](https://estatewatch.london/estates/islington/barnsbury/) in Islington and the [Tustin estate](https://estatewatch.london/estates/southwark/tustin/) in Southwark.
 
-As has become [common practice](https://estatewatch.london/approved/ballotexemptions/), residents are faced with the stark choice of new homes or ongoing neglect - refurbishment is never an option.
+As has become [common practice](https://estatewatch.london/approved/ballotexemptions/), residents are faced with the binary choice of new homes or ongoing neglect - refurbishment is never an option.
 
 <img src="https://estatewatch.london/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="65%"> 
 

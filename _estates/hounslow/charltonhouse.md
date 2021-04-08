@@ -31,5 +31,6 @@ The six estates are: the Brabazon estate; the Brookwood estate; Charlton House; 
 
 In March 2021, residents were balloted on the redevelopment of Charlton House, Albany House and Albany Parade. 87% of eligible residents voted in favour of the proposals.
 
-__Links:__
-Hounslow's website: https://www.hounslow.gov.uk/news/article/2311/residents_overwhelmingly_voted_yes_to_the_exciting_plans_to_transform_their_estate
+__Links:__  
+
+Hounslow's [website](https://www.hounslow.gov.uk/news/article/2311/residents_overwhelmingly_voted_yes_to_the_exciting_plans_to_transform_their_estate)

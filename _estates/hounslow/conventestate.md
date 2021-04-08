@@ -48,3 +48,5 @@ The Council's [2020 Cabinet report](https://democraticservices.hounslow.gov.uk/d
 It was also deemed unlikely the estate would be able to meet the council’s energy efficiency targets.
 
 ![conventmap]({{site.baseurl}}/images/conventmap.png)
+
+In April 2021, Hounslow started [consulting](https://haveyoursay.hounslow.gov.uk/housing/conventfeedback/) on its rehousing offer to residents ahead of an expected ballot later in the year.
