@@ -64,6 +64,13 @@ Westminster Council has come under fire after it was [reported](https://londonne
 
 The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these is a pharmacist who says the redevelopment could put him out of business after being part of the local community for 40 years. 
 
+## 
+Three more estate ballots have come back with YES votes for demolition, including [Charlton House](https://estatewatch.london/estates/hounslow/charltonhouse/) in Hounslow, the [Barnsbury estate](https://estatewatch.london/estates/islington/barnsbury/) in Islington and the [Tustin estate](https://estatewatch.london/estates/southwark/tustin/) in Southwark.
+
+As has become [common practice](https://estatewatch.london/approved/ballotexemptions/), residents are faced with the stark choice of new homes or ongoing neglect - refurbishment is never an option.
+
+<img src="https://estatewatch.london/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="65%"> 
+
 ## South Kilburn Community Plan
 A presentation of the South Kilburn Community Plan is now available to view online: 
 
@@ -76,7 +83,8 @@ UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pabl
 You can also read a summary of the plan [here](/images/cpbrochure.pdf) or the full report [here](/images/cpfullreport.pdf).
 
 ## Estate Watch Zoom meeting
-The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
+The next Zoom meeting is scheduled for Friday 16th April at 2pm.
+Please email info@londontenants.org to request attendance and further details.
 
 NB. Estate Watch meetings are exclusively for tenants and leaseholders of estates that are under threat of demolition, have managed to stave off demolition or whose estates are currently being demolished.
 
