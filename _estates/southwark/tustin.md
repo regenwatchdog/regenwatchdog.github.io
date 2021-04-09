@@ -5,7 +5,6 @@ name: Tustin estate
 borough: southwark
 thumb: /images/tustinthumb.jpeg
 images:
-  - image_path: /images/tustin1.jpeg
   - image_path: /images/tustin2.jpeg
   - image_path: /images/tustin3.jpeg
   - image_path: /images/tustin4.jpeg
@@ -41,6 +40,8 @@ The [summary](/images/tustinfvasummary.pdf) of the council's viability assessmen
 This remaining £153.8m therefore represents the cost of replacing the existing Council homes and providing 249 extra council homes.
 
 In April 2020, Southwark commissioned a [stock condition survey](/images/tustinsurvey.pdf) for the low-rise blocks on the estate. It estimated that the cost of refurbishing the homes to Decent Homes Standard, replacing kitchens and bathrooms and making some minor improvements to external areas would amount to £33m over thirty years (approx £3.5k per home per year).
+
+There has been no cost/benefit analysis comparing demolition to refurbishment. Neither has consideration been given to the fact that [government funding is available for refurbishment](https://londonnewsonline.co.uk/housing-estate-next-to-grenfell-tower-will-receive-a-carbon-neutral-overhaul-funded-by-the-council/).
 
 __Links:__  
 
