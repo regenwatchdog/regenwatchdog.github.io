@@ -27,6 +27,7 @@ title: Estates
     <link href="assets/css/theme.css" rel="stylesheet" type="text/css" media="all" />
     <link href="assets/css/album.css" rel="stylesheet" type="text/css" media="all" />
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e44b3b03b3a85887214d44b10/66b388d5d6e36b802bc4c2f91.js");</script>
+   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
    {% seo %}
   </head>
 
@@ -229,6 +230,17 @@ title: Estates
 
 {% include footer.html %}
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
   </body>
 
