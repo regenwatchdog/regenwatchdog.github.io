@@ -33,17 +33,6 @@ Lambeth Council's Cabinet received an update on its estate regeneration programm
 
 The update also showed that 576 secure tenants and 295 leaseholders remain to be re-housed/bought out, stating that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
 
-## Juniper Crescent and Gilbey's Yard estates
-Residents on Camden's [Juniper Crescent and Gilbey's Yard estates](https://estatewatch.london/estates/camden/junipercrescent/) have set up a campaign website to protest against landlord [One Housing](www.onehousing.co.uk)'s plans to re-run the ballot. Residents on the estate [voted overwhelmingly against demolition](https://estatewatch.london/august-news-roundup/#residents-vote-against-demolition-at-gilbeys-yard--juniper-crescent-estates) in a ballot run last year. 
-
-<img src="https://estatewatch.london/images/handsoff.jpg" class="img-fluid rounded img-thumbnail">
-
-The campaign website is here [www.handsoffouryard.com](www.handsoffouryard.com) and their online petition is [here](https://www.change.org/p/one-housing-stop-the-demolition-of-gilbeys-yard-juniper-crescent-in-camden). The [Twentieth Century Society](www.c20society.org.uk) - a charity campaigning for 20th century architecture, has [written](https://twitter.com/C20Society/status/1376593494383411207) to the residents group supporting their objections to One Housing Group's demolition plans.
-
-It is worth noting that the Mayor's [Resident Ballot Requirement](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) allows landlords to keep going back for further ballots - seemingly until they get the result they are seeking.
-
-<img src="https://estatewatch.london/images/furtherballots.jpg" class="img-fluid rounded img-thumbnail">
-
 ## Lansbury (South) estate
 Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their [Chrisp Street redevelopment](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/chrisp-street-market/). 
 
