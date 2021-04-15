@@ -25,7 +25,7 @@ Barnet has also failed to publish the viability assessment for the application s
 ## Marian Court
 Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/) in February after bulldozers started demolishing one of the [Marian Court](https://estatewatch.london/estates/hackney/mariancourt/) blocks with a family still living in one of the flats.
  
-<img src="http://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
+<img src="https://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
 
 Meanwhile, remaining residents on Lambeth's [South Lambeth estate](https://estatewatch.london/estates/lambeth/southlambeth/) have [complained](https://www.wandsworthguardian.co.uk/news/19119129.south-lambeth-estate-residents-suffering-constant-works/) about ongoing disturbance from demolition works on their estate.
 
@@ -49,7 +49,7 @@ We are currently working on creating a general guide to the CPO process for resi
 ## Church Street estates
 Westminster Council has come under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
 
-<img src="http://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
+<img src="https://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
 
 The Council plans to demolish 432 homes and 30 retail units in the next phase of its scheme. Among these is a pharmacist who says the redevelopment could put him out of business after being part of the local community for 40 years. 
 

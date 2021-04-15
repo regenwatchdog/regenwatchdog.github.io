@@ -34,7 +34,7 @@ In December 2020, An [FOI request](https://www.whatdotheyknow.com/request/afford
 
 A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent.
 
-<img src="http://35percent.org/img/gparkaudit2.png" width="50%" class="img-fluid rounded img-thumbnail">
+<img src="https://35percent.org/img/gparkaudit2.png" width="50%" class="img-fluid rounded img-thumbnail">
 
 Whilst the GLA audit considered this a 'high breach' of funding conditions, it failed to impose any kind of penalty on Notting Hill Genesis.
 
@@ -42,7 +42,7 @@ The Mayor's audit also made no mention of the fact that the planning permission 
 
 This is because the [scope of the Mayor's audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions on first let. The Mayor's audit is not concerned with rent levels on subsequent lets or whether the rents are in line with the tenure required by the planning consent.
 
-<img src="http://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
+<img src="https://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
 
 Details of the planning consent for Phase A are available on Barnet's planning portal [here](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NEVAH5JIFWV00) and details of the Mayor's annual compliance audit are available on the GLA website [here](https://www.london.gov.uk/sites/default/files/11_gla_cfg_section_9._compliance_audit_-_august_2020.pdf).
 

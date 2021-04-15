@@ -29,5 +29,5 @@ The plans approved the demolition of Marian Court and the construction of 160 ne
 
 In February 2021, Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/) in February after bulldozers started demolishing one of the [Marian Court](https://estatewatch.london/estates/hackney/mariancourt/) blocks with a family still living in one of the flats.
 
-<img src="http://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
+<img src="/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
 

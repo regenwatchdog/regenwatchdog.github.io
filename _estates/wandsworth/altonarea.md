@@ -32,13 +32,13 @@ In his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3
 
 The requirement for the demolition of housing estates only to be considered as a last resort, is enshrined both in the Mayor's [Estate Regeneration Guidance](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) and the [London Plan itself](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf):
 
-<img src="http://estatewatch.london/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
+<img src="/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
 
 All eyes are now on the Mayor, who has the power to 'call-in' Wandsworth's application. This will be a test of the Mayor's will to tackle Council's that evade his ballot requirement and who fail to weigh demolition against the significant [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment). Comments on Wandsworth's proposals can be submitted to the Mayor on the GLA's new planning portal using [this link](https://gla.force.com/pr/s/planning-application/a0i4J0000003TcJQAU/20194302s1?tabset-c2f3b=3).
 
 In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
-<img src="http://estatewatch.london/images/altonaction.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/altonaction.png" class="img-fluid rounded img-thumbnail">
 
 
 __Links:__  

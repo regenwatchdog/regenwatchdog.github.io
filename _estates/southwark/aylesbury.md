@@ -32,11 +32,11 @@ The NDC finished in 2010 and the  Aylesbury Area Action Plan (AAAP) was formal
 
 Notting Hill Genesis' [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) describes the replacement 'social housing' as a mix of 'target and affordable rent' and acknowledges that in any event there will be an overall net loss of 931 social rented homes.
 
-<img src="http://35percent.org/img/gnhah.png" class="img-fluid rounded img-thumbnail">
+<img src="https://35percent.org/img/gnhah.png" class="img-fluid rounded img-thumbnail">
 
 In February 2015 a group of protesters [occupied](https://www.theguardian.com/society/2015/feb/18/six-arrested-as-police-help-in-evictions-from-london-estate) the first development site in protest at the loss of council homes and residents [disenfranchised](/images/SNWolverton.pdf) by the scheme. 
 
-<img src="http://35percent.org/img/alag.png" class="img-fluid rounded img-thumbnail">
+<img src="https://35percent.org/img/alag.png" class="img-fluid rounded img-thumbnail">
 
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
 
