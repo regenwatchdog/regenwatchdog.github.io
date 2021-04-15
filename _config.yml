@@ -43,7 +43,7 @@ google_analytics: UA-12805041-8
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://estatewatch.london
+url: https://estatewatch.london
 plugins:
           - jekyll-sitemap
           - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
@@ -98,41 +98,6 @@ defaults:
       type: estates
     values:
       layout: estate
-prose:
-  rooturl: '_estates'
-  siteurl: 'http://regenwatchdog.github.io'
-  media: 'images'
-  metadata:
-    _estates:
-      - name: "coordinates"
-        field:
-          element: "textarea"
-          label: "Co-ordinates"
-          placeholder: "Lat and Long Co-ordinates"
-          alterable: true
-      - name: "name"
-        field:
-          element: "textarea"
-          label: "Name of estate"
-          placeholder: "Name of the estate"
-          alterable: true
-      - name: "borough"
-        field:
-          element: "select"
-          label: "Select Borough"
-          placeholder: "Select Borough"
-          alterable: true
-          options:
-          - name: "Brent"
-            value: "brent"
-          - name: "Hounslow"
-            value: "hounslow"
-          - name: "Waltham Forest"
-            value: "walthamforest"
-          - name: "Sutton"
-            value: "sutton"
-          - name: "Redbrige"
-            value: "redbridge"
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
