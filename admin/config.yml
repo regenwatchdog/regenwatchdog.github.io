@@ -9,7 +9,7 @@ backend:
 media_folder: 'img'
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'News Updates'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -20,10 +20,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
- 
-  - name: 'estates'
-    label: 'Estates under threat'
-    folder: '_estates'
+  
+  - name: 'Estates Under Threat'
+    label: 'Estates under Threat'
+
+  - name: 'Barking & Dagenham'
+    label: 'Barking & Dagenham'
+    folder: '_estates/barkinganddagenham'
     fields: 
       - { label: 'Stage', name: 'stage', widget: 'string' }
       - { label: 'name', name: 'Name', widget: 'string' }
