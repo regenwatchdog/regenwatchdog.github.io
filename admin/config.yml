@@ -23,7 +23,7 @@ collections:
   
   - name: 'Barking & Dagenham'
     label: 'Barking & Dagenham'
-    folder: '_estates/barkinganddagenham'
+    folder: '_estates/barkinganddagenham/'
     fields: 
       - { label: 'Stage', name: 'stage', widget: 'string' }
       - { label: 'name', name: 'Name', widget: 'string' }
