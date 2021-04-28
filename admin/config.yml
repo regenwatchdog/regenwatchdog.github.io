@@ -1,12 +1,31 @@
 # config.yml
+publish_mode: editorial_workflow
+site_url: https://estatewatch.london
+logo_url: https://pbs.twimg.com/profile_images/1290966319949582336/jw4u0oX3_400x400.jpg
 
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: 'img'
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
-      - { name: Title }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+ 
+  - name: 'estates'
+    label: 'Estates under threat'
+    folder: '_estates'
+    fields: 
+      - { label: 'Stage', name: 'stage', widget: 'string' }
+      - { label: 'name', name: 'Name', widget: 'string' }
+      - { label: 'borough', name: 'Borough', widget: 'string' }
+        
