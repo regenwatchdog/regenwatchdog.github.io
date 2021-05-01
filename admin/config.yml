@@ -26,7 +26,8 @@ collections:
     identifier_field: name
     folder: '_estates/barkinganddagenham/'
     fields: 
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Borough', name: 'borough', widget: 'string' }
       - { label: 'Stage', name: 'stage', widget: 'string' }
-      - { label: 'name', name: 'Name', widget: 'string' }
-      - { label: 'borough', name: 'Borough', widget: 'string' }
+      - { label: 'Lat/Long Coordinates', name: 'coordinates', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
