@@ -32,3 +32,7 @@ The Wendling estate overlooks the site of the former Bacton estate where Camden 
 <img src="/images/bacton.jpg" class="img-fluid rounded img-thumbnail">
 <figcaption class="figure-caption text-right">Wendling overlooks the site of the former Bacton low-rise estate</figcaption>
 </figure>
+
+__Update:__ It has been announced that the ballot has been scheduled for 21st June 2021.
+
+More info here: [https://news.camden.gov.uk/wendling-and-st-stephens-close-estate-regeneration-ballot-set-for-early-summer/](https://news.camden.gov.uk/wendling-and-st-stephens-close-estate-regeneration-ballot-set-for-early-summer/)
