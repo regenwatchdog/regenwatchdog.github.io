@@ -39,4 +39,33 @@ The government's [Compulsory Purchase Code](https://assets.publishing.service.go
 
 You should use this to lobby your landlord and argue that you own 100% of your home now and that you should be entitled to a 'home swap' which will allow you to own 100% of a new home on the estate. 
 
-## STEP 2: 
+## STEP 2: Get organised and get armed!
+Go knocking on doors and get organised with other leaseholders on the estate. You can find out which other properties on the estate are leaseholders using the Land Registry. Form a group, set up a Website/Facebook page and start lobbying your landlord for the home swap option. If your landlord is a local authority get in touch with your local ward councillors.
+
+Get hold of the financial figures behind the redevelopment scheme, which show how much profit the landlord stands to make. According to the Mayor's new policy, viability assessments must be made public for every planning application.
+
+Leaseholders on the Aylesbury estate in Southwark showed that the housing association redeveloping the estate was set to earn over £163m profit from the scheme. 
+![](https://35percent.org/img/profitshare.png)    
+
+They used this to argue that some of this profit should be used to give them a better deal and the argument was very compelling.
+
+It's best to start out as early as possible in the CPO process with making your demands heard. Ideally prior to any ballot and drafting of any landlord offer but failing this there will be other opportunities. If your landlord is a local authority there will be a number of Council meetings convened to discuss any given estate demolition. The Council will need to draft a leaseholder policy and later on will need to approve a resolution to commence CPO proceedings, as well as reside over any planning applications. Attend these meetings and make representations setting out how the home-swap option is not just best practice used in other schemes but also included in the government's estate regeneration guidance.
+
+STEP 3: The CPO process
+If your lobbying fails you will have one last attempt to secure a better offer - when it comes to the Compulsory Purchase Order.
+
+Once the local authority has agreed to commence CPO proceedings, you will receive a formal notice giving you at least 28 days to object. The notice will give you details of where to send your objection letter. It is very important that you send the objection letter before the deadline. At this point you should instruct a solicitor to draft the letter. It will look something like [this](images/CPO_Objection_Template.docx) with a brief summary outlining the grounds of objection. 
+
+Once the letter is received by the government's planning casework unit, a Public Inquiry will be triggered but this could be anything from 6 months to a year away.
+
+In the meantime you will need to seek legal help in drawing up your detailed statement of objection, which will be presented to the Public Inquiry. You could try crowdfunding or approach the [Bar Pro Bono Unit](https://weareadvocate.org.uk/).
+
+Whilst it is the principle argument the statement of objection is not limited tothe human rights implications of the rehousing offer but can also include other considerations, because a CPO has to satisfy a number of tests.
+
+The first of these is the well-being test; the local authority must demonstrate that the scheme underlying the CPO will result in an improvement in the Environmental, Social and Financial well-being of the local area. A case could be made that refurbishment would lead to better outcomes in each of these three areas - as [evidence has shown](https://www.estatewatch.london/refurbishment/).
+
+The second is that the scheme underlying the CPO must be approved in accordance with any planning policies governing it. Very often concessions are made in meeting planning policy objectives, for example on the Mayor's requirement for min 50% affordable housing on estate regenerations, or zero carbon policies etc. 
+
+You can see some of these arguments in the Aylesbury estate leaseholders' [Statement of Case](https://estatewatch.london/images/objectorsstatementofcaseNOV2017.pdf) to their Public Inquiry in 2018.
+
+ 
