@@ -6,9 +6,9 @@ subtitle: a guide to the CPO process for leaseholders on estates under threat
 
 ## TIP 1: Make your demands clear from the outset
 
-Before Compulsory Purchase Orders are initiated, the landlord will have needed to set out what its offer is to leaseholders - either in a 'Landlord Offer' document which is part of the ballot process, or in an approved policy document if the landlord is a local authority.
+Before a Compulsory Purchase Order (CPO) is initiated, the landlord will have needed to set out what its offer is to leaseholders - either in a 'Landlord Offer'as part of a ballot process, or in an approved policy document if the landlord is a local authority.
 
-You will have the opportunity to challenge and influence the details of the landlord offer prior to and throughout the CPO process. It will be the main consideration when it comes to challenging a CPO so it is important that you set out clearly the terms of the rehousing package you want to be offered.
+You will have the opportunity to challenge and influence the details of the landlord offer prior to and throughout the CPO process. It will be the main consideration when it comes to challenging a CPO so it's important that you set out clearly the terms of the rehousing package you want to be offered.
 
 The Government's [Estate Regeneration National Guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/575578/Estate_Regeneration_National_Strategy_-_Resident_Engagement_and_Protection.pdf) documents proposes a 'Home Swap' option (see page 9) where leaseholders are offered full ownership of a new home on the redeveloped estate and any difference in value is disregarded, provided that the leaseholder doesn't sell up before 7 years after moving in. 
 
@@ -18,11 +18,13 @@ This is the most equitable of options available for leaseholders as they are abl
 
 At least two housing associations in London offer this home swap model - Poplar HARCA in Tower Hamlets (see more info [here](https://www.estatewatch.london/images/teviotoffer.pdf)) and Clarion housing association (see more info [here](circle housing association)).   
 
-Most other landlords will offer what is usually called a 'shared equity' or 'equity loan' scheme for leaseholders. But these schemes can differ from one another significantly and there are a number of problems with them. 
+Most other landlords will offer what is usually called a 'shared equity' or 'equity loan' scheme for leaseholders. But these schemes can differ from one another significantly and there are a number of problems associated with them. 
 
-Some of them require leaseholders to sink their personal savings into the scheme or take out a mortgage. Some have high minimum thresholds requiring the leaseholder to be able to afford at least 50% or sometimes as much as 80% equity. This has the effect of requiring leaseholders to use personal savings or take out a mortgage. Some schemes don't allow the equity share to be passed on to descendants and some require the leaseholder to pay the landlord's share of any major works charges. A further complication is that the leaseholder is obliged to accept the landlord's valuation of their current home and that of the replacement home. 
+Some require leaseholders to sink their personal savings into the scheme or take out a mortgage. Some have high minimum thresholds which have the same effect i.e. requiring the leaseholder to be able to afford at least 50% or sometimes as much as 80% minimum equity. 
 
-So it is important to read the small print and ensure that any shared equity scheme includes the following guarantees as a minimum:
+Some schemes don't allow the equity share to be passed on to descendants and some require the leaseholder to pay the landlord's share of any major works charges. A further complication is that the leaseholder is obliged to accept the landlord's valuation of their current home and that of the replacement home. 
+
+So it's important to read the small print and ensure that any shared equity scheme includes the following guarantees as a minimum:
 
 1. The required minimum equity share is not higher than 25%.
 2. The leaseholder is not means tested or obliged to sink savings or re-mortgage.
@@ -40,11 +42,11 @@ The government's [Compulsory Purchase Code](https://assets.publishing.service.go
 You should use this to lobby your landlord and argue that you own 100% of your home now and that you should be entitled to a 'home swap' which will allow you to own 100% of a new home on the estate. 
 
 ## TIP 2: Get organised and get armed!
-Go knocking on doors and get organised with other leaseholders on the estate. You can find out which other properties on the estate are leaseholders using the Land Registry. Form a group, set up a Website/Facebook page and start lobbying your landlord for the home swap option. If your landlord is a local authority get in touch with your local ward councillors.
+Go knocking on doors and get organised with other leaseholders on the estate. You can find out which other properties on the estate are leaseholders using the Land Registry. Form a group, set up a Website/Facebook page and start lobbying your landlord for the home swap option. If your landlord is a local authority get in touch with and lobby your local ward councillors.
 
 Get hold of the financial figures behind the redevelopment scheme, which show how much profit the landlord stands to make. According to the Mayor's new policy, viability assessments must be made public for every planning application.
 
-Leaseholders on the Aylesbury estate in Southwark showed that the housing association redeveloping the estate was set to earn over £163m profit from the scheme. 
+By obtaining these financial figures, leaseholders on the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) in Southwark were able to show that the housing association redeveloping the estate was set to earn over £163m profit from the scheme. 
 ![](https://35percent.org/img/profitshare.png)    
 
 They used this to argue that some of this profit should be used to give them a better deal and the argument was very compelling.
@@ -68,6 +70,6 @@ The second is that the scheme underlying the CPO must be approved in accordance 
 
 You can read some of these arguments in the Aylesbury estate leaseholders' [Statement of Case](https://estatewatch.london/images/objectorsstatementofcaseNOV2017.pdf) to their Public Inquiry in 2018.
 
-<img src="../images/heygatecpo.jpeg" class="img-fluid rounded img-thumbnail">
+<img src="/images/heygatecpo.jpeg" class="img-fluid rounded img-thumbnail">
 
 
