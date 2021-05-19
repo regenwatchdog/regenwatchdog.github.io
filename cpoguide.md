@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CPO guide for leaseholders
+title: CPO guide for leaseholders (DRAFT)
 subtitle: a guide to the CPO process for leaseholders on estates under threat
 ---
 
-## STEP 1: Make your demands clear from the outset
+## TIP 1: Make your demands clear from the outset
 
 Before Compulsory Purchase Orders are initiated, the landlord will have needed to set out what its offer is to leaseholders - either in a 'Landlord Offer' document which is part of the ballot process, or in an approved policy document if the landlord is a local authority.
 
@@ -39,7 +39,7 @@ The government's [Compulsory Purchase Code](https://assets.publishing.service.go
 
 You should use this to lobby your landlord and argue that you own 100% of your home now and that you should be entitled to a 'home swap' which will allow you to own 100% of a new home on the estate. 
 
-## STEP 2: Get organised and get armed!
+## TIP 2: Get organised and get armed!
 Go knocking on doors and get organised with other leaseholders on the estate. You can find out which other properties on the estate are leaseholders using the Land Registry. Form a group, set up a Website/Facebook page and start lobbying your landlord for the home swap option. If your landlord is a local authority get in touch with your local ward councillors.
 
 Get hold of the financial figures behind the redevelopment scheme, which show how much profit the landlord stands to make. According to the Mayor's new policy, viability assessments must be made public for every planning application.
@@ -51,7 +51,7 @@ They used this to argue that some of this profit should be used to give them a b
 
 It's best to start out as early as possible in the CPO process with making your demands heard. Ideally prior to any ballot and drafting of any landlord offer but failing this there will be other opportunities. If your landlord is a local authority there will be a number of Council meetings convened to discuss any given estate demolition. The Council will need to draft a leaseholder policy and later on will need to approve a resolution to commence CPO proceedings, as well as reside over any planning applications. Attend these meetings and make representations setting out how the home-swap option is not just best practice used in other schemes but also included in the government's estate regeneration guidance.
 
-## STEP 3: The CPO process
+## TIP 3: Navigating the CPO process
 If your lobbying fails you will have one last attempt to secure a better offer - when it comes to the Compulsory Purchase Order.
 
 Once the local authority has agreed to commence CPO proceedings, you will receive a formal notice giving you at least 28 days to object. The notice will give you details of where to send your objection letter. It is very important that you send the objection letter before the deadline. At this point you should instruct a solicitor to draft the letter. It will look something like [this](images/CPO_Objection_Template.docx) with a brief summary outlining the grounds of objection. 
@@ -68,6 +68,6 @@ The second is that the scheme underlying the CPO must be approved in accordance 
 
 You can read some of these arguments in the Aylesbury estate leaseholders' [Statement of Case](https://estatewatch.london/images/objectorsstatementofcaseNOV2017.pdf) to their Public Inquiry in 2018.
 
-<img src="images/heygatecpo.jpeg" class="img-fluid rounded img-thumbnail">
+<img src="../images/heygatecpo.jpeg" class="img-fluid rounded img-thumbnail">
 
 
