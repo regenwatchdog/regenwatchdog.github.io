@@ -68,6 +68,6 @@ The second is that the scheme underlying the CPO must be approved in accordance 
 
 You can read some of these arguments in the Aylesbury estate leaseholders' [Statement of Case](https://estatewatch.london/images/objectorsstatementofcaseNOV2017.pdf) to their Public Inquiry in 2018.
 
-<img src="https://www.35percent.org/img/cpoinquiry2.png" class="img-fluid rounded img-thumbnail">
+<img src="https://southwarknotes.files.wordpress.com/2018/01/aylesbury-cpo-first-pic.jpg" class="img-fluid rounded img-thumbnail">
 
 
