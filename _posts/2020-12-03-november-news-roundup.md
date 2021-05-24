@@ -5,7 +5,7 @@ published: true
 title: NOVEMBER NEWS ROUND-UP
 date: 2020-12-07
 ---
-This month's roundup begins with some good news - the Mayor will no longer provide funding under his [affordable housing programme](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/2022-2032-affordable-housing-funding-requirement-london) for homes replacing those demolished on London's Council estates.
+This month's roundup begins with some good news - the Mayor will no longer provide funding under his [affordable housing programme](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/2022-2032-affordable-housing-funding-requirement-london) for homes replacing those demolished on London estates.
 
 The Mayor's new [funding guidance](https://www.london.gov.uk/sites/default/files/201123_homes_for_londoners_-_affordable_homes_programme_2021-2026_-_funding_guidance_fa.pdf) issued last week, says that from now on he will only fund additional affordable homes built as part of an estate redevelopment.
 

@@ -25,9 +25,15 @@ collections:
     label: 'Barking & Dagenham'
     identifier_field: name
     folder: '_estates/barkinganddagenham/'
-    fields: 
+    fields:
+           - label: "Current Development Status"
+             name: "stage"
+             widget: "select"
+             options:
+               - { label: "Proposal Stage", value: "proposal" }
+               - { label: "Preparation Stage", value: "preparation" }
+               - { label: "Implementation Stage", value: "implementation" }
       - { label: 'Name', name: 'name', widget: 'string' }
       - { label: 'Borough', name: 'borough', widget: 'string' }
-      - { label: 'Stage', name: 'stage', widget: 'string' }
       - { label: 'Lat/Long Coordinates', name: 'coordinates', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
