@@ -25,6 +25,8 @@ In May 2019, residents were balloted on the redevelopment options for the estate
 
 This is slowly [becoming standard practice](/approved/ballotexemptions/) in the ballot process - residents are faced with the choice of redevelopment or continued neglect and disinvestment; the option of having their homes refurbished is simply not on the table.
 
+In January 2021, a [planning application](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100) was submitted for redevelopment of the estate.
+
 In February 2021, the Mayor has published his ['stage 1' planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2) giving in principle approval to the [redevelopment of Barnet's Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark/).
 
 The estate is owned by housing association ['Home Group'](https://homegroup.org.uk), which is one of the Mayor's [strategic partners](https://www.insidehousing.co.uk/news/news/six-partnerships-announced-as-490m-grant-allocated-59289) in receipt of £46m GLA funding for agreeing to provide at least 60% affordable housing across its pipeline (see para 3.17 of the Mayor's [funding guidance](https://www.london.gov.uk/sites/default/files/smha_offer_2019.pdf) for more info).
@@ -35,4 +37,17 @@ The Mayor's report is also silent on how the affordable housing offer (28% by un
 
 Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the Mayoral funding might have been better spent elsewhere, building new social rented homes rather than replacements.
 
-The estate is located adjacent to another of Barnet's large scale estate redevelopments - the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/).
+On 1 June 2021, Barnet's planning committee [rejected](https://barnet.moderngov.co.uk/ieListDocuments.aspx?CId=703&MId=10137&Ver=4) the proposals after residents [objected](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) to the rehousing proposals.
+
+<img src="/images/dbpcomment.png" class="img-thumbnail rounded img-fluid">
+
+<img src="/images/dbpcomment2.png" class="img-fluid rounded img-thumbnail"> 
+
+The estate is located directly adjacent to another of Barnet's large scale estate redevelopments - the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/).
+
+__Links:__ 
+Planning application and supporting documents: [https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100) (ref: 20/6277/FUL)
+
+Planning officer report for the rejected planning application: [https://barnet.moderngov.co.uk/documents/s65028/Douglas%20Bader%20Park%20Estate.pdf](https://barnet.moderngov.co.uk/documents/s65028/Douglas%20Bader%20Park%20Estate.pdf)
+
+The Mayor's stage 1 report: [https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2)
