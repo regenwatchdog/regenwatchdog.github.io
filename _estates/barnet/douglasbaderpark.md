@@ -33,11 +33,21 @@ The estate is owned by housing association ['Home Group'](https://homegroup.org.
 
 The Mayor's report confirms that the estate's 271 existing homes will be replaced by 753 new homes of which 272 will be affordable in a mix of social rent and London Affordable Rent. While it praises the _'like for like replacement of social rent accommodation'_, it conflates social rent with London Affordable Rent and is silent on the application's failure to meet the Mayor's minimum 50% affordable housing requirement for estate regenerations.
 
-The Mayor's report is also silent on how the affordable housing offer (28% by unit/40% by habitable room) complies with the strategic partnership commitment of 60% affordable housing.
+The Mayor's report is also silent on how the affordable housing offer (36% by unit/40% by habitable room) complies with the strategic partnership commitment of 60% affordable housing.
 
 Neither does it say anything about the Mayor's requirement to show that alternatives to demolition have been properly considered. It is therefore impossible to know whether the Mayoral funding might have been better spent elsewhere, building new social rented homes rather than replacements.
 
-On 1 June 2021, Barnet's planning committee [rejected](https://barnet.moderngov.co.uk/ieListDocuments.aspx?CId=703&MId=10137&Ver=4) the proposals after residents [objected](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) to the rehousing proposals.
+On 1 June 2021, the planning application was heard and Barnet's planning committee [rejected](https://barnet.moderngov.co.uk/ieListDocuments.aspx?CId=703&MId=10137&Ver=4) the proposals. 
+
+The reasons for refusal are unclear from the [minutes](https://barnet.moderngov.co.uk/documents/g10137/Printed%20minutes%2001st-Jun-2021%2019.00%20Strategic%20Planning%20Committee.pdf?T=1) of the 1st June committee meeting. They simply state that the application was rejected by 7 votes to 4 and that reasons for refusal will be agreed formally at the next committee meeting.
+
+Labour Councillor [Gill Sargeant](https://barnet.moderngov.co.uk/mgUserInfo.aspx?UID=157) addressed the committee in objection to the scheme but there is no record in the minutes of what she said. As such it can only be speculated at this stage what the grounds of refusal are.
+
+Possible grounds could include the low level of affordable housing proposed (36% by unit) or that despite tripling the density and receiving GLA grant funding, the scheme is providing an uplift of just one extra social housing unit - albeit at London Affordable Rent not traditional social rent.
+
+The application also failed to comply with the Mayor's policy requirement to publish a viability assessment showing that the maximum level of affordable housing is being provided. The Mayor requires a minimum of 50% affordable housing on estate regenerations. Neither has it complied with the Mayor's policy requiring evidence to show that demolition is being pursued as a last resort.
+ 
+The plans also propose the felling of 160 mature trees, 51 of which covered by Tree Preservation Orders but perhaps the more compelling reasons for refusal were the [Comments](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) submitted by estate residents who are clearly very unhappy with the way that the housing association is managing the scheme:
 
 <img src="/images/dbpcomment.png" class="img-thumbnail rounded img-fluid">
 

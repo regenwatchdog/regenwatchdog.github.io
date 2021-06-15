@@ -15,9 +15,9 @@ coordinates:
   - '-0.150762,51.491119'
 published: true
 ---
-40 Council homes are under threat of demolition on Westminster's Cundy Street estate.
+44 Council homes are under threat of demolition on Westminster's Cundy Street estate.
 
-The estate is owned by the Duke of Westminster (Grosvenor estates) who proposes to demolish the 111 homes (40 of which are council homes in one of the blocks - Walden House) which Grosvenor leases to the council. The plans are to replace these with 93 “affordable” homes, 70 for private market sale and 170 specialist “senior living” accommodation units.
+The estate is owned by the Duke of Westminster (Grosvenor estates) who proposes to demolish all 160 homes on the estate, including the 44 which are leased to the council. The plans are to replace these with 93 “affordable” homes, 70 for private market sale and 170 specialist “senior living” accommodation units.
 
 Grosvenor has launched a series of online 'webinar' consultation sessions and is planning to submit a planning application in late 2020. Grosvenor is planning to progress the scheme without mayoral funding such that it won't be subject to the Mayor's requirement to ballot residents on the demolition of their homes.
 
