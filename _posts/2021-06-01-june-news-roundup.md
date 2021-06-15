@@ -48,7 +48,7 @@ The approval comes shortly after Westminster approved the nearby [Ebury Bridge e
 
 The estate comprising 336 homes (198 social rent/138 leasehold) is due to be replaced by 781 homes of which 239 social rent - an uplift of just 41 social rented units despite more than doubling the density.
 
-<img src="/images/eb2.jpg" class="img-fluid rounded img-thumbnail">
+<img src="/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 The estate is being redeveloped by the Council itself and demolition is already partly underway.
 
@@ -58,17 +58,18 @@ There is nothing in the planning application documents showing that demolition i
 
 Neither of these two westminster schemes have been signed off by the Mayor yet, so it is open to him to call them in and decide on the applications himself.
 
-Given the significant public subsidy involved, the housing crisis and the Mayor's recent [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a *"‘retrofit revolution’ to tackle the climate emergency"* one might expect the Mayor to exercise his call-in powers to ensure that the £198m of public money might be better spent exploring the [environmental, economic and social benefits](https://www.estatewatch.london/refurbishment/) of refurbishment.
+Given the significant public subsidy involved, the housing crisis and the Mayor's recent [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a *"‘retrofit revolution’ to tackle the climate emergency"* one might expect the Mayor to exercise his call-in powers to explore whether £198m of public money might be better spent on the [environmental, economic and social benefits](https://www.estatewatch.london/refurbishment/) of refurbishment.
 
 ## Aylesbury estate
 Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) has [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been refurbished to be let out as temporary accommodation to families on its waiting list.
-﻿
+
 <img src="/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
+
 The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until the phase of the estate is 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
 
 Southwark Council has spent at least £50m on the Aylesbury scheme to date with a further £193m of council funds committed to phase 1 alone, with no net increase in the number of social rented homes.
   
-This begs an obvious question: if these homes can be refurbished to acceptable standards why are they being knocked down?
+This begs an obvious question: if these homes can be refurbished to acceptable standards for habitation, why are they being knocked down?
 
 ## Estate Watch zoom meeting
 The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
