@@ -1,6 +1,6 @@
 ---
 category: underthreat
-stage: Proposal 
+stage: Preparation 
 name: Cundy Street estate 
 borough: westminster
 thumb: /images/cundy1thumb.jpg
