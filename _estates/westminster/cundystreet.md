@@ -17,11 +17,23 @@ published: true
 ---
 44 Council homes are under threat of demolition on Westminster's Cundy Street estate.
 
-The estate is owned by the Duke of Westminster (Grosvenor estates) who proposes to demolish all 160 homes on the estate, including the 44 which are leased to the council. The plans are to replace these with 93 “affordable” homes, 70 for private market sale and 170 specialist “senior living” accommodation units.
+The estate is owned by the Duke of Westminster (Grosvenor estates) who proposes to demolish all 160 homes on the estate, including the 44 which are leased to the council. 
 
-Grosvenor has launched a series of online 'webinar' consultation sessions and is planning to submit a planning application in late 2020. Grosvenor is planning to progress the scheme without mayoral funding such that it won't be subject to the Mayor's requirement to ballot residents on the demolition of their homes.
+Grosvenor is planning to progress the scheme without mayoral funding such that it won't be subject to the Mayor's requirement to ballot residents on the demolition of their homes.
 
-There is an active campaign against the proposals with links provided below.
+In June 2021, Westminster Council approved Grosvenor's application for the demolition of 111 private and 44 social rented homes on the [Cundy Street estate](https://www.estatewatch.london/estates/westminster/cundystreet/).
+
+Grosvenor will replace them with 139 homes for luxury senior living accommodation plus 93 'affordable' of which 44 social rent and 49 intermediate rent.
+
+Westminster published Grosvenor's [viability assessment](https://idoxpa.westminster.gov.uk/online-applications/files/95BB21391E1D917B7E1E2A471BFEE830/pdf/20_03307_FULL-FINANCIAL_VIABILITY_ASSESSMENT-6839837.pdf) for the scheme, which said it couldn't afford to provide any more affordable housing because the scheme was only estimated to produce £71m of the £121m profit it says it requires.
+
+<img src="/images/csfva.png" class="img-fluid rounded img-thumbnail">
+
+The viability assessment also shows that Grosvenor hasn't applied for GLA grant funding, which would have enabled it to provide more affordable housing, despite the Mayor's policy requirement that estate regenerations seek grant funding to maximise the provision of affordable housing.
+
+No detailed evidence was supplied showing how the demolition proposals comply with the Mayor's policy requiring demolition to be pursued only as a last resort.
+
+There is a campaign against the proposals with links provided below.
 
 <img src="/images/cundysaveourhomes.jpg" class="img-fluid rounded img-thumbnail">
 

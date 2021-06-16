@@ -8,6 +8,11 @@ images:
   - image_path: /images/skil1.png
   - image_path: /images/skil2.jpg
   - image_path: /images/skil3.png
+  - image_path: /images/yanki1.jpeg
+  - image_path: /images/yanki2.jpeg
+  - image_path: /images/yanki3.jpeg
+  - image_path: /images/yanki4.jpeg
+  - image_path: /images/yanki5.jpeg
 coordinates:
   - -0.198561,51.533219
 ---

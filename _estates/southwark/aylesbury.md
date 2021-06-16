@@ -42,4 +42,14 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 
 In July 2020, Southwark resolved to step in and [stump up £193m](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) to help its development partner complete the first phase of the Aylesbury estate redevelopment, in what has been [termed as a bail out](https://www.southwarknews.co.uk/news/housing-chief-denies-aylesbury-estate-deal-is-bail-out-for-notting-hill-genesis/) after its development partner was forced scale back its operations by the Social Housing Regulator.
 
+In May 2021, Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been [refurbished to be let out as temporary accommodation](https://www.southwark.gov.uk/news/2021/may/southwark-council-to-provide-temporary-housing-for-80-homeless-people-on-aylesbury-estate-while-581-council-homes-are-being-built) to families on the Council's housing waiting list.
+
+<img src="/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
+
+The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until the phase of the estate is 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
+
+Southwark Council has spent at least £50m on the Aylesbury scheme to date with a further £193m of council funds committed to phase 1 alone, with no net increase in the number of social rented homes.
+
+This begs an obvious question: if these homes can be refurbished to acceptable standards for habitation, why are they being knocked down?
+
 The Aylesbury estate features as one of the [case studies](/casestudies/aylesbury) in the research section of this website, which provides more detailed information about the regeneration.
