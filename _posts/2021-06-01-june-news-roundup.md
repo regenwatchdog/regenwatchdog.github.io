@@ -1,36 +1,47 @@
 ---
 layout: post
-title: May/June News Roundup
-date: 2021-06-15
+title: June 2021 News Roundup
+date: 2021-06-22
 ---
 ## Douglas Bader Park estate - plans rejected
-Barnet's planning committee has gone against officer recommendations and unexpectedly [rejected](https://barnet.moderngov.co.uk/ieListDocuments.aspx?CId=703&MId=10137&Ver=4) housing association Home Group's application to demolish the Douglas Bader Park estate.
+Barnet's planning committee has gone against officer recommendations and unexpectedly [rejected](https://barnet.moderngov.co.uk/ieListDocuments.aspx?CId=703&MId=10137&Ver=4) housing association Home Group's application to demolish the Douglas Bader Park estate. The application was for demolition of the exiting 271
+social rented homes and replacement with 272 (36%) London Affordable Rent
+homes and 481 private/market homes.
 
 <img src="/images/db3.png" class="img-fluid rounded img-thumbnail">
 
-The reasons for refusal are unclear from the [minutes](https://barnet.moderngov.co.uk/documents/g10137/Printed%20minutes%2001st-Jun-2021%2019.00%20Strategic%20Planning%20Committee.pdf?T=1) of the 1st June committee meeting. They simply state that the application was rejected by 7 votes to 4 and that reasons for refusal will be agreed formally at the next committee meeting.
+Residents who [responded](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) to the application echoed concerns often expressed by many who are involved in the Estate Watch residents’ network. These included:
 
-Labour Councillor [Gill Sargeant](https://barnet.moderngov.co.uk/mgUserInfo.aspx?UID=157) addressed the committee in objection to the scheme but there is no record in the minutes of what she said. As such it can only be speculated at this stage what the grounds of refusal are.
+* not being offered a ‘like for like’ property;
+* the needs and concerns of older people who have resided in their homes for 45 years, particularly those with medical problems, ignored;
+* loss of long-term friends and neighbours;
+* being scared for their futures and the regeneration bringing tears to their eyes;
+* that residents who object to the regeneration failed respond to the application, as they felt ‘what is the point and who cares about us;
+* landlord displacement of residents prior to the planning application;
+* concerns that the ballot held in 2019 was not fair.
 
-Possible grounds could include the low level of affordable housing proposed (36% by unit) or that despite tripling the density and receiving GLA grant funding, the scheme is providing an uplift of just one extra social housing unit - albeit at London Affordable Rent not traditional social rent.
+The [minutes](https://barnet.moderngov.co.uk/documents/g10137/Printed%20minutes%2001st-Jun-2021%2019.00%20Strategic%20Planning%20Committee.pdf?T=1) of the council meeting don’t give reasons for the application being refused – they simply say that these will be agreed formally at the next meeting.
 
-The application also failed to comply with the Mayor's policy requirement to publish a viability assessment showing that the maximum level of affordable housing is being provided. The Mayor requires a minimum of 50% affordable housing on estate regenerations and it also has a ['strategic partnership'](https://www.insidehousing.co.uk/news/news/six-partnerships-announced-as-490m-grant-allocated-59289) agreement with Home Group requiring it to provide at least 60% affordable housing.
+The refusals could perhaps include:
 
-Home Group has failed to comply with the Mayor's policy requiring evidence to show that demolition is being pursued as a last resort and its plans also propose the felling of 160 mature trees, 51 of which covered by Tree Preservation Orders. But perhaps the more compelling reasons for refusal might have been the [Comments](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) submitted by estate residents who are clearly very unhappy with the way that the housing association is managing the scheme:
-
-<img src="/images/dbpcomment.png" class="img-thumbnail rounded img-fluid">
-
-<img src="/images/dbpcomment2.png" class="img-fluid rounded img-thumbnail"> 
+* the failure to show (through a viability study) that the maximum level of
+affordable homes is being provided, when the Mayor of London requires 60%
+in estate regeneration schemes where there a ‘strategic partner’ (like Homes
+Group) is involved;
+* the possibility that evidence has not been provided to show demolition is
+being perused as a last resort;
+* proposals to fell 161 trees when 51 are covered by tree preservation orders;
+* comments made by residents.
 
 You can read more about the Douglas Bader Park estate on our web page [here](https://www.estatewatch.london/estates/barnet/douglasbaderpark/) or view the panning application and supporting documents [here](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100) (ref: 20/6277/FUL)
 
-## Cundy Street estate
+## Cundy Street estate - Why isn't Grosvenor seeking funding to provide more affordable homes?
 
-Meanwhile, Westminster Council has approved Grosvenor's application for the demolition of 111 private and 44 social rented homes on the [Cundy Street estate](https://www.estatewatch.london/estates/westminster/cundystreet/).
+Westminster Council has approved an application for the demolition of 111 private and 44 social rented homes on the [Cundy Street estate](https://www.estatewatch.london/estates/westminster/cundystreet/) made by the Duke of Westminster's property firm Grosvenor.
 
 <img src="/images/cundy3.png" class="img-fluid rounded img-thumbnail">
 
-Grosvenor plans to replace them with 139 homes for luxury senior living accommodation plus 93 'affordable' of which 44 social rent and 49 intermediate rent.
+Grosvenor plans to replace the estate with 139 homes for luxury senior living accommodation plus 93 'affordable' of which 44 social rent and 49 intermediate rent.
 
 Westminster did publish Grosvenor's [viability assessment](https://idoxpa.westminster.gov.uk/online-applications/files/95BB21391E1D917B7E1E2A471BFEE830/pdf/20_03307_FULL-FINANCIAL_VIABILITY_ASSESSMENT-6839837.pdf) for the scheme, which said it couldn't afford to provide any more affordable housing because the scheme was only estimated to produce £71m of the £121m profit it says it requires.
 
@@ -43,24 +54,26 @@ Again, no detailed evidence was supplied showing how the demolition proposals co
 You can read more about the Cundy Street estate on our web page [here](https://www.estatewatch.london/estates/westminster/cundystreet/)
 or browse the planning application supporting documents on Westminster's planning portal [here](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QB2X8DRP06A00) - (ref:20/03307/FULL).
 
-## Ebury Bridge estate
-The approval comes shortly after Westminster approved the nearby [Ebury Bridge estate](https://www.estatewatch.london/estates/westminster/eburybridge/) demolition.
+## Ebury Bridge estate - No alternatives considered, no ballot and no Mayoral funding
+ 
+Westminster Council has also recently approved its own application for the demolition of the nearby [Ebury Bridge estate](https://www.estatewatch.london/estates/westminster/eburybridge/).
 
 The estate comprising 336 homes (198 social rent/138 leasehold) is due to be replaced by 781 homes of which 239 social rent - an uplift of just 41 social rented units despite more than doubling the density.
 
 <img src="/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-The estate is being redeveloped by the Council itself and demolition is already partly underway.
+The approval comes as the Mayor [announces](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) a *"‘retrofit revolution’ to tackle the climate emergency"*
 
-Figures in the planning application [supporting documents](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf) show that Westminster Council is spending a staggering £108m on decanting and demolishing the estate and that despite the replacement social housing being partly cross-subsidised by the new private homes, it is estimated that Westminster will have to fork out a further £90m during the course of the estate's redevelopment.
+The estate is being redeveloped by Westminster Council itself at an estimated net cost to the Council of £198m according to figures in the planning application's [viability study](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf).
 
-Yet again there is nothing in the planning application documents showing that demolition is being pursued as a last resort. 
+If the Mayor is serious about his _'retrofit revolution'_ he could use his 'call-in' powers to take over the planning application and explore whether £198m of public money might be better spent on the [environmental, economic and social benefits](https://www.estatewatch.london/refurbishment/) of refurbishment.
 
-Neither of these two westminster schemes have been signed off by the Mayor yet, so it is open to him to call them in and decide on the applications himself.
+As with Cundy Street, there is nothing in the planning application documents showing that demolition is being pursued as a last resort. Similarly, there is no intention to apply for Mayoral grant funding to increase the level of affordable housing. In this instance the GLA has raised this issue with Westminster, pointing out that seeking grant funding is a policy requirement of the London Plan (H8).
 
-Given the significant public subsidy involved, the housing crisis and the Mayor's recent [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a *"‘retrofit revolution’ to tackle the climate emergency"* one might expect the Mayor to exercise his call-in powers to explore whether £198m of public money might be better spent on the [environmental, economic and social benefits](https://www.estatewatch.london/refurbishment/) of refurbishment.
+Westminster's response was as follows: _"It is noted inthis respect that Mayoral funding is dependant on thesuccessful completion of a resident ballot .. The Council do not wish to undertake a resident ballot, it believes one-off votes on regeneration projects are, by their nature, a snapshot in time and are no substitute for comprehensive opinion recording over a sustained period .. Balloting now would therefore result in undue delays to application submission,alongside potentially frustrating residents who are widely keen for the estate’s renewal to commence."_ (see appendix 8 of the planning application's [viability study](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf))
 
-## Aylesbury estate
+## Aylesbury estate: obvious question – if these homes can be refurbished why are they being knocked down?
+
 Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) has [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been [refurbished to be let out as temporary accommodation](https://www.southwark.gov.uk/news/2021/may/southwark-council-to-provide-temporary-housing-for-80-homeless-people-on-aylesbury-estate-while-581-council-homes-are-being-built) to families on the Council's housing waiting list.
 
 <img src="/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
@@ -73,7 +86,7 @@ This begs an obvious question: if these homes can be refurbished to acceptable s
 
 In response to the climate crisis, Southwark, along with many other boroughs and the Mayor has [declared a climate emergency](https://www.southwark.gov.uk/environment/climate-emergency?displaypref=large&chapter=2) and is due to publish its climate Change Strategy later this year.
 
-Might Southwark be coming to its senses and seeing that refurbishment is the more viable option, [economically, socially and environmentally](https://www.estatewatch.london/refurbishment/)?
+Together with the Mayor's [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a ‘retrofit revolution’, the [environmental, social and economic benefits of refurbishment](https://www.estatewatch.london/refurbishment/) are becoming difficult to ignore.
 
 ## Estate Watch zoom meeting
 The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
