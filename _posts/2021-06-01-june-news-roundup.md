@@ -49,7 +49,7 @@ Westminster did publish Grosvenor's [viability assessment](https://idoxpa.westmi
 
 The viability assessment also shows that Grosvenor hasn't applied for GLA grant funding, which would have enabled it to provide more affordable housing, despite the Mayor's policy requirement that estate regenerations seek grant funding to maximise the provision of affordable housing. 
 
-Again, no detailed evidence was supplied showing how the demolition proposals comply with the Mayor's policy requiring demolition to be pursued only as a last resort. 
+Also, no detailed evidence was supplied showing how the demolition proposals comply with the Mayor's policy requiring demolition to be pursued only as a last resort. 
 
 You can read more about the Cundy Street estate on our web page [here](https://www.estatewatch.london/estates/westminster/cundystreet/)
 or browse the planning application supporting documents on Westminster's planning portal [here](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QB2X8DRP06A00) - (ref:20/03307/FULL).
@@ -72,6 +72,8 @@ As with Cundy Street, there is nothing in the planning application documents sho
 
 Westminster's response was as follows: _"It is noted inthis respect that Mayoral funding is dependant on thesuccessful completion of a resident ballot .. The Council do not wish to undertake a resident ballot, it believes one-off votes on regeneration projects are, by their nature, a snapshot in time and are no substitute for comprehensive opinion recording over a sustained period .. Balloting now would therefore result in undue delays to application submission,alongside potentially frustrating residents who are widely keen for the estate’s renewal to commence."_ (see appendix 8 of the planning application's [viability study](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf))
 
+You can read more about the Ebury Bridge estate [here](https://www.estatewatch.london/estates/westminster/eburybridge/) and view the planning application supporting documents [here](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDECO3RP2RE00) (ref: 20/04366/COOUT).
+
 ## Aylesbury estate: obvious question – if these homes can be refurbished why are they being knocked down?
 
 Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) has [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been [refurbished to be let out as temporary accommodation](https://www.southwark.gov.uk/news/2021/may/southwark-council-to-provide-temporary-housing-for-80-homeless-people-on-aylesbury-estate-while-581-council-homes-are-being-built) to families on the Council's housing waiting list.
@@ -84,9 +86,7 @@ Southwark Council has spent at least £50m on the Aylesbury scheme to date with 
   
 This begs an obvious question: if these homes can be refurbished to acceptable standards for habitation, why are they being knocked down?
 
-In response to the climate crisis, Southwark, along with many other boroughs and the Mayor has [declared a climate emergency](https://www.southwark.gov.uk/environment/climate-emergency?displaypref=large&chapter=2) and is due to publish its climate Change Strategy later this year.
-
-Together with the Mayor's [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a ‘retrofit revolution’, the [environmental, social and economic benefits of refurbishment](https://www.estatewatch.london/refurbishment/) are becoming difficult to ignore.
+You can read more about the Aylesbury estate on our web page [here](https://www.estatewatch.london/estates/southwark/aylesbury/).
 
 ## Estate Watch zoom meeting
 The date of the next Zoom meeting is yet to be confirmed. Please email info@londontenants.org to request attendance and further details.
