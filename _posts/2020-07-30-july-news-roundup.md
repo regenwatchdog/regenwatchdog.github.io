@@ -1,7 +1,7 @@
 ---
 layout: default
 category: updates
-title: JULY NEWS ROUND-UP
+title: August 2020 Bulletin 
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 category: updates
 published: true 
-title: DEC/JAN NEWS ROUND-UP
+title: February 2021 Bulletin 
 date: 2021-02-02
 ---
 In our last [roundup](https://estatewatch.london/november-news-roundup/) we reported on a number of planning applications submitted in the run up to Christmas. We also reported on the Mayor's recent announcement that his next round of grant funding will no longer fund replacement homes in estate demolitions. The current pace of planning application submissions may suggest that schemes are being hurried through before the change in grant funding, which requires a start on site before the end of March next year.
@@ -32,7 +32,7 @@ Rydon has also failed to publish its viability assessment for the application so
 
 You can view the planning application documents on Ealing's planning portal [here](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00) and read more about the High Lane estate on our web page [here.](https://estatewatch.london/estates/ealing/highlane/)
 
-## Geoffrey Close estate
+## Geoffrey Close estate - Mayor's report published
 Last month, the Mayor published his [stage 1 planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2) for [Riverside Housing Association](https://www.riverside.org.uk/)'s demolition of Lambeth's [Geoffrey Close estate](https://estatewatch.london/estates/lambeth/geoffreyclose/). Riverside applied to demolish the estate's 134 homes in November last year and replace them with 441 homes of which just 135 social rent. 
 
 <img src="https://estatewatch.london/images/cle8.jpg" width="50%" class="img-fluid rounded img-thumbnail">
@@ -53,7 +53,7 @@ While it is good to see the Mayor's planning report pick this up, it is disappoi
 
 You can view the Mayor's report [here](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2), the full planning application documents (except the financial viability assessment which hasn't been published) on Lambeth's planning portal [here](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QHD9R4BO08M00) and our web page about the Geoffrey Close estate [here](https://estatewatch.london/estates/lambeth/geoffreyclose/).
 
-## Grahame Park estate
+## Grahame Park estate - racking up the rents
 An [FOI request](https://www.whatdotheyknow.com/request/affordable_housing_funding_annua) has revealed that housing association [Notting Hill Genesis](https://www.nhg.org.uk) charged higher rents than it was supposed to for replacement social housing on Barnet's [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/) - in breach of both funding conditions and the planning permission.
 
 A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent. 

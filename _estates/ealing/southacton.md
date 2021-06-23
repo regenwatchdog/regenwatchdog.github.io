@@ -25,8 +25,9 @@ coordinates:
 ---
 In Dec 2018, the Mayor approved the demolition of 2,100 homes at Ealing's South Acton estate with all replacement 'social' housing at up to 80% of market rent.
 
+The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space. One of the blocks on the estate, Harlech Tower is well known as the backdrop for the BBC sitcom Only Fools and Horses.
 
-The South Acton estate is Ealing's and West London's largest council estate with 2,100 homes spanning 25 hectares of land. These are accommodated in a range of principally medium to high rise blocks. The estate also provides shops, a youth club, a community centre, a nursery, school buildings and open space.
+<img src="/images/harlech.png" class="img-fluid rounded img-thumbnail">
 
 In 2013 Ealing Council signed a development agreement transferring the estate in phases to a [joint venture](https://www.countrysideproperties.com/all-developments/london/acton-gardens) between [Cataylst Housing Association](https://www.chg.org.uk/development-regeneration/regeneration/south-acton-ealing/) and developer Countryside Properties.
 

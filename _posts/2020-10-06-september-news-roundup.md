@@ -2,7 +2,7 @@
 layout: default
 category: updates
 published: true 
-title: SEPTEMBER/OCTOBER NEWS ROUND-UP
+title: November 2020 Bulletin 
 date: 2020-11-10
 ---
 Here is our brief round up of estate regeneration news for September and October. Many thanks to everyone who got in touch to let us know what is going on with their estates.

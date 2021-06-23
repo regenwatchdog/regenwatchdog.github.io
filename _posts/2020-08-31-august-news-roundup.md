@@ -2,7 +2,7 @@
 layout: default
 category: updates
 published: true 
-title: AUGUST NEWS ROUND-UP
+title: September 2020 Bulletin 
 ---
 Here is our brief round up of estate regeneration news for August. Thanks to everyone who got in touch to let us know what is going on with their estates.
 

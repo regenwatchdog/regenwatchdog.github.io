@@ -1,11 +1,11 @@
 ---
 layout: default
 category: updates
-published: true 
-title: FEB/MARCH NEWS ROUND-UP
+comments: true 
+title: April 2021 Bulletin 
 date: 2021-04-08
 ---
-## Douglas Bader Park estate
+## Douglas Bader Park estate - Mayor signals his approval
 The Mayor has published his ['stage 1' planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002fSv8QAE/20210141?tabset-c2f3b=2) giving in principle approval to the [redevelopment of Barnet's Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark/).
 
 <img src="https://estatewatch.london/images/baderscreenshot.png" class="img-fluid rounded img-thumbnail" width="50%">
@@ -22,7 +22,7 @@ You can view the Mayor's report online [here](https://gla.force.com/pr/s/plannin
 
 Barnet has also failed to publish the viability assessment for the application so it is impossible to know whether the maximum amount of affordable housing is being provided. Since 2018, making viability assessments public has been another one of the Mayor’s policy requirements which is being routinely ignored by developers and local authorities.
 
-## Marian Court
+## Marian Court - residents left in limbo
 Hackney Council [came under fire](https://www.hackneycitizen.co.uk/2021/02/24/activists-appalled-town-hall-demolishing-marian-court-family-living/) in February after bulldozers started demolishing one of the [Marian Court](https://estatewatch.london/estates/hackney/mariancourt/) blocks with a family still living in one of the flats.
  
 <img src="https://estatewatch.london/images/mariandemo.png" class="img-thumbnail img-fluid rounded" width="60%">
@@ -33,7 +33,7 @@ Lambeth Council's Cabinet received an update on its estate regeneration programm
 
 The update also showed that 576 secure tenants and 295 leaseholders remain to be re-housed/bought out, stating that _"it is likely that CPO’s will be pursued on sections of both the Westbury and South Lambeth estates during the next 12 months."_
 
-## Lansbury (South) estate
+## Lansbury (South) estate - CPO served
 Tower Hamlets has served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their [Chrisp Street redevelopment](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/chrisp-street-market/). 
 
 <img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="60%">
@@ -46,7 +46,7 @@ The Council has published the Compulsory Purchase Order and supporting documents
 
 We are currently working on creating a general guide to the CPO process for residents on estates under threat - watch this space!
 
-## Church Street estates
+## Church Street Area estates - Council under fire
 Westminster Council has come under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
 
 <img src="https://estatewatch.london/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
@@ -60,7 +60,7 @@ As has become [common practice](https://estatewatch.london/approved/ballotexempt
 
 <img src="https://estatewatch.london/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="65%"> 
 
-## South Kilburn Community Plan
+## South Kilburn estate Community Plan
 A presentation of the South Kilburn Community Plan is now available to view online: [https://youtu.be/I8YKW0fIqfM](https://youtu.be/I8YKW0fIqfM)
 
 <center>

@@ -2,7 +2,7 @@
 layout: default
 category: updates
 published: true 
-title: NOVEMBER NEWS ROUND-UP
+title: December 2020 Bulletin 
 date: 2020-12-07
 ---
 This month's roundup begins with some good news - the Mayor will no longer provide funding under his [affordable housing programme](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/2022-2032-affordable-housing-funding-requirement-london) for homes replacing those demolished on London estates.
