@@ -64,7 +64,7 @@ The estate comprising 336 homes (198 social rent/138 leasehold) is due to be rep
 
 <img src="https://www.estatewatch.london/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-The approval comes as the Mayor [announces](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) a *"‘retrofit revolution’ to tackle the climate emergency"*
+The approval comes as the Mayor [announces](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) a *"‘retrofit revolution’ to tackle the climate emergency"*..
 
 The estate is being redeveloped by Westminster Council itself at an estimated net cost to the Council of £198m according to figures in the planning application's [viability study](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf).
 
@@ -82,7 +82,7 @@ Southwark's [Cabinet member for Climate Emergency and Sustainable Development](h
 
 <img src="https://www.estatewatch.london/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
 
-The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until the phase of the estate is 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
+The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until this fourth phase of the estate is finally 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
 
 Southwark Council has spent at least £50m on the Aylesbury scheme to date with a further £193m of council funds committed to phase 1 alone, with no net increase in the number of social rented homes.
   
