@@ -10,7 +10,7 @@ Barnet's planning committee has gone against officer recommendations and unexpec
 social rented homes and replacement with 272 (36%) London Affordable Rent
 homes and 481 private/market homes.
 
-<img src="/images/db3.png" class="img-fluid rounded img-thumbnail">
+<img src="https://www.estatewatch.london/images/db3.png" class="img-fluid rounded img-thumbnail">
 
 Residents who [responded](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QLUOGJJI09100&neighbourCommentsPager.page=4) to the application echoed concerns often expressed by many who are involved in the Estate Watch residents’ network. These included:
 
@@ -41,13 +41,13 @@ You can read more about the Douglas Bader Park estate on our web page [here](htt
 
 Westminster Council has approved an application for the demolition of 111 private and 44 social rented homes on the [Cundy Street estate](https://www.estatewatch.london/estates/westminster/cundystreet/) made by the Duke of Westminster's property firm Grosvenor.
 
-<img src="/images/cundy3.png" class="img-fluid rounded img-thumbnail">
+<img src="https://www.estatewatch.london/images/cundy3.png" class="img-fluid rounded img-thumbnail">
 
 Grosvenor plans to replace the estate with 139 homes for luxury senior living accommodation plus 93 'affordable' of which 44 social rent and 49 intermediate rent.
 
 Westminster did publish Grosvenor's [viability assessment](https://idoxpa.westminster.gov.uk/online-applications/files/95BB21391E1D917B7E1E2A471BFEE830/pdf/20_03307_FULL-FINANCIAL_VIABILITY_ASSESSMENT-6839837.pdf) for the scheme, which said it couldn't afford to provide any more affordable housing because the scheme was only estimated to produce £71m of the £121m profit it says it requires.
 
-<img src="/images/csfva.png" class="img-fluid rounded img-thumbnail">
+<img src="https://www.estatewatch.london/images/csfva.png" class="img-fluid rounded img-thumbnail">
 
 The viability assessment also shows that Grosvenor hasn't applied for GLA grant funding, which would enable it to provide more affordable housing, despite the Mayor's policy requirement that estate regenerations seek grant funding to maximise the provision of affordable housing. 
 
@@ -62,7 +62,7 @@ Westminster Council has also recently approved its own application for the demol
 
 The estate comprising 336 homes (198 social rent/138 leasehold) is due to be replaced by 781 homes of which 239 social rent - an uplift of just 41 social rented units despite more than doubling the density.
 
-<img src="/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
+<img src="https://www.estatewatch.london/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 The approval comes as the Mayor [announces](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) a *"‘retrofit revolution’ to tackle the climate emergency"*
 
@@ -80,7 +80,7 @@ You can read more about the Ebury Bridge estate [here](https://www.estatewatch.l
 
 Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) has [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been [refurbished to be let out as temporary accommodation](https://www.southwark.gov.uk/news/2021/may/southwark-council-to-provide-temporary-housing-for-80-homeless-people-on-aylesbury-estate-while-581-council-homes-are-being-built) to families on the Council's housing waiting list.
 
-<img src="/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
+<img src="https://www.estatewatch.london/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
 
 The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until the phase of the estate is 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
 
