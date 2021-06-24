@@ -3,6 +3,7 @@ category: underthreat
 stage: Proposal 
 name: Thames View estate 
 borough: barkinganddagenham
+location:
 thumb: /images/tv3bthumb.jpg
 images:
   - image_path: /images/tv3b.jpg
