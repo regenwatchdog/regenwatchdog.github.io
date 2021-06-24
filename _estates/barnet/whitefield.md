@@ -1,6 +1,5 @@
 ---
-category: underthreat
-stage: Implementation
+location: '{"type":"Point","coordinates":[-0.2296829,51.508048]}'
 name: Whitefield estate
 borough: barnet
 thumb: /images/whitefieldthumb.jpg
@@ -10,6 +9,8 @@ images:
   - image_path: /images/whitefield1.png
 coordinates:
   - -0.219515,51.572426
+category: underthreat
+stage: Implementation
 ---
 243 homes are earmarked for demolition on Barnet's Whitefield estate in Cricklewood. 
 
