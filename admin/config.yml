@@ -51,6 +51,7 @@ collections:
     identifier_field: name
     folder: '_estates/barnet/'
     fields:
+      - {label: "Location", name: "location", widget: "map" }      
       - label: "Current Development Status"
         name: "stage"
         widget: "select"
