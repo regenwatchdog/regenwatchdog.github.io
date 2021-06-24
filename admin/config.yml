@@ -45,3 +45,6 @@ collections:
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
+      - label: 'Location'
+        name: 'location'
+        widget: 'map'
