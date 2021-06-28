@@ -13,8 +13,11 @@ images:
   - image_path: /images/havelock6.jpg
   - image_path: /images/havelock7.jpg
   - image_path: /images/havelock8.jpg
-coordinates: 
-  - -0.370627,51.500392
+location: '{"type":"Point","coordinates":[-0.370627,51.500392]}'
+landlord: Ealing Council
+developer: Catalyst Group
+itla:
+total: 500
 ---
 Circa 500 homes of the 845 homes on Ealing's Havelock estate in Southall remain earmarked for demolition.
 

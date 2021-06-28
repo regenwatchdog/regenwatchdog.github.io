@@ -1,7 +1,7 @@
 ---
 category: underthreat
 stage: Implementation
-name: Church Street area estate 
+name: Church Street area estates
 borough: westminster
 thumb: /images/csthumb.jpg
 images:
@@ -9,10 +9,11 @@ images:
   - image_path: /images/cs1.jpg
   - image_path: /images/cs2.jpg
   - image_path: /images/cs3.jpg
-
-coordinates:
-  - '-0.170681,51.523316'
-published: true
+location: '{"type":"Point","coordinates":[-0.170681,51.523316]}'
+landlord: Westminster Council
+developer:
+itla:
+total: 200
 ---
 Circa 200 homes on Westminster's Church Street area estate are under threat of potential demolition.
 

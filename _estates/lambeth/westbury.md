@@ -18,7 +18,11 @@ images:
   - image_path: /images/wb10.jpg
   - image_path: /images/wb11.jpg
 coordinates: 
-  - -0.140646,51.470468
+location: '{"type":"Point","coordinates":[-0.140646,51.470468]}'
+landlord: Lambeth Council
+developer:
+itla: Norman Francis
+total: 82
 ---
 In July 2019, the Mayor approved the demolition of 82 homes on Lambeth's Westbury estate, to provide 270 new homes of which just 38% affordable and only 48 social rent.
 

@@ -10,8 +10,11 @@ images:
   - image_path: /images/farnham3.png
   - image_path: /images/farnham5.png
   - image_path: /images/farnhamaerial.png
-coordinates: 
-  - 0.219207,51.607002
+location: '{"type":"Point","coordinates":[0.219207,51.607002]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 200
 ---
 Circa 200 homes are under threat of demolition at Havering's Farnham and Hilldene estate in Harold Hill. 
 

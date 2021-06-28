@@ -17,9 +17,11 @@ images:
   - image_path: /images/lg9.jpg
   - image_path: /images/lg10.jpg
   - image_path: /images/lg11.jpg
-coordinates:
-  - '-0.167721,51.525955'
-published: true
+location: '{"type":"Point","coordinates":[-0.167721,51.525955]}'
+landlord: Westminster Council
+developer:
+itla:
+total: 500
 ---
 Circa 500 homes are under threat of potential demolition on Westminster's Lisson Green estate in Maida Vale.
 

@@ -1,5 +1,5 @@
 ---
-category: underthreat
+category: demolished
 stage: Implementation 
 name: Aspen House (Maitland Park estate) 
 borough: camden
@@ -8,8 +8,11 @@ images:
   - image_path: /images/ap2.jpg
   - image_path: /images/aspen.png
   - image_path: /images/ap1.jpg
-coordinates: 
-  - -0.157043,51.548572
+location: '{"type":"Point","coordinates":[-0.157043,51.548572]}'
+landlord: Camden Council
+developer:
+itla:
+total: 50
 ---
 Circa 50 Council homes are set for demolition in Aspen House as part of Camden's [regeneration of Maitland Park estate](https://www.camden.gov.uk/maitland-park).
 

@@ -9,8 +9,11 @@ images:
   - image_path: /images/samuda2.png
   - image_path: /images/samuda3.png
   - image_path: /images/samuda.jpg
-coordinates:
-  - '-0.008458,51.496571'
+location: '{"type":"Point","coordinates":[-0.008458,51.496571]}'
+landlord: One Housing Group
+developer:
+itla:
+total: 517
 ---
 517 homes are under threat on the Samuda estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
 

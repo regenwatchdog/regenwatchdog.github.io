@@ -10,8 +10,11 @@ images:
   - image_path: /images/rroad2.png
   - image_path: /images/rroad1.png
   - image_path: /images/rainhamroadaerial.png
-coordinates:
-  - '0.164733,51.547412'
+location: '{"type":"Point","coordinates":[0.164733,51.547412]}'
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+total: 24
 ---
 24 homes on Dagenham's Rainham Road South estate have been earmarked for demolition by Barking and Dagenham Council.
 

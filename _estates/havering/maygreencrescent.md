@@ -11,8 +11,11 @@ images:
   - image_path: /images/mg4.png
   - image_path: /images/mg5.png
   - image_path: /images/maygreenaerial.png
-coordinates: 
-  - 0.193681,51.566629
+location: '{"type":"Point","coordinates":[0.193681,51.566629]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 150
 ---
 Circa 150 homes are under threat of demolition on Havering's Maygreen Crescent estate in Hornchurch.
 

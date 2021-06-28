@@ -20,8 +20,11 @@ images:
   - image_path: /images/sacton13.jpg
   - image_path: /images/sacton14.jpg
   - image_path: /images/sacton15.jpg
-coordinates: 
-  - -0.272799,51.502295
+location: '{"type":"Point","coordinates":[-0.272799,51.502295]}'
+landlord: Ealing Council
+developer: Countryside Properties
+itla: PEP
+total: 2100
 ---
 In Dec 2018, the Mayor approved the demolition of 2,100 homes at Ealing's South Acton estate with all replacement 'social' housing at up to 80% of market rent.
 

@@ -8,8 +8,11 @@ images:
   - image_path: /images/pikeclose.jpg
   - image_path: /images/pclose2.png
   - image_path: /images/pclose3.png
-coordinates:
-  - 0.021446,51.421991
+location: '{"type":"Point","coordinates":[0.021446,51.421991]}'
+landlord: Riverside Housing Association
+developer: Countryside Properties
+itla: Source Partnership
+total: 100
 ---
 In 2018, Riverside Housing Association (which manages Bromley's council housing), appointed developer Countryside Properties to redevelop the Pike Close estate. The estate comprises circa 100 homes in a series of low-rise maisonettes and a high-rise block.
 

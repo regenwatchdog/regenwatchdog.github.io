@@ -38,8 +38,11 @@ images:
   - image_path: /images/te31.jpg
   - image_path: /images/te32.jpg
   - image_path: /images/teaerial.png
-coordinates:
-  - '-0.012409,51.518195'
+location: '{"type":"Point","coordinates":[-0.012409,51.518195]}'
+landlord: Poplar HARCA
+developer:
+itla: Mike Tyrell
+total: 535
 ---
 535 homes have been earmarked for demolition by housing association Poplar HARCA at its Teviot estate in Tower Hamlets.
 

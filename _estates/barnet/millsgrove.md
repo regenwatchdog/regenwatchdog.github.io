@@ -9,8 +9,11 @@ images:
   - image_path: /images/mgrove3.png
   - image_path: /images/mgrove4.png
   - image_path: /images/mgrove5.png
-coordinates:
-  - '-0.218737,51.591830'
+location: '{"type":"Point","coordinates":[-0.218737,51.591830]}'
+landlord: Metropolitan Housing Association
+developer:
+itla:
+total: 102
 ---
 102 homes on Barnet's Mills Grove and Westhorpe estate are under threat of demolition.
 

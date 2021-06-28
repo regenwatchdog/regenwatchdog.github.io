@@ -8,8 +8,11 @@ images:
   - image_path: /images/ashepherd.jpg
   - image_path: /images/oakhouse.png
   - image_path: /images/st-johns-estate.jpg
-coordinates:
-  - '-0.008984,51.499039'
+location: '{"type":"Point","coordinates":[-0.008984,51.499039]}'
+landlord: One Housing Group
+developer:
+itla: TPAS
+total: 607
 ---
 607 homes are under threat on the St John's estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
 

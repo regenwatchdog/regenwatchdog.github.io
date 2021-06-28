@@ -18,8 +18,11 @@ images:
   - image_path: /images/ch11.jpg
   - image_path: /images/ch12.jpg
   - image_path: /images/charltonhouse.jpg
-coordinates:
-  - -0.300195,51.486105
+location: '{"type":"Point","coordinates":[-0.300195,51.486105]}'
+landlord: Hounslow Council
+developer:
+itla:
+total: 50
 ---
 Circa 50 homes have been earmarked for demolition at Hounslow's Charlton House and Albany Parade in Brentford.
 

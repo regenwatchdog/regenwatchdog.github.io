@@ -13,8 +13,11 @@ images:
   - image_path: /images/fw6.jpg
   - image_path: /images/fw1.jpg
   - image_path: /images/fwick.png
-coordinates: 
-  - -0.127468,51.464695
+location: '{"type":"Point","coordinates":[-0.127468,51.464695]}'
+landlord: Lambeth Council
+developer:
+itla: Christine Searle (Public Voice)
+total: 431
 ---
 431 homes are earmarked for demolition on Lambeth's Fenwick estate in Clapham.
 

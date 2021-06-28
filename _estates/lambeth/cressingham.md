@@ -9,8 +9,11 @@ images:
   - image_path: /images/cressingham2.jpg
   - image_path: /images/cressingham3.jpg
   - image_path: /images/cressingham4.jpeg
-coordinates: 
-  - -0.111587,51.446517
+location: '{"type":"Point","coordinates":[-0.111587,51.446517]}'
+landlord: Lambeth Council
+developer:
+itla: Public Voice/PPCR
+total: 306
 ---
 306 homes are earmarked for demolition on Lambeth's Cressingham Gardens estate at Brockwell Park.
 

@@ -9,8 +9,11 @@ images:
   - image_path: /images/denby2.png
   - image_path: /images/denby3.png
   - image_path: /images/denby4.png
-coordinates: 
-  - -0.115040,51.493660
+location: '{"type":"Point","coordinates":[-0.115040,51.493660]}'
+landlord: Lambeth Council
+developer:
+itla:
+total: 42
 ---
 42 homes have been earmarked for demolition by Lambeth Council at Denby Court in Kennington.
 

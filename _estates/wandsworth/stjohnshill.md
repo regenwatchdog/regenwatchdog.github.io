@@ -13,8 +13,11 @@ images:
   - image_path: /images/sj6.jpg
   - image_path: /images/sj7.jpg
   - image_path: /images/sj8.jpg
-coordinates: 
-  - -0.170662,51.462352
+location: '{"type":"Point","coordinates":[-0.170662,51.462352]}'
+landlord: Peabody
+developer:
+itla:
+total: 100
 ---
 Circa 100 homes remain earmarked for demolition in phase 3 of Peabody's redevelopment of the St John's Hill estate near Clapham Junction.
 

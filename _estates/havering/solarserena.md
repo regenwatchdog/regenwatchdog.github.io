@@ -12,8 +12,11 @@ images:
   - image_path: /images/ss5.png
   - image_path: /images/ss6.png
   - image_path: /images/sunriseaerial.png
-coordinates: 
-  - 0.206760,51.556744
+location: '{"type":"Point","coordinates":[0.206760,51.556744]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 100
 ---
 Circa 100 homes are under threat of demolition on Havering's Parkhill and Sunrise estate in Hornchurch.
 

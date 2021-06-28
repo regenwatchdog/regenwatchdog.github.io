@@ -20,8 +20,11 @@ images:
   - image_path: /images/ST_raphaels_maisonettes.jpg
   - image_path: /images/St_raphaels_river1.jpg
   - image_path: /images/ST_raphaels_river2.jpg
-coordinates:
-  - '-0.264695,51.552600'
+location: '{"type":"Point","coordinates":[-0.264695,51.552600]}'
+landlord: Brent Council
+developer:
+itla: PPCR
+total: 793
 ---
 793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). 
 

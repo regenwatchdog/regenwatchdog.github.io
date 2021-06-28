@@ -23,8 +23,11 @@ images:
   - image_path: /images/cp15.jpg
   - image_path: /images/cp16.jpg
   - image_path: /images/cp17.jpg
-coordinates:
-  - '-0.004882,51.537846'
+location: '{"type":"Point","coordinates":[-0.004882,51.537846]}'
+landlord: Newham Council
+developer:
+itla: TPAS/Source Partnership
+total: 710
 ---
 710 homes are under threat of demolition on Newham's Carpenters estate in Stratford.
 

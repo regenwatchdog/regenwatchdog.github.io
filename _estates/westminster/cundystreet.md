@@ -10,10 +10,11 @@ images:
   - image_path: /images/cundy3.png
   - image_path: /images/cundy5.jpg
   - image_path: /images/cundystreet.jpg
-
-coordinates:
-  - '-0.150762,51.491119'
-published: true
+location: '{"type":"Point","coordinates":[-0.150762,51.491119]}'
+landlord: Grosvenor estates
+developer: Grosvenor
+itla:
+total: 44
 ---
 44 Council homes are under threat of demolition on Westminster's Cundy Street estate.
 

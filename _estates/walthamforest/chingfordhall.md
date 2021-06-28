@@ -8,8 +8,11 @@ images:
   - image_path: /images/chingfordhalla.jpg
   - image_path: /images/chb.png
   - image_path: /images/chb2.png
-coordinates:
-  - -0.025384,51.609444
+location: '{"type":"Point","coordinates":[-0.025384,51.609444]}'
+landlord: Peabody
+developer:
+itla:
+total: 300
 ---
 Circa 300 homes on the Chingford Hall estate have been earmarked for renewal, according to the borough's [draft Local Plan](https://walthamforest.gov.uk/sites/default/files/Final%20Draft%20Local%20Plan_July2019_Web%20optimised_Part1.pdf).
 

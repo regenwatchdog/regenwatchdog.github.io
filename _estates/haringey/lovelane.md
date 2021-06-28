@@ -20,9 +20,11 @@ images:
   - image_path: /images/love_lane12.jpg
   - image_path: /images/love_lane13.jpg
   - image_path: /images/love_lane14.jpg
-
-coordinates: 
-  - '-0.069012,51.604415'
+location: '{"type":"Point","coordinates":[-0.069012,51.604415]}'
+landlord: Haringey Council
+developer:
+itla: Damian Tissier Microfish Communications
+total: 297
 ---
 
 297 council homes on the Love Lane estate have been earmarked for redevelopment as part of [Haringey's regeneration of Tottenham](https://tottenham.london/HighRoadWest).

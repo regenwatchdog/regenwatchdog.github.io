@@ -10,8 +10,11 @@ images:
   - image_path: /images/bwater3.jpg
   - image_path: /images/bwater4.jpg
   - image_path: /images/bwfarm4.jpeg
-coordinates: 
-  - -0.080927,51.594340
+location: '{"type":"Point","coordinates":[-0.080927,51.594340]}'
+landlord: Haringey Council
+developer:
+itla: PPCR
+total: 200
 ---
 At least 200 of the 1075 homes on Haringey's Broadwater Farm estate are under threat of demolition.
 

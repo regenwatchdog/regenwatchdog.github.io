@@ -9,8 +9,11 @@ images:
   - image_path: /images/af2.png
   - image_path: /images/af3.png
   - image_path: /images/afbrochure.png
-coordinates:
-  - '-0.004851,51.512950'
+location: '{"type":"Point","coordinates":[-0.004851,51.512950]}'
+landlord: Poplar HARCA
+developer: Ecoworld
+itla: PPCR
+total: 225
 ---
 225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
 

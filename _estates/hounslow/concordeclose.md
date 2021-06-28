@@ -8,11 +8,13 @@ images:
   - image_path: /images/cc1.jpg
   - image_path: /images/cc2.png
   - image_path: /images/cc3.png
-
-coordinates:
-  - '-0.366567,51.471914'
+location: '{"type":"Point","coordinates":[-0.366567,51.471914]}'
+landlord: Home Group
+developer:
+itla:
+total: 43
 ---
-43 homes are under threat on the Concorde Close estate in Hounslow. The estate is managed by housing association [Home Group](http://homegroup.org.uk) which had previously had its application for redevelopment of the estate refused by Hounslow's planning committee in January 2019.
+43 homes are under threat on the Concorde Close estate in Hounslow. The estate is owned and managed by housing association [Home Group](http://homegroup.org.uk) which had previously had its application for redevelopment of the estate refused by Hounslow's planning committee in January 2019.
 
 Home Group now [claims](https://www.homegroup.org.uk/about-us/working-with-us/development-partners/regeneration/concorde-close/) that it is undertaking a full review of the scheme and revising its options as follows:
 

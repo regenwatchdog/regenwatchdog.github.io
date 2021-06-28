@@ -18,8 +18,11 @@ images:
   - image_path: /images/aylesburywendover.jpg
   - image_path: /images/aylesburydemolition.jpg
   - image_path: /images/aylesburyident.png
-coordinates: 
-  - -0.084806,51.485789
+location: '{"type":"Point","coordinates":[-0.084806,51.485789]}'
+landlord: Southwark Council
+developer: Notting Hill Genesis
+itla:
+total: 2000
 ---
 Circa 2,000 homes remain earmarked for demolition on the remaining 3 phases of Southwark's Aylesbury estate redevelopment.
 

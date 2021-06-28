@@ -9,8 +9,11 @@ images:
   - image_path: /images/delta1.png
   - image_path: /images/delta3.png
   - image_path: /images/dellaerial.png
-coordinates: 
-  - 0.212813,51.583107
+location: '{"type":"Point","coordinates":[0.212813,51.583107]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 200
 ---
 Circa 200 homes are under threat of demolition at Havering's Delta estate in Gidea Park.
 

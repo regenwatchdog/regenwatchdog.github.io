@@ -11,8 +11,11 @@ images:
   - image_path: /images/cal3.png
   - image_path: /images/cal4.png
   - image_path: /images/cal5.png
-coordinates:
-  - 0.021422,51.419397
+location: '{"type":"Point","coordinates":[0.021422,51.419397]}'
+landlord: Riverside Housing Association
+developer:
+itla: Source Partnership
+total: 150
 ---
 Circa 150 homes are earmarked for potential demolition on Bromley's Calverley Close estate in Beckenham.
 

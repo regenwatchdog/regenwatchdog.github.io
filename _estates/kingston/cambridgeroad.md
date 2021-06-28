@@ -10,8 +10,11 @@ images:
   - image_path: /images/cambridge3.jpg
   - image_path: /images/cambridge4.jpg
   - image_path: /images/croadaerial.png
-coordinates: 
-  - -0.287284,51.408046
+location: '{"type":"Point","coordinates":[-0.287284,51.408046]}'
+landlord: RB Kingston
+developer: Countryside Properties
+itla: PPCR
+total: 820
 ---
 820 homes have been earmarked for demoliton on Kingston's Cambridge Road estate. 
 In October 2016, Kingston published a [Direction of Travel document](https://www.kingston.gov.uk/downloads/download/611/direction_of_travel_for_kingston), prepared by Kingston Council in collaboration with the Mayor of London, which identified potential opportunities for growth, infrastructure and investment in the borough. The Cambridge Road estate was one of the sites identified for potential redevelopment.

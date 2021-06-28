@@ -14,8 +14,11 @@ images:
   - image_path: /images/wg6.jpg
   - image_path: /images/wg7.jpg
   - image_path: /images/wg8.jpg
-coordinates: 
-  - -0.156132,51.551117
+location: '{"type":"Point","coordinates":[-0.156132,51.551117]}'
+landlord: Camden Council
+itla: Community Liaison Officers (Camden)
+developer:
+total: 241
 ---
 241 homes plus a health centre and nursery on Camden's Wendling estate have been [earmarked for demolition](https://www.camden.gov.uk/wendling-estate-and-st-stephens-close) in a 2019 options appraisal.  
 

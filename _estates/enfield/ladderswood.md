@@ -10,8 +10,11 @@ images:
   - image_path: /images/lwood2.png
   - image_path: /images/lwood3.png
   - image_path: /images/lwood4.png
-coordinates: 
-  - -0.137395,51.613312
+location: '{"type":"Point","coordinates":[-0.137395,51.613312]}'
+landlord: Enfield Council
+developer: Mulalley/One Housing Group
+itla:
+total: 100
 ---
 Circa 100 homes remain earmarked for demolition on Enfield's Ladderswood estate. 
 

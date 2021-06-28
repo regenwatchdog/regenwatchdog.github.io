@@ -6,8 +6,11 @@ borough: havering
 thumb: /images/royaljubileeaerialthumb.jpg
 images:
   - image_path: /images/royaljubileeaerial.jpg
-coordinates: 
-  - 0.193341,51.585675
+location: '{"type":"Point","coordinates":[0.193341,51.585675]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 52
 ---
 52 homes are under threat of demolition on Havering's Royal Jubilee Court.
 

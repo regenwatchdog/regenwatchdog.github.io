@@ -10,8 +10,11 @@ images:
   - image_path: /images/thamesmeadeast.jpg
   - image_path: /images/thamesmeadeast.png
   - image_path: /images/lesnesaerial.png
-coordinates: 
-  - 0.126122,51.495310
+location: '{"type":"Point","coordinates":[0.126122,51.495310]}'
+landlord: Peabody
+itla: Communities First
+total: 596
+developer: Peabody
 ---
 596 homes are earmarked for demolition on the Lesnes estate (part of the larger Thamesmead estate) situated in the borough of Bexley.
 

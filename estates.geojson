@@ -2,7 +2,8 @@
 ---
 var freeBus = {
   "type": "FeatureCollection",
-  "features": [{% for estate in site.estates %}
+{% assign estates_underthreat = site.estates | where: "category", "underthreat" %}
+  "features": [{% for estate in estates_underthreat %}
     {
       "type": "Feature",
       "properties": {
@@ -11,10 +12,7 @@ var freeBus = {
         "image": "{{ estate.images[0].image_path }}",
         "url": "{{estate.url}}"
       },
-      "geometry": {
-	"type": "Point",
-	"coordinates": [{{ estate.coordinates }}]
-        }
+      "geometry": {{ estate.location }}
       }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
   ]
 };

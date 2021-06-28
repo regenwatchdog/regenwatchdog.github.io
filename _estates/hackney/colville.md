@@ -11,8 +11,11 @@ images:
   - image_path: /images/coleville1.png
   - image_path: /images/colville8.png
   - image_path: /images/colvilleplans.jpg
-coordinates: 
-  - -0.083684,51.536318
+location: '{"type":"Point","coordinates":[-0.083684,51.536318]}'
+itla: PPCR
+landlord: Hackney Council
+developer:
+total: 200
 ---
 Circa 200 homes remain earmarked for demolition on Hackney's Colville estate.
 

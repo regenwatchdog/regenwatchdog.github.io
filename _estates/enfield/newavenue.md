@@ -10,8 +10,11 @@ images:
   - image_path: /images/newavenueaerial.png
   - image_path: /images/newavenue2.png
   - image_path: /images/newavenueaerial2.png
-coordinates: 
-  - -0.135530,51.639810
+location: '{"type":"Point","coordinates":[-0.135530,51.639810]}'
+landlord: Enfield Council
+developer: Countryside Properties
+itla: PPCR
+total: 171
 ---
 In April 2018, the Mayor approved the demolition of 171 homes on Enfield's New Avenue estate with just 60 replacement properties at social rent.
 

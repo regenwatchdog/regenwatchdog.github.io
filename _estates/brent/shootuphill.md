@@ -12,8 +12,11 @@ images:
   - image_path: /images/clairecourt3.jpg
   - image_path: /images/windmillcourt1.jpg
   - image_path: /images/watlinggardensbungalows.jpg
-coordinates:
-  - -0.206821,51.548923
+landlord: Watling Gardens TMO
+developer:
+itla: Richard Carley & Sarah Robbins (Brent)
+total: 50
+location: '{"type":"Point","coordinates":[-0.206821,51.548923]}'
 ---
 Circa 50 homes are under threat of Demolition on Brent's Watling Gardens estate in Kilburn.
 

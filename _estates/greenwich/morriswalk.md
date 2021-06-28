@@ -9,8 +9,11 @@ images:
   - image_path: /images/mw2.png
   - image_path: /images/mw3.png
   - image_path: /images/mw4.png
-coordinates: 
-  - 0.045870,51.491909
+location: '{"type":"Point","coordinates":[0.045870,51.491909]}'
+landlord: Greenwich Council
+developer: Lovell
+itla:
+total: 562
 ---
 562 homes on Greenwich's Morris Walk estate in Charlton are earmarked for demolition. 
 

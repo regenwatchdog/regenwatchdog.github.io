@@ -10,8 +10,10 @@ images:
   - image_path: /images/highpath2.jpg
   - image_path: /images/highpath3.png
   - image_path: /images/highpath4.jpg
-coordinates: 
-  - '-0.190444,51.414691'
+location: '{"type":"Point","coordinates":[-0.190444,51.414691]}'
+developer:
+itla:
+total: 608
 ---
 In Nov 2018, the Mayor approved the demolition of 608 homes on Merton's High Path estate, to be replaced by 1,570 homes of which 20% affordable - all at up to 80% market rent or LHA rates (whichever is lower). 
 

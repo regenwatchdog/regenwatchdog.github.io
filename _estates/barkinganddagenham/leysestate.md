@@ -1,5 +1,5 @@
 ---
-category: underthreat
+category: demolished
 stage: Implementation 
 name: Leys estate 
 borough: barkinganddagenham
@@ -9,9 +9,11 @@ images:
   - image_path: /images/leys1.png
   - image_path: /images/leys3.png
   - image_path: /images/leys4.png
-coordinates:
-  - '0.168521,51.536751'
-published: false
+location: '{"type":"Point","coordinates":[0.168521,51.536751]}'
+landlord: Barking & Dagenham Council
+developer:
+itla:
+total: 100
 ---
 Circa 100 homes remain earmarked for demolition on Barking and Dagenham's Leys estate.
 

@@ -11,8 +11,10 @@ images:
   - image_path: /images/gfarm5.png
   - image_path: /images/gfarm6.png
   - image_path: /images/gfarmaerial.png
-coordinates: 
-  - -0.350978,51.568998
+location: '{"type":"Point","coordinates":[-0.350978,51.568998]}'
+landlord:
+itla: One Enterprise
+total: 282
 ---
 282 homes have been earmarked for demolition on Harrow's Grange Farm estate.
 
@@ -33,6 +35,8 @@ This appears to contradict the conclusions in the [Mayor's report](https://www.l
 <img src="/images/grangefarmsr.png" class="img-fluid rounded img-thumbnail">
 
 There is no publicly available section 106 agreement to confirm the exact tenure of the replacement 'social' housing or whether it has been secured in perpetuity.
+
+In September 2020, Harrow [served a compulsory purchase order](https://www.harrow.gov.uk/housing-property/grange-farm-estate/2) on the estate's remaining residents.
 
 __Links:__
 

@@ -9,8 +9,11 @@ images:
   - image_path: /images/oc2.png
   - image_path: /images/oc3.png
   - image_path: /images/oldchurchaerial.png
-coordinates: 
-  - 0.175872,51.568833
+location: '{"type":"Point","coordinates":[0.175872,51.568833]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 84
 ---
 84 homes are under threat of demolition on Havering's Oldchurch Gardens estate in Romford.
 

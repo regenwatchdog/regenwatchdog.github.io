@@ -26,9 +26,11 @@ images:
   - image_path: /images/hp19.jpg
   - image_path: /images/hallplace.png
   - image_path: /images/parsonshouse.jpg
-coordinates:
-  - '-0.175467,51.523358'
-published: true
+location: '{"type":"Point","coordinates":[-0.175467,51.523358]}'
+landlord: Westminster Council
+developer:
+itla:
+total: 500
 ---
 Circa 500 homes are under threat of demolition at the Hall Place estate in Maida Vale.
 

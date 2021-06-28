@@ -1,6 +1,7 @@
 ---
-layout: page
-title: CPO guide for leaseholders (DRAFT)
+layout: default
+category: handbook 
+title: CPO guide for leaseholders
 subtitle: a guide to the CPO process for leaseholders on estates under threat
 ---
 
@@ -12,7 +13,7 @@ You will have the opportunity to challenge and influence the details of the land
 
 The Government's [Estate Regeneration National Guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/575578/Estate_Regeneration_National_Strategy_-_Resident_Engagement_and_Protection.pdf) documents proposes a 'Home Swap' option (see page 9) where leaseholders are offered full ownership of a new home on the redeveloped estate and any difference in value is disregarded, provided that the leaseholder doesn't sell up before 7 years after moving in. 
 
-![](/images/ersscreenshot.png)
+<img src="/images/ersscreenshot.png" class="img-fluid rounded img-thumbnail" width="65%">
 
 This is the most equitable of options available for leaseholders as they are able to remain as part of the community within the redeveloped estate while not being disadvantaged i.e. they are put back in a position of owning 100% of their home not just part of it.
 
@@ -27,17 +28,17 @@ Some schemes don't allow the equity share to be passed on to descendants and som
 So it's important to read the small print and ensure that any shared equity scheme includes the following guarantees as a minimum:
 
 1. The required minimum equity share is not higher than 25%.
-2. The leaseholder is not means tested or obliged to sink savings or re-mortgage.
+2. The leaseholder is not means tested or obliged to sink savings into the scheme or re-mortgage.
 3. The equity share agreement can be inherited by a spouse or descendant.
 4. Any future Major Works charges are apportioned to the percentage share owned.
-5. The Council/Landlord instructs the District Valuer Service to conduct its valuations and agrees to pay leaseholders to instruct an independent surveyor to conduction their own valuations of their existing homes and the replacement home offered under shared equity.
+5. The Council/Landlord instructs the District Valuer Service to conduct its valuations and agrees to pay leaseholders to instruct an independent surveyor to conduct their own valuations of their existing homes and the replacement home offered under shared equity.
 6. Any disagreement about the valuation of the existing homes or the proposed replacements is referred to a suitably qualified mediation service at the full cost of the Council/Landlord, while leaseholders reserve their statutory right to challenge the valuation at Tribunal should the mediation be unsuccessful.
 
 Ultimately, the 'home-swap' option avoids all of these complications because it is a simple swap - a replacement home for the one that is being demolished.
 
 The government's [Compulsory Purchase Code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571453/booklet4.pdf) sets out an overriding principle - the principle of equivalence:
  
-![](/images/equivalence.png)
+<img src="/images/equivalence.png" class="img-fluid rounded img-thumbnail">
 
 You should use this to lobby your landlord and argue that you own 100% of your home now and that you should be entitled to a 'home swap' which will allow you to own 100% of a new home on the estate. 
 
@@ -47,9 +48,10 @@ Go knocking on doors and get organised with other leaseholders on the estate. Yo
 Get hold of the financial figures behind the redevelopment scheme, which show how much profit the landlord stands to make. According to the Mayor's new policy, viability assessments must be made public for every planning application.
 
 By obtaining these financial figures, leaseholders on the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) in Southwark were able to show that the housing association redeveloping the estate was set to earn over £163m profit from the scheme. 
-![](https://35percent.org/img/profitshare.png)    
 
-They used this to argue that some of this profit should be used to give them a better deal and the argument was very compelling.
+<img src="https://35percent.org/img/profitshare.png" class="img-fluid rounded img-thumbnail">
+
+They used this to argue that some of this profit should be used to give them a better deal, as well as the huge public subsidy the scheme was receiving. The argument was very compelling.
 
 It's best to start out as early as possible in the CPO process with making your demands heard. Ideally prior to any ballot and drafting of any landlord offer but failing this there will be other opportunities. If your landlord is a local authority there will be a number of Council meetings convened to discuss any given estate demolition. The Council will need to draft a leaseholder policy and later on will need to approve a resolution to commence CPO proceedings, as well as reside over any planning applications. Attend these meetings and make representations setting out how the home-swap option is not just best practice used in other schemes but also included in the government's estate regeneration guidance.
 
@@ -58,7 +60,7 @@ If your lobbying fails you will have one last attempt to secure a better offer -
 
 Once the local authority has agreed to commence CPO proceedings, you will receive a formal notice giving you at least 28 days to object. The notice will give you details of where to send your objection letter. It is very important that you send the objection letter before the deadline. At this point you should instruct a solicitor to draft the letter. It will look something like [this](images/CPO_Objection_Template.docx) with a brief summary outlining the grounds of objection. 
 
-Once the letter is received by the government's planning casework unit, a Public Inquiry will be triggered but this could be anything from 6 months to a year away.
+Once the letter is received by the government's Planning Casework Unit, a Public Inquiry will be triggered but this could be anything from 6 months to a year away.
 
 In the meantime you will need to seek legal help in drawing up your detailed statement of objection, which will be presented to the Public Inquiry. You could try crowdfunding or approach the [Bar Pro Bono Unit](https://weareadvocate.org.uk/).
 

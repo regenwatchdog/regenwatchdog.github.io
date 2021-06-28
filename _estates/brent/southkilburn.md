@@ -13,8 +13,10 @@ images:
   - image_path: /images/yanki3.jpeg
   - image_path: /images/yanki4.jpeg
   - image_path: /images/yanki5.jpeg
-coordinates:
-  - -0.198561,51.533219
+location: '{"type":"Point","coordinates":[-0.198561,51.533219]}'
+landlord: Brent Council
+itla: Communities First
+total: 800
 ---
 Circa 800 homes remain under threat of demolition at Brent's redevelopment of the South Kilburn estate.
 

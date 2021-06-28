@@ -7,9 +7,12 @@ thumb: /images/sherwood1thumb.jpg
 images:
   - image_path: /images/sherwood1.jpg
   - image_path: /images/sherwood2.png
-  - image_path: /images/sherwood3.png
-coordinates: 
-  - -0.319455,51.509075
+  - image_path: /images/sherwood3.png 
+location: '{"type":"Point","coordinates":[-0.319455,51.509075]}'
+landlord: Ealing Council
+developer: Clarion Group
+itla:
+total: 209
 ---
 209 homes on Ealing's Sherwood Close estate are being demolished in a joint venture with Clarion housing association.
 

@@ -8,8 +8,11 @@ images:
   - image_path: /images/elmgrove3.jpg
   - image_path: /images/elmgrove2.png
   - image_path: /images/eg3.png
-coordinates:
-  - -0.193505,51.366883
+location: '{"type":"Point","coordinates":[-0.193505,51.366883]}'
+developer:
+landlord: Sutton Council
+itla: PPCR
+total: 100
 ---
 Circa 100 homes on Sutton's Elm Grove estate have been earmarked for potential demolition.
 

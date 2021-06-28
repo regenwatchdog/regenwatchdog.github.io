@@ -7,8 +7,11 @@ images:
   - image_path: /images/whitefield2.png
   - image_path: /images/whitefield3.jpg
   - image_path: /images/whitefield1.png
-coordinates:
-  - -0.219515,51.572426
+location: '{"type":"Point","coordinates":[-0.219515,51.572426]}'
+landlord: Barnet Council
+developer: Argent/L&Q
+itla: PEP
+total: 243
 category: underthreat
 stage: Implementation
 ---

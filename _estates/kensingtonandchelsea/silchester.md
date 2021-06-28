@@ -15,8 +15,11 @@ images:
   - image_path: /images/sc8.jpg
   - image_path: /images/sc91.jpg
   - image_path: /images/sc10.jpg
-coordinates: 
-  - -0.218275,51.514584
+location: '{"type":"Point","coordinates":[-0.218275,51.514584]}'
+developer:
+itla:
+total:
+published: false
 ---
 Circa 500 homes on the Silchester estate in Notting Hill were earmarked for potential redevelopment by RBKC in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784517.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Silchester_East_and_West_January_2017.PDF). 
 

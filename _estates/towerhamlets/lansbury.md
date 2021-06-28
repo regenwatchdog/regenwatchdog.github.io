@@ -8,8 +8,11 @@ images:
   - image_path: /images/crisp1.png
   - image_path: /images/crisp2.png
   - image_path: /images/crisp3.png
-coordinates:
-  - '-0.015573,51.511716'
+location: '{"type":"Point","coordinates":[-0.015573,51.511716]}'
+landlord: Poplar HARCA
+developer:
+itla:
+total: 169
 ---
 169 homes are earmarked for demolition on the Lansbury (south) estate in Tower Hamlets, as part of Poplar HARCA's regeneration of the Chrisp Street Market area.
 

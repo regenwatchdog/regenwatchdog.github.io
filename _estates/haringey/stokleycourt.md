@@ -7,8 +7,11 @@ thumb: /images/stokley_courtthumb.jpg
 images:
   - image_path: /images/stokley_court.jpg
   - image_path: /images/stokely_court.jpg
-coordinates: 
-  - -0.121308,51.589108
+location: '{"type":"Point","coordinates":[-0.121308,51.589108]}'
+landlord: Haringey Council
+developer:
+itla:
+total: 50
 ---
 Circa 50 homes have been earmarked for potential demolition at Stokley Court in Haringey.
 

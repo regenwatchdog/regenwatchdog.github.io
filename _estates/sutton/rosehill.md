@@ -6,8 +6,11 @@ borough: sutton
 thumb: /images/rosehillcourtthumb.jpg
 images:
   - image_path: /images/rosehillcourt.jpg
-coordinates:
-  - -0.189415,51.385183
+location: '{"type":"Point","coordinates":[-0.189415,51.385183]}'
+landlord: Sutton Council
+developer:
+itla:
+total: 50
 ---
 50 homes are listed for potential demolition at Rosehill Court, which is part of Sutton's St. Helier estate in Carshalton.
 

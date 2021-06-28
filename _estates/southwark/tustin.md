@@ -10,8 +10,11 @@ images:
   - image_path: /images/tustin4.jpeg
   - image_path: /images/tustin5.jpeg
   - image_path: /images/tustin6.jpeg
-coordinates: 
-  - -0.054867,51.480339
+location: '{"type":"Point","coordinates":[-0.054867,51.480339]}'
+landlord: Southwark Council
+developer:
+itla: Open Communities
+total: 298
 ---
 298 homes are earmarked for demolition on Southwark's Tustin estate on the Old Kent Road.
 

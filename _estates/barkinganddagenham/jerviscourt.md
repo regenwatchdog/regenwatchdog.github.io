@@ -8,8 +8,11 @@ images:
   - image_path: /images/jervis1.jpg
   - image_path: /images/jervis2.png
   - image_path: /images/jervis3.png
-coordinates:
-  - '0.155529,51.539952'
+location: '{"type":"Point","coordinates":[0.155529,51.539952]}'
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+total: 18
 ---
 18 homes at Jervis Court in Dagenham have been earmarked for demolition by Barking and Dagenham Council.
 

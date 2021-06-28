@@ -9,8 +9,11 @@ images:
   - image_path: /images/barnsbury2.png
   - image_path: /images/barnsbury3.png
   - image_path: /images/barnsbury4.png
-coordinates: 
-  - -0.11484456079491862,51.536269162328956
+location: '{"type":"Point","coordinates":[-0.114844,51.536269]}'
+landlord: Newlon Housing Association
+developer: Mount Anvil
+itla:
+total: 371
 ---
 371 homes are under threat of demolition on Islington's Barnsbury estate.
 

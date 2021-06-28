@@ -9,8 +9,11 @@ images:
   - image_path: /images/smere1.png
   - image_path: /images/smere2.png
   - image_path: /images/smere3.png
-coordinates: 
-  - 0.122512,51.497783
+location: '{"type":"Point","coordinates":[0.122512,51.497783]}'
+landlord: Peabody
+developer: Peabody
+itla: Communities First
+total: 226
 ---
 In November 2016, the Mayor [approved](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_286565///abbey_wood_and_south_thamesmead_report.pdf) the demolition of 226 homes on Bexley's Southmere site of the Thamesmead estate, to be replaced by 1,622 new homes of which 67 intermediate and 168 affordable rent of up to 80% market rent.
 

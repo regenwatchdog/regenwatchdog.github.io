@@ -9,8 +9,11 @@ images:
   - image_path: /images/dell2.png
   - image_path: /images/dell3.png
   - image_path: /images/dellaerial.png
-coordinates: 
-  - 0.225340,51.557480
+location: '{"type":"Point","coordinates":[0.225340,51.557480]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 29
 ---
 29 homes are under threat of demolition at Havering's Dell Court in Hornchurch.
 

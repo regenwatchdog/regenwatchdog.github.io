@@ -8,8 +8,11 @@ images:
   - image_path: /images/newera.jpg
   - image_path: /images/newera2.jpg
   - image_path: /images/newera3.jpg
-coordinates: 
-  - -0.081719,51.535979
+location: '{"type":"Point","coordinates":[-0.081719,51.535979]}'
+landlord: Dolphin Living
+developer:
+itla:
+total: 100
 ---
 Circa 100 homes are earmarked for demolition on Hackney's New Era estate in Hoxton by housing association Dolphin Living.
 

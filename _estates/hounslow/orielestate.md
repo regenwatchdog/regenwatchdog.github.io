@@ -28,8 +28,10 @@ images:
   - image_path: /images/or20.jpg
   - image_path: /images/or22.jpg
   - image_path: /images/orielaerial.png
-coordinates:
-  - -0.390207,51.435475
+location: '{"type":"Point","coordinates":[-0.390207,51.435475]}'
+landlord: Hounslow Council
+itla:
+total: 300
 ---
 Circa 300 homes have been earmarked for potential demolition on Hounslow's Oriel estate.
 

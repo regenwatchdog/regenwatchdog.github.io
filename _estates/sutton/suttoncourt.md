@@ -13,8 +13,11 @@ images:
   - image_path: /images/suttoncourt6.jpg
   - image_path: /images/suttoncourt7.jpg
   - image_path: /images/suttoncourt8.jpg
-coordinates:
-  - -0.1901,51.3577
+location: '{"type":"Point","coordinates":[-0.1901,51.3577]}'
+landlord: Sutton Council
+developer:
+itla:
+total: 150
 ---
 Circa 150 homes have been earmarked for potential demolition at the Sutton Court estate.
 

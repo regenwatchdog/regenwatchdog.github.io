@@ -15,8 +15,11 @@ images:
   - image_path: /images/bz8.jpg
   - image_path: /images/brabazonaerial.png
   - image_path: /images/normanbrabazon.png
-coordinates:
-  - -0.395689,51.484513 
+location: '{"type":"Point","coordinates":[-0.395689,51.484513]}'
+landlord: Hounslow Council
+developer:
+itla:
+total: 300
 ---
 Circa 300 homes have been earmarked for potential demolition on Hounslow's Brabazon estate.
 

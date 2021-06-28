@@ -9,8 +9,11 @@ images:
   - image_path: /images/gman2.jpg
   - image_path: /images/gman3.jpg
   - image_path: /images/gman4.jpg
-coordinates: 
-  - -0.325448,51.511542
+location: '{"type":"Point","coordinates":[-0.325448,51.511542]}'
+landlord: Ealing Council
+developer: Rydon/A2Dominion
+itla:
+total: 464
 ---
 464 homes on Ealing's Green Man Lane estate are earmarked for demolition.
 

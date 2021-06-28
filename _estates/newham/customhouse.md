@@ -8,8 +8,11 @@ images:
   - image_path: /images/customhouse2.jpg
   - image_path: /images/customhouse3.png
   - image_path: /images/customhouse4.png
-coordinates:
-  - '0.021314,51.510722'
+location: '{"type":"Point","coordinates":[0.021314,51.510722]}'
+landlord: Newham Council
+developer:
+itla: TPAS
+total: 300
 ---
 Circa 300 homes remain under threat of demolition as part of Newham's regeneration of the Custom House area.
 

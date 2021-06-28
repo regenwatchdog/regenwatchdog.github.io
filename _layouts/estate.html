@@ -14,7 +14,15 @@ title: Estates under threat
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-{{ content }}
+	  <h4>Number of homes under threat: {{ page.total }}</h4>
+	  <h4>Landlord: {{ page.landlord }}</h4>
+	  {% if page.developer %}
+	  <h4>Developer: {{ page.developer }}</h4>
+	  {% endif %}
+	  {% if page.itla %}
+	  <h4>Independent Resident Advisor: {{ page.itla }}</h4>
+	  {% endif %}
+	  {{ content }}
 <hr class="featurette-divider">
 <strong>Have we missed something?</strong> Help us keep this resource up to date by leaving a comment below.&#8595;  
 </div>

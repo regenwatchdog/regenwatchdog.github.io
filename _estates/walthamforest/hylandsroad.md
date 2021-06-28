@@ -3,14 +3,17 @@ category: underthreat
 stage: Implementation
 name: Hylands Road estate
 borough: walthamforest
-coordinates:
-  - -0.004060,51.592118
+location: '{"type":"Point","coordinates":[-0.004060,51.592118]}'
 thumb: /images/hylandsroadthumb.jpg
 images:
   - image_path: /images/hylandsroad.jpg
   - image_path: /images/hylandsroad2.png
   - image_path: /images/hylandsroad3.jpg
   - image_path: /images/hylandsroad4.jpg
+landlord: Waltham Forest Council
+developer:
+itla:
+total: 50
 ---
 Approximately 50 council homes have been earmarked for demolition on the remaining phases 2 and 3 of the Hylands Road regeneration in Walthamstow.
 

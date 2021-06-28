@@ -14,8 +14,11 @@ images:
   - image_path: /images/cw2.jpg
   - image_path: /images/cw1.jpg
   - image_path: /images/collingwoodaerial.png
-coordinates: 
-  - -0.1988,51.3691
+location: '{"type":"Point","coordinates":[-0.1988,51.3691]}'
+landlord: Sutton Council
+developer:
+itla:
+total: 250
 ---
 Circa 250 homes are under threat of potential demolition on Sutton's Collingwood estate.
 

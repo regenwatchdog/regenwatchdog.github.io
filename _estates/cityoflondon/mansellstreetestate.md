@@ -16,9 +16,11 @@ images:
   - image_path: /images/mansell10.jpg
   - image_path: /images/mansell11.jpg
   - image_path: /images/mansell12.jpg
-coordinates:
-  - '-0.073840,51.512782'
-published: true
+location: '{"type":"Point","coordinates":[-0.073840,51.512782]}'
+landlord: Guiness Housing Association
+developer:
+itla:
+total: 249
 ---
 249 homes are under threat of demolition by Guinness housing association on the Mansell Street estate in the City of London.
 

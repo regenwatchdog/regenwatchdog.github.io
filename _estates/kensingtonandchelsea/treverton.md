@@ -15,8 +15,12 @@ images:
   - image_path: /images/tv7.jpg
   - image_path: /images/tv8.jpg
   - image_path: /images/tv9.jpg
-coordinates: 
-  - -0.215096,51.523175
+location: '{"type":"Point","coordinates":[-0.215096,51.523175]}'
+landlord: RBKC
+developer:
+itla:
+total: 176
+published: false
 ---
 176 homes on the Treverton estate in Ladbroke Grove were earmarked for potential redevelopment by RBKC in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784549.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Treverton_Estate_January_2017.pdf). 
 

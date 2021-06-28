@@ -8,8 +8,11 @@ images:
   - image_path: /images/jsnells.jpg
   - image_path: /images/joyce3.png
   - image_path: /images/joyce5.jpg
-coordinates: 
-  - -0.066698,51.612022
+location: '{"type":"Point","coordinates":[-0.066698,51.612022]}'
+landlord: Enfield Council
+developer:
+itla: Source Partnership
+total: 795
 ---
 795 homes on Enfield's Joyce Avenue and Snells Park estates in Edmonton have been [earmarked for demolition](https://new.enfield.gov.uk/services/housing/housing-development-and-renewal/joyce-avenue-and-snells-park-leaflet-housing.pdf) by Enfield Council.
 

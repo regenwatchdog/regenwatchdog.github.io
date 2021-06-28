@@ -11,7 +11,11 @@ images:
   - image_path: /images/glinks5.png
   - image_path: /images/glinks6.png
 coordinates: 
-  - -0.357820,51.517047
+location: '{"type":"Point","coordinates":[-0.357820,51.517047]}'
+landlord: Ealing Council
+developer:
+itla:
+total: 500
 ---
 Circa 500 homes on the Golf Links estate in Ealing are under threat of demolition.
 

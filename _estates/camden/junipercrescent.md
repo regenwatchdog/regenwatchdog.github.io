@@ -18,8 +18,11 @@ images:
   - image_path: /images/jp10.jpg
   - image_path: /images/jp11.jpg
   - image_path: /images/junipercrescent.jpg
-coordinates: 
-  - -0.150620,51.542436
+location: '{"type":"Point","coordinates":[-0.150620,51.542436]}'
+developer: Countryside Properties
+landlord: One Housing Group
+itla: Communities First
+total: 200
 ---
 Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
 

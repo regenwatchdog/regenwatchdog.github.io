@@ -8,8 +8,11 @@ images:
   - image_path: /images/mw5.jpg
   - image_path: /images/mw6.png
   - image_path: /images/mw7.png
-coordinates: 
-  - 0.049174,51.487680
+location: '{"type":"Point","coordinates":[0.049174,51.487680]}'
+landlord: Greenwich Council
+developer: Lovell
+itla:
+total: 172
 ---
 172 homes on Greenwich's Maryon Grove estate in Charlton have been earmarked for demolition by Greenwich Council. 
 

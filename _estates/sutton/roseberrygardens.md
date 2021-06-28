@@ -8,8 +8,11 @@ images:
   - image_path: /images/roseberry1.jpg
   - image_path: /images/roseberry2.jpg
   - image_path: /images/roseberry3.jpg
-coordinates:
-  - -0.1929,51.3679
+location: '{"type":"Point","coordinates":[-0.1929,51.3679]}'
+landlord: Sutton Council
+developer:
+itla:
+total: 150
 ---
 Circa 150 homes have been earmarked for demolition on Sutton's Roseberry Gardens estate.
 

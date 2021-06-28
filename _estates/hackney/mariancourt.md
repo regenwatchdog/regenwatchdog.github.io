@@ -10,8 +10,11 @@ images:
   - image_path: /images/marian3.png
   - image_path: /images/marian4.png
   - image_path: /images/marian5.png
-coordinates: 
-  - -0.049139,51.547861
+location: '{"type":"Point","coordinates":[-0.049139,51.547861]}'
+landlord: Hackney Council
+developer: Austringer Capital
+itla:
+total: 75
 ---
 75 homes remain earmarked for demolition on Hackney's Marian Court estate in Homerton.
 

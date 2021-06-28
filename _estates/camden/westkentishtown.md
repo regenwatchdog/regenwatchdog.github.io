@@ -18,8 +18,11 @@ images:
   - image_path: /images/wkt10.jpg
   - image_path: /images/wkt11.jpg
   - image_path: /images/wkt12.jpg
-coordinates: 
-  - -0.149254,51.549409
+location: '{"type":"Point","coordinates":[-0.149254,51.549409]}'
+landlord: Camden Council
+developer:
+itla:
+total: 316
 ---
 316 homes are earmarked for demolition on Camden's West Kentish Town estate.
 

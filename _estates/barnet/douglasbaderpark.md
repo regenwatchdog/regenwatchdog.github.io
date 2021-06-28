@@ -12,8 +12,11 @@ images:
   - image_path: /images/db4.png
   - image_path: /images/db5.png
   - image_path: /images/baderscreenshot.png
-coordinates:
-  - '-0.249247,51.604697'
+location: '{"type":"Point","coordinates":[-0.249247,51.604697]}'
+landlord: Home Group (Housing Association)
+developer: Home/Hill Group
+itla:
+total: 271
 ---
 271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale.
 

@@ -7,8 +7,11 @@ thumb: /images/woodridingsthumb.jpg
 images:
   - image_path: /images/woodridings.jpg
   - image_path: /images/woodridingsaerial.jpg
-coordinates: 
-  - -0.126031,51.601499
+location: '{"type":"Point","coordinates":[-0.126031,51.601499]}'
+landlord: Haringey Council
+developer:
+itla:
+total: 50
 ---
 Circa 50 homes have been earmarked for potential demolition at Woodridings Court in Haringey.
 

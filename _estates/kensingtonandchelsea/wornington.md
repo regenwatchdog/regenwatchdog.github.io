@@ -8,9 +8,12 @@ images:
   - image_path: /images/worning1.jpg
   - image_path: /images/worning2.jpg
   - image_path: /images/worning3.jpg
-  - image_path: /images/worning4.jpg
-coordinates: 
-  - -0.212212,51.523537
+  - image_path: /images/worning4.jpg 
+location: '{"type":"Point","coordinates":[-0.212212,51.523537]}'
+landlord: RBKC
+developer: Catalyst Housing Association
+itla: Newman Francis
+total: 150
 ---
 Circa 150 homes of the 550 homes on RBKC's Wornington Green estate remain earmarked for demolition by Catalyst Housing Association, with stage 1 of 3 now complete. 
 

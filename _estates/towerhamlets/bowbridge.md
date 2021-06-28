@@ -6,8 +6,11 @@ borough: towerhamlets
 thumb: /images/warrenthumb.jpg
 images:
   - image_path: /images/warren.jpg
-coordinates:
-  - '-0.016940,51.527082' 
+location: '{"type":"Point","coordinates":[-0.016940,51.527082]}'
+landlord: Poplar HARCA
+developer:
+itla:
+total: 52
 ---
 52 homes are earmarked for demolition on the Bow Bridge estate in Tower Hamlets.
 

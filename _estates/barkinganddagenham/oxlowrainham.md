@@ -9,8 +9,11 @@ images:
   - image_path: /images/or2.png
   - image_path: /images/or3.png
   - image_path: /images/or4.png
-coordinates:
-  - '0.160306,51.551931'
+location: '{"type":"Point","coordinates":[0.160306,51.551931]}'
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+total: 17
 ---
 17 homes have been earmarked for demolition at Oxlow and Rainham Houses in Dagenham.
 

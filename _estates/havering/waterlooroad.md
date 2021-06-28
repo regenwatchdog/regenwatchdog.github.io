@@ -12,8 +12,11 @@ images:
   - image_path: /images/w5.png
   - image_path: /images/waterloo_road.jpg
   - image_path: /images/waterlooaerial.png
-coordinates: 
-  - 0.176900,51.574334
+location: '{"type":"Point","coordinates":[0.176900,51.574334]}'
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: 285
 ---
 285 homes are under threat of demolition on Havering's Waterloo road and Queen's street estate in Romford.
 

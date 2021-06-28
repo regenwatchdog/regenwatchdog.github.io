@@ -11,8 +11,11 @@ images:
   - image_path: /images/chaucer3.jpg
   - image_path: /images/chaucer6.jpg
   - image_path: /images/chaucer7.jpg
-coordinates:
-  - -0.2008,51.3705
+location: '{"type":"Point","coordinates":[-0.2008,51.3705]}'
+landlord: Sutton Council
+developer:
+itla:
+total: 250
 ---
 Circa 250 homes have been earmarked for potential demolition on Sutton's Chaucer Gardens estate.
 

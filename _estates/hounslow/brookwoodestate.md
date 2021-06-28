@@ -14,8 +14,11 @@ images:
   - image_path: /images/bkwood5.jpg
   - image_path: /images/bkwood6.jpg
   - image_path: /images/bkwood7.jpg
-coordinates:
-  - -0.362360,51.475927
+location: '{"type":"Point","coordinates":[-0.362360,51.475927]}'
+landlord: Hounslow Council
+developer:
+itla:
+total: 200
 ---
 Circa 200 homes have been earmarked for potential demoliton on Hounslow's Brookwood Road estate.
 

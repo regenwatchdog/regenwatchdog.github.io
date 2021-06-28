@@ -7,8 +7,11 @@ thumb: /images/beechtreeplacethumb.jpg
 images:
   - image_path: /images/beechtreeplace.jpg
   - image_path: /images/beechtreeplace2.jpg
-coordinates:
-  - -0.194613,51.363438
+location: '{"type":"Point","coordinates":[-0.194613,51.363438]}'
+landlord: Sutton Council
+developer:
+itla: Public Voice
+total: 21
 ---
 21 homes at Beech Tree Place near Sutton Town centre are under threat of demolition by Sutton Council.
 

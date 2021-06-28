@@ -9,7 +9,11 @@ images:
   - image_path: /images/hinstock1.png
   - image_path: /images/hinstock2.png
 coordinates: 
-  - -0.188548,51.540008
+location: '{"type":"Point","coordinates":[-0.188548,51.540008]}'
+landlord: Camden Council
+developer: Camden Council
+itla:
+total: 100
 ---
 Circa 100 council homes are under threat of demolition in phase 3 of Camden's [Abbey Road estate regeneration](https://www.camden.gov.uk/abbey-road-development), which envisages the demolition of the Emminster and Hinstock blocks.
 

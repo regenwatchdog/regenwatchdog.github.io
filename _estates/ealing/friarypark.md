@@ -9,8 +9,11 @@ images:
   - image_path: /images/fparkaerial.png
   - image_path: /images/fpark1.png
   - image_path: /images/fpark2.png
-coordinates: 
-  - -0.264300,51.516962
+location: '{"type":"Point","coordinates":[-0.264300,51.516962]}'
+landlord: Catalyst Housing Group
+developer: Mount Anvil
+itla:
+total: 230
 ---
 230 homes are under threat of demolition on Ealing's Friary Park estate in Acton.
 

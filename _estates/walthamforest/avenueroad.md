@@ -3,8 +3,7 @@ category: underthreat
 stage: Proposal
 name: Avenue Road estate
 borough: walthamforest
-coordinates:
-  - '-0.0027,51.5536'
+location: '{"type":"Point","coordinates":[-0.0027,51.5536]}'
 thumb: /images/avenueroadthumb.jpg
 images:
   - image_path: /images/avenueroad.jpg
@@ -15,6 +14,10 @@ images:
   - image_path: /images/Avenue_R5.jpg
   - image_path: /images/Avenue_R6.jpg
   - image_path: /images/Avenue_R7.jpg
+landlord: Waltham Forest Council
+developer:
+itla: Newman Francis
+total: 258
 ---
 258 homes in 4 blocks of the Avenue Road estate have been <a href="https://walthamforest.gov.uk/content/regeneration-avenue-road-estate-leytonstone">earmarked</a> for demolition (Blackthorn Ct, Gean Ct, Mulberry Ct, Rosewood Ct).
 

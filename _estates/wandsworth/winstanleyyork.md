@@ -33,8 +33,11 @@ images:
   - image_path: /images/wy26.jpg
   - image_path: /images/wy27.jpg
   - image_path: /images/wy28.jpg
-coordinates: 
-  - -0.176427,51.464762
+location: '{"type":"Point","coordinates":[-0.176427,51.464762]}'
+landlord: Wandsworth Council
+developer: Taylor Wimpey
+itla:
+total: 759
 ---
 759 homes on Wandsworth's Winstanley and York Road estates have been approved for demolition, to be replaced with 2,550 homes with just 36% affordable housing of which only 484 social rent.
 

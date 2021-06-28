@@ -11,8 +11,11 @@ images:
   - image_path: /images/ef2.jpg
   - image_path: /images/ef3.jpg
   - image_path: /images/ef5.jpg
-coordinates: 
-  - '-0.149209,51.407168'
+location: '{"type":"Point","coordinates":[-0.149209,51.407168]}'
+landlord: Clarion Group
+developer:
+itla:
+total: 446
 ---
 In Nov 2018, the Mayor approved the demolition of 446 homes on Merton's Eastfields estate, to be replaced by 800 homes of which only 262 affordable (all at affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 

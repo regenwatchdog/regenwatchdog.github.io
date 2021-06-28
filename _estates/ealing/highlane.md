@@ -10,8 +10,11 @@ images:
   - image_path: /images/highlane1.png
   - image_path: /images/highlane5.png
   - image_path: /images/highlaneaerial.png
-coordinates: 
-  - -0.344496,51.519802
+location: '{"type":"Point","coordinates":[-0.344496,51.519802]}'
+landlord: Ealing Council
+developer: Rydon
+itla:
+total: 264
 ---
 264 homes are earmarked for demolition on Ealing's High Lane estate in Hanwell.
 

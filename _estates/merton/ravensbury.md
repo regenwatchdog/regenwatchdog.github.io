@@ -12,8 +12,11 @@ images:
   - image_path: /images/rgrove4.jpg
   - image_path: /images/rgrove5.jpg
   - image_path: /images/rgrovemap.jpg
-coordinates: 
-  - '-0.181542,51.399087'
+location: '{"type":"Point","coordinates":[-0.181542,51.399087]}'
+landlord: Clarion Group
+developer: Clarion
+itla:
+total: 100
 ---
 In Nov 2018, the Mayor approved the demolition of 100 homes on Merton's Ravensbury estate, to be replaced by 180 homes of which 50% affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 

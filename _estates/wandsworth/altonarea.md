@@ -11,8 +11,11 @@ images:
   - image_path: /images/altonlibrary.jpg
   - image_path: /images/alton2.jpg
   - image_path: /images/alton.jpg
-coordinates: 
-  - -0.243483,51.450221
+location: '{"type":"Point","coordinates":[-0.243483,51.450221]}'
+landlord: Wandsworth Council
+developer:
+itla:
+total: 288
 ---
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 

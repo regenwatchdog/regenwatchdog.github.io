@@ -4,7 +4,7 @@ stage: Implementation
 name: Marlowe Road estate
 borough: walthamforest
 coordinates:
-  - '-0.006070,51.587181'
+location: '{"type":"Point","coordinates":[-0.006070,51.587181]}'
 thumb: /images/mwrthumb.jpg
 images:
   - image_path: /images/001.jpg
@@ -25,6 +25,10 @@ images:
   - image_path: /images/mwr4.png
   - image_path: /images/mwr5.png
   - image_path: /images/mwr6.png
+landlord: Waltham Forest Council
+developer:
+itla:
+total: 150
 ---
 150 homes remain earmarked for demolition on Waltham Forest's Marlowe Road estate in Walthamstow.
 

@@ -1,0 +1,20 @@
+---
+---
+var freeBus = {
+  "type": "FeatureCollection",
+  "features": [{% for estate in site.estates %}
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "{{ estate.name }}",
+	"stage": "{{ estate.stage }}",
+        "image": "{{ estate.images[0].image_path }}",
+        "url": "{{estate.url}}"
+      },
+      "geometry": {
+	"type": "Point",
+	"coordinates": [{{ estate.coordinates }}]
+        }
+      }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
+  ]
+};

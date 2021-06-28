@@ -3,9 +3,11 @@ category: underthreat
 stage: Proposal 
 name: Severn Way
 borough: brent
-coordinates:
-  - '-0.246721,51.552401'
-published: true
+location: '{"type":"Point","coordinates":[-0.246721,51.552401]}'
+landlord: Brent Council
+developer:
+itla:
+total: 50
 thumb: /images/Severn_way3LSthumb.jpg
 images:
   - image_path: /images/Severn_way3LS.jpg

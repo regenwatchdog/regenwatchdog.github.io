@@ -22,10 +22,11 @@ images:
   - image_path: /images/gascoigneab5.jpg
   - image_path: /images/gascoigneab6.jpg
   - image_path: /images/gascoigneab7.jpg
-
-coordinates:
-  - '0.078037,51.533476'
-published: true
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+location: '{"type":"Point","coordinates":[0.078037,51.533476]}'
+total: 179
 ---
 In Dec 2018, the Mayor approved the demolition of 179 homes on the latest phase of Barking & Dagenham's Gascoigne estate regeneration, to be replaced by 850 new homes of which 78 at 'London Affordabe Rent' (defined as up to 80% market rent). Leaseholders have the 'right to return'  only if they can afford to pay the rent in one of the new shared-ownership flats. 
 

@@ -10,9 +10,12 @@ images:
   - image_path: /images/alma1.png
   - image_path: /images/alma2.png
   - image_path: /images/alma4.png
-  - image_path: /images/alma5.png
-coordinates: 
-  - -0.036348,51.643512
+  - image_path: /images/alma5.png 
+location: '{"type":"Point","coordinates":[-0.036348,51.643512]}'
+landlord: Enfield Council
+developer: Countryside Properties
+itla: PEP
+total: 746
 ---
 746 homes have been approved for demolition on Enfield's Alma estate at Ponders End.
 

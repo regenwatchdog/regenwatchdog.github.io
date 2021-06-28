@@ -25,8 +25,11 @@ images:
   - image_path: /images/ag12.jpg
   - image_path: /images/ag13.jpg
   - image_path: /images/ag14.jpg
-coordinates: 
-  - -0.133195,51.542259
+location: '{"type":"Point","coordinates":[-0.133195,51.542259]}'
+landlord: Camden Council
+developer: Camden Council
+itla:
+total: 150
 ---
 Circa 150 homes are earmarked for demolition in the latest phase of the Agar Grove estate in Camden.
 

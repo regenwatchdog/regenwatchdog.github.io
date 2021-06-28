@@ -10,8 +10,11 @@ images:
   - image_path: /images/reg3.jpg
   - image_path: /images/tidemill2.jpeg
   - image_path: /images/tidemill5.jpg
-coordinates:
-  - '-0.024691,51.476346'
+location: '{"type":"Point","coordinates":[-0.024691,51.476346]}'
+landlord: Lewisham Council
+developer:
+itla:
+total: 16
 ---
 16 homes at Reginald House in Deptford have been earmarked for demolition as part of Lewisham's [regeneration of Deptford](https://lewisham.gov.uk/tidemill). 
 

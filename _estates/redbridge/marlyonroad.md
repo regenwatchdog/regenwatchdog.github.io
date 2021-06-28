@@ -3,14 +3,16 @@ category: underthreat
 stage: Proposal
 name: Marlyon Road estate
 borough: redbridge
-coordinates:
-  - '0.121567,51.611731'
-published: true
+location: '{"type":"Point","coordinates":[0.121567,51.611731]}'
 thumb: /images/marlyonroad2thumb.jpg
 images:
   - image_path: /images/marlyonroad2.jpg
   - image_path: /images/marlyonroad.png
   - image_path: /images/marlyon3.png
+landlord: Redbridge Council
+developer:
+itla:
+total: 36
 ---
 36 homes on Redbridge's Marlyon road estate have been earmarked for demolition in a joint venture with Engie Regeneration Ltd. 
 

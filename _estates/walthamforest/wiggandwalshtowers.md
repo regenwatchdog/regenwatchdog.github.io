@@ -3,8 +3,7 @@ category: underthreat
 stage: Proposal
 name: Fred Wigg and John Walsh Towers
 borough: walthamforest
-coordinates:
-  - '-0.0141,51.5610'
+location: '{"type":"Point","coordinates":[-0.0141,51.5610]}'
 thumb: /images/wiggandwalshthumb.jpg
 images:
   - image_path: /images/wiggandwalsh.jpg
@@ -16,6 +15,10 @@ images:
   - image_path: /images/FW_JW6.jpg
   - image_path: /images/FW_JW7.jpg
   - image_path: /images/FW_JW8.jpg
+landlord: Waltham Forest Council
+developer:
+itla:
+total: 100
 ---
 Circa 100 homes in two towers on the Montague road estate have been earmarked for redevelopment.
 

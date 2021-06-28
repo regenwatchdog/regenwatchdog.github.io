@@ -9,8 +9,11 @@ images:
   - image_path: /images/dvalley.png
   - image_path: /images/dvalley2.png
   - image_path: /images/dvalley4.png
-coordinates:
-  - '-0.197573,51.644001'
+location: '{"type":"Point","coordinates":[-0.197573,51.644001]}'
+landlord: Barnet Council
+developer: Countryside Properties
+itla: PPCR
+total: 363
 ---
 363 of the 440 homes on Barnet's Dollis Valley estate are under threat of demolition. Whilst the low-rise terraced properties on the south side of the estate will be retained, all 363 of the 5-storey maisonette blocks on the north side will be demolished.
 

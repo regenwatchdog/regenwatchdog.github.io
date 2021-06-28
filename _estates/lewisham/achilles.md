@@ -15,8 +15,11 @@ images:
   - image_path: /images/ach8.jpg
   - image_path: /images/ach9.jpg
   - image_path: /images/ach10.jpg
-coordinates:
-  - '-0.035341,51.476452'
+location: '{"type":"Point","coordinates":[-0.035341,51.476452]}'
+landlord: Lewisham Council
+developer:
+itla:
+total: 87
 ---
 87 homes and 17 shops are earmarked for demolition as part of Lewisham's regeneration of the Achilles Street area in New Cross.
 

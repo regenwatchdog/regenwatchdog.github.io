@@ -10,8 +10,11 @@ images:
   - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-24.jpg
   - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-estate-signboard.jpg
   - image_path: /images/woodberryaerial.jpg
-coordinates: 
-  - -0.090658,51.572949
+location: '{"type":"Point","coordinates":[-0.090658,51.572949]}'
+landlord: Hackney Council
+developer: Berkeley Homes
+itla: Simon Slater (Public Voice)
+total: 1000
 ---
 Circa 1,000 homes on Hackney's Woodberry Down estate near Finsbury Park remain under threat of demolition.
 

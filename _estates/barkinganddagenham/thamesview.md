@@ -9,8 +9,11 @@ images:
   - image_path: /images/tv1.png
   - image_path: /images/tv2.png
   - image_path: /images/tv4.png
-coordinates:
-  - '0.109535,51.528893'
+location: '{"type":"Point","coordinates":[0.109535,51.528893]}'
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+total: 41
 ---
 41 homes on Barking's Thames View estate have been earmarked for demolition by Barking and Dagenham Council.
 

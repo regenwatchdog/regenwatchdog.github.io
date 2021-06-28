@@ -10,8 +10,11 @@ images:
   - image_path: /images/slb3.jpg
   - image_path: /images/slb2.jpg
   - image_path: /images/slb1.jpg
-coordinates: 
-  - -0.118861,51.478668
+location: '{"type":"Point","coordinates":[-0.118861,51.478668]}'
+landlord: Lambeth Council
+developer:
+itla: TPAS
+total: 101
 ---
 101 homes are earmarked for demolition on Lambeth's South Lambeth estate.
 

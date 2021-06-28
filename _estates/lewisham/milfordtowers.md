@@ -8,10 +8,11 @@ images:
   - image_path: /images/mtowers1.jpg
   - image_path: /images/mtowers2.png
   - image_path: /images/mtowers3.png
-
-coordinates:
-  - '-0.022020,51.446550'
-published: true
+location: '{"type":"Point","coordinates":[-0.022020,51.446550]}'
+landlord: Lewisham Council
+developer:
+itla:
+total: 276
 ---
 276 homes are under threat of demolition in Lewisham's Milford Towers estate in Catford.
 

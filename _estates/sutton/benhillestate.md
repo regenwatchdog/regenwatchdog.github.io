@@ -22,8 +22,11 @@ images:
   - image_path: /images/bhs6.jpg
   - image_path: /images/benhillestate.jpg
   - image_path: /images/benhillaerial.png
-coordinates:
-  - -0.1901,51.3673
+location: '{"type":"Point","coordinates":[-0.1901,51.3673]}'
+landlord: Sutton Council
+developer:
+itla: Communities First
+total: 429
 ---
 429 homes have been earmarked for potential development on Sutton's Benhill estate.
 

@@ -12,8 +12,11 @@ images:
   - image_path: /images/marksgate1.png
   - image_path: /images/mgtower.png
   - image_path: /images/mgaerialwhole.png
-coordinates:
-  - '0.138200,51.581715'
+landlord: Barking & Dagenham Council
+developer: BeFirst
+itla:
+total: 500
+location: '{"type":"Point","coordinates":[0.138200,51.581715]}'
 ---
 Circa 500 homes have been earmarked for potential demolition by Barking and Dagenham Council.
 

@@ -23,7 +23,12 @@ images:
   - image_path: /images/wr16.jpg
   - image_path: /images/wr17.jpg
 coordinates: 
-  - -0.201078,51.493913
+location: '{"type":"Point","coordinates":[-0.201078,51.493913]}'
+landlord: RBKC
+developer:
+itla:
+total: 115
+published: false
 ---
 115 homes on the Warwick Road estate in Earls Court were earmarked for potential redevelopment by the Royal Borough of Kensington and Chelsea in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784581.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Warwick_Road_Estate_January_2017.pdf). 
 

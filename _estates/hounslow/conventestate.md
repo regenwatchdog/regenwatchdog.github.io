@@ -25,9 +25,11 @@ images:
   - image_path: /images/cv18.jpg
   - image_path: /images/cv19.jpg
   - image_path: /images/cv20.jpg
-coordinates:
-  - '-0.393576,51.494632'
-published: true
+location: '{"type":"Point","coordinates":[-0.393576,51.494632]}'
+landlord: Hounslow Council
+developer:
+itla:
+total: 440
 ---
 440 homes are earmarked for demolition on Hounslow's Convent Way estate.
 

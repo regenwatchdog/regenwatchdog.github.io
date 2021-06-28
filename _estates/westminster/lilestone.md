@@ -12,10 +12,11 @@ images:
   - image_path: /images/ls5.jpg
   - image_path: /images/ls6.jpg
   - image_path: /images/ls7.jpg
-
-coordinates:
-  - '-0.174412,51.524650'
-published: true
+location: '{"type":"Point","coordinates":[-0.174412,51.524650]}'
+landlord: Westminster Council
+developer:
+itla:
+total: 150
 ---
 Circa 150 homes are under threat of potential demolition on Westminster' Lilestone estate.
 

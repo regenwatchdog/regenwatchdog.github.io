@@ -10,8 +10,11 @@ images:
   - image_path: /images/centralhillaerial.jpg
   - image_path: /images/central3.jpg
   - image_path: /images/central4.jpg
-coordinates: 
-  - -0.085651,51.420034
+location: '{"type":"Point","coordinates":[-0.085651,51.420034]}'
+landlord: Lambeth Council
+developer:
+itla: PPCR
+total: 476
 ---
 476 homes are earmarked for demolition on Lambeth's Central Hill estate.
 
