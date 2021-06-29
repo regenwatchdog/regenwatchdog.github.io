@@ -244,7 +244,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
             <div class="card">
                 <div class="card-image">
                     <div class="embed-responsive embed-responsive-16by9">
-<video width="560" height="315" controls><source src="http://35percent.org/img/blairaylesburyspeech.mp4" type="video/mp4"></video>
+<video width="560" height="315" controls><source src="https://35percent.org/img/blairaylesburyspeech.mp4" type="video/mp4"></video>
 </div>
 
                     

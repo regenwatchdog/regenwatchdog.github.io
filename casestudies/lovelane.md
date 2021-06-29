@@ -77,7 +77,7 @@ For more information see the following articles:
 <div class="row">
   <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/independent_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/independent_lovelane.png" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
             <div class="card-body">
               <h5 class="card-title">Residents' group on Tottenham estate slams housing offer. (Enfield Independent)</h5>
               <div class="d-flex justify-content-between align-items-center">
@@ -91,7 +91,7 @@ For more information see the following articles:
 
 <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-                  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/jmll.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+                  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/jmll.png" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
             <div class="card-body">
               <h5 class="card-title">Interview with resident Joanna Morrison</h5>
               <div class="d-flex justify-content-between align-items-center">
@@ -105,7 +105,7 @@ For more information see the following articles:
 
 <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/guardian_lovelane.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/guardian_lovelane.png" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
             <div class="card-body">
 		    <h5 class="card-title">Under the wrecking ball: hundreds of homeless families placed in housing slated for demolition. (The Guardian)</h5>
               <div class="d-flex justify-content-between align-items-center">
@@ -120,7 +120,7 @@ For more information see the following articles:
 	
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/mirror_lovelane.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
+		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/mirror_lovelane.jpg" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
             <div class="card-body">
               <h5 class="card-title">Residents near Tottenham's new stadium fear they're being 'pushed out of area'. (Mirror) </h5>
               <div class="d-flex justify-content-between align-items-center">
