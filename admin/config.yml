@@ -51,7 +51,19 @@ collections:
     identifier_field: name
     folder: '_estates/barnet/'
     fields:
-      - {label: "Location", name: "location", widget: "map" }      
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
       - label: "Current Development Status"
         name: "stage"
         widget: "select"
@@ -59,15 +71,23 @@ collections:
           - { label: "Proposal Stage", value: "proposal" }
           - { label: "Preparation Stage", value: "preparation" }
           - { label: "Implementation Stage", value: "implementation" }
-      - label: 'Name'
-        name: 'name'
+      - label: 'Landlord'
+        name: 'landlord'
         widget: 'string'
-      - label: 'Borough'
-        name: 'borough'
+      - label: 'Developer'
+        name: 'developer'
         widget: 'string'
-      - label: 'Lat/Long Coordinates'
-        name: 'coordinates'
+      - label: 'ITLA'
+        name: 'itla'
         widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}   
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
