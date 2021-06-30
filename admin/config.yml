@@ -68,9 +68,9 @@ collections:
         name: "stage"
         widget: "select"
         options:
-          - { label: "Proposal Stage", value: "proposal" }
-          - { label: "Preparation Stage", value: "preparation" }
-          - { label: "Implementation Stage", value: "implementation" }
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
       - label: 'Landlord'
         name: 'landlord'
         widget: 'string'
@@ -83,10 +83,10 @@ collections:
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
-      - label: "Gallery"
-        name: "galleryImages"
+      - label: "Image Gallery"
+        name: "images"
         widget: "list"
-        summary: '{{fields.image}}'
+        summary: '{{images.image_path}}'
         field: {label: Image, name: image, widget: image}   
       - label: 'Body'
         name: 'body'
