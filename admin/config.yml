@@ -83,11 +83,11 @@ collections:
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
-      - label: "Image Gallery"
+      - label: "Images"
         name: "images"
         widget: "list"
-        summary: '{{images.image_path}}'
-        field: {label: Image, name: image, widget: image}   
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
