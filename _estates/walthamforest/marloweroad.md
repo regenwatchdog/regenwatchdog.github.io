@@ -7,24 +7,24 @@ coordinates:
 location: '{"type":"Point","coordinates":[-0.006070,51.587181]}'
 thumb: /images/mwrthumb.jpg
 images:
-  - image_path: /images/001.jpg
-  - image_path: /images/002.jpg
-  - image_path: /images/003.jpg
-  - image_path: /images/004.jpg
-  - image_path: /images/005.jpg
-  - image_path: /images/006.jpg
-  - image_path: /images/007.jpg
-  - image_path: /images/008.jpg
-  - image_path: /images/009.jpg
-  - image_path: /images/0010.jpg
-  - image_path: /images/0011.jpg
-  - image_path: /images/mwr.png
-  - image_path: /images/mwr1.png
-  - image_path: /images/mwr2.png
-  - image_path: /images/mwr3.png
-  - image_path: /images/mwr4.png
-  - image_path: /images/mwr5.png
-  - image_path: /images/mwr6.png
+  - /images/001.jpg
+  - /images/002.jpg
+  - /images/003.jpg
+  - /images/004.jpg
+  - /images/005.jpg
+  - /images/006.jpg
+  - /images/007.jpg
+  - /images/008.jpg
+  - /images/009.jpg
+  - /images/0010.jpg
+  - /images/0011.jpg
+  - /images/mwr.png
+  - /images/mwr1.png
+  - /images/mwr2.png
+  - /images/mwr3.png
+  - /images/mwr4.png
+  - /images/mwr5.png
+  - /images/mwr6.png
 landlord: Waltham Forest Council
 developer:
 itla:

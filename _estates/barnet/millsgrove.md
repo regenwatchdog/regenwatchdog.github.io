@@ -5,10 +5,10 @@ name: Mills Grove & Westhorpe Gdns estate
 borough: barnet
 thumb: /images/millsgrovethumb.jpg
 images:
-  - image_path: /images/mgrove2.png
-  - image_path: /images/mgrove3.png
-  - image_path: /images/mgrove4.png
-  - image_path: /images/mgrove5.png
+  - /images/mgrove2.png
+  - /images/mgrove3.png
+  - /images/mgrove4.png
+  - /images/mgrove5.png
 location: '{"type":"Point","coordinates":[-0.218737,51.591830]}'
 landlord: Metropolitan Housing Association
 developer:

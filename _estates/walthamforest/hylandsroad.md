@@ -6,10 +6,10 @@ borough: walthamforest
 location: '{"type":"Point","coordinates":[-0.004060,51.592118]}'
 thumb: /images/hylandsroadthumb.jpg
 images:
-  - image_path: /images/hylandsroad.jpg
-  - image_path: /images/hylandsroad2.png
-  - image_path: /images/hylandsroad3.jpg
-  - image_path: /images/hylandsroad4.jpg
+  - /images/hylandsroad.jpg
+  - /images/hylandsroad2.png
+  - /images/hylandsroad3.jpg
+  - /images/hylandsroad4.jpg
 landlord: Waltham Forest Council
 developer:
 itla:

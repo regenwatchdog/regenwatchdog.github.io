@@ -5,10 +5,10 @@ name: Delta estate
 borough: havering
 thumb: /images/delta2thumb.jpg
 images:
-  - image_path: /images/delta2.jpg
-  - image_path: /images/delta1.png
-  - image_path: /images/delta3.png
-  - image_path: /images/dellaerial.png
+  - /images/delta2.jpg
+  - /images/delta1.png
+  - /images/delta3.png
+  - /images/dellaerial.png
 location: '{"type":"Point","coordinates":[0.212813,51.583107]}'
 landlord: Havering Council
 developer: Wates

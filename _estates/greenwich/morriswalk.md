@@ -5,10 +5,10 @@ name: Morris Walk estate
 borough: greenwich
 thumb: /images/mw1thumb.jpg
 images:
-  - image_path: /images/mw1.jpg
-  - image_path: /images/mw2.png
-  - image_path: /images/mw3.png
-  - image_path: /images/mw4.png
+  - /images/mw1.jpg
+  - /images/mw2.png
+  - /images/mw3.png
+  - /images/mw4.png
 location: '{"type":"Point","coordinates":[0.045870,51.491909]}'
 landlord: Greenwich Council
 developer: Lovell

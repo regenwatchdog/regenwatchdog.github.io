@@ -5,11 +5,11 @@ name: Cundy Street estate
 borough: westminster
 thumb: /images/cundy1thumb.jpg
 images:
-  - image_path: /images/cundy1.jpg
-  - image_path: /images/cundy2.png
-  - image_path: /images/cundy3.png
-  - image_path: /images/cundy5.jpg
-  - image_path: /images/cundystreet.jpg
+  - /images/cundy1.jpg
+  - /images/cundy2.png
+  - /images/cundy3.png
+  - /images/cundy5.jpg
+  - /images/cundystreet.jpg
 location: '{"type":"Point","coordinates":[-0.150762,51.491119]}'
 landlord: Grosvenor estates
 developer: Grosvenor

@@ -6,9 +6,9 @@ borough: redbridge
 location: '{"type":"Point","coordinates":[0.121567,51.611731]}'
 thumb: /images/marlyonroad2thumb.jpg
 images:
-  - image_path: /images/marlyonroad2.jpg
-  - image_path: /images/marlyonroad.png
-  - image_path: /images/marlyon3.png
+  - /images/marlyonroad2.jpg
+  - /images/marlyonroad.png
+  - /images/marlyon3.png
 landlord: Redbridge Council
 developer:
 itla:

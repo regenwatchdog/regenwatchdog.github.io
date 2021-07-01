@@ -5,9 +5,9 @@ name: Aspen House (Maitland Park estate)
 borough: camden
 thumb: /images/ap2thumb.jpg
 images:
-  - image_path: /images/ap2.jpg
-  - image_path: /images/aspen.png
-  - image_path: /images/ap1.jpg
+  - /images/ap2.jpg
+  - /images/aspen.png
+  - /images/ap1.jpg
 location: '{"type":"Point","coordinates":[-0.157043,51.548572]}'
 landlord: Camden Council
 developer:

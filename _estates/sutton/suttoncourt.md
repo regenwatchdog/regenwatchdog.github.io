@@ -5,14 +5,14 @@ name: Sutton Court estate
 borough: sutton
 thumb: /images/suttoncourtthumb.jpg
 images:
-  - image_path: /images/suttoncourt.jpg
-  - image_path: /images/suttoncourt2.jpg
-  - image_path: /images/suttoncourt3.jpg
-  - image_path: /images/suttoncourt4.jpg
-  - image_path: /images/suttoncourt5.jpg
-  - image_path: /images/suttoncourt6.jpg
-  - image_path: /images/suttoncourt7.jpg
-  - image_path: /images/suttoncourt8.jpg
+  - /images/suttoncourt.jpg
+  - /images/suttoncourt2.jpg
+  - /images/suttoncourt3.jpg
+  - /images/suttoncourt4.jpg
+  - /images/suttoncourt5.jpg
+  - /images/suttoncourt6.jpg
+  - /images/suttoncourt7.jpg
+  - /images/suttoncourt8.jpg
 location: '{"type":"Point","coordinates":[-0.1901,51.3577]}'
 landlord: Sutton Council
 developer:

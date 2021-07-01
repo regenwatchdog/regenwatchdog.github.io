@@ -5,17 +5,17 @@ name: Mansell Street estate
 borough: cityoflondon
 thumb: /images/mansell1thumb.jpg
 images:
-  - image_path: /images/mansell1.jpg
-  - image_path: /images/mansell2.jpg
-  - image_path: /images/mansell3.jpg
-  - image_path: /images/mansell4.jpg
-  - image_path: /images/mansell5.jpg
-  - image_path: /images/mansell6.jpg
-  - image_path: /images/mansell7.jpg
-  - image_path: /images/mansell9.jpg
-  - image_path: /images/mansell10.jpg
-  - image_path: /images/mansell11.jpg
-  - image_path: /images/mansell12.jpg
+  - /images/mansell1.jpg
+  - /images/mansell2.jpg
+  - /images/mansell3.jpg
+  - /images/mansell4.jpg
+  - /images/mansell5.jpg
+  - /images/mansell6.jpg
+  - /images/mansell7.jpg
+  - /images/mansell9.jpg
+  - /images/mansell10.jpg
+  - /images/mansell11.jpg
+  - /images/mansell12.jpg
 location: '{"type":"Point","coordinates":[-0.073840,51.512782]}'
 landlord: Guiness Housing Association
 developer:

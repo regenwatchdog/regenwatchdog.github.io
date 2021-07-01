@@ -5,9 +5,9 @@ name: Concorde Close
 thumb: /images/cc1thumb.jpg
 borough: hounslow
 images:
-  - image_path: /images/cc1.jpg
-  - image_path: /images/cc2.png
-  - image_path: /images/cc3.png
+  - /images/cc1.jpg
+  - /images/cc2.png
+  - /images/cc3.png
 location: '{"type":"Point","coordinates":[-0.366567,51.471914]}'
 landlord: Home Group
 developer:

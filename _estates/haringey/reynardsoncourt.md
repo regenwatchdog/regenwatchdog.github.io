@@ -5,7 +5,7 @@ name: Reynardson Court
 borough: haringey
 thumb: /images/reynardsonthumb.jpg
 images:
-  - image_path: /images/reynardson.jpg
+  - /images/reynardson.jpg
 location: '{"type":"Point","coordinates":[-0.069554,51.590250]}'
 landlord: Haringey Council
 developer:

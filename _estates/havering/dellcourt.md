@@ -5,10 +5,10 @@ name: Dell Court
 borough: havering
 thumb: /images/dell1thumb.jpg
 images:
-  - image_path: /images/dell1.jpg
-  - image_path: /images/dell2.png
-  - image_path: /images/dell3.png
-  - image_path: /images/dellaerial.png
+  - /images/dell1.jpg
+  - /images/dell2.png
+  - /images/dell3.png
+  - /images/dellaerial.png
 location: '{"type":"Point","coordinates":[0.225340,51.557480]}'
 landlord: Havering Council
 developer: Wates

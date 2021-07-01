@@ -5,16 +5,16 @@ name: Treverton estate
 borough: kensingtonandchelsea
 thumb: /images/tv10thumb.jpg
 images:
-  - image_path: /images/tv10.jpg
-  - image_path: /images/tv1.jpg
-  - image_path: /images/tv2.jpg
-  - image_path: /images/tv3.jpg
-  - image_path: /images/tv4.jpg
-  - image_path: /images/tv5.jpg
-  - image_path: /images/tv6.jpg
-  - image_path: /images/tv7.jpg
-  - image_path: /images/tv8.jpg
-  - image_path: /images/tv9.jpg
+  - /images/tv10.jpg
+  - /images/tv1.jpg
+  - /images/tv2.jpg
+  - /images/tv3.jpg
+  - /images/tv4.jpg
+  - /images/tv5.jpg
+  - /images/tv6.jpg
+  - /images/tv7.jpg
+  - /images/tv8.jpg
+  - /images/tv9.jpg
 location: '{"type":"Point","coordinates":[-0.215096,51.523175]}'
 landlord: RBKC
 developer:

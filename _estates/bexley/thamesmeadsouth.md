@@ -6,9 +6,9 @@ name: Thamesmead South (phase 1)
 borough: bexley
 thumb: /images/bw1thumb.jpg
 images:
-  - image_path: /images/smere1.png
-  - image_path: /images/smere2.png
-  - image_path: /images/smere3.png
+  - /images/smere1.png
+  - /images/smere2.png
+  - /images/smere3.png
 location: '{"type":"Point","coordinates":[0.122512,51.497783]}'
 landlord: Peabody
 developer: Peabody

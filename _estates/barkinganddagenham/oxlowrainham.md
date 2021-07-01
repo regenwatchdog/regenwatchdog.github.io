@@ -5,10 +5,10 @@ name: Oxlow & Rainham houses
 borough: barkinganddagenham
 thumb: /images/or1athumb.jpg
 images:
-  - image_path: /images/or1a.jpg
-  - image_path: /images/or2.png
-  - image_path: /images/or3.png
-  - image_path: /images/or4.png
+  - /images/or1a.jpg
+  - /images/or2.png
+  - /images/or3.png
+  - /images/or4.png
 location: '{"type":"Point","coordinates":[0.160306,51.551931]}'
 landlord: Barking & Dagenham Council
 developer: BeFirst

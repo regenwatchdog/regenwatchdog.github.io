@@ -5,13 +5,13 @@ name: Lilestone estate
 borough: westminster
 thumb: /images/ls3thumb.jpg
 images:
-  - image_path: /images/ls3.jpg
-  - image_path: /images/ls1.jpg
-  - image_path: /images/ls2.jpg
-  - image_path: /images/ls4.jpg
-  - image_path: /images/ls5.jpg
-  - image_path: /images/ls6.jpg
-  - image_path: /images/ls7.jpg
+  - /images/ls3.jpg
+  - /images/ls1.jpg
+  - /images/ls2.jpg
+  - /images/ls4.jpg
+  - /images/ls5.jpg
+  - /images/ls6.jpg
+  - /images/ls7.jpg
 location: '{"type":"Point","coordinates":[-0.174412,51.524650]}'
 landlord: Westminster Council
 developer:

@@ -5,8 +5,8 @@ borough: redbridge
 location: '{"type":"Point","coordinates":[-0.096795,51.575169]}'
 published: false 
 images:
-  - image_path: /images/suffolkcourt.jpg
-  - image_path: /images/suffolkcourt.png
+  - /images/suffolkcourt.jpg
+  - /images/suffolkcourt.png
 landlord: Redbridge
 developer:
 itla:

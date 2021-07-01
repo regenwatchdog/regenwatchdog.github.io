@@ -5,26 +5,26 @@ name: Convent Way estate
 borough: hounslow
 thumb: /images/cv12thumb.jpg
 images:
-  - image_path: /images/cv12.jpg
-  - image_path: /images/cv1.jpg
-  - image_path: /images/cv2.jpg
-  - image_path: /images/cv3.jpg
-  - image_path: /images/cv4.jpg
-  - image_path: /images/cv5.jpg
-  - image_path: /images/cv6.jpg
-  - image_path: /images/cv7.jpg
-  - image_path: /images/cv8.jpg
-  - image_path: /images/cv9.jpg
-  - image_path: /images/cv10.jpg
-  - image_path: /images/cv11.jpg
-  - image_path: /images/cv13.jpg
-  - image_path: /images/cv14.jpg
-  - image_path: /images/cv15.jpg
-  - image_path: /images/cv16.jpg
-  - image_path: /images/cv17.jpg
-  - image_path: /images/cv18.jpg
-  - image_path: /images/cv19.jpg
-  - image_path: /images/cv20.jpg
+  - /images/cv12.jpg
+  - /images/cv1.jpg
+  - /images/cv2.jpg
+  - /images/cv3.jpg
+  - /images/cv4.jpg
+  - /images/cv5.jpg
+  - /images/cv6.jpg
+  - /images/cv7.jpg
+  - /images/cv8.jpg
+  - /images/cv9.jpg
+  - /images/cv10.jpg
+  - /images/cv11.jpg
+  - /images/cv13.jpg
+  - /images/cv14.jpg
+  - /images/cv15.jpg
+  - /images/cv16.jpg
+  - /images/cv17.jpg
+  - /images/cv18.jpg
+  - /images/cv19.jpg
+  - /images/cv20.jpg
 location: '{"type":"Point","coordinates":[-0.393576,51.494632]}'
 landlord: Hounslow Council
 developer:

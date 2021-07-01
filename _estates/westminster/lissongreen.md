@@ -5,18 +5,18 @@ name: Lisson Green estate
 borough: westminster
 thumb: /images/lissongreen3thumb.jpg
 images:
-  - image_path: /images/lissongreen3.jpg
-  - image_path: /images/lg1.jpg
-  - image_path: /images/lg2.jpg
-  - image_path: /images/lg3.jpg
-  - image_path: /images/lg4.jpg
-  - image_path: /images/lg5.jpg
-  - image_path: /images/lg6.jpg
-  - image_path: /images/lg7.jpg
-  - image_path: /images/lg8.jpg
-  - image_path: /images/lg9.jpg
-  - image_path: /images/lg10.jpg
-  - image_path: /images/lg11.jpg
+  - /images/lissongreen3.jpg
+  - /images/lg1.jpg
+  - /images/lg2.jpg
+  - /images/lg3.jpg
+  - /images/lg4.jpg
+  - /images/lg5.jpg
+  - /images/lg6.jpg
+  - /images/lg7.jpg
+  - /images/lg8.jpg
+  - /images/lg9.jpg
+  - /images/lg10.jpg
+  - /images/lg11.jpg
 location: '{"type":"Point","coordinates":[-0.167721,51.525955]}'
 landlord: Westminster Council
 developer:

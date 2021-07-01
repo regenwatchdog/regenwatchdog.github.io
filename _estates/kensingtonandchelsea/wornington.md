@@ -5,10 +5,10 @@ name: Wornington Green estate
 borough: kensingtonandchelsea
 thumb: /images/worning1thumb.jpg
 images:
-  - image_path: /images/worning1.jpg
-  - image_path: /images/worning2.jpg
-  - image_path: /images/worning3.jpg
-  - image_path: /images/worning4.jpg 
+  - /images/worning1.jpg
+  - /images/worning2.jpg
+  - /images/worning3.jpg
+  - /images/worning4.jpg 
 location: '{"type":"Point","coordinates":[-0.212212,51.523537]}'
 landlord: RBKC
 developer: Catalyst Housing Association

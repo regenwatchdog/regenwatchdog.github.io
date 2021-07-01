@@ -5,19 +5,19 @@ name: West Kentish Town estate
 borough: camden
 thumb: /images/wkt1thumb.jpg
 images:
-  - image_path: /images/wkt1.jpg
-  - image_path: /images/wt1.png
-  - image_path: /images/wkt2.jpg
-  - image_path: /images/wkt3.jpg
-  - image_path: /images/wkt4.jpg
-  - image_path: /images/wkt5.jpg
-  - image_path: /images/wkt6.jpg
-  - image_path: /images/wkt7.jpg
-  - image_path: /images/wkt8.jpg
-  - image_path: /images/wkt9.jpg
-  - image_path: /images/wkt10.jpg
-  - image_path: /images/wkt11.jpg
-  - image_path: /images/wkt12.jpg
+  - /images/wkt1.jpg
+  - /images/wt1.png
+  - /images/wkt2.jpg
+  - /images/wkt3.jpg
+  - /images/wkt4.jpg
+  - /images/wkt5.jpg
+  - /images/wkt6.jpg
+  - /images/wkt7.jpg
+  - /images/wkt8.jpg
+  - /images/wkt9.jpg
+  - /images/wkt10.jpg
+  - /images/wkt11.jpg
+  - /images/wkt12.jpg
 location: '{"type":"Point","coordinates":[-0.149254,51.549409]}'
 landlord: Camden Council
 developer:

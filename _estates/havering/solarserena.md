@@ -5,13 +5,13 @@ name: Parkhill and Sunrise estate
 borough: havering
 thumb: /images/ss1thumb.jpg
 images:
-  - image_path: /images/ss1.jpg
-  - image_path: /images/ss2.png
-  - image_path: /images/ss3.png
-  - image_path: /images/ss4.png
-  - image_path: /images/ss5.png
-  - image_path: /images/ss6.png
-  - image_path: /images/sunriseaerial.png
+  - /images/ss1.jpg
+  - /images/ss2.png
+  - /images/ss3.png
+  - /images/ss4.png
+  - /images/ss5.png
+  - /images/ss6.png
+  - /images/sunriseaerial.png
 location: '{"type":"Point","coordinates":[0.206760,51.556744]}'
 landlord: Havering Council
 developer: Wates

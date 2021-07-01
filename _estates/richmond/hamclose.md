@@ -5,12 +5,12 @@ name: Ham Close estate
 borough: richmond
 thumb: /images/hamclosethumb.jpg
 images:
-  - image_path: /images/hamclose.jpg
-  - image_path: /images/hcl1.jpg
-  - image_path: /images/hcl2.jpg
-  - image_path: /images/hcl3.jpg
-  - image_path: /images/hcl4.jpg
-  - image_path: /images/hcl5.jpg
+  - /images/hamclose.jpg
+  - /images/hcl1.jpg
+  - /images/hcl2.jpg
+  - /images/hcl3.jpg
+  - /images/hcl4.jpg
+  - /images/hcl5.jpg
 location: '{"type":"Point","coordinates":[-0.316239,51.437734]}'
 landlord: RHP
 developer:

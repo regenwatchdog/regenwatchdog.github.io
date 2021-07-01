@@ -5,7 +5,7 @@ name: Royal Jubilee Court
 borough: havering
 thumb: /images/royaljubileeaerialthumb.jpg
 images:
-  - image_path: /images/royaljubileeaerial.jpg
+  - /images/royaljubileeaerial.jpg
 location: '{"type":"Point","coordinates":[0.193341,51.585675]}'
 landlord: Havering Council
 developer: Wates

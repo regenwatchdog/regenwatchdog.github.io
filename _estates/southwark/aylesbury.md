@@ -5,19 +5,19 @@ name: Aylesbury estate
 borough: southwark
 thumb: /images/aylesburyiconthumb.jpg
 images:
-  - image_path: /images/aylesburyicon.jpg
-  - image_path: /images/aylesbury1.jpg
-  - image_path: /images/aylesburyimage.jpg
-  - image_path: /images/fdsgreenspace.jpg
-  - image_path: /images/aylesburyaerial.jpg
-  - image_path: /images/aylesburydrone.jpg
-  - image_path: /images/aylesburypadbury.jpg
-  - image_path: /images/aylesburyphoto.jpg
-  - image_path: /images/aylesburyblair.jpg
-  - image_path: /images/aylesburyrooftops.jpg
-  - image_path: /images/aylesburywendover.jpg
-  - image_path: /images/aylesburydemolition.jpg
-  - image_path: /images/aylesburyident.png
+  - /images/aylesburyicon.jpg
+  - /images/aylesbury1.jpg
+  - /images/aylesburyimage.jpg
+  - /images/fdsgreenspace.jpg
+  - /images/aylesburyaerial.jpg
+  - /images/aylesburydrone.jpg
+  - /images/aylesburypadbury.jpg
+  - /images/aylesburyphoto.jpg
+  - /images/aylesburyblair.jpg
+  - /images/aylesburyrooftops.jpg
+  - /images/aylesburywendover.jpg
+  - /images/aylesburydemolition.jpg
+  - /images/aylesburyident.png
 location: '{"type":"Point","coordinates":[-0.084806,51.485789]}'
 landlord: Southwark Council
 developer: Notting Hill Genesis

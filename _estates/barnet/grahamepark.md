@@ -5,10 +5,10 @@ name: Grahame Park estate
 borough: barnet
 thumb: /images/grahamepark2thumb.jpg
 images:
-  - image_path: /images/grahamepark2.jpg
-  - image_path: /images/grahamepark.jpg
-  - image_path: /images/grahamepark3.jpg
-  - image_path: /images/grahamepark4.jpg
+  - /images/grahamepark2.jpg
+  - /images/grahamepark.jpg
+  - /images/grahamepark3.jpg
+  - /images/grahamepark4.jpg
 location: '{"type":"Point","coordinates":[-0.244782,51.602271]}'
 landlord: Barnet Council
 developer: Notting Hill Genesis

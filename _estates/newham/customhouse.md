@@ -5,9 +5,9 @@ name: Custom House regeneration
 borough: newham
 thumb: /images/customhouse2thumb.jpg
 images:
-  - image_path: /images/customhouse2.jpg
-  - image_path: /images/customhouse3.png
-  - image_path: /images/customhouse4.png
+  - /images/customhouse2.jpg
+  - /images/customhouse3.png
+  - /images/customhouse4.png
 location: '{"type":"Point","coordinates":[0.021314,51.510722]}'
 landlord: Newham Council
 developer:

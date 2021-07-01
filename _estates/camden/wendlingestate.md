@@ -5,15 +5,15 @@ name: Wendling estate
 borough: camden
 thumb: /images/wendling3thumb.jpg
 images:
-  - image_path: /images/wendling3.jpg
-  - image_path: /images/wg1.jpg
-  - image_path: /images/wg2.jpg
-  - image_path: /images/wg3.jpg
-  - image_path: /images/wg4.jpg
-  - image_path: /images/wg5.jpg
-  - image_path: /images/wg6.jpg
-  - image_path: /images/wg7.jpg
-  - image_path: /images/wg8.jpg
+  - /images/wendling3.jpg
+  - /images/wg1.jpg
+  - /images/wg2.jpg
+  - /images/wg3.jpg
+  - /images/wg4.jpg
+  - /images/wg5.jpg
+  - /images/wg6.jpg
+  - /images/wg7.jpg
+  - /images/wg8.jpg
 location: '{"type":"Point","coordinates":[-0.156132,51.551117]}'
 landlord: Camden Council
 itla: Community Liaison Officers (Camden)

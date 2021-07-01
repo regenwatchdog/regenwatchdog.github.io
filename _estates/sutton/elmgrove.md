@@ -5,9 +5,9 @@ name: Elm Grove estate
 borough: sutton
 thumb: /images/elmgrove3thumb.jpg
 images:
-  - image_path: /images/elmgrove3.jpg
-  - image_path: /images/elmgrove2.png
-  - image_path: /images/eg3.png
+  - /images/elmgrove3.jpg
+  - /images/elmgrove2.png
+  - /images/eg3.png
 location: '{"type":"Point","coordinates":[-0.193505,51.366883]}'
 developer:
 landlord: Sutton Council

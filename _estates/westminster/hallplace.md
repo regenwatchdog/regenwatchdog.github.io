@@ -5,27 +5,27 @@ name: Hall Place estate
 borough: westminster
 thumb: /images/hp7thumb.jpg
 images:
-  - image_path: /images/hp7.jpg
-  - image_path: /images/hp1.jpg
-  - image_path: /images/hp2.jpg
-  - image_path: /images/hp3.jpg
-  - image_path: /images/hp4.jpg
-  - image_path: /images/hp5.jpg
-  - image_path: /images/hp6.jpg
-  - image_path: /images/hp8.jpg
-  - image_path: /images/hp9.jpg
-  - image_path: /images/hp10.jpg
-  - image_path: /images/hp11.jpg
-  - image_path: /images/hp12.jpg
-  - image_path: /images/hp13.jpg
-  - image_path: /images/hp14.jpg
-  - image_path: /images/hp15.jpg
-  - image_path: /images/hp16.jpg
-  - image_path: /images/hp17.jpg
-  - image_path: /images/hp18.jpg
-  - image_path: /images/hp19.jpg
-  - image_path: /images/hallplace.png
-  - image_path: /images/parsonshouse.jpg
+  - /images/hp7.jpg
+  - /images/hp1.jpg
+  - /images/hp2.jpg
+  - /images/hp3.jpg
+  - /images/hp4.jpg
+  - /images/hp5.jpg
+  - /images/hp6.jpg
+  - /images/hp8.jpg
+  - /images/hp9.jpg
+  - /images/hp10.jpg
+  - /images/hp11.jpg
+  - /images/hp12.jpg
+  - /images/hp13.jpg
+  - /images/hp14.jpg
+  - /images/hp15.jpg
+  - /images/hp16.jpg
+  - /images/hp17.jpg
+  - /images/hp18.jpg
+  - /images/hp19.jpg
+  - /images/hallplace.png
+  - /images/parsonshouse.jpg
 location: '{"type":"Point","coordinates":[-0.175467,51.523358]}'
 landlord: Westminster Council
 developer:

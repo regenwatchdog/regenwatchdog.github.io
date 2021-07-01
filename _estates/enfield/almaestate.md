@@ -5,12 +5,12 @@ name: Alma estate
 borough: enfield
 thumb: /images/alma3thumb.jpg
 images:
-  - image_path: /images/alma3.jpg
-  - image_path: /images/almaaerial.png
-  - image_path: /images/alma1.png
-  - image_path: /images/alma2.png
-  - image_path: /images/alma4.png
-  - image_path: /images/alma5.png 
+  - /images/alma3.jpg
+  - /images/almaaerial.png
+  - /images/alma1.png
+  - /images/alma2.png
+  - /images/alma4.png
+  - /images/alma5.png 
 location: '{"type":"Point","coordinates":[-0.036348,51.643512]}'
 landlord: Enfield Council
 developer: Countryside Properties

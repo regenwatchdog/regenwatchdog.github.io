@@ -5,9 +5,9 @@ name: Jervis Court
 borough: barkinganddagenham
 thumb: /images/jervis1thumb.jpg
 images:
-  - image_path: /images/jervis1.jpg
-  - image_path: /images/jervis2.png
-  - image_path: /images/jervis3.png
+  - /images/jervis1.jpg
+  - /images/jervis2.png
+  - /images/jervis3.png
 location: '{"type":"Point","coordinates":[0.155529,51.539952]}'
 landlord: Barking & Dagenham Council
 developer: BeFirst

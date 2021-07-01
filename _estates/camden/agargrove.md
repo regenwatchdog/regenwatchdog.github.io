@@ -5,26 +5,26 @@ name: Agar Grove estate
 borough: camden
 thumb: /images/agrove2thumb.jpg
 images:
-  - image_path: /images/agrove2.jpg
-  - image_path: /images/agrove.png
-  - image_path: /images/agrove3.png
-  - image_path: /images/agrove4.png
-  - image_path: /images/agar3d.png
-  - image_path: /images/agarmodel.png
-  - image_path: /images/ag1.jpg
-  - image_path: /images/ag2.jpg
-  - image_path: /images/ag3.jpg
-  - image_path: /images/ag4.jpg
-  - image_path: /images/ag5.jpg
-  - image_path: /images/ag6.jpg
-  - image_path: /images/ag7.jpg
-  - image_path: /images/ag8.jpg
-  - image_path: /images/ag9.jpg
-  - image_path: /images/ag10.jpg
-  - image_path: /images/ag11.jpg
-  - image_path: /images/ag12.jpg
-  - image_path: /images/ag13.jpg
-  - image_path: /images/ag14.jpg
+  - /images/agrove2.jpg
+  - /images/agrove.png
+  - /images/agrove3.png
+  - /images/agrove4.png
+  - /images/agar3d.png
+  - /images/agarmodel.png
+  - /images/ag1.jpg
+  - /images/ag2.jpg
+  - /images/ag3.jpg
+  - /images/ag4.jpg
+  - /images/ag5.jpg
+  - /images/ag6.jpg
+  - /images/ag7.jpg
+  - /images/ag8.jpg
+  - /images/ag9.jpg
+  - /images/ag10.jpg
+  - /images/ag11.jpg
+  - /images/ag12.jpg
+  - /images/ag13.jpg
+  - /images/ag14.jpg
 location: '{"type":"Point","coordinates":[-0.133195,51.542259]}'
 landlord: Camden Council
 developer: Camden Council

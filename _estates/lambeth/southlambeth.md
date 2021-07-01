@@ -5,11 +5,11 @@ name: South Lambeth estate
 borough: lambeth
 thumb: /images/slb5thumb.jpg
 images:
-  - image_path: /images/slb5.jpg
-  - image_path: /images/slb4.jpg
-  - image_path: /images/slb3.jpg
-  - image_path: /images/slb2.jpg
-  - image_path: /images/slb1.jpg
+  - /images/slb5.jpg
+  - /images/slb4.jpg
+  - /images/slb3.jpg
+  - /images/slb2.jpg
+  - /images/slb1.jpg
 location: '{"type":"Point","coordinates":[-0.118861,51.478668]}'
 landlord: Lambeth Council
 developer:

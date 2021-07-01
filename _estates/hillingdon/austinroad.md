@@ -5,9 +5,9 @@ name: Austin Road estate
 borough: hillingdon
 thumb: /images/austinthumb.jpg
 images:
-  - image_path: /images/austin1.png
-  - image_path: /images/austin2.png
-  - image_path: /images/austin3.png
+  - /images/austin1.png
+  - /images/austin2.png
+  - /images/austin3.png
 location: '{"type":"Point","coordinates":[-0.417528,51.505778]}'
 landlord: Hillingdon Council
 developer:

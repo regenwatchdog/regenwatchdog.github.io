@@ -6,8 +6,8 @@ name: Granville Road estate
 borough: barnet
 thumb: /images/granvilleroadthumb.jpg
 images:
-  - image_path: /images/granvilleroad.jpg
-  - image_path: /images/granvilleroad.png
+  - /images/granvilleroad.jpg
+  - /images/granvilleroad.png
 location: '{"type":"Point","coordinates":[-0.201322,51.565143]}'
 landlord: Barnet Council
 developer:

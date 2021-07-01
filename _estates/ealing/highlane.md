@@ -5,11 +5,11 @@ name: High Lane estate
 borough: ealing
 thumb: /images/highlane3thumb.jpg
 images:
-  - image_path: /images/highlane3.jpg
-  - image_path: /images/highlane2.png
-  - image_path: /images/highlane1.png
-  - image_path: /images/highlane5.png
-  - image_path: /images/highlaneaerial.png
+  - /images/highlane3.jpg
+  - /images/highlane2.png
+  - /images/highlane1.png
+  - /images/highlane5.png
+  - /images/highlaneaerial.png
 location: '{"type":"Point","coordinates":[-0.344496,51.519802]}'
 landlord: Ealing Council
 developer: Rydon

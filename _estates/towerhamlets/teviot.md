@@ -5,39 +5,39 @@ name: Teviot estate
 borough: towerhamlets 
 thumb: /images/te4thumb.jpg
 images:
-  - image_path: /images/te4.jpg
-  - image_path: /images/te1.jpg
-  - image_path: /images/te2.jpg
-  - image_path: /images/te3.jpg
-  - image_path: /images/te5.jpg
-  - image_path: /images/te6.jpg
-  - image_path: /images/te7.jpg
-  - image_path: /images/te8.jpg
-  - image_path: /images/te9.jpg
-  - image_path: /images/te10.jpg
-  - image_path: /images/te11.jpg
-  - image_path: /images/te12.jpg
-  - image_path: /images/te13.jpg
-  - image_path: /images/te14.jpg
-  - image_path: /images/te15.jpg
-  - image_path: /images/te16.jpg
-  - image_path: /images/te17.jpg
-  - image_path: /images/te18.jpg
-  - image_path: /images/te19.jpg
-  - image_path: /images/te20.jpg
-  - image_path: /images/te21.jpg
-  - image_path: /images/te22.jpg
-  - image_path: /images/te23.jpg
-  - image_path: /images/te24.jpg
-  - image_path: /images/te25.jpg
-  - image_path: /images/te26.jpg
-  - image_path: /images/te27.jpg
-  - image_path: /images/te28.jpg
-  - image_path: /images/te29.jpg
-  - image_path: /images/te30.jpg
-  - image_path: /images/te31.jpg
-  - image_path: /images/te32.jpg
-  - image_path: /images/teaerial.png
+  - /images/te4.jpg
+  - /images/te1.jpg
+  - /images/te2.jpg
+  - /images/te3.jpg
+  - /images/te5.jpg
+  - /images/te6.jpg
+  - /images/te7.jpg
+  - /images/te8.jpg
+  - /images/te9.jpg
+  - /images/te10.jpg
+  - /images/te11.jpg
+  - /images/te12.jpg
+  - /images/te13.jpg
+  - /images/te14.jpg
+  - /images/te15.jpg
+  - /images/te16.jpg
+  - /images/te17.jpg
+  - /images/te18.jpg
+  - /images/te19.jpg
+  - /images/te20.jpg
+  - /images/te21.jpg
+  - /images/te22.jpg
+  - /images/te23.jpg
+  - /images/te24.jpg
+  - /images/te25.jpg
+  - /images/te26.jpg
+  - /images/te27.jpg
+  - /images/te28.jpg
+  - /images/te29.jpg
+  - /images/te30.jpg
+  - /images/te31.jpg
+  - /images/te32.jpg
+  - /images/teaerial.png
 location: '{"type":"Point","coordinates":[-0.012409,51.518195]}'
 landlord: Poplar HARCA
 developer:

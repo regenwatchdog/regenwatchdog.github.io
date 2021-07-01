@@ -5,11 +5,11 @@ name: Reginald House/Tidemill Gardens
 borough: lewisham
 thumb: /images/reg1thumb.jpg
 images:
-  - image_path: /images/reg1.jpg
-  - image_path: /images/reg2.jpg
-  - image_path: /images/reg3.jpg
-  - image_path: /images/tidemill2.jpeg
-  - image_path: /images/tidemill5.jpg
+  - /images/reg1.jpg
+  - /images/reg2.jpg
+  - /images/reg3.jpg
+  - /images/tidemill2.jpeg
+  - /images/tidemill5.jpg
 location: '{"type":"Point","coordinates":[-0.024691,51.476346]}'
 landlord: Lewisham Council
 developer:

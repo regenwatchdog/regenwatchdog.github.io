@@ -5,11 +5,11 @@ name: Broadwater Farm estate
 borough: haringey
 thumb: /images/bwfarm1thumb.jpg
 images:
-  - image_path: /images/bwater1.jpg
-  - image_path: /images/bwater2.jpg
-  - image_path: /images/bwater3.jpg
-  - image_path: /images/bwater4.jpg
-  - image_path: /images/bwfarm4.jpeg
+  - /images/bwater1.jpg
+  - /images/bwater2.jpg
+  - /images/bwater3.jpg
+  - /images/bwater4.jpg
+  - /images/bwfarm4.jpeg
 location: '{"type":"Point","coordinates":[-0.080927,51.594340]}'
 landlord: Haringey Council
 developer:

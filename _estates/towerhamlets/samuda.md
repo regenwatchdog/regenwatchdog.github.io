@@ -5,10 +5,10 @@ name: Samuda estate
 borough: towerhamlets 
 thumb: /images/samuda1thumb.jpg
 images:
-  - image_path: /images/samuda1.jpg
-  - image_path: /images/samuda2.png
-  - image_path: /images/samuda3.png
-  - image_path: /images/samuda.jpg
+  - /images/samuda1.jpg
+  - /images/samuda2.png
+  - /images/samuda3.png
+  - /images/samuda.jpg
 location: '{"type":"Point","coordinates":[-0.008458,51.496571]}'
 landlord: One Housing Group
 developer:

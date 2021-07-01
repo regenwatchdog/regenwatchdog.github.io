@@ -5,19 +5,19 @@ name: Charlton House
 borough: hounslow
 thumb: /images/ch1thumb.jpg
 images:
-  - image_path: /images/ch1.jpg
-  - image_path: /images/ch2.jpg
-  - image_path: /images/ch3.jpg
-  - image_path: /images/ch4.jpg
-  - image_path: /images/ch5.jpg
-  - image_path: /images/ch6.jpg
-  - image_path: /images/ch7.jpg
-  - image_path: /images/ch8.jpg
-  - image_path: /images/ch9.jpg
-  - image_path: /images/ch10.jpg
-  - image_path: /images/ch11.jpg
-  - image_path: /images/ch12.jpg
-  - image_path: /images/charltonhouse.jpg
+  - /images/ch1.jpg
+  - /images/ch2.jpg
+  - /images/ch3.jpg
+  - /images/ch4.jpg
+  - /images/ch5.jpg
+  - /images/ch6.jpg
+  - /images/ch7.jpg
+  - /images/ch8.jpg
+  - /images/ch9.jpg
+  - /images/ch10.jpg
+  - /images/ch11.jpg
+  - /images/ch12.jpg
+  - /images/charltonhouse.jpg
 location: '{"type":"Point","coordinates":[-0.300195,51.486105]}'
 landlord: Hounslow Council
 developer:

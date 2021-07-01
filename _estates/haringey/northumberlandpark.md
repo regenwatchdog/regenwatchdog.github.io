@@ -5,8 +5,8 @@ name: Northumberland Park estates
 borough: haringey
 thumb: /images/northumberland2thumb.jpg
 images:
-  - image_path: /images/northumberland2.jpg
-  - image_path: /images/northumberland3.png
+  - /images/northumberland2.jpg
+  - /images/northumberland3.png
 coordinates: 
 location: '{"type":"Point","coordinates":[-0.058280,51.604419]}'
 landlord: Haringey Council

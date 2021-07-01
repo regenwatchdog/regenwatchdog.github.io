@@ -5,9 +5,9 @@ name: Kingsbridge estate
 borough: towerhamlets 
 thumb: /images/kingsbridge-estatethumb.jpg
 images:
-  - image_path: /images/kingsbridge-estate.jpg
-  - image_path: /images/kingsbridge2.png
-  - image_path: /images/kingsbridge3.png
+  - /images/kingsbridge-estate.jpg
+  - /images/kingsbridge2.png
+  - /images/kingsbridge3.png
 location: '{"type":"Point","coordinates":[-0.025874,51.493200]}'
 landlord: One Housing Group
 developer:

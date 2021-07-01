@@ -5,12 +5,12 @@ name: Grange Farm estate
 borough: harrow
 thumb: /images/gfarm3thumb.jpg
 images:
-  - image_path: /images/gfarm3.jpg
-  - image_path: /images/gfarm2.png
-  - image_path: /images/gfarm1.png
-  - image_path: /images/gfarm5.png
-  - image_path: /images/gfarm6.png
-  - image_path: /images/gfarmaerial.png
+  - /images/gfarm3.jpg
+  - /images/gfarm2.png
+  - /images/gfarm1.png
+  - /images/gfarm5.png
+  - /images/gfarm6.png
+  - /images/gfarmaerial.png
 location: '{"type":"Point","coordinates":[-0.350978,51.568998]}'
 landlord:
 itla: One Enterprise

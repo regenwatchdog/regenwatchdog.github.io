@@ -5,12 +5,12 @@ name: Clapham Park estate
 borough: lambeth
 thumb: /images/cpark6thumb.jpg
 images:
-  - image_path: /images/cpark6.jpg
-  - image_path: /images/cpark5.png
-  - image_path: /images/cpark3.png
-  - image_path: /images/cpark2.png
-  - image_path: /images/cpark1.png
-  - image_path: /images/cpark4.png
+  - /images/cpark6.jpg
+  - /images/cpark5.png
+  - /images/cpark3.png
+  - /images/cpark2.png
+  - /images/cpark1.png
+  - /images/cpark4.png
 location: '{"type":"Point","coordinates":[-0.133379,51.449331]}'
 landlord: Metropolitan TV Housing Association
 developer:

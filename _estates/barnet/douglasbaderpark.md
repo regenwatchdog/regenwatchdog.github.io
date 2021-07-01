@@ -6,12 +6,12 @@ name: Douglas Bader Park estate
 borough: barnet
 thumb: /images/db1thumb.jpg
 images:
-  - image_path: /images/db1.jpg
-  - image_path: /images/db2.png
-  - image_path: /images/db3.png
-  - image_path: /images/db4.png
-  - image_path: /images/db5.png
-  - image_path: /images/baderscreenshot.png
+  - /images/db1.jpg
+  - /images/db2.png
+  - /images/db3.png
+  - /images/db4.png
+  - /images/db5.png
+  - /images/baderscreenshot.png
 location: '{"type":"Point","coordinates":[-0.249247,51.604697]}'
 landlord: Home Group (Housing Association)
 developer: Home/Hill Group

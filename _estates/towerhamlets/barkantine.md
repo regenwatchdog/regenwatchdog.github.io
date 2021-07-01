@@ -5,10 +5,10 @@ name: Barkantine estate
 borough: towerhamlets 
 thumb: /images/barkantine1thumb.jpg
 images:
-  - image_path: /images/barkantine1.jpg
-  - image_path: /images/barkantine2.png
-  - image_path: /images/barkantine3.png
-  - image_path: /images/barkantine4.png
+  - /images/barkantine1.jpg
+  - /images/barkantine2.png
+  - /images/barkantine3.png
+  - /images/barkantine4.png
 location: '{"type":"Point","coordinates":[-0.024181,51.498528]}'
 landlord: One Housing Group
 developer:

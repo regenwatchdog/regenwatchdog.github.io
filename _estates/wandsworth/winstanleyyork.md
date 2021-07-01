@@ -5,34 +5,34 @@ name: Winstanley & York Road estates
 borough: wandsworth
 thumb: /images/wy22thumb.jpg
 images:
-  - image_path: /images/wy22.jpg
-  - image_path: /images/wy1.jpg
-  - image_path: /images/wy2.jpg
-  - image_path: /images/wy3.jpg
-  - image_path: /images/wy4.jpg
-  - image_path: /images/wy5.jpg
-  - image_path: /images/wy6.jpg
-  - image_path: /images/wy7.jpg
-  - image_path: /images/wy8.jpg
-  - image_path: /images/wy9.jpg
-  - image_path: /images/wy10.jpg
-  - image_path: /images/wy11.jpg
-  - image_path: /images/wy12.jpg
-  - image_path: /images/wy13.jpg
-  - image_path: /images/wy14.jpg
-  - image_path: /images/wy15.jpg
-  - image_path: /images/wy16.jpg
-  - image_path: /images/wy17.jpg
-  - image_path: /images/wy18.jpg
-  - image_path: /images/wy19.jpg
-  - image_path: /images/wy20.jpg
-  - image_path: /images/wy21.jpg
-  - image_path: /images/wy23.jpg
-  - image_path: /images/wy24.jpg
-  - image_path: /images/wy25.jpg
-  - image_path: /images/wy26.jpg
-  - image_path: /images/wy27.jpg
-  - image_path: /images/wy28.jpg
+  - /images/wy22.jpg
+  - /images/wy1.jpg
+  - /images/wy2.jpg
+  - /images/wy3.jpg
+  - /images/wy4.jpg
+  - /images/wy5.jpg
+  - /images/wy6.jpg
+  - /images/wy7.jpg
+  - /images/wy8.jpg
+  - /images/wy9.jpg
+  - /images/wy10.jpg
+  - /images/wy11.jpg
+  - /images/wy12.jpg
+  - /images/wy13.jpg
+  - /images/wy14.jpg
+  - /images/wy15.jpg
+  - /images/wy16.jpg
+  - /images/wy17.jpg
+  - /images/wy18.jpg
+  - /images/wy19.jpg
+  - /images/wy20.jpg
+  - /images/wy21.jpg
+  - /images/wy23.jpg
+  - /images/wy24.jpg
+  - /images/wy25.jpg
+  - /images/wy26.jpg
+  - /images/wy27.jpg
+  - /images/wy28.jpg
 location: '{"type":"Point","coordinates":[-0.176427,51.464762]}'
 landlord: Wandsworth Council
 developer: Taylor Wimpey

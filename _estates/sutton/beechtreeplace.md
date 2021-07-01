@@ -5,8 +5,8 @@ name: Beech Tree Place
 borough: sutton
 thumb: /images/beechtreeplacethumb.jpg
 images:
-  - image_path: /images/beechtreeplace.jpg
-  - image_path: /images/beechtreeplace2.jpg
+  - /images/beechtreeplace.jpg
+  - /images/beechtreeplace2.jpg
 location: '{"type":"Point","coordinates":[-0.194613,51.363438]}'
 landlord: Sutton Council
 developer:

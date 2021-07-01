@@ -5,9 +5,9 @@ name: Hillcrest estate
 borough: haringey
 thumb: /images/hillcrestthumb.jpg
 images:
-  - image_path: /images/hillcrest.jpg
-  - image_path: /images/hillcrest.png
-  - image_path: /images/hillcrestsa44.png
+  - /images/hillcrest.jpg
+  - /images/hillcrest.png
+  - /images/hillcrestsa44.png
 location: '{"type":"Point","coordinates":[-0.149071,51.575776]}'
 landlord: Haringey Council
 developer:

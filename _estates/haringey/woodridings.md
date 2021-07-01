@@ -5,8 +5,8 @@ name: Woodridings Court
 borough: haringey
 thumb: /images/woodridingsthumb.jpg
 images:
-  - image_path: /images/woodridings.jpg
-  - image_path: /images/woodridingsaerial.jpg
+  - /images/woodridings.jpg
+  - /images/woodridingsaerial.jpg
 location: '{"type":"Point","coordinates":[-0.126031,51.601499]}'
 landlord: Haringey Council
 developer:

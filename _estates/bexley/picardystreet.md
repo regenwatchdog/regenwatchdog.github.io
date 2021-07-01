@@ -5,9 +5,9 @@ name: Picardy Street estate
 borough: bexley
 thumb: /images/picardystreetthumb.jpg
 images:
-  - image_path: /images/picardystreet.jpg
-  - image_path: /images/picardystreet.png
-  - image_path: /images/picardystreet2.jpg
+  - /images/picardystreet.jpg
+  - /images/picardystreet.png
+  - /images/picardystreet2.jpg
 location: '{"type":"Point","coordinates":[0.150198,51.490741]}'
 landlord:
 developer:

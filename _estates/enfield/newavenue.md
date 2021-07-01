@@ -6,10 +6,10 @@ name: New Avenue estate
 borough: enfield
 thumb: /images/newavenuethumb.jpg
 images:
-  - image_path: /images/newavenue.jpg
-  - image_path: /images/newavenueaerial.png
-  - image_path: /images/newavenue2.png
-  - image_path: /images/newavenueaerial2.png
+  - /images/newavenue.jpg
+  - /images/newavenueaerial.png
+  - /images/newavenue2.png
+  - /images/newavenueaerial2.png
 location: '{"type":"Point","coordinates":[-0.135530,51.639810]}'
 landlord: Enfield Council
 developer: Countryside Properties

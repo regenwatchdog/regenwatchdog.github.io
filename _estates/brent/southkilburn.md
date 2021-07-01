@@ -5,14 +5,14 @@ name: South Kilburn estate
 borough: brent 
 thumb: /images/southkilburnthumb.jpg
 images:
-  - image_path: /images/skil1.png
-  - image_path: /images/skil2.jpg
-  - image_path: /images/skil3.png
-  - image_path: /images/yanki1.jpeg
-  - image_path: /images/yanki2.jpeg
-  - image_path: /images/yanki3.jpeg
-  - image_path: /images/yanki4.jpeg
-  - image_path: /images/yanki5.jpeg
+  - /images/skil1.png
+  - /images/skil2.jpg
+  - /images/skil3.png
+  - /images/yanki1.jpeg
+  - /images/yanki2.jpeg
+  - /images/yanki3.jpeg
+  - /images/yanki4.jpeg
+  - /images/yanki5.jpeg
 location: '{"type":"Point","coordinates":[-0.198561,51.533219]}'
 landlord: Brent Council
 itla: Communities First

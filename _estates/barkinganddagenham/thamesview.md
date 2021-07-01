@@ -5,10 +5,10 @@ name: Thames View estate
 borough: barkinganddagenham
 thumb: /images/tv3bthumb.jpg
 images:
-  - image_path: /images/tv3b.jpg
-  - image_path: /images/tv1.png
-  - image_path: /images/tv2.png
-  - image_path: /images/tv4.png
+  - /images/tv3b.jpg
+  - /images/tv1.png
+  - /images/tv2.png
+  - /images/tv4.png
 location: '{"type":"Point","coordinates":[0.109535,51.528893]}'
 landlord: Barking & Dagenham Council
 developer: BeFirst

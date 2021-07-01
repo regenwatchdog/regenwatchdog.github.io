@@ -6,10 +6,10 @@ stage: Implementation
 borough: merton
 thumb: /images/highpaththumb.jpg
 images:
-  - image_path: /images/highpath.jpg
-  - image_path: /images/highpath2.jpg
-  - image_path: /images/highpath3.png
-  - image_path: /images/highpath4.jpg
+  - /images/highpath.jpg
+  - /images/highpath2.jpg
+  - /images/highpath3.png
+  - /images/highpath4.jpg
 location: '{"type":"Point","coordinates":[-0.190444,51.414691]}'
 developer:
 itla:

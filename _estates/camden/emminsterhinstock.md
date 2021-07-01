@@ -5,9 +5,9 @@ name: Abbey Road estate
 borough: camden
 thumb: /images/abbeyestatethumb.jpg
 images:
-  - image_path: /images/abbeyestate.jpg
-  - image_path: /images/hinstock1.png
-  - image_path: /images/hinstock2.png
+  - /images/abbeyestate.jpg
+  - /images/hinstock1.png
+  - /images/hinstock2.png
 coordinates: 
 location: '{"type":"Point","coordinates":[-0.188548,51.540008]}'
 landlord: Camden Council

@@ -5,11 +5,11 @@ name: Central Hill estate
 borough: lambeth
 thumb: /images/centrallhillthumb.jpg
 images:
-  - image_path: /images/centrallhill.jpg
-  - image_path: /images/central1.jpg
-  - image_path: /images/centralhillaerial.jpg
-  - image_path: /images/central3.jpg
-  - image_path: /images/central4.jpg
+  - /images/centrallhill.jpg
+  - /images/central1.jpg
+  - /images/centralhillaerial.jpg
+  - /images/central3.jpg
+  - /images/central4.jpg
 location: '{"type":"Point","coordinates":[-0.085651,51.420034]}'
 landlord: Lambeth Council
 developer:

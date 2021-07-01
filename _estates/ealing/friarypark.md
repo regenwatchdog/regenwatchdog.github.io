@@ -5,10 +5,10 @@ name: Friary Park estate
 borough: ealing
 thumb: /images/fpark3thumb.jpg
 images:
-  - image_path: /images/fpark3.jpg
-  - image_path: /images/fparkaerial.png
-  - image_path: /images/fpark1.png
-  - image_path: /images/fpark2.png
+  - /images/fpark3.jpg
+  - /images/fparkaerial.png
+  - /images/fpark1.png
+  - /images/fpark2.png
 location: '{"type":"Point","coordinates":[-0.264300,51.516962]}'
 landlord: Catalyst Housing Group
 developer: Mount Anvil

@@ -5,10 +5,10 @@ name: Green Man Lane estate
 borough: ealing
 thumb: /images/gman1thumb.jpg
 images:
-  - image_path: /images/gman1.jpg
-  - image_path: /images/gman2.jpg
-  - image_path: /images/gman3.jpg
-  - image_path: /images/gman4.jpg
+  - /images/gman1.jpg
+  - /images/gman2.jpg
+  - /images/gman3.jpg
+  - /images/gman4.jpg
 location: '{"type":"Point","coordinates":[-0.325448,51.511542]}'
 landlord: Ealing Council
 developer: Rydon/A2Dominion

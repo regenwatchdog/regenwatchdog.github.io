@@ -5,15 +5,15 @@ name: Collingwood estate
 borough: sutton
 thumb: /images/cw8thumb.jpg
 images:
-  - image_path: /images/cw8.jpg
-  - image_path: /images/cw7.jpg
-  - image_path: /images/cw6.jpg
-  - image_path: /images/cw5.jpg
-  - image_path: /images/cw4.jpg
-  - image_path: /images/cw3.jpg
-  - image_path: /images/cw2.jpg
-  - image_path: /images/cw1.jpg
-  - image_path: /images/collingwoodaerial.png
+  - /images/cw8.jpg
+  - /images/cw7.jpg
+  - /images/cw6.jpg
+  - /images/cw5.jpg
+  - /images/cw4.jpg
+  - /images/cw3.jpg
+  - /images/cw2.jpg
+  - /images/cw1.jpg
+  - /images/collingwoodaerial.png
 location: '{"type":"Point","coordinates":[-0.1988,51.3691]}'
 landlord: Sutton Council
 developer:

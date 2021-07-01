@@ -5,7 +5,7 @@ name: Rosehill Court
 borough: sutton
 thumb: /images/rosehillcourtthumb.jpg
 images:
-  - image_path: /images/rosehillcourt.jpg
+  - /images/rosehillcourt.jpg
 location: '{"type":"Point","coordinates":[-0.189415,51.385183]}'
 landlord: Sutton Council
 developer:

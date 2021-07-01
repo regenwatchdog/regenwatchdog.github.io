@@ -5,10 +5,10 @@ name: Denby Court
 borough: lambeth
 thumb: /images/denbythumb.jpg
 images:
-  - image_path: /images/denby1.png
-  - image_path: /images/denby2.png
-  - image_path: /images/denby3.png
-  - image_path: /images/denby4.png
+  - /images/denby1.png
+  - /images/denby2.png
+  - /images/denby3.png
+  - /images/denby4.png
 location: '{"type":"Point","coordinates":[-0.115040,51.493660]}'
 landlord: Lambeth Council
 developer:

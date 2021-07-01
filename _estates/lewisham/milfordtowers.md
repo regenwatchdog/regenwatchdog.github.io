@@ -5,9 +5,9 @@ name: Milford Towers
 borough: lewisham
 thumb: /images/mtowersthumb.jpg
 images:
-  - image_path: /images/mtowers1.jpg
-  - image_path: /images/mtowers2.png
-  - image_path: /images/mtowers3.png
+  - /images/mtowers1.jpg
+  - /images/mtowers2.png
+  - /images/mtowers3.png
 location: '{"type":"Point","coordinates":[-0.022020,51.446550]}'
 landlord: Lewisham Council
 developer:

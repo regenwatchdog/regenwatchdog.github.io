@@ -5,13 +5,13 @@ name: Waterloo Road estate
 borough: havering
 thumb: /images/w1thumb.jpg
 images:
-  - image_path: /images/w1.jpg
-  - image_path: /images/w2.png
-  - image_path: /images/w3.png
-  - image_path: /images/w4.png
-  - image_path: /images/w5.png
-  - image_path: /images/waterloo_road.jpg
-  - image_path: /images/waterlooaerial.png
+  - /images/w1.jpg
+  - /images/w2.png
+  - /images/w3.png
+  - /images/w4.png
+  - /images/w5.png
+  - /images/waterloo_road.jpg
+  - /images/waterlooaerial.png
 location: '{"type":"Point","coordinates":[0.176900,51.574334]}'
 landlord: Havering Council
 developer: Wates

@@ -5,10 +5,10 @@ name: Oldchurch Gardens estate
 borough: havering
 thumb: /images/oc1thumb.jpg
 images:
-  - image_path: /images/oc1.jpg
-  - image_path: /images/oc2.png
-  - image_path: /images/oc3.png
-  - image_path: /images/oldchurchaerial.png
+  - /images/oc1.jpg
+  - /images/oc2.png
+  - /images/oc3.png
+  - /images/oldchurchaerial.png
 location: '{"type":"Point","coordinates":[0.175872,51.568833]}'
 landlord: Havering Council
 developer: Wates

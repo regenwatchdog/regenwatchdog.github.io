@@ -5,11 +5,11 @@ name: Cambridge Road estate
 borough: kingston
 thumb: /images/cambridge1thumb.jpg
 images:
-  - image_path: /images/cambridge1.jpg
-  - image_path: /images/cambridge2.jpg
-  - image_path: /images/cambridge3.jpg
-  - image_path: /images/cambridge4.jpg
-  - image_path: /images/croadaerial.png
+  - /images/cambridge1.jpg
+  - /images/cambridge2.jpg
+  - /images/cambridge3.jpg
+  - /images/cambridge4.jpg
+  - /images/croadaerial.png
 location: '{"type":"Point","coordinates":[-0.287284,51.408046]}'
 landlord: RB Kingston
 developer: Countryside Properties

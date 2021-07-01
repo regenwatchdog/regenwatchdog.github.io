@@ -5,9 +5,9 @@ name: New era estate
 borough: hackney
 thumb: /images/newerathumb.jpg
 images:
-  - image_path: /images/newera.jpg
-  - image_path: /images/newera2.jpg
-  - image_path: /images/newera3.jpg
+  - /images/newera.jpg
+  - /images/newera2.jpg
+  - /images/newera3.jpg
 location: '{"type":"Point","coordinates":[-0.081719,51.535979]}'
 landlord: Dolphin Living
 developer:

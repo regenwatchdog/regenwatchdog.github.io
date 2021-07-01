@@ -5,9 +5,9 @@ name: Chingford Hall estate
 borough: walthamforest
 thumb: /images/chingfordhallathumb.jpg
 images:
-  - image_path: /images/chingfordhalla.jpg
-  - image_path: /images/chb.png
-  - image_path: /images/chb2.png
+  - /images/chingfordhalla.jpg
+  - /images/chb.png
+  - /images/chb2.png
 location: '{"type":"Point","coordinates":[-0.025384,51.609444]}'
 landlord: Peabody
 developer:

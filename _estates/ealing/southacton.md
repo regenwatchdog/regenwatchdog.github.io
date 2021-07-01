@@ -6,20 +6,20 @@ name: South Acton estate
 borough: ealing
 thumb: /images/sacton1thumb.jpg
 images:
-  - image_path: /images/sacton1.jpg
-  - image_path: /images/sacton2.jpg
-  - image_path: /images/sacton3.jpg
-  - image_path: /images/sacton4.jpg
-  - image_path: /images/sacton5.jpg
-  - image_path: /images/sacton6.jpg
-  - image_path: /images/sacton7.jpg
-  - image_path: /images/sacton8.jpg
-  - image_path: /images/sacton9.jpg
-  - image_path: /images/sacton10.jpg
-  - image_path: /images/sacton12.jpg
-  - image_path: /images/sacton13.jpg
-  - image_path: /images/sacton14.jpg
-  - image_path: /images/sacton15.jpg
+  - /images/sacton1.jpg
+  - /images/sacton2.jpg
+  - /images/sacton3.jpg
+  - /images/sacton4.jpg
+  - /images/sacton5.jpg
+  - /images/sacton6.jpg
+  - /images/sacton7.jpg
+  - /images/sacton8.jpg
+  - /images/sacton9.jpg
+  - /images/sacton10.jpg
+  - /images/sacton12.jpg
+  - /images/sacton13.jpg
+  - /images/sacton14.jpg
+  - /images/sacton15.jpg
 location: '{"type":"Point","coordinates":[-0.272799,51.502295]}'
 landlord: Ealing Council
 developer: Countryside Properties

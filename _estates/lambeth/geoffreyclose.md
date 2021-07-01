@@ -5,14 +5,14 @@ name: Geoffrey Close (Lambeth) estate
 borough: lambeth
 thumb: /images/clethumb.jpg
 images:
-  - image_path: /images/cle8.jpg
-  - image_path: /images/cle7.jpg
-  - image_path: /images/cle6.jpg
-  - image_path: /images/cle5.jpg
-  - image_path: /images/cle4.jpg
-  - image_path: /images/cle3.jpg
-  - image_path: /images/cle2.jpg
-  - image_path: /images/cle1.jpg
+  - /images/cle8.jpg
+  - /images/cle7.jpg
+  - /images/cle6.jpg
+  - /images/cle5.jpg
+  - /images/cle4.jpg
+  - /images/cle3.jpg
+  - /images/cle2.jpg
+  - /images/cle1.jpg
 location: '{"type":"Point","coordinates":[-0.099011,51.469493]}'
 landlord: Riverside Homes
 developer:

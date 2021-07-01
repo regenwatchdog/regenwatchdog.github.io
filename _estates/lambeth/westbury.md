@@ -6,17 +6,17 @@ name: Westbury estate
 borough: lambeth
 thumb: /images/wb1thumb.jpg
 images:
-  - image_path: /images/wb1.jpg
-  - image_path: /images/wb2.jpg
-  - image_path: /images/wb3.jpg
-  - image_path: /images/wb4.jpg
-  - image_path: /images/wb5.jpg
-  - image_path: /images/wb6.jpg
-  - image_path: /images/wb7.jpg
-  - image_path: /images/wb8.jpg
-  - image_path: /images/wb9.jpg
-  - image_path: /images/wb10.jpg
-  - image_path: /images/wb11.jpg
+  - /images/wb1.jpg
+  - /images/wb2.jpg
+  - /images/wb3.jpg
+  - /images/wb4.jpg
+  - /images/wb5.jpg
+  - /images/wb6.jpg
+  - /images/wb7.jpg
+  - /images/wb8.jpg
+  - /images/wb9.jpg
+  - /images/wb10.jpg
+  - /images/wb11.jpg
 coordinates: 
 location: '{"type":"Point","coordinates":[-0.140646,51.470468]}'
 landlord: Lambeth Council

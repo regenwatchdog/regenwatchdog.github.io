@@ -5,14 +5,14 @@ name: Havelock estate
 borough: ealing
 thumb: /images/havelock1thumb.jpg
 images:
-  - image_path: /images/havelockgreen.jpg
-  - image_path: /images/havelock2.jpg
-  - image_path: /images/havelock3.jpg
-  - image_path: /images/havelock4.jpg
-  - image_path: /images/havelock5.jpg
-  - image_path: /images/havelock6.jpg
-  - image_path: /images/havelock7.jpg
-  - image_path: /images/havelock8.jpg
+  - /images/havelockgreen.jpg
+  - /images/havelock2.jpg
+  - /images/havelock3.jpg
+  - /images/havelock4.jpg
+  - /images/havelock5.jpg
+  - /images/havelock6.jpg
+  - /images/havelock7.jpg
+  - /images/havelock8.jpg
 location: '{"type":"Point","coordinates":[-0.370627,51.500392]}'
 landlord: Ealing Council
 developer: Catalyst Group

@@ -5,12 +5,12 @@ name: Alton estate
 borough: wandsworth
 thumb: /images/altonthumb.jpg
 images:
-  - image_path: /images/altonthumblarge.jpg
-  - image_path: /images/altont1.jpg
-  - image_path: /images/altont2.jpg
-  - image_path: /images/altonlibrary.jpg
-  - image_path: /images/alton2.jpg
-  - image_path: /images/alton.jpg
+  - /images/altonthumblarge.jpg
+  - /images/altont1.jpg
+  - /images/altont2.jpg
+  - /images/altonlibrary.jpg
+  - /images/alton2.jpg
+  - /images/alton.jpg
 location: '{"type":"Point","coordinates":[-0.243483,51.450221]}'
 landlord: Wandsworth Council
 developer:

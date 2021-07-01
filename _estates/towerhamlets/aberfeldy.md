@@ -5,10 +5,10 @@ name: Aberfeldy estate
 borough: towerhamlets 
 thumb: /images/af1thumb.jpg
 images:
-  - image_path: /images/af1.jpg
-  - image_path: /images/af2.png
-  - image_path: /images/af3.png
-  - image_path: /images/afbrochure.png
+  - /images/af1.jpg
+  - /images/af2.png
+  - /images/af3.png
+  - /images/afbrochure.png
 location: '{"type":"Point","coordinates":[-0.004851,51.512950]}'
 landlord: Poplar HARCA
 developer: Ecoworld

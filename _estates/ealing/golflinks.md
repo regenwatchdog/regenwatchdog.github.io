@@ -5,11 +5,11 @@ name: Golf Links estate
 borough: ealing
 thumb: /images/glinksthumb.jpg
 images:
-  - image_path: /images/glinks2.jpg
-  - image_path: /images/glinks3.jpg
-  - image_path: /images/glinks4.png
-  - image_path: /images/glinks5.png
-  - image_path: /images/glinks6.png
+  - /images/glinks2.jpg
+  - /images/glinks3.jpg
+  - /images/glinks4.png
+  - /images/glinks5.png
+  - /images/glinks6.png
 coordinates: 
 location: '{"type":"Point","coordinates":[-0.357820,51.517047]}'
 landlord: Ealing Council

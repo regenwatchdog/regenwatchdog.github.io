@@ -5,23 +5,23 @@ name: Warwick Road estate
 borough: kensingtonandchelsea
 thumb: /images/wr1thumb.jpg
 images:
-  - image_path: /images/wr1.jpg
-  - image_path: /images/wr2.jpg
-  - image_path: /images/wr3.jpg
-  - image_path: /images/wr4.jpg
-  - image_path: /images/wr5.jpg
-  - image_path: /images/wr6.jpg
-  - image_path: /images/wr7.jpg
-  - image_path: /images/wr8.jpg
-  - image_path: /images/wr9.jpg
-  - image_path: /images/wr10.jpg
-  - image_path: /images/wr11.jpg
-  - image_path: /images/wr12.jpg
-  - image_path: /images/wr13.jpg
-  - image_path: /images/wr14.jpg
-  - image_path: /images/wr15.jpg
-  - image_path: /images/wr16.jpg
-  - image_path: /images/wr17.jpg
+  - /images/wr1.jpg
+  - /images/wr2.jpg
+  - /images/wr3.jpg
+  - /images/wr4.jpg
+  - /images/wr5.jpg
+  - /images/wr6.jpg
+  - /images/wr7.jpg
+  - /images/wr8.jpg
+  - /images/wr9.jpg
+  - /images/wr10.jpg
+  - /images/wr11.jpg
+  - /images/wr12.jpg
+  - /images/wr13.jpg
+  - /images/wr14.jpg
+  - /images/wr15.jpg
+  - /images/wr16.jpg
+  - /images/wr17.jpg
 coordinates: 
 location: '{"type":"Point","coordinates":[-0.201078,51.493913]}'
 landlord: RBKC

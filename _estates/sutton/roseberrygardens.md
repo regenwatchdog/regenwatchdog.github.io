@@ -5,9 +5,9 @@ name: Roseberry Gardens estate
 borough: sutton
 thumb: /images/roseberry1thumb.jpg
 images:
-  - image_path: /images/roseberry1.jpg
-  - image_path: /images/roseberry2.jpg
-  - image_path: /images/roseberry3.jpg
+  - /images/roseberry1.jpg
+  - /images/roseberry2.jpg
+  - /images/roseberry3.jpg
 location: '{"type":"Point","coordinates":[-0.1929,51.3679]}'
 landlord: Sutton Council
 developer:

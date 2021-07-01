@@ -5,11 +5,11 @@ name: Brookhill Close estate
 borough: greenwich
 thumb: /images/bhill4thumb.jpg
 images:
-  - image_path: /images/bhill4.jpg
-  - image_path: /images/bhill3.png
-  - image_path: /images/bhill2.png
-  - image_path: /images/bhill1.png
-  - image_path: /images/brookhillaerial.png
+  - /images/bhill4.jpg
+  - /images/bhill3.png
+  - /images/bhill2.png
+  - /images/bhill1.png
+  - /images/brookhillaerial.png
 location: '{"type":"Point","coordinates":[0.065543,51.483649]}'
 landlord: Hyde Housing Association
 developer:

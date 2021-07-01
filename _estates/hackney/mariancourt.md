@@ -5,11 +5,11 @@ name: Marian Court estate
 borough: hackney
 thumb: /images/marianthumb.jpg
 images:
-  - image_path: /images/marian.png
-  - image_path: /images/marian2.png
-  - image_path: /images/marian3.png
-  - image_path: /images/marian4.png
-  - image_path: /images/marian5.png
+  - /images/marian.png
+  - /images/marian2.png
+  - /images/marian3.png
+  - /images/marian4.png
+  - /images/marian5.png
 location: '{"type":"Point","coordinates":[-0.049139,51.547861]}'
 landlord: Hackney Council
 developer: Austringer Capital

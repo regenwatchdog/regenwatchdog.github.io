@@ -5,11 +5,11 @@ name: Rainham Road South estate
 borough: barkinganddagenham
 thumb: /images/rroad4thumb.jpg
 images:
-  - image_path: /images/rroad4.jpg
-  - image_path: /images/rroad3.png
-  - image_path: /images/rroad2.png
-  - image_path: /images/rroad1.png
-  - image_path: /images/rainhamroadaerial.png
+  - /images/rroad4.jpg
+  - /images/rroad3.png
+  - /images/rroad2.png
+  - /images/rroad1.png
+  - /images/rainhamroadaerial.png
 location: '{"type":"Point","coordinates":[0.164733,51.547412]}'
 landlord: Barking & Dagenham Council
 developer: BeFirst

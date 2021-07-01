@@ -5,12 +5,12 @@ name: Chaucer Gardens estate
 borough: sutton
 thumb: /images/chaucerthumb.jpg
 images:
-  - image_path: /images/chaucer.jpg
-  - image_path: /images/chaucer1.jpg
-  - image_path: /images/chaucer2.jpg
-  - image_path: /images/chaucer3.jpg
-  - image_path: /images/chaucer6.jpg
-  - image_path: /images/chaucer7.jpg
+  - /images/chaucer.jpg
+  - /images/chaucer1.jpg
+  - /images/chaucer2.jpg
+  - /images/chaucer3.jpg
+  - /images/chaucer6.jpg
+  - /images/chaucer7.jpg
 location: '{"type":"Point","coordinates":[-0.2008,51.3705]}'
 landlord: Sutton Council
 developer:

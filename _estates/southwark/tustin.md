@@ -5,11 +5,11 @@ name: Tustin estate
 borough: southwark
 thumb: /images/tustinthumb.jpeg
 images:
-  - image_path: /images/tustin2.jpeg
-  - image_path: /images/tustin3.jpeg
-  - image_path: /images/tustin4.jpeg
-  - image_path: /images/tustin5.jpeg
-  - image_path: /images/tustin6.jpeg
+  - /images/tustin2.jpeg
+  - /images/tustin3.jpeg
+  - /images/tustin4.jpeg
+  - /images/tustin5.jpeg
+  - /images/tustin6.jpeg
 location: '{"type":"Point","coordinates":[-0.054867,51.480339]}'
 landlord: Southwark Council
 developer:

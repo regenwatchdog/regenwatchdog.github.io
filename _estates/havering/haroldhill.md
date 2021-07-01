@@ -5,11 +5,11 @@ name: Farnham and Hilldene estate
 borough: havering
 thumb: /images/farnham1thumb.jpg
 images:
-  - image_path: /images/farnham1.jpg
-  - image_path: /images/farnham2.png
-  - image_path: /images/farnham3.png
-  - image_path: /images/farnham5.png
-  - image_path: /images/farnhamaerial.png
+  - /images/farnham1.jpg
+  - /images/farnham2.png
+  - /images/farnham3.png
+  - /images/farnham5.png
+  - /images/farnhamaerial.png
 location: '{"type":"Point","coordinates":[0.219207,51.607002]}'
 landlord: Havering Council
 developer: Wates

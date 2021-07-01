@@ -5,9 +5,9 @@ name: Leabank View estate
 borough: haringey
 thumb: /images/leabankthumb.jpg
 images:
-  - image_path: /images/leabank.jpg
-  - image_path: /images/leabank1.jpg
-  - image_path: /images/leabank4.png
+  - /images/leabank.jpg
+  - /images/leabank1.jpg
+  - /images/leabank4.png
 location: '{"type":"Point","coordinates":[-0.062836,51.578949]}'
 landlord: Haringey Council
 developer:

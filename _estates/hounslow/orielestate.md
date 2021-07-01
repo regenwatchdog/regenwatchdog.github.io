@@ -5,29 +5,29 @@ name: Oriel estate
 borough: hounslow 
 thumb: /images/or21thumb.jpg
 images:
-  - image_path: /images/or21.jpg
-  - image_path: /images/or1.jpg
-  - image_path: /images/or2.jpg
-  - image_path: /images/or3.jpg
-  - image_path: /images/or4.jpg
-  - image_path: /images/or5.jpg
-  - image_path: /images/or6.jpg
-  - image_path: /images/or7.jpg
-  - image_path: /images/or8.jpg
-  - image_path: /images/or9.jpg
-  - image_path: /images/or10.jpg
-  - image_path: /images/or11.jpg
-  - image_path: /images/or12.jpg
-  - image_path: /images/or13.jpg
-  - image_path: /images/or14.jpg
-  - image_path: /images/or15.jpg
-  - image_path: /images/or16.jpg
-  - image_path: /images/or17.jpg
-  - image_path: /images/or18.jpg
-  - image_path: /images/or19.jpg
-  - image_path: /images/or20.jpg
-  - image_path: /images/or22.jpg
-  - image_path: /images/orielaerial.png
+  - /images/or21.jpg
+  - /images/or1.jpg
+  - /images/or2.jpg
+  - /images/or3.jpg
+  - /images/or4.jpg
+  - /images/or5.jpg
+  - /images/or6.jpg
+  - /images/or7.jpg
+  - /images/or8.jpg
+  - /images/or9.jpg
+  - /images/or10.jpg
+  - /images/or11.jpg
+  - /images/or12.jpg
+  - /images/or13.jpg
+  - /images/or14.jpg
+  - /images/or15.jpg
+  - /images/or16.jpg
+  - /images/or17.jpg
+  - /images/or18.jpg
+  - /images/or19.jpg
+  - /images/or20.jpg
+  - /images/or22.jpg
+  - /images/orielaerial.png
 location: '{"type":"Point","coordinates":[-0.390207,51.435475]}'
 landlord: Hounslow Council
 itla:

@@ -5,9 +5,9 @@ name: Ledbury estate
 borough: southwark
 thumb: /images/ledburythumb.jpeg
 images:
-  - image_path: /images/ledbury1.jpg
-  - image_path: /images/ledbury2.jpeg
-  - image_path: /images/ledbury3.jpg
+  - /images/ledbury1.jpg
+  - /images/ledbury2.jpeg
+  - /images/ledbury3.jpg
 location: '{"type":"Point","coordinates":[-0.061766,51.481221]}'
 landlord: Southwark Council
 developer:

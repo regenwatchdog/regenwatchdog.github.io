@@ -5,21 +5,21 @@ name: St. Raphael's estate
 borough: brent
 thumb: /images/straphaels2thumb.jpg
 images:
-  - image_path: /images/straphaels2.jpg
-  - image_path: /images/straphaels3.jpg
-  - image_path: /images/ST_raphaels_blocks.jpg
-  - image_path: /images/ST_raphaels_children_centre.jpg
-  - image_path: /images/ST_Raphaels_Edible_garden1.jpg
-  - image_path: /images/ST_raphaels_edible_garden3.jpg
-  - image_path: /images/ST_raphaels_greenspace1.jpg
-  - image_path: /images/St_raphaels_greenSpace2.jpg
-  - image_path: /images/ST_raphaels_greenSpace3.jpg
-  - image_path: /images/ST_raphaels_greenSpace4.jpg
-  - image_path: /images/ST_RaphGS1.jpg
-  - image_path: /images/ST_raphaels_hendersonHouse.jpg
-  - image_path: /images/ST_raphaels_maisonettes.jpg
-  - image_path: /images/St_raphaels_river1.jpg
-  - image_path: /images/ST_raphaels_river2.jpg
+  - /images/straphaels2.jpg
+  - /images/straphaels3.jpg
+  - /images/ST_raphaels_blocks.jpg
+  - /images/ST_raphaels_children_centre.jpg
+  - /images/ST_Raphaels_Edible_garden1.jpg
+  - /images/ST_raphaels_edible_garden3.jpg
+  - /images/ST_raphaels_greenspace1.jpg
+  - /images/St_raphaels_greenSpace2.jpg
+  - /images/ST_raphaels_greenSpace3.jpg
+  - /images/ST_raphaels_greenSpace4.jpg
+  - /images/ST_RaphGS1.jpg
+  - /images/ST_raphaels_hendersonHouse.jpg
+  - /images/ST_raphaels_maisonettes.jpg
+  - /images/St_raphaels_river1.jpg
+  - /images/ST_raphaels_river2.jpg
 location: '{"type":"Point","coordinates":[-0.264695,51.552600]}'
 landlord: Brent Council
 developer:

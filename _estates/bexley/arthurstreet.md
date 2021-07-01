@@ -6,13 +6,13 @@ name: Arthur Street estate
 borough: bexley
 thumb: /images/arthurthumb.jpg
 images:
-  - image_path: /images/ats1.jpg
-  - image_path: /images/ats2.jpg
-  - image_path: /images/ats3.jpg
-  - image_path: /images/as1.png
-  - image_path: /images/as2.png
-  - image_path: /images/as3.png
-  - image_path: /images/as4.png
+  - /images/ats1.jpg
+  - /images/ats2.jpg
+  - /images/ats3.jpg
+  - /images/as1.png
+  - /images/as2.png
+  - /images/as3.png
+  - /images/as4.png
 location: '{"type":"Point","coordinates":[0.183563,51.473006]}'
 landlord: Orbit (Housing Association)
 developer: Wates

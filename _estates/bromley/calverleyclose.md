@@ -5,12 +5,12 @@ name: Calverley Close estate
 borough: bromley 
 thumb: /images/calthumb.jpg
 images:
-  - image_path: /images/cal.png
-  - image_path: /images/cal1.png
-  - image_path: /images/cal2.png
-  - image_path: /images/cal3.png
-  - image_path: /images/cal4.png
-  - image_path: /images/cal5.png
+  - /images/cal.png
+  - /images/cal1.png
+  - /images/cal2.png
+  - /images/cal3.png
+  - /images/cal4.png
+  - /images/cal5.png
 location: '{"type":"Point","coordinates":[0.021422,51.419397]}'
 landlord: Riverside Housing Association
 developer:

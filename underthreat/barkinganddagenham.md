@@ -18,7 +18,7 @@ category: underthreat
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="{{ scheme.url }}">
-                      <img class="card-img-top" src="{{ scheme.images.first.image_path }}" alt="{{ scheme.name }}">
+                      <img class="card-img-top" src="{{ scheme.images.first }}" alt="{{ scheme.name }}">
                     </a>
 		    <div class="card-body">
                         <a href="{{ scheme.url }}">

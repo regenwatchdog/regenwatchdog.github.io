@@ -5,23 +5,23 @@ name: Benhill estate
 borough: sutton
 thumb: /images/benhill5thumb.jpg
 images:
-  - image_path: /images/benhill5.jpg
-  - image_path: /images/benhill1.jpg
-  - image_path: /images/benhill2.jpg
-  - image_path: /images/benhill3.jpg
-  - image_path: /images/benhill4.jpg
-  - image_path: /images/benhill6.jpg
-  - image_path: /images/benhill7.jpg
-  - image_path: /images/benhill8.jpg
-  - image_path: /images/benhill9.jpg
-  - image_path: /images/bhs1.jpg
-  - image_path: /images/bhs2.jpg
-  - image_path: /images/bhs3.jpg
-  - image_path: /images/bhs4.jpg
-  - image_path: /images/bhs5.jpg
-  - image_path: /images/bhs6.jpg
-  - image_path: /images/benhillestate.jpg
-  - image_path: /images/benhillaerial.png
+  - /images/benhill5.jpg
+  - /images/benhill1.jpg
+  - /images/benhill2.jpg
+  - /images/benhill3.jpg
+  - /images/benhill4.jpg
+  - /images/benhill6.jpg
+  - /images/benhill7.jpg
+  - /images/benhill8.jpg
+  - /images/benhill9.jpg
+  - /images/bhs1.jpg
+  - /images/bhs2.jpg
+  - /images/bhs3.jpg
+  - /images/bhs4.jpg
+  - /images/bhs5.jpg
+  - /images/bhs6.jpg
+  - /images/benhillestate.jpg
+  - /images/benhillaerial.png
 location: '{"type":"Point","coordinates":[-0.1901,51.3673]}'
 landlord: Sutton Council
 developer:

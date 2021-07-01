@@ -5,9 +5,9 @@ name: Sherwood Close estate
 borough: ealing
 thumb: /images/sherwood1thumb.jpg
 images:
-  - image_path: /images/sherwood1.jpg
-  - image_path: /images/sherwood2.png
-  - image_path: /images/sherwood3.png 
+  - /images/sherwood1.jpg
+  - /images/sherwood2.png
+  - /images/sherwood3.png 
 location: '{"type":"Point","coordinates":[-0.319455,51.509075]}'
 landlord: Ealing Council
 developer: Clarion Group

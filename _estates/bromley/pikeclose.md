@@ -5,9 +5,9 @@ name: Pike Close estate
 borough: bromley 
 thumb: /images/pikeclosethumb.jpg
 images:
-  - image_path: /images/pikeclose.jpg
-  - image_path: /images/pclose2.png
-  - image_path: /images/pclose3.png
+  - /images/pikeclose.jpg
+  - /images/pclose2.png
+  - /images/pclose3.png
 location: '{"type":"Point","coordinates":[0.021446,51.421991]}'
 landlord: Riverside Housing Association
 developer: Countryside Properties

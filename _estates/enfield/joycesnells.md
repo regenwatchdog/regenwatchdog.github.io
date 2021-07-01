@@ -5,9 +5,9 @@ name: Joyce Avenue and Snells Park estates
 borough: enfield
 thumb: /images/joycethumb.jpg
 images:
-  - image_path: /images/jsnells.jpg
-  - image_path: /images/joyce3.png
-  - image_path: /images/joyce5.jpg
+  - /images/jsnells.jpg
+  - /images/joyce3.png
+  - /images/joyce5.jpg
 location: '{"type":"Point","coordinates":[-0.066698,51.612022]}'
 landlord: Enfield Council
 developer:

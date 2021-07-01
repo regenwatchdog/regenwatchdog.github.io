@@ -5,11 +5,11 @@ name: Ladderswood estate
 borough: enfield
 thumb: /images/lwoodthumb.jpg
 images:
-  - image_path: /images/lwood.png
-  - image_path: /images/lwood1.png
-  - image_path: /images/lwood2.png
-  - image_path: /images/lwood3.png
-  - image_path: /images/lwood4.png
+  - /images/lwood.png
+  - /images/lwood1.png
+  - /images/lwood2.png
+  - /images/lwood3.png
+  - /images/lwood4.png
 location: '{"type":"Point","coordinates":[-0.137395,51.613312]}'
 landlord: Enfield Council
 developer: Mulalley/One Housing Group

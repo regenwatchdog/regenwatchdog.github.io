@@ -6,10 +6,10 @@ name: Turner Avenue and Brunel Walk
 borough: haringey
 thumb: /images/turnerthumb.jpg
 images:
-  - image_path: /images/turner.jpg
-  - image_path: /images/turner1.png
-  - image_path: /images/turner2.png
-  - image_path: /images/turner3.png
+  - /images/turner.jpg
+  - /images/turner1.png
+  - /images/turner2.png
+  - /images/turner3.png
 location: '{"type":"Point","coordinates":[-0.080625,51.584577]}'
 landlord: Haringey Council
 developer:

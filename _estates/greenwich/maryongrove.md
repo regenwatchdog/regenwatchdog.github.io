@@ -5,9 +5,9 @@ name: Maryon Grove estate
 borough: greenwich
 thumb: /images/mw5thumb.jpg
 images:
-  - image_path: /images/mw5.jpg
-  - image_path: /images/mw6.png
-  - image_path: /images/mw7.png
+  - /images/mw5.jpg
+  - /images/mw6.png
+  - /images/mw7.png
 location: '{"type":"Point","coordinates":[0.049174,51.487680]}'
 landlord: Greenwich Council
 developer: Lovell

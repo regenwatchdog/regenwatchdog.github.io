@@ -5,9 +5,9 @@ name: Lansbury (south) estate
 borough: towerhamlets 
 thumb: /images/crisp2thumb.jpg
 images:
-  - image_path: /images/crisp1.png
-  - image_path: /images/crisp2.png
-  - image_path: /images/crisp3.png
+  - /images/crisp1.png
+  - /images/crisp2.png
+  - /images/crisp3.png
 location: '{"type":"Point","coordinates":[-0.015573,51.511716]}'
 landlord: Poplar HARCA
 developer:

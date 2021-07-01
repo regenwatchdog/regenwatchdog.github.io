@@ -5,21 +5,21 @@ name: Love Lane estate
 borough: haringey
 thumb: /images/love_lane5thumb.jpg
 images:
-  - image_path: /images/love_lane5.jpg
-  - image_path: /images/love_lane.jpg
-  - image_path: /images/love_lane1.jpg
-  - image_path: /images/love_lane2.jpg
-  - image_path: /images/love_lane3.jpg
-  - image_path: /images/love_lane4.jpg
-  - image_path: /images/love_lane6.jpg
-  - image_path: /images/love_lane7.jpg
-  - image_path: /images/love_lane8.jpg
-  - image_path: /images/love_lane9.jpg
-  - image_path: /images/love_lane10.jpg
-  - image_path: /images/love_lane11.jpg
-  - image_path: /images/love_lane12.jpg
-  - image_path: /images/love_lane13.jpg
-  - image_path: /images/love_lane14.jpg
+  - /images/love_lane5.jpg
+  - /images/love_lane.jpg
+  - /images/love_lane1.jpg
+  - /images/love_lane2.jpg
+  - /images/love_lane3.jpg
+  - /images/love_lane4.jpg
+  - /images/love_lane6.jpg
+  - /images/love_lane7.jpg
+  - /images/love_lane8.jpg
+  - /images/love_lane9.jpg
+  - /images/love_lane10.jpg
+  - /images/love_lane11.jpg
+  - /images/love_lane12.jpg
+  - /images/love_lane13.jpg
+  - /images/love_lane14.jpg
 location: '{"type":"Point","coordinates":[-0.069012,51.604415]}'
 landlord: Haringey Council
 developer:

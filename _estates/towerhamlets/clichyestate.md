@@ -5,8 +5,8 @@ name: Clichy estate
 borough: towerhamlets 
 thumb: /images/clichyestatethumb.jpg
 images:
-  - image_path: /images/clichyestate.jpg
-  - image_path: /images/clichyestate2.png
+  - /images/clichyestate.jpg
+  - /images/clichyestate2.png
 location: '{"type":"Point","coordinates":[-0.048942,51.516104]}'
 landlord: Tower Hamlets Council
 developer:

@@ -5,16 +5,16 @@ name: Silchester estate
 borough: kensingtonandchelsea
 thumb: /images/sc1thumb.jpg
 images:
-  - image_path: /images/sc1.jpg
-  - image_path: /images/sc2.jpg
-  - image_path: /images/sc3.jpg
-  - image_path: /images/sc4.jpg
-  - image_path: /images/sc5.jpg
-  - image_path: /images/sc6.jpg
-  - image_path: /images/sc7.jpg
-  - image_path: /images/sc8.jpg
-  - image_path: /images/sc91.jpg
-  - image_path: /images/sc10.jpg
+  - /images/sc1.jpg
+  - /images/sc2.jpg
+  - /images/sc3.jpg
+  - /images/sc4.jpg
+  - /images/sc5.jpg
+  - /images/sc6.jpg
+  - /images/sc7.jpg
+  - /images/sc8.jpg
+  - /images/sc91.jpg
+  - /images/sc10.jpg
 location: '{"type":"Point","coordinates":[-0.218275,51.514584]}'
 developer:
 itla:

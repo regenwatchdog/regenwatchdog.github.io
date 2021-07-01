@@ -5,13 +5,13 @@ name: Watling Gardens estate
 borough: brent
 thumb: /images/clairecourt1thumb.jpg
 images:
-  - image_path: /images/clairecourt1.jpg
-  - image_path: /images/windmillcourt2.jpg
-  - image_path: /images/ClaireCourt.png
-  - image_path: /images/clairecourt2.jpg
-  - image_path: /images/clairecourt3.jpg
-  - image_path: /images/windmillcourt1.jpg
-  - image_path: /images/watlinggardensbungalows.jpg
+  - /images/clairecourt1.jpg
+  - /images/windmillcourt2.jpg
+  - /images/ClaireCourt.png
+  - /images/clairecourt2.jpg
+  - /images/clairecourt3.jpg
+  - /images/windmillcourt1.jpg
+  - /images/watlinggardensbungalows.jpg
 landlord: Watling Gardens TMO
 developer:
 itla: Richard Carley & Sarah Robbins (Brent)

@@ -5,14 +5,14 @@ name: St John's Hill estate
 borough: wandsworth
 thumb: /images/sj4thumb.jpg
 images:
-  - image_path: /images/sj4.jpg
-  - image_path: /images/sj1.jpg
-  - image_path: /images/sj2.jpg
-  - image_path: /images/sj3.jpg
-  - image_path: /images/sj5.jpg
-  - image_path: /images/sj6.jpg
-  - image_path: /images/sj7.jpg
-  - image_path: /images/sj8.jpg
+  - /images/sj4.jpg
+  - /images/sj1.jpg
+  - /images/sj2.jpg
+  - /images/sj3.jpg
+  - /images/sj5.jpg
+  - /images/sj6.jpg
+  - /images/sj7.jpg
+  - /images/sj8.jpg
 location: '{"type":"Point","coordinates":[-0.170662,51.462352]}'
 landlord: Peabody
 developer:

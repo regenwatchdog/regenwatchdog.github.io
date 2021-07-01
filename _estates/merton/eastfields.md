@@ -6,11 +6,11 @@ stage: Implementation
 borough: merton
 thumb: /images/ef4thumb.jpg
 images:
-  - image_path: /images/ef4.jpg
-  - image_path: /images/ef1.jpg
-  - image_path: /images/ef2.jpg
-  - image_path: /images/ef3.jpg
-  - image_path: /images/ef5.jpg
+  - /images/ef4.jpg
+  - /images/ef1.jpg
+  - /images/ef2.jpg
+  - /images/ef3.jpg
+  - /images/ef5.jpg
 location: '{"type":"Point","coordinates":[-0.149209,51.407168]}'
 landlord: Clarion Group
 developer:

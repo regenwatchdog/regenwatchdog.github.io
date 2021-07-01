@@ -6,12 +6,12 @@ stage: Implementation
 borough: merton
 thumb: /images/rgrovethumb.jpg
 images:
-  - image_path: /images/rgrove1.jpg
-  - image_path: /images/rgrove2.jpg
-  - image_path: /images/rgrove3.jpg
-  - image_path: /images/rgrove4.jpg
-  - image_path: /images/rgrove5.jpg
-  - image_path: /images/rgrovemap.jpg
+  - /images/rgrove1.jpg
+  - /images/rgrove2.jpg
+  - /images/rgrove3.jpg
+  - /images/rgrove4.jpg
+  - /images/rgrove5.jpg
+  - /images/rgrovemap.jpg
 location: '{"type":"Point","coordinates":[-0.181542,51.399087]}'
 landlord: Clarion Group
 developer: Clarion

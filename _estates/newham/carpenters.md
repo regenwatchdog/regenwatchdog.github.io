@@ -5,24 +5,24 @@ name: Carpenters estate
 borough: newham
 thumb: /images/cp8thumb.jpg
 images:
-  - image_path: /images/cp8.jpg
-  - image_path: /images/cp1.jpg
-  - image_path: /images/cp2.jpg
-  - image_path: /images/cp3.jpg
-  - image_path: /images/cp4.jpg
-  - image_path: /images/cp5.jpg
-  - image_path: /images/cp6.jpg
-  - image_path: /images/cp7.jpg
-  - image_path: /images/cp8.jpg
-  - image_path: /images/cp9.jpg
-  - image_path: /images/cp10.jpg
-  - image_path: /images/cp11.jpg
-  - image_path: /images/cp12.jpg
-  - image_path: /images/cp13.jpg
-  - image_path: /images/cp14.jpg
-  - image_path: /images/cp15.jpg
-  - image_path: /images/cp16.jpg
-  - image_path: /images/cp17.jpg
+  - /images/cp8.jpg
+  - /images/cp1.jpg
+  - /images/cp2.jpg
+  - /images/cp3.jpg
+  - /images/cp4.jpg
+  - /images/cp5.jpg
+  - /images/cp6.jpg
+  - /images/cp7.jpg
+  - /images/cp8.jpg
+  - /images/cp9.jpg
+  - /images/cp10.jpg
+  - /images/cp11.jpg
+  - /images/cp12.jpg
+  - /images/cp13.jpg
+  - /images/cp14.jpg
+  - /images/cp15.jpg
+  - /images/cp16.jpg
+  - /images/cp17.jpg
 location: '{"type":"Point","coordinates":[-0.004882,51.537846]}'
 landlord: Newham Council
 developer:

@@ -5,11 +5,11 @@ name: Lesnes estate (Thamesmead East phase 2)
 borough: bexley
 thumb: /images/lesnesthumb.jpg
 images:
-  - image_path: /images/wolvercoteaerial.jpg
-  - image_path: /images/wolvercoteaerial2.png
-  - image_path: /images/thamesmeadeast.jpg
-  - image_path: /images/thamesmeadeast.png
-  - image_path: /images/lesnesaerial.png
+  - /images/wolvercoteaerial.jpg
+  - /images/wolvercoteaerial2.png
+  - /images/thamesmeadeast.jpg
+  - /images/thamesmeadeast.png
+  - /images/lesnesaerial.png
 location: '{"type":"Point","coordinates":[0.126122,51.495310]}'
 landlord: Peabody
 itla: Communities First

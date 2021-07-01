@@ -5,19 +5,19 @@ name: Juniper Crescent and Gilbeys Yard estate
 borough: camden
 thumb: /images/jp12thumb.jpg
 images:
-  - image_path: /images/jp12.jpg
-  - image_path: /images/jp1.jpg
-  - image_path: /images/jp2.jpg
-  - image_path: /images/jp3.jpg
-  - image_path: /images/jp4.jpg
-  - image_path: /images/jp5.jpg
-  - image_path: /images/jp6.jpg
-  - image_path: /images/jp7.jpg
-  - image_path: /images/jp8.jpg
-  - image_path: /images/jp9.jpg
-  - image_path: /images/jp10.jpg
-  - image_path: /images/jp11.jpg
-  - image_path: /images/junipercrescent.jpg
+  - /images/jp12.jpg
+  - /images/jp1.jpg
+  - /images/jp2.jpg
+  - /images/jp3.jpg
+  - /images/jp4.jpg
+  - /images/jp5.jpg
+  - /images/jp6.jpg
+  - /images/jp7.jpg
+  - /images/jp8.jpg
+  - /images/jp9.jpg
+  - /images/jp10.jpg
+  - /images/jp11.jpg
+  - /images/junipercrescent.jpg
 location: '{"type":"Point","coordinates":[-0.150620,51.542436]}'
 developer: Countryside Properties
 landlord: One Housing Group

@@ -5,9 +5,9 @@ name: St John's estate
 borough: towerhamlets 
 thumb: /images/ashepherdthumb.jpg
 images:
-  - image_path: /images/ashepherd.jpg
-  - image_path: /images/oakhouse.png
-  - image_path: /images/st-johns-estate.jpg
+  - /images/ashepherd.jpg
+  - /images/oakhouse.png
+  - /images/st-johns-estate.jpg
 location: '{"type":"Point","coordinates":[-0.008984,51.499039]}'
 landlord: One Housing Group
 developer:

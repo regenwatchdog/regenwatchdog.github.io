@@ -5,7 +5,7 @@ name: Stellar House & Atlair Close
 borough: haringey
 thumb: /images/stellarthumb.jpg
 images:
-  - image_path: /images/stellar.png
+  - /images/stellar.png
 location: '{"type":"Point","coordinates":[-0.066563,51.608284]}'
 landlord: Haringey Council
 developer:

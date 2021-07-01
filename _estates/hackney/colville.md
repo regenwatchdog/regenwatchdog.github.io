@@ -5,12 +5,12 @@ name: Colville estate
 borough: hackney
 thumb: /images/colville9thumb.jpg
 images:
-  - image_path: /images/colville9.jpg
-  - image_path: /images/coleville2.png
-  - image_path: /images/coleville3.png
-  - image_path: /images/coleville1.png
-  - image_path: /images/colville8.png
-  - image_path: /images/colvilleplans.jpg
+  - /images/colville9.jpg
+  - /images/coleville2.png
+  - /images/coleville3.png
+  - /images/coleville1.png
+  - /images/colville8.png
+  - /images/colvilleplans.jpg
 location: '{"type":"Point","coordinates":[-0.083684,51.536318]}'
 itla: PPCR
 landlord: Hackney Council

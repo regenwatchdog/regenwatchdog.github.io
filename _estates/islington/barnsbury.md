@@ -5,10 +5,10 @@ name: Barnsbury estate
 borough: islington
 thumb: /images/barnsburythumb.jpg
 images:
-  - image_path: /images/barnsbury1.png
-  - image_path: /images/barnsbury2.png
-  - image_path: /images/barnsbury3.png
-  - image_path: /images/barnsbury4.png
+  - /images/barnsbury1.png
+  - /images/barnsbury2.png
+  - /images/barnsbury3.png
+  - /images/barnsbury4.png
 location: '{"type":"Point","coordinates":[-0.114844,51.536269]}'
 landlord: Newlon Housing Association
 developer: Mount Anvil

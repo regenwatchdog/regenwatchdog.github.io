@@ -5,10 +5,10 @@ name: Church Street area estates
 borough: westminster
 thumb: /images/csthumb.jpg
 images:
-  - image_path: /images/cs.jpg
-  - image_path: /images/cs1.jpg
-  - image_path: /images/cs2.jpg
-  - image_path: /images/cs3.jpg
+  - /images/cs.jpg
+  - /images/cs1.jpg
+  - /images/cs2.jpg
+  - /images/cs3.jpg
 location: '{"type":"Point","coordinates":[-0.170681,51.523316]}'
 landlord: Westminster Council
 developer:

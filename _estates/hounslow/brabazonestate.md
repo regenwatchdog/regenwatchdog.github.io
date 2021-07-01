@@ -5,16 +5,16 @@ name: Brabazon estate
 borough: hounslow 
 thumb: /images/bz1thumb.jpg
 images:
-  - image_path: /images/bz1.jpg
-  - image_path: /images/bz2.jpg
-  - image_path: /images/bz3.jpg
-  - image_path: /images/bz4.jpg
-  - image_path: /images/bz5.jpg
-  - image_path: /images/bz6.jpg
-  - image_path: /images/bz7.jpg
-  - image_path: /images/bz8.jpg
-  - image_path: /images/brabazonaerial.png
-  - image_path: /images/normanbrabazon.png
+  - /images/bz1.jpg
+  - /images/bz2.jpg
+  - /images/bz3.jpg
+  - /images/bz4.jpg
+  - /images/bz5.jpg
+  - /images/bz6.jpg
+  - /images/bz7.jpg
+  - /images/bz8.jpg
+  - /images/brabazonaerial.png
+  - /images/normanbrabazon.png
 location: '{"type":"Point","coordinates":[-0.395689,51.484513]}'
 landlord: Hounslow Council
 developer:

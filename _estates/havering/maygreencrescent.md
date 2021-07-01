@@ -5,12 +5,12 @@ name: Maygreen Crescent estate
 borough: havering
 thumb: /images/mg1thumb.jpg
 images:
-  - image_path: /images/mg1.jpg
-  - image_path: /images/mg2.png
-  - image_path: /images/mg3.png
-  - image_path: /images/mg4.png
-  - image_path: /images/mg5.png
-  - image_path: /images/maygreenaerial.png
+  - /images/mg1.jpg
+  - /images/mg2.png
+  - /images/mg3.png
+  - /images/mg4.png
+  - /images/mg5.png
+  - /images/maygreenaerial.png
 location: '{"type":"Point","coordinates":[0.193681,51.566629]}'
 landlord: Havering Council
 developer: Wates

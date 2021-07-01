@@ -5,13 +5,13 @@ name: Marks Gate estate
 borough: barkinganddagenham
 thumb: /images/mgtower3thumb.jpg
 images:
-  - image_path: /images/mgtower3.jpg
-  - image_path: /images/mgtower2.png
-  - image_path: /images/marksgate2.png
-  - image_path: /images/marksgate3.png
-  - image_path: /images/marksgate1.png
-  - image_path: /images/mgtower.png
-  - image_path: /images/mgaerialwhole.png
+  - /images/mgtower3.jpg
+  - /images/mgtower2.png
+  - /images/marksgate2.png
+  - /images/marksgate3.png
+  - /images/marksgate1.png
+  - /images/mgtower.png
+  - /images/mgaerialwhole.png
 landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:

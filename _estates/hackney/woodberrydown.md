@@ -5,11 +5,11 @@ name: Woodberry Down estate
 borough: hackney
 thumb: /images/woodberry1thumb.jpg
 images:
-  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-27.jpg 
-  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-5.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-24.jpg
-  - image_path: https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-estate-signboard.jpg
-  - image_path: /images/woodberryaerial.jpg
+  - https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-27.jpg 
+  - https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-5.jpg
+  - https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-24.jpg
+  - https://municipaldreams.files.wordpress.com/2013/09/woodberry-down-estate-signboard.jpg
+  - /images/woodberryaerial.jpg
 location: '{"type":"Point","coordinates":[-0.090658,51.572949]}'
 landlord: Hackney Council
 developer: Berkeley Homes

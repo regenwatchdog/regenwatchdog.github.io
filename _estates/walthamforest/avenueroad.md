@@ -6,14 +6,14 @@ borough: walthamforest
 location: '{"type":"Point","coordinates":[-0.0027,51.5536]}'
 thumb: /images/avenueroadthumb.jpg
 images:
-  - image_path: /images/avenueroad.jpg
-  - image_path: /images/Avenue_R1.jpg
-  - image_path: /images/Avenue_R2.jpg
-  - image_path: /images/Avenue_R3.jpg
-  - image_path: /images/Avenue_R4.jpg
-  - image_path: /images/Avenue_R5.jpg
-  - image_path: /images/Avenue_R6.jpg
-  - image_path: /images/Avenue_R7.jpg
+  - /images/avenueroad.jpg
+  - /images/Avenue_R1.jpg
+  - /images/Avenue_R2.jpg
+  - /images/Avenue_R3.jpg
+  - /images/Avenue_R4.jpg
+  - /images/Avenue_R5.jpg
+  - /images/Avenue_R6.jpg
+  - /images/Avenue_R7.jpg
 landlord: Waltham Forest Council
 developer:
 itla: Newman Francis

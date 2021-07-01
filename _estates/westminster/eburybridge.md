@@ -5,33 +5,33 @@ name: Ebury Bridge estate
 borough: westminster
 thumb: /images/eb1thumb.jpg
 images:
-  - image_path: /images/ebplan.png
-  - image_path: /images/eb2.jpg
-  - image_path: /images/eb3.jpg
-  - image_path: /images/eb4.jpg
-  - image_path: /images/eb5.jpg
-  - image_path: /images/eb6.jpg
-  - image_path: /images/eb8.jpg
-  - image_path: /images/ebry.jpg
-  - image_path: /images/ebry2.jpg
-  - image_path: /images/ebry3.jpg
-  - image_path: /images/eb10.jpg
-  - image_path: /images/eb11.jpg
-  - image_path: /images/eb13.jpg
-  - image_path: /images/eb14.jpg
-  - image_path: /images/eb15.jpg
-  - image_path: /images/eb16.jpg
-  - image_path: /images/eb17.jpg
-  - image_path: /images/eb18.jpg
-  - image_path: /images/eb19.jpg
-  - image_path: /images/eb20.jpg
-  - image_path: /images/eb22.jpg
-  - image_path: /images/eb23.jpg
-  - image_path: /images/eb24.jpg
-  - image_path: /images/eb25.jpg
-  - image_path: /images/eb26.jpg
-  - image_path: /images/eb27.jpg
-  - image_path: /images/eb28.jpg
+  - /images/ebplan.png
+  - /images/eb2.jpg
+  - /images/eb3.jpg
+  - /images/eb4.jpg
+  - /images/eb5.jpg
+  - /images/eb6.jpg
+  - /images/eb8.jpg
+  - /images/ebry.jpg
+  - /images/ebry2.jpg
+  - /images/ebry3.jpg
+  - /images/eb10.jpg
+  - /images/eb11.jpg
+  - /images/eb13.jpg
+  - /images/eb14.jpg
+  - /images/eb15.jpg
+  - /images/eb16.jpg
+  - /images/eb17.jpg
+  - /images/eb18.jpg
+  - /images/eb19.jpg
+  - /images/eb20.jpg
+  - /images/eb22.jpg
+  - /images/eb23.jpg
+  - /images/eb24.jpg
+  - /images/eb25.jpg
+  - /images/eb26.jpg
+  - /images/eb27.jpg
+  - /images/eb28.jpg
 location: '{"type":"Point","coordinates":[-0.149611,51.488945]}'
 landlord: Westminster Council
 developer: Westminster Council

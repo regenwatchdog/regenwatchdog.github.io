@@ -5,7 +5,7 @@ name: Bow Bridge estate
 borough: towerhamlets 
 thumb: /images/warrenthumb.jpg
 images:
-  - image_path: /images/warren.jpg
+  - /images/warren.jpg
 location: '{"type":"Point","coordinates":[-0.016940,51.527082]}'
 landlord: Poplar HARCA
 developer:

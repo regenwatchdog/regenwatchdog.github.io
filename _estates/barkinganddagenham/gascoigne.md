@@ -6,22 +6,22 @@ name: Gascoigne estate
 borough: barkinganddagenham
 thumb: /images/gascoigne1thumb.jpg
 images:
-  - image_path: /images/Lor_gascoigne1.jpg
-  - image_path: /images/Lor_gascoigne2.jpg
-  - image_path: /images/Lor_gascoigne3.jpg
-  - image_path: /images/Lor_gascoigne4.jpg
-  - image_path: /images/Lor_gascoigne.jpg
-  - image_path: /images/Lor_gascoigne6.jpg
-  - image_path: /images/Lor_gascoigne5.jpg
-  - image_path: /images/Lor_gascoigne7.jpg
-  - image_path: /images/gascoigneab.jpg
-  - image_path: /images/gascoigneab1.jpg
-  - image_path: /images/gascoigneab2.jpg
-  - image_path: /images/gascoigneab3.jpg
-  - image_path: /images/gascoigneab4.jpg
-  - image_path: /images/gascoigneab5.jpg
-  - image_path: /images/gascoigneab6.jpg
-  - image_path: /images/gascoigneab7.jpg
+  - /images/Lor_gascoigne1.jpg
+  - /images/Lor_gascoigne2.jpg
+  - /images/Lor_gascoigne3.jpg
+  - /images/Lor_gascoigne4.jpg
+  - /images/Lor_gascoigne.jpg
+  - /images/Lor_gascoigne6.jpg
+  - /images/Lor_gascoigne5.jpg
+  - /images/Lor_gascoigne7.jpg
+  - /images/gascoigneab.jpg
+  - /images/gascoigneab1.jpg
+  - /images/gascoigneab2.jpg
+  - /images/gascoigneab3.jpg
+  - /images/gascoigneab4.jpg
+  - /images/gascoigneab5.jpg
+  - /images/gascoigneab6.jpg
+  - /images/gascoigneab7.jpg
 landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:
