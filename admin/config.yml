@@ -1345,7 +1345,7 @@ collections:
         name: 'body'
         widget: 'markdown'
 
-     - name: 'southwark'
+  - name: 'southwark'
     label: 'Southwark'
     editor:
       preview: false
