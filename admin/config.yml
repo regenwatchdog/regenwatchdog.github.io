@@ -52,9 +52,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -103,9 +105,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -154,9 +158,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -205,9 +211,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -256,9 +264,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -307,9 +317,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -358,9 +370,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -409,9 +423,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -460,9 +476,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -511,9 +529,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -562,9 +582,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -613,9 +635,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -664,9 +688,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -715,9 +741,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -766,9 +794,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -817,9 +847,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -868,9 +900,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -919,9 +953,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -970,9 +1006,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1021,9 +1059,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1072,9 +1112,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1123,9 +1165,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1174,9 +1218,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1225,9 +1271,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1276,9 +1324,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1327,9 +1377,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1378,9 +1430,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1429,9 +1483,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1480,9 +1536,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1531,9 +1589,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1582,9 +1642,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
@@ -1633,9 +1695,11 @@ collections:
       - label: 'Developer'
         name: 'developer'
         widget: 'string'
+        required: false
       - label: 'ITLA'
         name: 'itla'
         widget: 'string'
+        required: false
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
