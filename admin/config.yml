@@ -25,6 +25,7 @@ collections:
     label: 'Barking & Dagenham'
     identifier_field: name
     folder: '_estates/barkinganddagenham/'
+    fields:
       - label: 'Estate Name'
         name: 'name'
         widget: 'string'
