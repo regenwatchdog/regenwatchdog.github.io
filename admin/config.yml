@@ -48,6 +48,8 @@ collections:
 
   - name: 'barnet'
     label: 'Barnet'
+    editor:
+      preview: false
     identifier_field: name
     folder: '_estates/barnet/'
     fields:
@@ -83,6 +85,9 @@ collections:
       - label: 'Total Number of Homes'
         name: 'total'
         widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
       - label: "Images"
         name: "images"
         widget: "list"
