@@ -1,23 +1,9 @@
 ---
 layout: post
-title: July News Roundup
+title: July News Roundup (DRAFT)
 date: 2021-06-16T10:21:57.116Z
 ---
-Turner Avenue estate saved!
-
-https://www.minutes.haringey.gov.uk/documents/s117870/Cabinet%20report%20Turner%20Avenue%20Estate%20External%20Major%20Works%20v3.7a01.09.20%20007%20002.pdf
-
-Paragraph 6.1 says redevelopment wasn't viable!
-
-![](/images/screenshot-2021-06-16-at-12-18-15-briefing-for-award-of-contract-for-external-major-works-to-the-turner-avenue-estate-pdf.png)
-
-Westminster set to spend £198 on Ebury Bridge estate with uplift of just 41 social rented units.
-
-Cambridge road estate - Kingston set to spend ==£??
-
-Aylesbury estate
-
-\## Eastfield estate ITV
+## Eastfield estate ITV
 
 https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
 
@@ -27,10 +13,10 @@ When CHMP acquired responsibility for the EastfieldsEstate, as well as all other
 
 The scheme is being progressed in five phases over a 13-year period.
 
-\## Petition tax incentice refurbishment
+## Petition tax incentice refurbishment
 
 https://petition.parliament.uk/petitions/573207
 
-\## Wendling estate - ballot
+## Wendling estate - ballot
 
 !\[](/images/wendlingballot.png)
