@@ -25,23 +25,46 @@ collections:
     label: 'Barking & Dagenham'
     identifier_field: name
     folder: '_estates/barkinganddagenham/'
-    fields:
-      - label: "Current Development Status"
-        name: "stage"
-        widget: "select"
-        options:
-          - { label: "Proposal Stage", value: "proposal" }
-          - { label: "Preparation Stage", value: "preparation" }
-          - { label: "Implementation Stage", value: "implementation" }
-      - label: 'Name'
+      - label: 'Estate Name'
         name: 'name'
         widget: 'string'
       - label: 'Borough'
         name: 'borough'
         widget: 'string'
-      - label: 'Lat/Long Coordinates'
-        name: 'coordinates'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
         widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
@@ -97,3 +120,1532 @@ collections:
         name: 'body'
         widget: 'markdown'
 
+  - name: 'bexley'
+    label: 'Bexley'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/bexley/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'brent'
+    label: 'Brent'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/brent/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'bromley'
+    label: 'Bromley'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/bromley/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'camden'
+    label: 'Camden'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/camden/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'cityoflondon'
+    label: 'City of London'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/cityoflondon/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'ealing'
+    label: 'Ealing'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/ealing/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'enfield'
+    label: 'Enfield'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/enfield/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+ 
+  - name: 'greenwich'
+    label: 'Greenwich'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/greenwich/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'hackney'
+    label: 'Hackney'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/hackney/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'hammersmithandfulham'
+    label: 'Hammersmith and Fulham'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/hammersmithandfulham/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'haringey'
+    label: 'Haringey'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/haringey/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'harrow'
+    label: 'Harrow'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/harrow/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'havering'
+    label: 'Havering'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/havering/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'hillingdon'
+    label: 'Hillingdon'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/hillingdon/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'hounslow'
+    label: 'Hounslow'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/hounslow/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'islington'
+    label: 'Islington'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/islington/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'kensingtonandchelsea'
+    label: 'Kensington and Chelsea'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/kensingtonandchelsea/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'kingston'
+    label: 'Kingston'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/kingston/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'lambeth'
+    label: 'Lambeth'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/lambeth/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'lewisham'
+    label: 'Lewisham'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/lewisham/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'merton'
+    label: 'Merton'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/merton/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'newham'
+    label: 'Newham'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/newham/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'redbridge'
+    label: 'Redbridge'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/redbridge/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'richmond'
+    label: 'Richmond'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/richmond/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+     - name: 'southwark'
+    label: 'Southwark'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/southwark/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'sutton'
+    label: 'Sutton'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/sutton/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'towerhamlets'
+    label: 'Tower Hamlets'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/towerhamlets/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'walthamforest'
+    label: 'Waltham Forest'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/walthamforest/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'wandsworth'
+    label: 'Wandsworth'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/wandsworth/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'westminster'
+    label: 'Westminster'
+    editor:
+      preview: false
+    identifier_field: name
+    folder: '_estates/westminster/'
+    fields:
+      - label: 'Estate Name'
+        name: 'name'
+        widget: 'string'
+      - label: 'Borough'
+        name: 'borough'
+        widget: 'string'
+      - {label: "Location", name: "location", widget: "map" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Under threat of demolition", value: "underthreat" }
+          - { label: "Demolished", value: "demolished" }    
+      - label: "Current Development Status"
+        name: "stage"
+        widget: "select"
+        options:
+          - { label: "Proposal Stage", value: "Proposal" }
+          - { label: "Preparation Stage", value: "Preparation" }
+          - { label: "Implementation Stage", value: "Implementation" }
+      - label: 'Landlord'
+        name: 'landlord'
+        widget: 'string'
+      - label: 'Developer'
+        name: 'developer'
+        widget: 'string'
+      - label: 'ITLA'
+        name: 'itla'
+        widget: 'string'
+      - label: 'Total Number of Homes'
+        name: 'total'
+        widget: 'string'
+      - label: 'Thumbnail image'
+        name: 'thumb'
+        widget: 'image' 
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image_path}}'
+        field: {label: Image, name: image_path, widget: image}   
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'                                                                                                                                          
