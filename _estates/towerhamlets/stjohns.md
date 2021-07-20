@@ -13,6 +13,8 @@ landlord: One Housing Group
 developer:
 itla: TPAS
 total: 607
+ballot:
+planning:
 ---
 607 homes are under threat on the St John's estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
 
@@ -31,7 +33,7 @@ Project Stone proposed just 30% of the redeveloped properties as affordable hous
 
 The plans met with [organised opposition](http://www.4estatesforum.org.uk) from residents on the four estates who had not been consulted and after the Mayor of Tower Hamlets intervened, OHG scrapped its masterplan and agreed that proposals would only be pursued after a 'conversation' with residents.
 
-In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the Kingsbridge estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
+In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the St John's estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
 
 <img src="/images/ohgconversations.png" class="img-fluid rounder img-thumbnail">
 

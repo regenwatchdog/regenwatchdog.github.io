@@ -37,6 +37,8 @@ landlord: Westminster Council
 developer: Westminster Council
 itla: Communities First
 total: 336
+ballot:
+planning: Approved
 ---
 Demolition is well underway of the 336 homes earmarked for demolition on Westminster's Ebury Bridge estate in Pimlico. Westminster has taken the [controversial decision](https://www.insidehousing.co.uk/news/news/westminster-city-council-accused-of-trying-to-dodge-scrutiny-over-estate-regeneration-63267) of decanting and demolishing the estate without first seeking planning permission or balloting residents.
 

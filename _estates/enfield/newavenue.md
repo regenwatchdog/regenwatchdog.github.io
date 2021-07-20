@@ -15,6 +15,8 @@ landlord: Enfield Council
 developer: Countryside Properties
 itla: PPCR
 total: 171
+ballot: Exempt
+planning: Approved
 ---
 In April 2018, the Mayor approved the demolition of 171 homes on Enfield's New Avenue estate with just 60 replacement properties at social rent.
 
@@ -22,15 +24,11 @@ Enfield Council signed a joint-venture agreement with developer Countryside Prop
 
 Phase one of the three phase scheme has been demolished and is nearing completion. Remaining phases are still occupied but in the process of beeing 'decanted'.
 
-The estate is being replaced by 408 new homes of which only 34% will be 'affordable' despite the Mayor's policy requirement of 50% in estate regeneration schemes.
-
 In December 2017 Enfield [set out its intention](/images/newavenuesr.pdf) to provide just 60 social rented replacement units, the remainder of the 'affordable housing' being for affordable rent (up to 80% market rent) or intermediate affordable.
 
 <img src="/images/newavenuesr.png" class="img-fluid rounded img-thumbnail">
 
-The section 106 agreement is not publicly available on Enfield's planning portal so it is not clear whether these 60 social rented homes have been secured as such or in perpetuity.
-
-The scheme is being [funded](/approval/funding) by the Mayor and has been exempted from his [ballot requirements](/approved/ballotrequirements).
+Despite being [funded](/approval/funding) by the Mayor and exempted from his [ballot requirements](/approved/ballotrequirements). In April 2018 the Mayor signed off the planning permission granting the construction of 408 new homes of which only 34% will be 'affordable'. The Mayor's minimum policy requirement is 50% in estate regeneration schemes. The Mayor's report says that it was able to increase the number of social rented homes to 129. But the section 106 agreement is not publicly available on Enfield's planning portal so it is not clear whether these have been secured as social rent or affordable rent (up to 80% market rent).
 
 Countryside have started [marketing](https://www.countrysideproperties.com/all-developments/london/new-avenue) new phase 1 homes off-plan on the redeveloped estate for prices starting at £600k.
 

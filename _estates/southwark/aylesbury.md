@@ -23,6 +23,8 @@ landlord: Southwark Council
 developer: Notting Hill Genesis
 itla:
 total: 2000
+ballot: Exempt
+planning: Approved
 ---
 Circa 2,000 homes remain earmarked for demolition on the remaining 3 phases of Southwark's Aylesbury estate redevelopment.
 
@@ -33,6 +35,8 @@ Phase 2 (of 4 phases in total) is approximately two years behind schedule and th
 The original estate was completed in 1977, providing 2,758 homes. In 1999 the Aylesbury estate received £56m as part of Labour’s New Deal for Communities (NDC) programme. 
 
 The NDC finished in 2010 and the  Aylesbury Area Action Plan (AAAP) was formally adopted. The AAAP outlined the estate’s regeneration, involving phased demolition of all existing buildings and new-build re-development, increasing density to 3,575 homes. The first new homes were completed in 2012 and the Council appointed Notting Hill Genesis Housing Association as its development partner. The further works will happen in four phases, leading to an incremental decant and demolition of the estate, with the overall regeneration estimated to be completed in 2036.
+
+The scheme is being [funded](https://www.london.gov.uk/sites/default/files/2021.03.18._estate_regen_projects_approved_before_18_july_2018_march_2021.pdf) by the Mayor and has been granted an [exemption](https://www.london.gov.uk/sites/default/files/list_of_exemptions_-_27_november_2020.pdf) from his requirement to ballot residents on the demolition of their homes.
 
 Despite Southwark Council's aim to replace all of the existing social rented housing, Notting Hill Genesis' [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) describes the replacement 'social housing' as a mix of 'target and affordable rent' and acknowledges that in any event there will be an overall net loss of 931 social rented homes.
 

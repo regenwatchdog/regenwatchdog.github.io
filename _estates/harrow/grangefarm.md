@@ -15,6 +15,8 @@ location: '{"type":"Point","coordinates":[-0.350978,51.568998]}'
 landlord:
 itla: One Enterprise
 total: 282
+ballot: Exempt
+planning: Approved
 ---
 282 homes have been earmarked for demolition on Harrow's Grange Farm estate.
 

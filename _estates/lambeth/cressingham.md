@@ -14,6 +14,8 @@ landlord: Lambeth Council
 developer:
 itla: Public Voice/PPCR
 total: 306
+ballot: Required
+planning:
 ---
 306 homes are earmarked for demolition on Lambeth's Cressingham Gardens estate at Brockwell Park.
 
@@ -29,7 +31,7 @@ Lambeth also claims that the redevelopment of the estate will result in the prov
 
 <img src="/images/cressinghamlharates.png" class="img-fluid rounded img-thumbnail">
 
-The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme. It is not among those granted an [exemption](/approved/ballotexemptions) from the Mayor's requirement to ballot residents on the demolition of their homes.
+The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme. In september 2020 it emerged that Mayoral funding for the scheme had been [withdrawn](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045).
 
 There is an active [campaign group](https://savecressingham.wordpress.com) created by residents on the estate. In 2016 they launched ['Cressingham People's Plan - http://cressinghampeoplesplan.org.uk/](http://cressinghampeoplesplan.org.uk/) which offers a viable alternative to demolition.
 

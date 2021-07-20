@@ -13,6 +13,8 @@ landlord: Newham Council
 developer:
 itla: TPAS
 total: 300
+ballot: Required
+planning:
 ---
 Circa 300 homes remain under threat of demolition as part of Newham's regeneration of the Custom House area.
 

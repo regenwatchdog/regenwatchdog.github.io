@@ -15,6 +15,8 @@ landlord: Hyde Housing Association
 developer:
 itla:
 total: 80
+ballot: Approved
+planning: Pending
 ---
 80 homes have been earmarked for demolition on Greenwich's Brookhill Close estate.
 

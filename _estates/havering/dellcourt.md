@@ -14,6 +14,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 29
+ballot:
+planning:
 ---
 29 homes are under threat of demolition at Havering's Dell Court in Hornchurch.
 

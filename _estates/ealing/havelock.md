@@ -18,6 +18,8 @@ landlord: Ealing Council
 developer: Catalyst Group
 itla:
 total: 500
+ballot:
+planning: Approved
 ---
 Circa 500 homes of the 845 homes on Ealing's Havelock estate in Southall remain earmarked for demolition.
 

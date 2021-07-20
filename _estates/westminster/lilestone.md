@@ -1,4 +1,5 @@
 ---
+published: false
 category: underthreat
 stage: Proposal 
 name: Lilestone estate
@@ -17,6 +18,8 @@ landlord: Westminster Council
 developer:
 itla:
 total: 150
+ballot:
+planning:
 ---
 Circa 150 homes are under threat of potential demolition on Westminster' Lilestone estate.
 

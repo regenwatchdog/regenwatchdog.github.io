@@ -43,6 +43,8 @@ landlord: Poplar HARCA
 developer:
 itla: Mike Tyrell
 total: 535
+ballot: Approved
+planning: Pending
 ---
 535 homes have been earmarked for demolition by housing association Poplar HARCA at its Teviot estate in Tower Hamlets.
 

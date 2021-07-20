@@ -15,6 +15,8 @@ landlord: Lambeth Council
 developer:
 itla: PPCR
 total: 476
+ballot: Required
+planning:
 ---
 476 homes are earmarked for demolition on Lambeth's Central Hill estate.
 

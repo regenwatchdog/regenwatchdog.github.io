@@ -14,6 +14,8 @@ landlord: RBKC
 developer: Catalyst Housing Association
 itla: Newman Francis
 total: 150
+ballot:
+planning: Approved
 ---
 Circa 150 homes of the 550 homes on RBKC's Wornington Green estate remain earmarked for demolition by Catalyst Housing Association, with stage 1 of 3 now complete. 
 

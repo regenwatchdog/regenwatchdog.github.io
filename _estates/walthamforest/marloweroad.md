@@ -29,6 +29,8 @@ landlord: Waltham Forest Council
 developer:
 itla:
 total: 150
+ballot: Exempt
+planning: Approved
 ---
 150 homes remain earmarked for demolition on Waltham Forest's Marlowe Road estate in Walthamstow.
 

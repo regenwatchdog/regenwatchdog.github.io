@@ -15,6 +15,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 200
+ballot: Required
+planning:
 ---
 Circa 200 homes are under threat of demolition at Havering's Farnham and Hilldene estate in Harold Hill. 
 

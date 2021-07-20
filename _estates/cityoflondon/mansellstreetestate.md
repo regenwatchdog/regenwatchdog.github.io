@@ -21,6 +21,8 @@ landlord: Guiness Housing Association
 developer:
 itla:
 total: 249
+ballot: Required
+planning: Approved
 ---
 249 homes are under threat of demolition by Guinness housing association on the Mansell Street estate in the City of London.
 

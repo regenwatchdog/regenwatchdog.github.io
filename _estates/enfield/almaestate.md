@@ -16,6 +16,8 @@ landlord: Enfield Council
 developer: Countryside Properties
 itla: PEP
 total: 746
+ballot: Exempt
+planning: Approved
 ---
 746 homes have been approved for demolition on Enfield's Alma estate at Ponders End.
 

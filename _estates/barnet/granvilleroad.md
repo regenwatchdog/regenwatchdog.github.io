@@ -13,6 +13,7 @@ landlord: Barnet Council
 developer:
 itla:
 total:
+planning:
 ---
 Whilst there are no firm plans for the redevelopment of Granville Road estate, Barnet's [Draft Housing Strategy](https://engage.barnet.gov.uk/1726/documents/1850) describes the estate as follows: _'The quality of the estate is generally poor and it includes large areas of under-utilised and unstructured land.'_
 

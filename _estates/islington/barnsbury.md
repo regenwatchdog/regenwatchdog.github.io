@@ -14,6 +14,8 @@ landlord: Newlon Housing Association
 developer: Mount Anvil
 itla:
 total: 371
+ballot: Approved
+planning: Pending
 ---
 371 homes are under threat of demolition on Islington's Barnsbury estate.
 

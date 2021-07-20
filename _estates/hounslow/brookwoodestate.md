@@ -19,6 +19,8 @@ landlord: Hounslow Council
 developer:
 itla:
 total: 200
+ballot: Required
+planning:
 ---
 Circa 200 homes have been earmarked for potential demoliton on Hounslow's Brookwood Road estate.
 

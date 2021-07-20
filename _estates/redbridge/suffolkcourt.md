@@ -11,6 +11,8 @@ landlord: Redbridge
 developer:
 itla:
 total:
+ballot:
+planning:
 ---
 Redbridge Council has earmarked the Suffolk Court estate for potential 'in-fill' development in its [2018 Local Plan](/images/redbridgelocalplan.pdf) (see page 77).
 

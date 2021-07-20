@@ -14,6 +14,8 @@ landlord: Catalyst Housing Group
 developer: Mount Anvil
 itla:
 total: 230
+ballot: Exempt
+planning: Approved
 ---
 230 homes are under threat of demolition on Ealing's Friary Park estate in Acton.
 

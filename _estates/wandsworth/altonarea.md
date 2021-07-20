@@ -16,6 +16,8 @@ landlord: Wandsworth Council
 developer:
 itla:
 total: 288
+ballot: Required
+planning:
 ---
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 

@@ -13,6 +13,8 @@ landlord: Hillingdon Council
 developer:
 itla: 
 total:
+ballot: Required
+planning:
 ---
 144 homes are under threat on Hillingdon's Avondale Drive estate in Hayes (117 Council and 27 leasehold).
 

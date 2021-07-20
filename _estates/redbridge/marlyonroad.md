@@ -13,6 +13,8 @@ landlord: Redbridge Council
 developer:
 itla:
 total: 36
+ballot:
+planning:
 ---
 36 homes on Redbridge's Marlyon road estate have been earmarked for demolition in a joint venture with Engie Regeneration Ltd. 
 

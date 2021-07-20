@@ -23,6 +23,8 @@ landlord: Camden Council
 developer:
 itla:
 total: 316
+ballot: Approved
+planning: Pending
 ---
 316 homes are earmarked for demolition on Camden's West Kentish Town estate.
 

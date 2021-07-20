@@ -10,6 +10,10 @@
 	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/popper.min.js"></script>
 	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.js"></script>
 
+	{% if page.title == 'estates under threat' %}
+	{% include datatables_footer.html %}
+	{% endif %}
+
     <!-- Optional Vendor Scripts (Remove the plugin script here and comment initializer script out of index.js if site does not use that feature) -->
 
     <!-- AOS (Animate On Scroll - animates elements into view while scrolling down) -->

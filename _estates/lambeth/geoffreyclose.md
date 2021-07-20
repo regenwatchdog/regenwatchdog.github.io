@@ -18,6 +18,8 @@ landlord: Riverside Homes
 developer:
 itla: Source Partnership
 total: 134
+ballot: Approved
+planning: Pending
 ---
 134 homes are earmarked for demolition on Lambeth's Geoffrey Close estate near Coldharbour Lane.
 

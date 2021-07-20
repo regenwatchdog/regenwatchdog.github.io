@@ -25,6 +25,8 @@ landlord: Brent Council
 developer:
 itla: PPCR
 total: 793
+ballot: Pending
+planning:
 ---
 793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). 
 

@@ -13,6 +13,8 @@ landlord: Poplar HARCA
 developer:
 itla:
 total: 169
+ballot: Exempt
+planning: Approved
 ---
 169 homes are earmarked for demolition on the Lansbury (south) estate in Tower Hamlets, as part of Poplar HARCA's regeneration of the Chrisp Street Market area.
 

@@ -19,6 +19,8 @@ landlord: Camden Council
 itla: Community Liaison Officers (Camden)
 developer:
 total: 241
+ballot: Pending
+planning:
 ---
 241 homes plus a health centre and nursery on Camden's Wendling estate have been [earmarked for demolition](https://www.camden.gov.uk/wendling-estate-and-st-stephens-close) in a 2019 options appraisal.  
 

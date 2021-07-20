@@ -15,6 +15,8 @@ landlord: Hackney Council
 developer: Austringer Capital
 itla:
 total: 75
+ballot:
+planning: Approved
 ---
 75 homes remain earmarked for demolition on Hackney's Marian Court estate in Homerton.
 

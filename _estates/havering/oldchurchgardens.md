@@ -14,6 +14,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 84
+ballot:
+planning:
 ---
 84 homes are under threat of demolition on Havering's Oldchurch Gardens estate in Romford.
 

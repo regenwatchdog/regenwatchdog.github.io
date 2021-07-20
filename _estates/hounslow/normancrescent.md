@@ -17,6 +17,8 @@ location: '{"type":"Point","coordinates":[-0.393027,51.481943]}'
 landlord: Hounslow Council
 itla:
 total: 300
+ballot: Required
+planning:
 ---
 Circa 300 homes are earmarked for potential demolition on Hounslow's Norman Crescent estate.
 

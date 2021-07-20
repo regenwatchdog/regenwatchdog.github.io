@@ -29,6 +29,8 @@ developer:
 itla:
 total: 115
 published: false
+ballot:
+planning:
 ---
 115 homes on the Warwick Road estate in Earls Court were earmarked for potential redevelopment by the Royal Borough of Kensington and Chelsea in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784581.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Warwick_Road_Estate_January_2017.pdf). 
 

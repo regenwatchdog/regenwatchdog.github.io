@@ -16,6 +16,8 @@ landlord: Metropolitan TV Housing Association
 developer:
 itla:
 total: 864
+ballot: Exempt
+planning: Approved
 ---
 864 homes are earmarked for demolition on Lambeth's Clapham Park estate.
 

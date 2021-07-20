@@ -11,6 +11,8 @@ landlord: Sutton Council
 developer:
 itla:
 total: 50
+ballot:
+planning:
 ---
 50 homes are listed for potential demolition at Rosehill Court, which is part of Sutton's St. Helier estate in Carshalton.
 

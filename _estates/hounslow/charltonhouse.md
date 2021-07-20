@@ -23,6 +23,8 @@ landlord: Hounslow Council
 developer:
 itla:
 total: 50
+ballot: Approved
+planning: Pending
 ---
 Circa 50 homes have been earmarked for demolition at Hounslow's Charlton House and Albany Parade in Brentford.
 

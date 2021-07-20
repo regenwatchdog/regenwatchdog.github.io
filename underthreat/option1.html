@@ -1,0 +1,116 @@
+---
+layout: default
+title: estates under threat
+category: underthreat
+---
+
+	<section class="jumbotron text-center">
+	     <div class="container">
+	     <h1>Estates under threat</h1>
+			         <p class="lead text-muted" align="left">
+				 Over 100 of London's council and housing association estates are under threat of demolition. Click on the map below or the links on the left to view the estates by borough.</p>
+
+
+
+<div class="dropdown">
+	<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	  Filter by development stage
+	</button>
+	<div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+	  <button class="dropdown-item btn-success" onclick="required()" type="button">Pre-Ballot & Planning Stage</button>
+	  <button class="dropdown-item btn-warning" onclick="ballot()" type="button">Ballot Approved</button>
+	  <button class="dropdown-item btn-warning" onclick="pending()" type="button">Planning Process started</button>
+	  <button class="dropdown-item btn-danger" onclick="imp()" type="button">Planning Permission Approved</button>
+	</div>
+  </div>
+</br>
+<p class="lead" id="stage">
+
+</p> 
+
+</div>
+</section>
+
+
+
+<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+
+	
+	<div id="iframeHolder">
+		<iframe id="iframe" class="embed-responsive-item" src="/leafletmap.html" width="100%" height="400px"></iframe>
+	</div>
+</div>
+
+<table id="example" class="display" width="100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Borough</th>
+                <th>Total Homes</th>
+                <th>Landlord</th>
+                <th>Developer</th>
+                <th>ITLA</th>
+				<th>Ballot Status</th>
+				<th>Planning Status</th>
+            </tr>
+        </thead>
+        <tbody>
+              {% for estate in site.estates %}
+            <tr>
+		    <td> <a href="{{ estate.url }}">{{ estate.name }}</a> </td>
+	      <td> {{ estate.borough | capitalize | replace: "gand", "g & " | replace: "hand", "h & "| replace: "nand", "n & "| replace: "of", " of " | replace: "forest", " Forest" | replace: "hamlets", " Hamlets" | replace: "chelsea", "Chelsea" | replace: "fulham", "Fulham" | replace: "dagenham", "Dagenham" | replace: "london", "London" | replace: "wandsworth", "Wandsworth" }} </td>
+	      <td> {{ estate.total }} </td>
+	      <td> {{ estate.landlord }} </td>
+	      <td> {{ estate.developer }} </td>
+	      <td> {{ estate.itla }} </td>
+		  <td> {{ estate.ballot }} </td>
+		  <td> {{ estate.planning }} </td>
+	    </tr>
+	      {% endfor %}
+	</tbody>
+</table>
+
+
+</div>
+   
+
+
+
+
+
+
+<script>
+ function required() {
+   document.getElementById("iframe").src = "/leafletmapreq.html";
+   document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition but no ballot or planning process has started&darr;";
+   document.getElementById("stage").className = 'bg-success';
+}
+</script>
+
+<script>
+ function pending() {
+   document.getElementById("iframe").src = "/leafletmappending.html";
+   document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where the planning process has started&darr;";
+   document.getElementById("stage").className = 'bg-warning';
+}
+</script>
+
+<script>
+	function ballot() {
+	  document.getElementById("iframe").src = "/leafletmapballot.html";
+	  document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where a ballot has been approved&darr;";
+	  document.getElementById("stage").className = 'bg-info';
+}
+   </script>
+
+<script>
+ function imp() {
+   document.getElementById("iframe").src = "/leafletmapimp.html";
+   document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where a planning application has been approved&darr;";
+   document.getElementById("stage").className = 'bg-danger';
+}
+</script>
+
+
+

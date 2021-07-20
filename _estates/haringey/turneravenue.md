@@ -15,6 +15,8 @@ landlord: Haringey Council
 developer:
 itla:
 total: 106
+ballot:
+planning:
 ---
 106 council homes are earmarked for redevelopment on Turner Avenue and Brunel Walk in south Tottenham (Haringey).
 

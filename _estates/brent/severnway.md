@@ -15,6 +15,8 @@ images:
   - /images/Severn_way1LS.jpg
   - /images/Severn_way2LS.jpg
   - /images/Severn_way5LS.jpg
+ballot:
+planning:
 ---
 Circa 50 homes on Severn Way Crescent in Brent are under threat of demolition.
 

@@ -16,6 +16,8 @@ landlord: Clarion Group
 developer:
 itla:
 total: 446
+ballot: Exempt
+planning: Approved
 ---
 In Nov 2018, the Mayor approved the demolition of 446 homes on Merton's Eastfields estate, to be replaced by 800 homes of which only 262 affordable (all at affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 

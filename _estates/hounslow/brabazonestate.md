@@ -20,6 +20,8 @@ landlord: Hounslow Council
 developer:
 itla:
 total: 300
+ballot: Required
+planning:
 ---
 Circa 300 homes have been earmarked for potential demolition on Hounslow's Brabazon estate.
 

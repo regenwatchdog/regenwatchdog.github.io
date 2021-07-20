@@ -18,6 +18,8 @@ landlord: Orbit (Housing Association)
 developer: Wates
 itla:
 total: 262
+ballot: Exempt
+planning: Approved
 ---
 In Sep 2019, the Mayor approved the demolition of 262 homes on Bexley's Arthur Street estate - to be replaced by 320, all social rent being replaced by London Affordable Rent, at a net loss of 134 ‘social’ homes
 

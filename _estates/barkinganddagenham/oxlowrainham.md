@@ -14,6 +14,8 @@ landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:
 total: 17
+ballot: Exempt
+planning:
 ---
 17 homes have been earmarked for demolition at Oxlow and Rainham Houses in Dagenham.
 

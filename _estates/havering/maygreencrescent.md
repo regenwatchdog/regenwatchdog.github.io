@@ -16,6 +16,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 150
+ballot: Required
+planning:
 ---
 Circa 150 homes are under threat of demolition on Havering's Maygreen Crescent estate in Hornchurch.
 

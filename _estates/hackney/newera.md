@@ -13,6 +13,8 @@ landlord: Dolphin Living
 developer:
 itla:
 total: 100
+ballot:
+planning: Approved
 ---
 Circa 100 homes are earmarked for demolition on Hackney's New Era estate in Hoxton by housing association Dolphin Living.
 

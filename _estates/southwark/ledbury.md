@@ -13,6 +13,8 @@ landlord: Southwark Council
 developer:
 itla:
 total: 224
+ballot: Approved
+planning: Pending
 ---
 224 homes have been earmarked for demolition on Southwark's Ledbury estate off the Old Kent Road.
 

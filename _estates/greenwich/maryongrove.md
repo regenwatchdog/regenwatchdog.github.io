@@ -13,10 +13,12 @@ landlord: Greenwich Council
 developer: Lovell
 itla:
 total: 172
+ballot: Required
+planning:
 ---
 172 homes on Greenwich's Maryon Grove estate in Charlton have been earmarked for demolition by Greenwich Council. 
 
-The estate comprises 172 homes in 16 4-storey blocks. It overlooks Maryon park to the West and the Thames barrier to the North and is adjacent to the Morris Walk estate which is also earmarked for demolition. 
+The estate comprises 172 homes in 16 4-storey blocks. It overlooks Maryon park to the West and the Thames barrier to the North and is adjacent to the [Morris Walk estate](https://www.estatewatch.london/estates/greenwich/morriswalk/) which is also earmarked for demolition. 
 
 <img src="/images/morriswalkaerial.jpg" class="img-fluid rounded img-thumbnail">
 

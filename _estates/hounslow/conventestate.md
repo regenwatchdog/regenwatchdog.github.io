@@ -30,6 +30,8 @@ landlord: Hounslow Council
 developer:
 itla:
 total: 440
+ballot: Required
+planning:
 ---
 440 homes are earmarked for demolition on Hounslow's Convent Way estate.
 

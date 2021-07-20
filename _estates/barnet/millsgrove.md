@@ -14,6 +14,8 @@ landlord: Metropolitan Housing Association
 developer:
 itla:
 total: 102
+ballot: Approved
+planning: Approved
 ---
 102 homes on Barnet's Mills Grove and Westhorpe estate are under threat of demolition.
 

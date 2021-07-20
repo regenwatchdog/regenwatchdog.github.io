@@ -20,6 +20,8 @@ landlord: Lewisham Council
 developer:
 itla:
 total: 87
+ballot: Approved
+planning: Pending
 ---
 87 homes and 17 shops are earmarked for demolition as part of Lewisham's regeneration of the Achilles Street area in New Cross.
 
@@ -42,3 +44,5 @@ The Council's [Achilles St Landlord offer](http://councilmeetings.lewisham.gov.u
 [Local campaign website - Achilles Stop and Listen](https://achillesstreetstopandlisten.wordpress.com/)
 
 [Deptford is Changing](https://www.yumpu.com/en/document/view/63260301/deptford-is-changing-a-creative-exploration-of-gentrification) book by local resident and PhD student Anita Strasser.
+
+[Lewisham Council's web page for the scheme](https://lewisham.gov.uk/organizations/achilles-street-redevelopment)

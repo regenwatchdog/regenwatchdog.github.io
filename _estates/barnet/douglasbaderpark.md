@@ -17,6 +17,8 @@ landlord: Home Group (Housing Association)
 developer: Home/Hill Group
 itla:
 total: 271
+ballot: Approved
+planning:
 ---
 271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale.
 

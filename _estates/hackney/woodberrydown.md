@@ -15,6 +15,8 @@ landlord: Hackney Council
 developer: Berkeley Homes
 itla: Simon Slater (Public Voice)
 total: 1000
+ballot: Exempt
+planning: Approved
 ---
 Circa 1,000 homes on Hackney's Woodberry Down estate near Finsbury Park remain under threat of demolition.
 

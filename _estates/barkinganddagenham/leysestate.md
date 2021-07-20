@@ -14,6 +14,8 @@ landlord: Barking & Dagenham Council
 developer:
 itla:
 total: 100
+ballot: Exempt
+planning: Approved
 ---
 Circa 100 homes remain earmarked for demolition on Barking and Dagenham's Leys estate.
 

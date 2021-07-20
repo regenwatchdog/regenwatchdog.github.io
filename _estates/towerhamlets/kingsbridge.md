@@ -13,6 +13,8 @@ landlord: One Housing Group
 developer:
 itla: Mike Tyrell
 total: 134
+ballot:
+planning:
 ---
 134 homes are under threat on the Kingsbridge estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
 

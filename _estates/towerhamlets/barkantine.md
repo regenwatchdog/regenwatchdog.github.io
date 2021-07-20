@@ -14,6 +14,8 @@ landlord: One Housing Group
 developer:
 itla: Open Communities
 total: 769
+ballot:
+planning:
 ---
 769 homes are under threat on the Barkantine estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
 

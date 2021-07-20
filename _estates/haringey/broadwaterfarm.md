@@ -15,6 +15,8 @@ landlord: Haringey Council
 developer:
 itla: PPCR
 total: 200
+ballot: Exempt
+planning:
 ---
 At least 200 of the 1075 homes on Haringey's Broadwater Farm estate are under threat of demolition.
 

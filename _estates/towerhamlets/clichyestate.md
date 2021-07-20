@@ -12,6 +12,8 @@ landlord: Tower Hamlets Council
 developer:
 itla:
 total: 100
+ballot: Approved
+planning: Pending
 ---
 Circa 100 homes on Stepney's Clichy estate have been [earmarked for demolition earmarked for redevelopment](https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/consultations/Housing-consultations/HAP_Houses.aspx) by Tower Hamlets Council.
 

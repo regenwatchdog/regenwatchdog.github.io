@@ -14,6 +14,8 @@ location: '{"type":"Point","coordinates":[-0.190444,51.414691]}'
 developer:
 itla:
 total: 608
+ballot: Exempt
+planning: Approved
 ---
 In Nov 2018, the Mayor approved the demolition of 608 homes on Merton's High Path estate, to be replaced by 1,570 homes of which 20% affordable - all at up to 80% market rent or LHA rates (whichever is lower). 
 

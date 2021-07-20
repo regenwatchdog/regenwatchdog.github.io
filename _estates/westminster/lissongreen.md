@@ -22,6 +22,8 @@ landlord: Westminster Council
 developer:
 itla:
 total: 500
+ballot:
+planning:
 ---
 Circa 500 homes are under threat of potential demolition on Westminster's Lisson Green estate in Maida Vale.
 

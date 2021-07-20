@@ -14,10 +14,12 @@ landlord: Greenwich Council
 developer: Lovell
 itla:
 total: 562
+ballot:
+planning: Approved
 ---
 562 homes on Greenwich's Morris Walk estate in Charlton are earmarked for demolition. 
 
-The 5.5 hectare estate overlooks Maryon park to the West and the Thames barrier to the North. 
+The 5.5 hectare estate overlooks Maryon park to the West and the Thames barrier to the North and lies adjacent to the [Maryon Grove estate](https://www.estatewatch.london/estates/greenwich/maryongrove/), which is also earmarked for redevelopment. 
 
 <img src="/images/morriswalkaerial.jpg" class="img-fluid rounded img-thumbnail">
 
@@ -28,6 +30,8 @@ The Mayors [report](https://www.london.gov.uk/sites/default/files/public%3A//pub
 <img src="/images/mwnetloss.png" class="img-fluid rounded img-thumbnail">
 
 It also acknowledges that the replacement 'social' housing will be 'affordable rent' in tenure - i.e. up to 80% market rents.
+
+In January 2018, the Mayor [approved funding](https://www.london.gov.uk/sites/default/files/2021.03.18._estate_regen_projects_approved_before_18_july_2018_march_2021.pdf) for the redevelopment of the estate.
 
 In November 2020, Lovell submit a planning application for detailed permission. It proposed 766 new homes, 177 of which at affordable rent - there won't be a single social rented home to replace those demolished. It is unclear from the planning application documents what percentage of market rent the 177 affordable rent homes will be provided at. The tenure category in general allows rents of up to 80% market rent.
 

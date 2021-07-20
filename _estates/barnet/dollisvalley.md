@@ -15,6 +15,8 @@ images:
   - /images/dvalley2.png
   - /images/dvalley4.png
   - /images/dv24.jpg
+ballot: Exempt
+planning: Approved
 ---
 363 of the 440 homes on Barnet's Dollis Valley estate are under threat of demolition. Whilst the low-rise terraced properties on the south side of the estate will be retained, all 363 of the 5-storey maisonette blocks on the north side will be demolished.
 

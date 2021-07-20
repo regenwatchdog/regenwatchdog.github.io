@@ -13,6 +13,8 @@ landlord: Sutton Council
 developer:
 itla:
 total: 150
+ballot: Required
+planning:
 ---
 Circa 150 homes have been earmarked for demolition on Sutton's Roseberry Gardens estate.
 

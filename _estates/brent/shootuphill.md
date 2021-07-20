@@ -17,6 +17,8 @@ developer:
 itla: Richard Carley & Sarah Robbins (Brent)
 total: 50
 location: '{"type":"Point","coordinates":[-0.206821,51.548923]}'
+ballot:
+planning:
 ---
 Circa 50 homes are under threat of Demolition on Brent's Watling Gardens estate in Kilburn.
 

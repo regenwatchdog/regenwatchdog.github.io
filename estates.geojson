@@ -9,6 +9,8 @@ var freeBus = {
       "properties": {
         "title": "{{ estate.name }}",
 	"stage": "{{ estate.stage }}",
+	"ballot": "{{ estate.ballot }}",
+  "planning": "{{ estate.planning }}",
         "image": "{{ estate.images[0] }}",
         "url": "{{estate.url}}"
       },

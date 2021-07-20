@@ -23,6 +23,8 @@ developer: Countryside Properties
 landlord: One Housing Group
 itla: Communities First
 total: 200
+ballot: Rejected
+planning:
 ---
 Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
 

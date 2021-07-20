@@ -3,7 +3,6 @@ layout: default
 title: Estates under threat
 ---
 <h1>{{ page.name }}</h1>
-<h3 class="card-subtitle mb-2 {% if page.stage == 'Preparation' %}text-warning{% elsif page.stage == 'Implementation' %}text-danger{% elsif page.stage == 'Proposal' %}text-success{% endif %}">Stage: {{ page.stage }}</h3>
 
 <div class="carousel" data-flickity='{ "fullscreen": true, "lazyLoad": 1, "cellAlign": "center", "prevNextButtons": true, "pageDots": true, "wrapAround": true, "autoPlay": 4000 }'>
  {% for image in page.images %}
@@ -21,6 +20,12 @@ title: Estates under threat
 	  {% endif %}
 	  {% if page.itla %}
 	  <h4>Independent Resident Advisor: {{ page.itla }}</h4>
+	  {% endif %}
+	  {% if page.ballot %}
+	  <h4>Ballot Status: {{ page.ballot }}</h4>
+	  {% endif %}
+	  {% if page.planning %}
+	  <h4>Planning Status: {{ page.planning }}</h4>
 	  {% endif %}
 	  {{ content }}
 <hr class="featurette-divider">

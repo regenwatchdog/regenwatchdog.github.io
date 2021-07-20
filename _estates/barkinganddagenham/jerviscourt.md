@@ -13,6 +13,8 @@ landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:
 total: 18
+ballot: Exempt
+planning:
 ---
 18 homes at Jervis Court in Dagenham have been earmarked for demolition by Barking and Dagenham Council.
 

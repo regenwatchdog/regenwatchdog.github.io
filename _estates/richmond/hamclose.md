@@ -16,6 +16,8 @@ landlord: RHP
 developer:
 itla:
 total: 192
+ballot: Exempt
+planning: Pending
 ---
 192 homes are under threat of demolition at Richmond's Ham Close estate.
 
@@ -31,6 +33,10 @@ RHP's [offer](https://754dc77b-a377-429d-9516-ae12db0b724d.filesusr.com/ugd/64a2
 
 Approximately 450 new homes are proposed but the scheme hasn't entered the detailed design consultation stage and there is no planning application or scoping appraisal yet submitted.
 
-In March 2020 RHP began its [search](https://www.housingtoday.co.uk/news/richmond-housing-partnership-seeks-partner-for-ham-close-revamp/5104757.article) for a development partner to help it deliver the scheme.
+The scheme is being [funded](https://www.london.gov.uk/sites/default/files/2021.03.18._estate_regen_projects_approved_before_18_july_2018_march_2021.pdf) by the Mayor and has been granted an [exemption](https://www.london.gov.uk/sites/default/files/list_of_exemptions_-_27_november_2020.pdf) from his requirement to ballot residents on the demolition of their homes.
+
+In June 2021, RHP [selected](https://www.rhp.org.uk/news/news/rhp-chooses-hill-as-partner-in-ham-regeneration/) developer Hill as its development partner for the scheme.
+
+Plans are now being drawn up and a planning application is expected to be submitted in due course.
 
 More information is available on RHP's dedicated website for the scheme [https://www.hamclose.co.uk/](https://www.hamclose.co.uk/).

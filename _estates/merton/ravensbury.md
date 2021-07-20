@@ -17,6 +17,8 @@ landlord: Clarion Group
 developer: Clarion
 itla:
 total: 100
+ballot: Exempt
+planning: Approved
 ---
 In Nov 2018, the Mayor approved the demolition of 100 homes on Merton's Ravensbury estate, to be replaced by 180 homes of which 50% affordable (affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 

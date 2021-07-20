@@ -18,12 +18,14 @@ landlord: Waltham Forest Council
 developer:
 itla: Newman Francis
 total: 258
+ballot: Approved
+planning: Pending
 ---
 258 homes in 4 blocks of the Avenue Road estate have been <a href="https://walthamforest.gov.uk/content/regeneration-avenue-road-estate-leytonstone">earmarked</a> for demolition (Blackthorn Ct, Gean Ct, Mulberry Ct, Rosewood Ct).
 
 The estate was one of 11 estates [identified](https://democracy.walthamforest.gov.uk/documents/s10654/4.2.%20LSP%20report%20-%20Estates%20Review.pdf) for possible redevelopment in a 2010 Estates Capacity Study.
 
-![](/images/11estates.png)
+<img src="/images/11estates.png" class="img-fluid rounded img-thumbnail">
 
 The Council appointed a residents' advisor to the scheme in 2019 (Newman Francis). Newman Francis has also been [involved in Lambeth's estate regeneration schemes](http://newmanfrancis.org/projects/westbury-lambeth/).
 

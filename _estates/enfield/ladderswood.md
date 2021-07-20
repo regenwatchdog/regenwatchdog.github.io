@@ -15,6 +15,8 @@ landlord: Enfield Council
 developer: Mulalley/One Housing Group
 itla:
 total: 100
+ballot:
+planning: Approved
 ---
 Circa 100 homes remain earmarked for demolition on Enfield's Ladderswood estate. 
 

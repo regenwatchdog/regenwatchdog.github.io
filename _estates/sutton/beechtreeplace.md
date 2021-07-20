@@ -12,6 +12,8 @@ landlord: Sutton Council
 developer:
 itla: Public Voice
 total: 21
+ballot:
+planning:
 ---
 21 homes at Beech Tree Place near Sutton Town centre are under threat of demolition by Sutton Council.
 

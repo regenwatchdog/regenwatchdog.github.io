@@ -15,6 +15,8 @@ landlord: Grosvenor estates
 developer: Grosvenor
 itla:
 total: 44
+ballot:
+planning: Approved
 ---
 44 Council homes are under threat of demolition on Westminster's Cundy Street estate.
 

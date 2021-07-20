@@ -28,6 +28,8 @@ landlord: Newham Council
 developer:
 itla: TPAS/Source Partnership
 total: 710
+ballot: Required
+planning:
 ---
 710 homes are under threat of demolition on Newham's Carpenters estate in Stratford.
 
@@ -37,7 +39,7 @@ To save the estate from demolition, <a href="https://savecarpenters.wordpress.co
 
 <img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
 
-Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2020.
+Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2021.
 
 The [Planning Inspector’s report](https://www.queenelizabetholympicpark.co.uk/-/media/lldc/local-plan/examination-2019/inspectors-reports/appendix-1_inspectors-lldc-revised-lp_final-report.ashx?la=en) on the Local Plan (London Legacy Development Corporation) published in April 2020 found against the demolition of the Carpenters estate and said:
 <i><strong>
@@ -71,4 +73,6 @@ The [most recent newsletter](https://www.newham.gov.uk/downloads/file/654/carpen
 
 <img src="/images/carpentersnewsletter.png" class="img-fluid rounded img-thumbnail">
 
-The newsletter goes on to say that once financial modelling has been undertaken a ballot will be held before any option is finally progressed.
+In October 2020, a [council report](https://mgov.newham.gov.uk/documents/s139593/Appraisal%20of%20Tower%20Blocks%20on%20the%20Carpenters%20Estate%20Stratford%20-%20update%20and%20next%20steps%20V8%20Cabint%20issu.pdf) submitted to Newham’s cabinet committee suggested one of the neighbourhood’s existing towers – James Riley Point – could be retained and refurbished before the start of any wider redevelopment that would require a residents’ ballot.
+
+James Riley Point was almost entirely decanted along with Dennison Point and Lund Point as part of the previous regeneration approach which was abandoned in 2018.

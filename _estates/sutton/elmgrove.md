@@ -13,6 +13,8 @@ developer:
 landlord: Sutton Council
 itla: PPCR
 total: 100
+ballot: Required
+planning:
 ---
 Circa 100 homes on Sutton's Elm Grove estate have been earmarked for potential demolition.
 

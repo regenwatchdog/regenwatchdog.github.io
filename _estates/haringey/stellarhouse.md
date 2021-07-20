@@ -11,6 +11,8 @@ landlord: Haringey Council
 developer:
 itla:
 total: 300
+ballot: Required
+planning:
 ---
 Circa 300 homes at Atlair Close including Stellar House have been earmarked for redevelopment in Tottenham.
 

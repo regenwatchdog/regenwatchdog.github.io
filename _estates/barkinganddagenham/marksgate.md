@@ -17,6 +17,8 @@ developer: BeFirst
 itla:
 total: 500
 location: '{"type":"Point","coordinates":[0.138200,51.581715]}'
+ballot: Required
+planning:
 ---
 Circa 500 homes have been earmarked for potential demolition by Barking and Dagenham Council.
 

@@ -30,6 +30,8 @@ landlord: Camden Council
 developer: Camden Council
 itla:
 total: 150
+ballot: Exempt
+planning: Approved
 ---
 Circa 150 homes are earmarked for demolition in the latest phase of the Agar Grove estate in Camden.
 

@@ -17,6 +17,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 100
+ballot: Exempt
+planning:
 ---
 Circa 100 homes are under threat of demolition on Havering's Parkhill and Sunrise estate in Hornchurch.
 

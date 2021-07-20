@@ -25,6 +25,8 @@ landlord: Haringey Council
 developer:
 itla: Damian Tissier Microfish Communications
 total: 297
+ballot: Pending
+planning:
 ---
 
 297 council homes on the Love Lane estate have been earmarked for redevelopment as part of [Haringey's regeneration of Tottenham](https://tottenham.london/HighRoadWest).

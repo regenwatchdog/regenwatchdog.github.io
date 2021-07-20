@@ -14,6 +14,8 @@ landlord: Barnet Council
 developer: Notting Hill Genesis
 itla:
 total: 1314
+ballot: Exempt
+planning: Approved
 ---
 1,314 homes are under threat of demolition at Barnet's Grahame Park Estate. The estate was constructed in the early 1970s by the GLC on the site of the former Hendon Aerodrome.
 

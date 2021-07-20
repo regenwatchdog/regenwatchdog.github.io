@@ -13,6 +13,8 @@ landlord: Lewisham Council
 developer:
 itla:
 total: 276
+ballot: Required
+planning:
 ---
 276 homes are under threat of demolition in Lewisham's Milford Towers estate in Catford.
 

@@ -14,6 +14,8 @@ landlord: Lambeth Council
 developer:
 itla:
 total: 42
+ballot:
+planning:
 ---
 42 homes have been earmarked for demolition by Lambeth Council at Denby Court in Kennington.
 

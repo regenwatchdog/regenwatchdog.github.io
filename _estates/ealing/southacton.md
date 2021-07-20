@@ -25,6 +25,8 @@ landlord: Ealing Council
 developer: Countryside Properties
 itla: PEP
 total: 2100
+ballot: Exempt
+planning: Approved
 ---
 In Dec 2018, the Mayor approved the demolition of 2,100 homes at Ealing's South Acton estate with all replacement 'social' housing at up to 80% of market rent.
 

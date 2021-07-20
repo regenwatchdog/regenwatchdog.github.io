@@ -16,6 +16,8 @@ landlord: Ealing Council
 developer:
 itla:
 total: 500
+ballot: Exempt
+planning: Approved
 ---
 Circa 500 homes on the Golf Links estate in Ealing are under threat of demolition.
 

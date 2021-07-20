@@ -1,5 +1,6 @@
 ---
 category: underthreat
+published: false
 stage: Proposal
 name: Delta estate 
 borough: havering
@@ -14,6 +15,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 200
+ballot:
+planning:
 ---
 Circa 200 homes are under threat of demolition at Havering's Delta estate in Gidea Park.
 

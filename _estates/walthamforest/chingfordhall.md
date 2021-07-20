@@ -13,6 +13,8 @@ landlord: Peabody
 developer:
 itla:
 total: 300
+ballot:
+planning:
 ---
 Circa 300 homes on the Chingford Hall estate have been earmarked for renewal, according to the borough's [draft Local Plan](https://walthamforest.gov.uk/sites/default/files/Final%20Draft%20Local%20Plan_July2019_Web%20optimised_Part1.pdf).
 

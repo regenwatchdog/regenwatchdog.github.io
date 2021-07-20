@@ -11,6 +11,8 @@ landlord: Poplar HARCA
 developer:
 itla:
 total: 52
+ballot:
+planning:
 ---
 52 homes are earmarked for demolition on the Bow Bridge estate in Tower Hamlets.
 

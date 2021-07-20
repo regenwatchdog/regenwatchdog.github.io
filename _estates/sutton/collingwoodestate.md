@@ -19,6 +19,8 @@ landlord: Sutton Council
 developer:
 itla:
 total: 250
+ballot: Required
+planning:
 ---
 Circa 250 homes are under threat of potential demolition on Sutton's Collingwood estate.
 

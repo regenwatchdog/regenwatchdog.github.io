@@ -11,6 +11,8 @@ landlord: Haringey Council
 developer:
 itla:
 total: 30
+ballot:
+planning:
 ---
 Circa 30 council homes are earmarked for redevelopment at Reynardson Court in Tottenham. 
 

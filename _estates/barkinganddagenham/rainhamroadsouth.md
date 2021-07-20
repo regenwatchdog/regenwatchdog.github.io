@@ -15,6 +15,8 @@ landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:
 total: 24
+ballot: Exempt
+planning:
 ---
 24 homes on Dagenham's Rainham Road South estate have been earmarked for demolition by Barking and Dagenham Council.
 

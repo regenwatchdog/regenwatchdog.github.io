@@ -14,6 +14,8 @@ landlord: Poplar HARCA
 developer: Ecoworld
 itla: PPCR
 total: 225
+ballot:
+planning:
 ---
 225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
 

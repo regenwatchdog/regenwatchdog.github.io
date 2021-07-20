@@ -13,6 +13,8 @@ landlord: Haringey Council
 developer:
 itla: PPCR
 total: 1027
+ballot: Required
+planning:
 ---
 1027 Council homes on Haringey's Northumberland Park estates have been earmarked for redevelopment in Tottenham.
 

@@ -12,6 +12,8 @@ landlord: Haringey Council
 developer:
 itla:
 total: 50
+ballot:
+planning:
 ---
 Circa 50 homes have been earmarked for potential demolition at Woodridings Court in Haringey.
 

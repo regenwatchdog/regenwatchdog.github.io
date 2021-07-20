@@ -16,6 +16,8 @@ landlord: Riverside Housing Association
 developer:
 itla: Source Partnership
 total: 150
+ballot: Required
+planning:
 ---
 Circa 150 homes are earmarked for potential demolition on Bromley's Calverley Close estate in Beckenham.
 

@@ -13,6 +13,8 @@ landlord:
 developer:
 itla:
 total: 150
+ballot: Required
+planning:
 ---
 Circa 150 homes on Bexley's Picardy Street estate in Belvedere have been earmarked for redevelopment in Bexley's [Local Plan](https://www.bexley.gov.uk/sites/bexley-cms/files/2019-02/BLP-Reg-18-Consultation-Paper-for-Publication-February-2019.pdf) - (site BV0006). 
 

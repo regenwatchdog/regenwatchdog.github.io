@@ -31,6 +31,8 @@ landlord: Westminster Council
 developer:
 itla:
 total: 500
+ballot: Required
+planning:
 ---
 Circa 500 homes are under threat of demolition at the Hall Place estate in Maida Vale.
 

@@ -14,6 +14,8 @@ landlord: Barking & Dagenham Council
 developer: BeFirst
 itla:
 total: 41
+ballot: Exempt
+planning:
 ---
 41 homes on Barking's Thames View estate have been earmarked for demolition by Barking and Dagenham Council.
 

@@ -21,6 +21,8 @@ developer:
 itla:
 total: 176
 published: false
+ballot:
+planning:
 ---
 176 homes on the Treverton estate in Ladbroke Grove were earmarked for potential redevelopment by RBKC in [a Jan 2017 Cabinet report](https://planningconsult.rbkc.gov.uk/gf2.ti/f/782882/24784549.1/PDF/-/Considerations_for_Estate_Regeneration_Proposals__Treverton_Estate_January_2017.pdf). 
 

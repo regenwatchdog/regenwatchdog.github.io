@@ -15,6 +15,8 @@ landlord: Southwark Council
 developer:
 itla: Open Communities
 total: 298
+ballot: Approved
+planning: Pending
 ---
 298 homes are earmarked for demolition on Southwark's Tustin estate on the Old Kent Road.
 
