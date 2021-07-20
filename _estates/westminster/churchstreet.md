@@ -15,7 +15,7 @@ developer:
 itla: PPCR
 total: 358
 ballot:
-planning:
+planning: Pending
 ---
 358 homes on three estates in Westminster's Church Street Area are under threat of demolition.
 
