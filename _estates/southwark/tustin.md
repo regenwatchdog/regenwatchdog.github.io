@@ -13,7 +13,7 @@ images:
 location: '{"type":"Point","coordinates":[-0.054867,51.480339]}'
 landlord: Southwark Council
 developer:
-itla: Open Communities
+itla: Open Communities/Neal Purvis
 total: 298
 ballot: Approved
 planning: Pending
