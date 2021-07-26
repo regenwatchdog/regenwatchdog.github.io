@@ -24,6 +24,10 @@ It was [designated](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id
 
 It is also within the boundary of the __Edgeware Road Housing Zone__, one of [30 special housing zones](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones#acc-i-42741) designated by the Mayor to deliver accelerated housing development. The Edgeware Road zone is expected to deliver 1700 new homes of which this site will provide 1167. 
 
+The redevelopment plans were initially drawn up in 2013, when the Council held a ballot of residents which [resulted](/images/church_street_news_may.pdf) in 87% voting in favour of redevelopment - albeit on a 25% turn out..
+
+<img src="/images/churchstreetballot.png" class="img-fluid rounded img-thumbnail">
+
 The 358 homes under threat are located in what has been labelled sites A, B and C:
 
 <img src="/images/css1.jpg" class="img-fluid rounded img-thumbnail">
