@@ -29,7 +29,7 @@ Despite this the Mayor is signing off an increasing number of schemes that fail 
                 <li class="col-5" data-aos="fade-up">
                   <div class="card card-sm">
                     <a href="{{ estate.url }}">
-                      <img class="card-img-top" src="{{ estate.images.first.image_path }}" alt="{{ estate.name }}">
+                      <img class="card-img-top" src="{{ estate.images.first }}" alt="{{ estate.name }}">
                     </a>
 		    <div class="card-body">
                       <h5 class="card-title">{{ estate.name }}</h5>
