@@ -49,6 +49,14 @@ Savills was later also instructed to produce a [financial viability appraisal](h
 
 It is worth noting that the three Merton estates provide something that no other regeneration scheme has offered - namely, a very generous [re-housing offer](http://35percent.org/img/mertonoffer.pdf) to leaseholders which gives them full equity of one of the new-build replacement homes after 11 years.
 
-## Links
+In June 2021, Clarion came under fire after an [ITV report](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes) exposed the appaling conditions faced by some of the estate's residents.
+
+In July 2021, the Social Housing Regulator is [reported](https://www.insidehousing.co.uk/news/news/regulator-considering-whether-clarion-breached-standards-following-itv-reports-71416) to be considering whether Clarion has breached its standards. This comes after a previous investigation into similar complaints from residents in Clarion homes in Tower Hamlets.
+
+__Links:__  
+
+June 2021 ITV report - [https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes)
+
+
 
 Mayor's [Stage 1 and Stage 2 planning reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/eastfields-estate) - approved Nov 2018

@@ -13,13 +13,13 @@ location: '{"type":"Point","coordinates":[-0.024181,51.498528]}'
 landlord: One Housing Group
 developer:
 itla: Open Communities
-total: 769
+total: 72
 ballot:
 planning:
 ---
-769 homes are under threat on the Barkantine estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
+72 homes are under threat on the Barkantine estate in Tower Hamlets. 
 
-The four estates originally belonged to Tower Hamlets Council as part of its housing stock, but were taken over by Toynbee Island Homes in 2005. Two years later, a merger with Community Housing Association led to the creation of [One Housing Group](http://onehousing.co.uk). 
+As a result of stock transfer in 2005, [One Housing Group](https://onehousing.co.uk) currently owns 2,027 former council homes across four estates on the Isle of Dogs. 
 
 In 2014 OHG produced a [52 page report - ‘Project Stone’](/images/ProjectStone.pdf) setting out proposals to replace all four of its Isle of Dogs estates in a joint venture with developer Argent:  
 
@@ -34,7 +34,7 @@ Project Stone proposed just 30% of the redeveloped properties as affordable hous
 
 The plans met with [organised opposition](http://www.4estatesforum.org.uk) from residents on the four estates who had not been consulted and after the Mayor of Tower Hamlets intervened, OHG scrapped its masterplan and agreed that proposals would only be pursued after a 'conversation' with residents.
 
-In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the Kingsbridge estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
+In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the Barkantine estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
 
 <img src="/images/ohgconversations.png" class="img-fluid rounder img-thumbnail">
 
@@ -42,4 +42,13 @@ The Mayor has designated the Isle of Dogs as an 'opportunity area' and his [plan
 
 <img src="/images/isleofdogsoapf.png" class="img-fluid rounded img-thumbnail">
 
-The [4 Estates Forum](http://4estatesforum.org.uk) provides more useful information and updates on One Housing Group's plans: [http://4estatesforum.org.uk](http://4estatesforum.org.uk).
+In 2019, One Housing created a steering group to work with residents of 72 homes in Kedge House, Starboard Way and Winch House on the Barkantine Estate, in order to consider different options for the future of these blocks.
+
+<img src="/images/bktine.png" class="img-fluid rounded img-thumbnail">
+
+In April 2021, One Housing published its [Landlord Offer](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf) for tenants and leaseholders and held a ballot. The results of the ballot have not been published.
+
+__Links:__  
+One Housing's Landlord Offer - [https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf)
+
+The [4 Estates Forum](http://4estatesforum.org.uk)

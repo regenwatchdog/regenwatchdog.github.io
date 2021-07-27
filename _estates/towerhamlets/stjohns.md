@@ -12,15 +12,15 @@ location: '{"type":"Point","coordinates":[-0.008984,51.499039]}'
 landlord: One Housing Group
 developer:
 itla: TPAS
-total: 607
-ballot:
+total: 84
+ballot: Pending
 planning:
 ---
-607 homes are under threat on the St John's estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
+84 homes are under threat on the St John's estate in Tower Hamlets.
 
-The four estates originally belonged to Tower Hamlets Council as part of its housing stock, but were taken over by Toynbee Island Homes in 2005. Two years later, a merger with Community Housing Association led to the creation of [One Housing Group](http://onehousing.co.uk). 
+As a result of stock transfer in 2005, [One Housing Group](https://onehousing.co.uk) currently owns 2,027 former council homes across four estates on the Isle of Dogs.
 
-In 2014 OHG produced a [52 page report - ‘Project Stone’](/images/ProjectStone.pdf) setting out proposals to replace all four of its Isle of Dogs estates in a joint venture with developer Argent:  
+In 2014 One Housing Group produced a [52 page report - ‘Project Stone’](/images/ProjectStone.pdf) setting out proposals to replace all four of its Isle of Dogs estates in a joint venture with developer Argent:  
 
  * Barkantine estate - 769 homes.
  * [St John’s estate](/estates/towerhamlets/stjohns/) - 607 homes.
@@ -33,7 +33,7 @@ Project Stone proposed just 30% of the redeveloped properties as affordable hous
 
 The plans met with [organised opposition](http://www.4estatesforum.org.uk) from residents on the four estates who had not been consulted and after the Mayor of Tower Hamlets intervened, OHG scrapped its masterplan and agreed that proposals would only be pursued after a 'conversation' with residents.
 
-In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the St John's estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
+In May 2017, One Housing Group applied to the Mayor in a bid for funding for the redevelopment of the St John's estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
 
 <img src="/images/ohgconversations.png" class="img-fluid rounder img-thumbnail">
 
@@ -41,4 +41,16 @@ The Mayor has designated the Isle of Dogs as an 'opportunity area' and his [plan
 
 <img src="/images/isleofdogsoapf.png" class="img-fluid rounded img-thumbnail">
 
-The [4 Estates Forum](http://4estatesforum.org.uk) provides more useful information and updates on One Housing Group's plans: [http://4estatesforum.org.uk](http://4estatesforum.org.uk).
+The current proposals are to looking at a number of options for 84 homes in Oak House and Alice Shepherd House on the St John's estate, including demolition.
+
+<img src="/images/oakalice.png" class="img-fluid rounded img-thumbnail">
+
+The latest [consultation boards](https://www.onehousing.co.uk/__data/assets/pdf_file/0021/27633/20210616_Consultation-Event-Boards-for-web.pdf) suggest that a ballot will be forthcoming once a preferred option has been selected. 
+
+
+__Links:__  
+One Housing Group's website - [https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs](https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs)
+
+The [4 Estates Forum](http://4estatesforum.org.uk)
+
+July 2021 Consultation Boards - [https://www.onehousing.co.uk/__data/assets/pdf_file/0021/27633/20210616_Consultation-Event-Boards-for-web.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0021/27633/20210616_Consultation-Event-Boards-for-web.pdf)

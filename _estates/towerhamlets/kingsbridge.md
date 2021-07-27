@@ -16,9 +16,9 @@ total: 134
 ballot:
 planning:
 ---
-134 homes are under threat on the Kingsbridge estate in Tower Hamlets. One Housing Group currently manages 2,027 homes across four estates on the Isle of Dogs, which it previously published plans to replace with 8,906 new homes.
+134 homes are under threat on the Kingsbridge estate in Tower Hamlets.
 
-The four estates originally belonged to Tower Hamlets Council as part of its housing stock, but were taken over by Toynbee Island Homes in 2005. Two years later, a merger with Community Housing Association led to the creation of [One Housing Group](http://onehousing.co.uk). 
+As a result of stock transfer in 2005, [One Housing Group](https://onehousing.co.uk) currently owns 2,027 former council homes across four estates on the Isle of Dogs.
 
 In 2014 OHG produced a [52 page report - ‘Project Stone’](/images/ProjectStone.pdf) setting out proposals to replace all four of its Isle of Dogs estates in a joint venture with developer Argent:  
 
@@ -41,4 +41,13 @@ The Mayor has designated the Isle of Dogs as an 'opportunity area' and his [plan
 
 <img src="/images/isleofdogsoapf.png" class="img-fluid rounded img-thumbnail">
 
-The [4 Estates Forum](http://4estatesforum.org.uk) provides more useful information and updates on One Housing Group's plans: [http://4estatesforum.org.uk](http://4estatesforum.org.uk).
+In 2019, One Housing Group created a residents steering group on the Kingsbridge estate to consider different options for the possible regeneration of 134 homes in Michigan House, Montrose House and Montcalm House.
+
+The latest [newsletter (Feb 2020)](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf) says that an options appraisal is being drawn up to present to residents in order to select a preferred option.
+
+__Links:__  
+Feb 2020 newsletter from One Housing - [https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf)
+
+One Housing Group's website - [https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs](https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs)
+
+The [4 Estates Forum](http://4estatesforum.org.uk)
