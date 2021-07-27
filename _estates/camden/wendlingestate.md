@@ -44,6 +44,13 @@ Camden's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes i
 
 <img src="/images/wendlingnovote.png" class="img-fluid rounded img-thumbnail">
 
+Camden's pre-ballot information [booklets](/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
+
+<figure class="figure">
+<img src="/images/wendlingbooklet.png" class="img-fluid rounded img-thumbnail">
+<figcaption class="figure-caption text-right">Extracts from Camden's <a href="/images/wendlingbooklet.pdf">information booklets</a> about the scheme.</figcaption>
+</figure>
+
 Residents have long since been reporting issues concerning the lack of maintenance on the estate, with the TRA claiming that the Council has given up on repairs because the estate is earmarked for redevelopment:
 
 <figure class="figure">
