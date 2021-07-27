@@ -44,11 +44,16 @@ Camden's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes i
 
 <img src="/images/wendlingnovote.png" class="img-fluid rounded img-thumbnail">
 
-Residents have long since been reporting issues with the lack of maintenance on the estate.
+Residents have long since been reporting issues concerning the lack of maintenance on the estate, with the TRA claiming that the Council has given up on repairs because the estate is earmarked for redevelopment:
 
-<img src="/images/wendlingtwitter.png" class="img-fluid rounded img-thumbnail">
+<figure class="figure">
+<img src="/images/camdennewjournal.png" class="img-fluid rounded img-thumbnail">
+<figcaption class="figure-caption text-right">Article in the <a href="http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate">Camden New Journal</a> March 2020.</figcaption>
+</figure>
 
 __Links:__
 Camden Council's website: [https://www.camden.gov.uk/wendling-estate-and-st-stephens-close](hhttps://www.camden.gov.uk/wendling-estate-and-st-stephens-close)
 
 Camden's [Landlord Offer](/images/wendlingoffer.pdf)
+
+Camden New Journal article (March 2020) - [http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate](http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate)
