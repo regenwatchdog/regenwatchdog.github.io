@@ -51,4 +51,6 @@ In April 2021, One Housing published its [Landlord Offer](https://www.onehousing
 __Links:__  
 One Housing's Landlord Offer - [https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf)
 
+One Housing's website - [https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs](https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs)
+
 The [4 Estates Forum](http://4estatesforum.org.uk)

@@ -85,6 +85,11 @@ category: underthreat
    document.getElementById("iframe").src = "/leafletmapreq.html";
    document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition but no ballot or planning process has started&darr;";
    document.getElementById("stage").className = 'bg-success';
+   var table = $('#example').DataTable();
+   table.columns().search("");
+   table.column(6).search( '^$', true, false ).draw();
+   table.column(7).search( '^$', true, false ).draw();
+   
 }
 </script>
 
@@ -93,6 +98,9 @@ category: underthreat
    document.getElementById("iframe").src = "/leafletmappending.html";
    document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where the planning process has started&darr;";
    document.getElementById("stage").className = 'bg-warning';
+   var table = $('#example').DataTable();
+   table.columns().search("");
+   table.column(7).search('Pending').draw();
 }
 </script>
 
@@ -101,6 +109,9 @@ category: underthreat
 	  document.getElementById("iframe").src = "/leafletmapballot.html";
 	  document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where a ballot has been approved&darr;";
 	  document.getElementById("stage").className = 'bg-info';
+	  var table = $('#example').DataTable();
+	  table.columns().search("");
+	  table.column(6).search('Approved').draw();
 }
    </script>
 
@@ -109,6 +120,9 @@ category: underthreat
    document.getElementById("iframe").src = "/leafletmapimp.html";
    document.getElementById("stage").innerHTML = "&darr;Estates earmarked for demolition where a planning application has been approved&darr;";
    document.getElementById("stage").className = 'bg-danger';
+   var table = $('#example').DataTable();
+   table.columns().search("");
+   table.column(7).search('Approved').draw();
 }
 </script>
 
