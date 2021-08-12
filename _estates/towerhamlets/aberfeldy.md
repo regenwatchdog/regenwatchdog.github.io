@@ -14,7 +14,7 @@ landlord: Poplar HARCA
 developer: Ecoworld
 itla: PPCR
 total: 225
-ballot:
+ballot: Approved
 planning:
 ---
 225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
@@ -25,25 +25,27 @@ The estate borders the River Lea to the East, Balfron Tower to the West and the 
 
 <img src="/images/afbrochure.png" class="img-fluid rounded img-thumbnail">
 
-The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https://www.architectsjournal.co.uk/download?ac=1222139) which envisages the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
+The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https://www.architectsjournal.co.uk/download?ac=1222139) which envisaged the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
 
-13 residential blocks, 24 shops, a mosque and a community hall are set for demolition in remaining phases 3-6 of what has now been [re-branded](https://ecoworldlondon.com/media/1288/aberfeldy-village-host-brochure.pdf) 'Aberfeldy Village'.
+13 residential blocks, 24 shops, a mosque and a community hall are set for demolition in remaining phases 3-6 of what has now been [re-branded](https://ecoworldlondon.com/media/1288/aberfeldy-village-host-brochure.pdf) 'Aberfeldy Village' or 'Aberfeldy West'.
 
 <img src="/images/aberfeldyvillage.png" class="img-fluid rounded img-thumbnail">
 
-The scheme is being progressed in six phases in a joint venture with Malaysian investor, Ecoworld and will create 1176 new homes of which..
+The scheme is being progressed in six phases in a joint venture with Malaysian investor, Ecoworld and will create 1176 new homes in total.
 
-The estate originally comprised 297 homes but 72 homes were demolished in phases 1-3 which are currently approaching completion in the first stage of the scheme.
+The estate originally comprised 297 homes but 72 homes were demolished in phases 1-3, which are currently approaching completion.
 
-The scheme is being [funded](/approved/funding) by the Mayor. It hasn't yet applied to be [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
+A ballot for the remaining 3 phases or 'Aberfeldy West' was approved in October 2020, with the majority of eligible residents voting in favour of full redevelopment. The scheme is being [funded](/approved/funding) by the Mayor.
 
 Compulsory purchase orders were [issued in 2016](https://www.towerhamlets.gov.uk/Documents/Planning-and-building-control/Aberfeldy_SoR_140616.pdf) and confirmed in 2017 for the remaining three phases.
 
-The [compulsory purchase order documents](https://www.towerhamlets.gov.uk/Documents/Planning-and-building-control/Aberfeldy_SoR_140616.pdf) confirm that 619 new homes will replace the 225 being demolished but than only 100 will be affordable rent, the remainder will be mainly private housing.
+The [compulsory purchase order documents](https://www.towerhamlets.gov.uk/Documents/Planning-and-building-control/Aberfeldy_SoR_140616.pdf) confirm that 619 new homes will replace the 225 being demolished and that 100 will be affordable rent, the remainder being provided as predominantly mainly private housing.
 
 <img src="/images/aberfeldycpo.png" class="img-fluid rounded img-thumbnail">
+
+A planning application for remaining phases 3-6 in 'Aberfeldy West' is yet to be submitted.
 
 __Links:__
 [Mayor's stage 1 and stage 2 reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/aberfeldy-estate-0)
 
-[Planning application documents](https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=DCAPR_100784)
+[Planning application documents (phases 1-3)](https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=DCAPR_100784)
