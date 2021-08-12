@@ -1,7 +1,7 @@
 ---
 category: underthreat
 stage: Implementation 
-name: Aberfeldy estate 
+name: Aberfeldy estate (West) 
 borough: towerhamlets 
 thumb: /images/af1thumb.jpg
 images:
@@ -49,3 +49,5 @@ __Links:__
 [Mayor's stage 1 and stage 2 reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/aberfeldy-estate-0)
 
 [Planning application documents (phases 1-3)](https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=DCAPR_100784)
+
+[Poplar HARCA's web page for Aberfeldy West](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/aberfeldy-west/)

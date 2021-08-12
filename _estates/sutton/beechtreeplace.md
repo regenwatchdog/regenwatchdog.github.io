@@ -25,6 +25,16 @@ Beech Tree Place is also listed as a development site in Sutton's Local Plan (Si
 
 In November 2018, it was [reported](https://www.croydonadvertiser.co.uk/news/croydon-news/sutton-sheltered-housing-residents-intimidated-2218561) that residents were _'feeling intimidated and anxious'_ as a result of the Council's approach.
 
+In October 2020, Sutton Council [resolved](https://www.sutton.gov.uk/info/200502/housing_advice_and_options/2087/beech_tree_place_regeneration) to pursue the option of full demolition and redevelopment of the site.
+
 The Council has appointed Public Voice Ltd (formerly Strategic Urban Futures (StUF)) to conduct the consultation with residents: 
 
 [https://www.publicvoice.london/neighbourhoods/residents/beech-tree-place/](https://www.publicvoice.london/neighbourhoods/residents/beech-tree-place/)
+
+__Links:__  
+
+[Sutton Council's consultation document - https://www.sutton.gov.uk/downloads/file/4565/s105_consultation_document_for_beech_tree_place](https://www.sutton.gov.uk/downloads/file/4565/s105_consultation_document_for_beech_tree_place)
+
+[Sutton Council's web page for the scheme - https://www.sutton.gov.uk/info/200502/housing_advice_and_options/2087/beech_tree_place_regeneration](https://www.sutton.gov.uk/info/200502/housing_advice_and_options/2087/beech_tree_place_regeneration)
+
+

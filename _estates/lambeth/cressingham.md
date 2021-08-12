@@ -31,7 +31,9 @@ Lambeth also claims that the redevelopment of the estate will result in the prov
 
 <img src="/images/cressinghamlharates.png" class="img-fluid rounded img-thumbnail">
 
-The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme. In september 2020 it emerged that Mayoral funding for the scheme had been [withdrawn](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045).
+The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme.
+
+The estate was initially awarded grant funding by the Mayor and exempted from his requirement to ballot residents. In September 2020, the Mayor announced that funding had been [withdrawn from the scheme](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045), but Lambeth vowed to proceed with demolition regardless using its own funds.
 
 There is an active [campaign group](https://savecressingham.wordpress.com) created by residents on the estate. In 2016 they launched ['Cressingham People's Plan - http://cressinghampeoplesplan.org.uk/](http://cressinghampeoplesplan.org.uk/) which offers a viable alternative to demolition.
 

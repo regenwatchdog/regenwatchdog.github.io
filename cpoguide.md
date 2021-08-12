@@ -17,7 +17,7 @@ The Government's [Estate Regeneration National Guidance](https://assets.publishi
 
 This is the most equitable of options available for leaseholders as they are able to remain as part of the community within the redeveloped estate while not being disadvantaged i.e. they are put back in a position of owning 100% of their home not just part of it.
 
-At least two housing associations in London offer this home swap model - Poplar HARCA in Tower Hamlets (see more info [here](https://www.estatewatch.london/images/teviotoffer.pdf)) and Clarion housing association (see more info [here](circle housing association)).   
+Several schemes and boroughs offer this home swap model - Poplar HARCA's schemes in Tower Hamlets (see more info [here](https://www.estatewatch.london/images/teviotoffer.pdf)), Clarion's schemes in Merton (see more info [here]) and all of Sutton Council's estate regeneration schemes (see [here](https://moderngov.sutton.gov.uk/documents/s62281/Estate%20Regeneration%20rehousing%20and%20compensation%20scheme%20-%20Appendix%20A%2025092018%20Housing%20Economy%20and%20.pdf) (Option B, page 65).   
 
 Most other landlords will offer what is usually called a 'shared equity' or 'equity loan' scheme for leaseholders. But these schemes can differ from one another significantly and there are a number of problems associated with them. 
 

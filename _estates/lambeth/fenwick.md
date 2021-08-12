@@ -33,7 +33,9 @@ Lambeth [says](https://moderngov.lambeth.gov.uk/documents/g9750/Publicreports%20
 
 The scheme was stalled in 2018, when the Council was [forced](https://www.architectsjournal.co.uk/news/karakusevic-carson-forces-council-to-rerun-flawed-estate-contest/10028456.article) to re-run its procurement process because of a conflict of interests.
 
-The Mayor agreed [funding](/approved/funding) for the scheme in 2017, but in September 2020 it emerged that this funding had been withdrawn. Lambeth now appear to be proceeding with the scheme without mayoral funding, thereby avoiding the Mayor's requirement that residents are balloted on the demolition of their homes.
+The estate was initially awarded grant funding by the Mayor and exempted from his requirement to ballot residents. In September 2020, the Mayor announced that funding had been [withdrawn from the scheme](https://www.insidehousing.co.uk/news/news/gla-funding-withdrawn-for-three-major-council-estate-regeneration-schemes-68045), but Lambeth vowed to proceed with demolition regardless using its own funds.
+
+Lambeth now appear to be proceeding with the scheme entirely without mayoral funding, thereby avoiding the Mayor's requirement that residents are balloted on the demolition of their homes.
 
 Whilst the decant and re-housing programme started in 2016, the estate remains fully occupied with [void units being let out at full market rents or as temporary accommodation at LHA rates](https://www.whatdotheyknow.com/request/581698/response/1393236/attach/4/Attachment%202.pdf).
 
