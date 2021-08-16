@@ -16,9 +16,17 @@ A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415
 Estate redevelopment is rarely viable but Councils often plough on nonetheless. We [pointed out last year](https://www.estatewatch.london/november-news-roundup/) that Kingston Council is stumping up nearly £200m to plug the viability gap in its regeneration of the Cambridge Road estate, along with £60m of Mayoral funding. In June we [reported](https://www.estatewatch.london/june-news-roundup/) that Westminster Council was stumping up £198m to plug the viability gap in its redevelopment of the Ebury Bridge estate.
 
 Southwark Council is [coughing up £138m](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=57412) to see through just the first phase of its [Aylesbury estate] redevelopment, not to mention the public money the Mayor...- and this doesn't even include leaseholder buyback costs or tenant rehousing costs.
- 
 
+## Eastfield estate
+In June, Merton's Eastfields estate was in the news with 
 
+https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
+
+ownership and management of the Estate was acquired by Circle Housing Merton Priory (CHMP), who are part of the wider Circle Housing Group,in 2010 as part of aHousing Stock TransferAgreement (HSTA) containingall LBM’s council housing stock within Merton, totalling circa 9,500units.
+
+When CHMP acquired responsibility for the EastfieldsEstate, as well as all other LBM council housing stockin 2010,CHMP committed to improving the quality of accommodation to at leastDecent HomesMerton Standard1by 2015to improve the quality of life for residents of the Estate.
+
+The scheme is being progressed in five phases over a 13-year period. 
 
 ## Carpenters and Love Lane - ballot
 
@@ -28,15 +36,6 @@ Homes and buildings in Dennison Point, Gibbins Road, Doran Walk, Jupp Road, Kenn
 
 Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes.
 
-## Eastfield estate ITV
-
-https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
-
-ownership and management of the Estate was acquired by Circle Housing Merton Priory (CHMP), who are part of the wider Circle Housing Group,in 2010 as part of aHousing Stock TransferAgreement (HSTA) containingall LBM’s council housing stock within Merton, totalling circa 9,500units.
-
-When CHMP acquired responsibility for the EastfieldsEstate, as well as all other LBM council housing stockin 2010,CHMP committed to improving the quality of accommodation to at leastDecent HomesMerton Standard1by 2015to improve the quality of life for residents of the Estate.
-
-The scheme is being progressed in five phases over a 13-year period.
 
 ## Petition tax incentice refurbishment
 
