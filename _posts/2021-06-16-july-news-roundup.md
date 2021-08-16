@@ -1,8 +1,12 @@
 ---
 layout: post
-title: July News Roundup (DRAFT)
+title: August News Roundup (DRAFT)
 date: 2021-06-16T10:21:57.116Z
 ---
+## St Raphael's estate - saved from demolition
+
+## Carpenters and Love Lane - ballot
+
 ## Eastfield estate ITV
 
 https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
@@ -17,6 +21,7 @@ The scheme is being progressed in five phases over a 13-year period.
 
 https://petition.parliament.uk/petitions/573207
 
-## Wendling estate - ballot
+## Wendling estate - ballot approved
+Also Calverley Close
 
 !\[](/images/wendlingballot.png)
