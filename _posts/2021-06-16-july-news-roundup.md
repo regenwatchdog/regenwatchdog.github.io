@@ -11,8 +11,13 @@ in time"_ and that the planned ballot would no longer go ahead. Instead Brent Co
 
 A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) already acknowledged that the scheme had a £22m viability gap. Credit to Brent Council for calling time on the scheme, although it's not clear why they didn't do so earlier.
 
-Some argue that estate regenerations are rarely financially viable (not to mention environmentally and socially) and that they are pursued
-Grand slam approach - a machine is set rolling
+Some argue that estate regenerations are rarely financially viable (not to mention environmentally and socially) and that they are more the product of an ideological approach. A grand slam approach and not the result of a detailed and diligent cost/benefit analysis. Once the machine is set rolling it gains political traction and then becomes difficult to stop.
+
+Figures suggest that
+We pointed out last year that Kingston Council is stumping up nearly £200m to plug the viability gap in its regeneration of the Cambridge Road estate. In June we [reported](https://www.estatewatch.london/june-news-roundup/) that Westminster Council was stumping up £198m to plug the viability gap in its redevelopment of the Ebury Bridge estate.
+
+Southwark Council is [coughing up £138m](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=57412) to see through just the first phase of its [Aylesbury estate] redevelopment, not to mention the public money the Mayor...- and this doesn't even include leaseholder buyback costs or tenant rehousing costs.
+ 
 
 
 
