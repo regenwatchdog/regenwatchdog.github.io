@@ -4,6 +4,15 @@ title: August News Roundup (DRAFT)
 date: 2021-06-16T10:21:57.116Z
 ---
 ## St Raphael's estate - saved from demolition
+Brent Council has come to its senses and decided not to proceed with demolition of the St Raphael's estate.
+
+In a [letter](https://www.brent.gov.uk/media/16419105/infill-plus-resident-letter-vfinal-website.pdf) recently circulated by the leader of Brent Council, residents were told that _"the redevelopment option is no longer affordable at this point 
+in time"_ and that the planned ballot would no longer go ahead. Instead the Council said it will be pursuing an in-fill option to provide extra council homes on the estate.
+
+This is a victory for common sense!
+A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) already acknowledged that the scheme had a £22m viability gap. 
+
+
 
 ## Carpenters and Love Lane - ballot
 
