@@ -7,6 +7,12 @@ date: 2021-06-16T10:21:57.116Z
 
 ## Carpenters and Love Lane - ballot
 
+The proposals are to refurbish existing homes at James Riley Point, Lund Point and Biggerstaff Terrace.
+
+Homes and buildings in Dennison Point, Gibbins Road, Doran Walk, Jupp Road, Kennard Road, Rosher Close, Warton Road and Wilmer Lea Close would be demolished and rebuilt.
+
+Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes.
+
 ## Eastfield estate ITV
 
 https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
