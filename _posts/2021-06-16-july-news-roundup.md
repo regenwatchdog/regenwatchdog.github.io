@@ -12,6 +12,8 @@ in time"_ and that the planned ballot would no longer go ahead. Instead the Coun
 This is a victory for common sense!
 A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) already acknowledged that the scheme had a £22m viability gap. 
 
+Grand slam approach - a machine is set rolling
+
 
 
 ## Carpenters and Love Lane - ballot
