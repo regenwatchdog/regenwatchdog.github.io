@@ -18,7 +18,7 @@ Estate redevelopment is rarely viable but Councils often plough on nonetheless. 
 
 Southwark Council is [coughing up £138m](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=57412) to see through just the first phase of its \[Aylesbury estate] redevelopment, not to mention the public money the Mayor...- and this doesn't even include leaseholder buyback costs or tenant rehousing costs.
 
-## Eastfield estate
+## Eastfields estate
 
 In June, Merton's Eastfields estate was in the news after an \[ITV investigation](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes) into the apalling conditions that tenants were being made to endure in their homes.
 
