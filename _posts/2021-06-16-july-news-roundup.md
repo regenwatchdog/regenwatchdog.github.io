@@ -18,9 +18,17 @@ Estate redevelopment is rarely viable but Councils often plough on nonetheless. 
 Southwark Council is [coughing up £138m](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=57412) to see through just the first phase of its [Aylesbury estate] redevelopment, not to mention the public money the Mayor...- and this doesn't even include leaseholder buyback costs or tenant rehousing costs.
 
 ## Eastfield estate
-In June, Merton's Eastfields estate was in the news with 
+In June, Merton's Eastfields estate was in the news after an ITV investigation into the apalling conditions that tenants were being made to endure in their homes.
 
 https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes
+
+The rats, leaks and collapsed ceilings found in the ITV report led to an inquiry by the Social Housing Regulator.
+
+In August that inquiry cleared Clarion of any wrongdoing, finding no evidence of “organisational failure.”
+
+It sWe’ve now learned not a single tenant was spoken to as part of the inquiry.
+
+As well as not speaking to any tenants on Eastfields, not a single property was visited or inspected by the Regulator.
 
 ownership and management of the Estate was acquired by Circle Housing Merton Priory (CHMP), who are part of the wider Circle Housing Group,in 2010 as part of aHousing Stock TransferAgreement (HSTA) containingall LBM’s council housing stock within Merton, totalling circa 9,500units.
 
