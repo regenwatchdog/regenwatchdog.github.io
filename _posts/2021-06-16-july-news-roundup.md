@@ -36,7 +36,9 @@ The Mayor approved £15m grant funding for the Eastfields estate scheme in June 
 
 The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent \[newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was \_"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."\_
 
-No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. 
+No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April next year - if it doesn't submit a reserved matters by then it will ...
+
+
 
 ownership and management of the Estate was acquired by Circle Housing Merton Priory (CHMP), who are part of the wider Circle Housing Group,in 2010 as part of aHousing Stock TransferAgreement (HSTA) containingall LBM’s council housing stock within Merton, totalling circa 9,500units.
 
