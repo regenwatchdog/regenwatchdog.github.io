@@ -38,13 +38,20 @@ The outline planning consent said that the scheme would be progressed in five ph
 
 No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April next year - if it doesn't submit a reserved matters by then it will ...
 
-
-
 ownership and management of the Estate was acquired by Circle Housing Merton Priory (CHMP), who are part of the wider Circle Housing Group,in 2010 as part of aHousing Stock TransferAgreement (HSTA) containingall LBM’s council housing stock within Merton, totalling circa 9,500units.
 
 When CHMP acquired responsibility for the EastfieldsEstate, as well as all other LBM council housing stockin 2010,CHMP committed to improving the quality of accommodation to at leastDecent HomesMerton Standard1by 2015to improve the quality of life for residents of the Estate.
 
- 
+## Waterloo Road estate - 
+Havering has approved its own application for the demolition of 290 homes on the Waterloo Road estate.
+The [viability assessment](https://msp.havering.gov.uk/planning/search-applications#DOC?DocNo=2505377) submitted for the scheme, says that it cannot meet the Mayor's 50% affordable housing requirement because the scheme is not viable. i.e. the scheme only provides 6% profit for Wates (Havering's development partner) and not the 14% it says it requires..
+
+1,380 new homes 212 SR 197 AR, 147 SO
+£18.5m grant funding and £15m spent on the scheme by Havering to date.
+£33.5m of public funding 
+290 homes (214 council)
+
+
 
 ## Carpenters and Love Lane - ballot
 
