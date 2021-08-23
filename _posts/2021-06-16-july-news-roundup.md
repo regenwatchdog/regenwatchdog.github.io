@@ -43,7 +43,7 @@ ownership and management of the Estate was acquired by Circle Housing Merton Pri
 When CHMP acquired responsibility for the EastfieldsEstate, as well as all other LBM council housing stockin 2010,CHMP committed to improving the quality of accommodation to at leastDecent HomesMerton Standard1by 2015to improve the quality of life for residents of the Estate.
 
 ## Waterloo Road estate - 
-Havering has approved its own application for the demolition of 290 homes on the Waterloo Road estate.
+Havering Council has approved its own application for the demolition of 290 homes on the Waterloo Road estate.
 The [viability assessment](https://msp.havering.gov.uk/planning/search-applications#DOC?DocNo=2505377) submitted for the scheme, says that it cannot meet the Mayor's 50% affordable housing requirement because the scheme is not viable. i.e. the scheme only provides 6% profit for Wates (Havering's development partner) and not the 14% it says it requires..
 
 1,380 new homes 212 SR 197 AR, 147 SO
