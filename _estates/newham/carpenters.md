@@ -1,8 +1,12 @@
 ---
-category: underthreat
-stage: Proposal
 name: Carpenters estate
 borough: newham
+location: '{"type":"Point","coordinates":[-0.004882,51.537846]}'
+ballot: Required
+landlord: Newham Council
+developer: null
+itla: TPAS/Source Partnership
+total: 710
 thumb: /images/cp8thumb.jpg
 images:
   - /images/cp8.jpg
@@ -23,13 +27,9 @@ images:
   - /images/cp15.jpg
   - /images/cp16.jpg
   - /images/cp17.jpg
-location: '{"type":"Point","coordinates":[-0.004882,51.537846]}'
-landlord: Newham Council
-developer:
-itla: TPAS/Source Partnership
-total: 710
-ballot: Required
-planning:
+planning: null
+category: underthreat
+stage: Proposal
 ---
 710 homes are under threat of demolition on Newham's Carpenters estate in Stratford.
 
@@ -69,10 +69,18 @@ Newham Council's [website](https://www.newham.gov.uk/regeneration-1/regeneration
 </div>
 </div>
 
-The [most recent newsletter](https://www.newham.gov.uk/downloads/file/654/carpenters-estate-issue-4-december-2019) for the regeneration (Nov 2019) says that residents were polled on various levels of intervention for the new plans and that the low-intervention proposals were most popular.
-
-<img src="/images/carpentersnewsletter.png" class="img-fluid rounded img-thumbnail">
-
 In October 2020, a [council report](https://mgov.newham.gov.uk/documents/s139593/Appraisal%20of%20Tower%20Blocks%20on%20the%20Carpenters%20Estate%20Stratford%20-%20update%20and%20next%20steps%20V8%20Cabint%20issu.pdf) submitted to Newham’s cabinet committee suggested one of the neighbourhood’s existing towers – James Riley Point – could be retained and refurbished before the start of any wider redevelopment that would require a residents’ ballot.
 
 James Riley Point was almost entirely decanted along with Dennison Point and Lund Point as part of the previous regeneration approach which was abandoned in 2018.
+
+In July 2021, Newham's Cabinet approved proposals to refurbish existing homes at James Riley Point, Lund Point and Biggerstaff Terrace (subject to ballot).
+
+Homes and buildings in Dennison Point, Gibbins Road, Doran Walk, Jupp Road, Kennard Road, Rosher Close, Warton Road and Wilmer Lea Close would be demolished and rebuilt.
+
+Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes.
+
+A formal Landlord Offer is set to be issued in Autumn 2021 and a ballot held in Winter 2021/22.
+
+__Links:__
+
+[Consultation website - https://thecarpentersestate.commonplace.is](https://thecarpentersestate.commonplace.is/)
