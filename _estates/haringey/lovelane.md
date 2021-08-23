@@ -1,8 +1,12 @@
 ---
-category: underthreat
-stage: Proposal
 name: Love Lane estate
 borough: haringey
+location: '{"type":"Point","coordinates":[-0.069012,51.604415]}'
+ballot: Pending
+landlord: Haringey Council
+developer: null
+itla: Damian Tissier Microfish Communications
+total: 297
 thumb: /images/love_lane5thumb.jpg
 images:
   - /images/love_lane5.jpg
@@ -20,13 +24,9 @@ images:
   - /images/love_lane12.jpg
   - /images/love_lane13.jpg
   - /images/love_lane14.jpg
-location: '{"type":"Point","coordinates":[-0.069012,51.604415]}'
-landlord: Haringey Council
-developer:
-itla: Damian Tissier Microfish Communications
-total: 297
-ballot: Pending
-planning:
+planning: null
+category: underthreat
+stage: Proposal
 ---
 
 297 council homes on the Love Lane estate have been earmarked for redevelopment as part of [Haringey's regeneration of Tottenham](https://tottenham.london/HighRoadWest).
@@ -35,7 +35,13 @@ The estate was originally designated for redevelopment by Haringey Council’s c
 
 <img src="/images/lovelanent5.png" class="img-fluid rounded img-thumbnail">
 
-Haringey Council began rehousing secure tenants in February 2015 and there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). A resident’s ballot is due to take place on the estate before the scheme proceeds.
+Haringey Council began rehousing secure tenants in February 2015 and there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). 
+
+In August 2021, Haringey published its [Landlord Offer](https://www.haringey.gov.uk/sites/haringeygovuk/files/love_lane_landlord_offer_final.pdf) to residents.
+
+The offer proposes to replace the estate's 297 homes with 2,600 new homes, of which 40% 'affordable'. Of the affordable homes 500 are set to be council homes at council rent.
+
+The ballot ends on 6th September and the results will be published shortly afterwards.
 
 There is an active residents campaign group - TAG (Love Lane Temporary Accommodation Group):
 
