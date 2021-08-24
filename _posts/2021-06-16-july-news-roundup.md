@@ -51,22 +51,12 @@ The [viability assessment](https://msp.havering.gov.uk/planning/search-applicati
 £33.5m of public funding 
 290 homes (214 council)
 
-
-
-## Carpenters and Love Lane - ballot
-
-The proposals are to refurbish existing homes at James Riley Point, Lund Point and Biggerstaff Terrace.
-
-Homes and buildings in Dennison Point, Gibbins Road, Doran Walk, Jupp Road, Kennard Road, Rosher Close, Warton Road and Wilmer Lea Close would be demolished and rebuilt.
-
-Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes.
-
-## Petition tax incentice refurbishment
-
-https://petition.parliament.uk/petitions/573207
-
 ## Wendling estate - ballot approved
 
 Also Calverley Close
 
+and Barkantine estate
+
 !\[](/images/wendlingballot.png)
+
+This combined with the offer of upsizing for overcrowded households and secure tenancies for temporary tenants as well as pressure exerted by landlords is .. ballots run..
