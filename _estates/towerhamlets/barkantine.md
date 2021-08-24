@@ -1,21 +1,21 @@
 ---
-category: underthreat
-stage: Proposal
 name: Barkantine estate
-borough: towerhamlets 
+borough: towerhamlets
+location: '{"type":"Point","coordinates":[-0.024181,51.498528]}'
+ballot: Required
+landlord: One Housing Group
+developer: null
+itla: Open Communities
+total: 72
 thumb: /images/barkantine1thumb.jpg
 images:
   - /images/barkantine1.jpg
   - /images/barkantine2.png
   - /images/barkantine3.png
   - /images/barkantine4.png
-location: '{"type":"Point","coordinates":[-0.024181,51.498528]}'
-landlord: One Housing Group
-developer:
-itla: Open Communities
-total: 72
-ballot:
-planning:
+planning: null
+category: underthreat
+stage: Proposal
 ---
 72 homes are under threat on the Barkantine estate in Tower Hamlets. 
 
@@ -46,7 +46,11 @@ In 2019, One Housing created a steering group to work with residents of 72 homes
 
 <img src="/images/bktine.png" class="img-fluid rounded img-thumbnail">
 
-In April 2021, One Housing published its [Landlord Offer](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf) for tenants and leaseholders and held a ballot. The results of the ballot have not been published.
+In April 2021, One Housing published its [Landlord Offer](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf) for tenants and leaseholders and held a ballot. The ballot resulted in 87% of residents voting in favour of the scheme on a 93% turnout. 
+
+The Landlord offer proposes a total of 280 new homes, of which 72 are supposedly replacements for those residents who wish to return, 32 social rent, 39 shared ownership and 137 for private sale.
+
+The scheme is now in design stage ahead of a planning application being submitted.
 
 __Links:__  
 One Housing's Landlord Offer - [https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0011/26300/Kedge-House,-Starboard-Way-and-Winch-House-Our-offer-to-residents.pdf)
