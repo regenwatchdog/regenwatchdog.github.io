@@ -1,8 +1,12 @@
 ---
-category: underthreat
-stage: Preparation
-name: Waterloo Road estate 
+name: Waterloo Road estate
 borough: havering
+location: '{"type":"Point","coordinates":[0.176900,51.574334]}'
+ballot: Exempt
+landlord: Havering Council
+developer: Wates
+itla: TPAS
+total: "290"
 thumb: /images/w1thumb.jpg
 images:
   - /images/w1.jpg
@@ -12,15 +16,11 @@ images:
   - /images/w5.png
   - /images/waterloo_road.jpg
   - /images/waterlooaerial.png
-location: '{"type":"Point","coordinates":[0.176900,51.574334]}'
-landlord: Havering Council
-developer: Wates
-itla: TPAS
-total: 285
-ballot: Exempt
 planning: Approved
+category: underthreat
+stage: Preparation
 ---
-343 homes are under threat of demolition on Havering's Waterloo road and Queen's street estate in Romford.
+290 homes are under threat of demolition on Havering's Waterloo road and Queen's street estate in Romford.
 
 The estate is situated between Romford Town Centre and lies just a third of a mile away from the site of the new Crossrail station.
 
