@@ -38,9 +38,9 @@ The stock transfer agreement committed Circle to improving the quality of accomm
 
 The Mayor then approved £15m grant funding for the Eastfields estate scheme in June 2017 and [signed off](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) outline planning permission for the scheme in November 2018, despite it not meeting with his minimum affordable housing requirements (30% not 50% affordable and affordable rent rather than social rent).
 
-The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was \_"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."\_
+The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was _"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."_
 
-No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it will ...
+No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption.
 
 
 ## Waterloo Road estate - 
@@ -58,6 +58,6 @@ Also Calverley Close
 
 and Barkantine estate
 
-!\[](/images/wendlingballot.png)
+<img src="/images/wendlingballot.png" class="img-fluid rounded img-thumbnail">
 
 This combined with the offer of upsizing for overcrowded households and secure tenancies for temporary tenants as well as pressure exerted by landlords is .. ballots run..
