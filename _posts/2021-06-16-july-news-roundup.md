@@ -38,12 +38,24 @@ The stock transfer agreement committed Circle to improving the quality of accomm
 
 The Mayor then approved £15m grant funding for the Eastfields estate scheme in June 2017 and [signed off](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) outline planning permission for the scheme in November 2018, despite it not meeting with his minimum affordable housing requirements (30% not 50% affordable and affordable rent rather than social rent).
 
-The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was _"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."_
+The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was *"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."*
 
-No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption.
+No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption (albeit at the Mayor's discretion).
 
+## Thamesmead estate (East) - plans submitted with proposed net loss of social rent
+
+Peabody has submitted its plans for the demolition of 596 homes on the [Thamesmead estate (East)](https://www.estatewatch.london/estates/bexley/thamesmeadeast/) in Bexley.
+
+Peabody wants to triple the density, replacing the estate with 1,950 new homes of which just 61 social rent. A further 307 homes will be (London) affordable rent and 279 shared ownership, the remainder private for sale units.
+
+There is nothing in the application to explain why it fails to comply with the [Mayor's policy requirement](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) on no net loss of social rented homes.
+
+![https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf](/images/screenshot-2021-08-27-at-14-53-21-microsoft-word-better-homes-for-local-people-the-mayor-s-good-practice-guide-to-estat-...-.png "https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf")
+
+five phases with the final phase to complete in 2034.
 
 ## Waterloo Road estate - plans approved with net loss of 2 social rented homes
+
 Havering's planning committee has [narrowly approved plans](https://democracy.havering.gov.uk/documents/s52710/SPC%20-%20Final%20-%20Waterloo%20Committee%20Report%20-%20John%20K.pdf) for the estate's redevelopment allowing the demolition of the estate's 290 existing homes (214 of which council homes and 76 leasehold) and replacement with 1,380 new homes. Despite quadrupling the density of the site only 212 of the new homes will be social rented tenure.
 
 The application does also secure 197 homes at (London) affordable rent and 147 shared ownership, while the remaining 844 homes will all be private for-sale units.
@@ -58,7 +70,7 @@ Havering's [re-housing offer](https://www.havering.gov.uk/download/downloads/id/
 
 It makes no provision for the gap between the value leaesholders receive for their current homes and the cost of the replacement new-builds. It simply gives them 'first refusal' on the purchase of a new home - if they can afford it..
 
-
+This scheme is a good example of exempted...
 
 ## Wendling estate - ballot approved
 
