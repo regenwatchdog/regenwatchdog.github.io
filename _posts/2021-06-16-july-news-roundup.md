@@ -72,9 +72,11 @@ The viability assessment also shows that the Mayor is providing £18.5m grant fu
 
 Havering's [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1877/information_for_property_owners.pdf) for leaseholders displaced by their schemes is by far one of the poorest in comparison with other London boroughs.
 
-It makes no provision for the gap between the value leaesholders receive for their current homes and the cost of the replacement new-builds. It simply gives them 'first refusal' on the purchase of a new home - if they can afford it..
+It makes no provision for the gap between the value leaesholders receive for their current homes and the cost of the replacement new-builds. It simply gives them 'first refusal' on the purchase of a new home - if they can afford it or they can apply for one of the shared ownership homes once they have been built (and pay rent on the unowned share like other shared owners).
 
-The Waterloo road scheme is a good example of how the offer to residents being moved to make way for estate regeneration in inferior when the estate has been exempted by the Mayor from his ballot requirement. It is difficult to 
+The [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1851/local_lettings_plan.pdf) for tenants is not much better. There is no guarantee of a tenancy in one of the replacement social/affordable homes or a right to return. The only guarantee is two direct offers of a tenancy in a home on an estate elsewhere in the borough, albeit selected by the Council.
+
+The Waterloo road scheme is a good example of how the offer to residents on estates exempted by the Mayor from his ballot requirement, is inferior to those subjeted to ballots. It is difficult to believe that, had they been asked, residents of the Waterloo Road estate would have voted for demolition based on Havering's poor re-housing offer. 
 
 ## Wendling estate - ballot approved
 
