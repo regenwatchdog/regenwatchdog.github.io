@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August News Roundup
+title: August 2021 Bulletin
 date: 2021-06-16T10:21:57.116Z
 ---
 ## St Raphael's estate - saved from demolition
@@ -24,7 +24,7 @@ Hopefully other Councils will start following Brent's lead and realise the growi
 
 In June, Merton's Eastfields estate was in the news after an [ITV investigation](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes) uncovered the apalling conditions that tenants were being made to endure in their homes.
 
-![](/images/screenshot-2021-08-18-at-09-04-28-10-daniel-hewitt-danielhewittitv-twitter.png)
+<img src="/images/screenshot-2021-08-18-at-09-04-28-10-daniel-hewitt-danielhewittitv-twitter.png" class="img-fluid rounded img-thumbnail">
 
 The rats, leaks and collapsed ceilings found in the ITV report led to an inquiry by the Social Housing Regulator. But in August that inquiry cleared Clarion of any wrongdoing, finding no evidence of “organisational failure.”
 
@@ -43,14 +43,22 @@ The outline planning consent said that the scheme would be progressed in five ph
 No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption.
 
 
-## Waterloo Road estate - 
-Havering Council has approved its own application for the demolition of 290 homes on the Waterloo Road estate.
-The [viability assessment](https://msp.havering.gov.uk/planning/search-applications#DOC?DocNo=2505377) submitted for the scheme, says that it cannot meet the Mayor's 50% affordable housing requirement because the scheme is not viable. i.e. the scheme only provides 6% profit for Wates (Havering's development partner) and not the 14% it says it requires..
+## Waterloo Road estate - plans approved with net loss of 2 social rented homes
+Havering's planning committee has [narrowly approved plans](https://democracy.havering.gov.uk/documents/s52710/SPC%20-%20Final%20-%20Waterloo%20Committee%20Report%20-%20John%20K.pdf) for the estate's redevelopment allowing the demolition of the estate's 290 existing homes (214 of which council homes and 76 leasehold) and replacement with 1,380 new homes. Despite quadrupling the density of the site only 212 of the new homes will be social rented tenure.
 
-1,380 new homes 212 SR 197 AR, 147 SO
-£18.5m grant funding and £15m spent on the scheme by Havering to date.
-£33.5m of public funding 
-290 homes (214 council)
+The application does also secure 197 homes at (London) affordable rent and 147 shared ownership, while the remaining 844 homes will all be private for-sale units.
+
+The scheme is being [funded](/approved/funding) by the Mayor and has been exempted from his [requirement](/approved/ballotexemptions) to ballot residents on the demolition of their homes.
+
+The [viability assessment](https://msp.havering.gov.uk/planning/search-applications#DOC?DocNo=2505377) submitted for the scheme, says that it cannot provide more social rented homes or meet the Mayor's 50% affordable housing requirement because the scheme is not viable. - i.e. the scheme only provides 6% profit for Wates (Havering's development partner) and not the 14% the viability assessment says that it requires.
+
+The viability assessment also shows that the Mayor is providing £18.5m grant funding to the Council and its development partner for the redevelopment of the estate. It also states that Havering Council has spent over £15m decanting the estate (para 7.15). There is nothing in the planning application explaining how it complies with the Mayor's policy requirement that demolition is being pursued as a last resort and no cost/benefit analysis to show that the £33.5m in public funds couldn't have been better spent on refurbishment or in-fill development.
+
+Havering's [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1877/information_for_property_owners.pdf) for leaseholders displaced by their schemes is by far one of the poorest in comparison with other London boroughs.
+
+It makes no provision for the gap between the value leaesholders receive for their current homes and the cost of the replacement new-builds. It simply gives them 'first refusal' on the purchase of a new home - if they can afford it..
+
+
 
 ## Wendling estate - ballot approved
 
