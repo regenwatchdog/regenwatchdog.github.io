@@ -48,11 +48,13 @@ Peabody has submitted its plans for the demolition of 596 homes on the [Thamesme
 
 Peabody wants to triple the density, replacing the estate with 1,950 new homes of which just 61 social rent. A further 307 homes will be (London) affordable rent and 279 shared ownership, the remainder private for sale units.
 
-There is nothing in the application to explain why it fails to comply with the [Mayor's policy requirement](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) on no net loss of social rented homes.
+There is nothing in the application to explain why it fails to comply with the [Mayor's policy requirement](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) of 50% affordable housing and no net loss of social rented homes.
 
-![https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf](/images/screenshot-2021-08-27-at-14-53-21-microsoft-word-better-homes-for-local-people-the-mayor-s-good-practice-guide-to-estat-...-.png "https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf")
+<img src="/images/screenshot-2021-08-27-at-14-53-21-microsoft-word-better-homes-for-local-people-the-mayor-s-good-practice-guide-to-estat-.png" class="img-fluid rounded img-thumbnail">
 
-five phases with the final phase to complete in 2034.
+Neither is there any explanation as to how the scheme complies with the Mayor's requirement that alternatives to demolition have been explored and demolition is being pursued as a last resort.
+
+Peabody has submitted a [financial viability assessment](https://pa.bexley.gov.uk/online-applications/files/2FE1C374ADB0323DE13C63386406CECD/pdf/21_01948_OUTEA-FVA_APPENDED-2670425.pdf) explaining that it can't provide more social or affordable housing because the scheme is not viable. In its calculations Peabody has included a 16% profit margin (amounting to £110m) as a cost to the scheme, which it says is the minimum profit it requires - despite it being a non-profit charitable trust rather than a developer.
 
 ## Waterloo Road estate - plans approved with net loss of 2 social rented homes
 
