@@ -74,7 +74,7 @@ Havering's [re-housing offer](https://www.havering.gov.uk/download/downloads/id/
 
 It makes no provision for the gap between the value leaesholders receive for their current homes and the cost of the replacement new-builds. It simply gives them 'first refusal' on the purchase of a new home - if they can afford it..
 
-This scheme is a good example of exempted...
+The Waterloo road scheme is a good example of how the offer to residents being moved to make way for estate regeneration in inferior when the estate has been exempted by the Mayor from his ballot requirement. It is difficult to 
 
 ## Wendling estate - ballot approved
 
