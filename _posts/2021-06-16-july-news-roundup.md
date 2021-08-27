@@ -46,6 +46,8 @@ No further information is available surrounding the ongoing and extensive delays
 
 Peabody has submitted its plans for the demolition of 596 homes on the [Thamesmead estate (East)](https://www.estatewatch.london/estates/bexley/thamesmeadeast/) in Bexley.
 
+![](/images/screenshot-2021-08-27-at-14-40-44-21_01948_outea-fva_appended-2670425-pdf.png)
+
 Peabody wants to triple the density, replacing the estate with 1,950 new homes of which just 61 social rent. A further 307 homes will be (London) affordable rent and 279 shared ownership, the remainder private for sale units.
 
 There is nothing in the application to explain why it fails to comply with the [Mayor's policy requirement](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) of 50% affordable housing and no net loss of social rented homes.
