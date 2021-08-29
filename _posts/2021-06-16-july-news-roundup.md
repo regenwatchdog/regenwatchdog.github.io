@@ -41,6 +41,7 @@ The Mayor then approved £15m grant funding for the Eastfields estate scheme in 
 The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was *"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."*
 
 No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption (albeit at the Mayor's discretion).
+ 
 
 ## Thamesmead estate (East) - plans submitted with proposed net loss of social rent
 
@@ -57,6 +58,16 @@ There is nothing in the application to explain why it fails to comply with the [
 Neither is there any explanation as to how the scheme complies with the Mayor's requirement that alternatives to demolition have been explored and demolition is being pursued as a last resort.
 
 Peabody has submitted a [financial viability assessment](https://pa.bexley.gov.uk/online-applications/files/2FE1C374ADB0323DE13C63386406CECD/pdf/21_01948_OUTEA-FVA_APPENDED-2670425.pdf) explaining that it can't provide more social or affordable housing because the scheme is not viable. In its calculations Peabody has included a 16% profit margin (amounting to £110m) as a cost to the scheme, which it says is the minimum profit it requires - despite it being a non-profit charitable trust rather than a developer.
+
+## High Lane estate plans approved with net loss of 71 social rented homes
+
+Ealing's planning committee has [approved](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=bUieVZnWOS0tTI3Bj9sRKXwmZtamxCf6KTAbFBvU6FZ9z58fxKuigQ%3d%3d&rUzwRPf%2bZ3zd4E7Ikn8Lyw%3d%3d=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2fLUQzgA2uL5jNRG4jdQ%3d%3d&mCTIbCubSFfXsDGW9IXnlg%3d%3d=hFflUdN3100%3d&kCx1AnS9%2fpWZQ40DXFvdEw%3d%3d=hFflUdN3100%3d&uJovDxwdjMPoYv%2bAJvYtyA%3d%3d=ctNJFf55vVA%3d&FgPlIEJYlotS%2bYGoBi5olA%3d%3d=NHdURQburHA%3d&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3d&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3d&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3d) its development partner Rydon's application for the demolition of the High Lane estate in Hanwell. The plans propose the construction of 505 new homes of which just 142 social rent, whilst a further 75 will be set at London Affordable Rent levels.
+﻿
+<img src="https://www.estatewatch.london/images/highlaneaerial.png" class="img-fluid rounded img-thumbnail">
+
+As continue to be the case with these ongoing estate redevelopment applications, the Mayor's minimum policy requirements have been routinely ignored. The Mayor's supposed no net loss of social rent, the 50% affordable housing requirement, the requirement to explore alternatives to demolition have all been completely ignored, as well as the Mayor's requirement to publish the viability assessment explaining with the affordable housing offer falls short of the policy quota.
+
+The application is yet to be signed off by the Mayor so it remains within his power to 'call it in' for further scrutiny. Given that Ealing Council is a Labour-controlled Council this remains very unlikely.
 
 ## Waterloo Road estate - plans approved with net loss of 2 social rented homes
 
@@ -79,11 +90,13 @@ The [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1851/lo
 The Waterloo road scheme is a good example of how the offer to residents on estates exempted by the Mayor from his ballot requirement, is inferior to those subjeted to ballots. It is difficult to believe that, had they been asked, residents of the Waterloo Road estate would have voted for demolition based on Havering's poor re-housing offer. 
 
 ## Wendling estate - ballot approved
+Three more estates have voted in favour of redevelopment versus ongoing managed disinvestment. These include the [Calverley Close estate] in Lewisham, the [Barkantine estate] in Tower Hamlets and the Wendling estate in Camden. 
 
-Also Calverley Close
-
-and Barkantine estate
+As usual, residents were given two starkly different options; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and larger homes for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's Landlord Offer was quite explicit in this regard:   
 
 <img src="/images/wendlingballot.png" class="img-fluid rounded img-thumbnail">
 
-This combined with the offer of upsizing for overcrowded households and secure tenancies for temporary tenants as well as pressure exerted by landlords is .. ballots run..
+Four more ballots are pending:
+
+
+.
