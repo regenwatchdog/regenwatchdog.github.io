@@ -92,9 +92,23 @@ The Waterloo road scheme is a good example of how the offer to residents on esta
 ## Wendling estate - ballot approved
 Three more estates have voted in favour of redevelopment versus ongoing managed disinvestment. These include the [Calverley Close estate] in Lewisham, the [Barkantine estate] in Tower Hamlets and the Wendling estate in Camden. 
 
-As usual, residents were given two starkly different options; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and larger homes for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's Landlord Offer was quite explicit in this regard:   
+As usual, residents were given two stark alternatives; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and homes with extra bedrooms for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes it clear that if residents vote against demolition the Council has no immediate plans to resolve the estate's ongoing maintenance issues. As has become [common practice](https://www.estatewatch.london/approved/ballotexemptions/) in estate regeneration ballots - refurbishment is not an option on the ballot paper.
 
-<img src="/images/wendlingballot.png" class="img-fluid rounded img-thumbnail">
+<img src="/images/wendlingnovote.png" class="img-fluid rounded img-thumbnail">
+
+Camden's pre-ballot information [booklets](/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
+
+<figure class="figure">
+<img src="/images/wendlingbooklet.png" class="img-fluid rounded img-thumbnail">
+<figcaption class="figure-caption text-right">Extracts from Camden's <a href="/images/wendlingbooklet.pdf">information booklets</a> about the scheme.</figcaption>
+</figure>
+
+Residents have long since been reporting issues concerning the lack of maintenance on the estate, with the TRA [claiming](http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate) that the Council has given up on basic maintenance and repairs because the estate is earmarked for redevelopment:
+
+<figure class="figure">
+<img src="/images/camdennewjournal.png" class="img-fluid rounded img-thumbnail">
+<figcaption class="figure-caption text-right">Article in the <a href="http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate">Camden New Journal</a> March 2020.</figcaption>
+</figure>
 
 Four more ballots are pending:
 
