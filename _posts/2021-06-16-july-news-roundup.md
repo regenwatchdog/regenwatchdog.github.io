@@ -112,12 +112,9 @@ Residents have long since been reporting issues concerning the lack of maintenan
 <figcaption class="figure-caption text-right">Article in the <a href="http://camdennewjournal.com/article/daily-battle-to-fix-estate-lifts-in-gospel-oak-estate">Camden New Journal</a> March 2020.</figcaption>
 </figure>
 
-Four more ballots are pending:
+Four more estate ballots are currently approaching or in process: the [Joyce Snells estate](https://www.estatewatch.london/estates/enfield/joycesnells/) in Enfield; the [Love Lane estate](https://www.estatewatch.london/estates/haringey/lovelane/) in Haringey
+and the [Carpenters estate](https://www.estatewatch.london/estates/newham/carpenters/) in Newham.
 
-* The [Joyce Snells estate](https://www.estatewatch.london/estates/enfield/joycesnells/) in Enfield
-* The [Love Lane estate](https://www.estatewatch.london/estates/haringey/lovelane/) in Haringey
-* The [Carpenters estate](https://www.estatewatch.london/estates/newham/carpenters/) in Newham
-* The [Custom House estates](https://www.estatewatch.london/estates/newham/customhouse/) in Newham
 
 
 .
