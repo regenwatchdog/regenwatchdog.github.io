@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+category: updates
 title: June 2021 Bulletin
 date: 2021-06-22
 comments: true
