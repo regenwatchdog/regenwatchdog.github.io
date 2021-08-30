@@ -1,11 +1,11 @@
 ---
 layout: post
 title: August 2021 Bulletin
-date: 2021-06-16T10:21:57.116Z
+date: 2021-08-30T07:46:30.280Z
 ---
 ## St Raphael's estate - saved from demolition
 
-Brent Council has come to its senses and decided not to proceed with demolition of the St Raphael's estate.
+Brent Council has finally come to its senses and decided not to proceed with demolition of the St Raphael's estate.
 
 In a [letter](https://www.brent.gov.uk/media/16419105/infill-plus-resident-letter-vfinal-website.pdf) recently circulated by the leader of Brent Council, residents were told that *"the redevelopment option is no longer affordable at this point 
 in time"* and that the planned ballot would no longer go ahead. Instead Brent Council said it will be pursuing an in-fill option to provide extra council homes on the estate.
@@ -89,8 +89,10 @@ The [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1851/lo
 
 The Waterloo road scheme is a good example of how the offer to residents on estates exempted by the Mayor from his ballot requirement, is inferior to those subjeted to ballots. It is difficult to believe that, had they been asked, residents of the Waterloo Road estate would have voted for demolition based on Havering's poor re-housing offer. 
 
-## Wendling estate - ballot approved
+## Three more ballots approved - refurbishment option remains absent from ballot papers
 Three more estates have voted in favour of redevelopment versus ongoing managed disinvestment. These include the [Calverley Close estate] in Lewisham, the [Barkantine estate] in Tower Hamlets and the Wendling estate in Camden. 
+
+<img src="https://www.estatewatch.london/images/ballot_paper1.jpg" class="img-fluid rounded img-thumbnail">
 
 As usual, residents were given two stark alternatives; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and homes with extra bedrooms for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes it clear that if residents vote against demolition the Council has no immediate plans to resolve the estate's ongoing maintenance issues. As has become [common practice](https://www.estatewatch.london/approved/ballotexemptions/) in estate regeneration ballots - refurbishment is not an option on the ballot paper.
 
