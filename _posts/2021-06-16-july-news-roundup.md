@@ -112,5 +112,10 @@ Residents have long since been reporting issues concerning the lack of maintenan
 
 Four more ballots are pending:
 
+* Joyce Snells estate in Enfield
+* Love Lane estate in Haringey
+* Carpenters estate in Newham
+* Custom House estates in Newham
+
 
 .
