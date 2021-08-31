@@ -1,8 +1,12 @@
 ---
-category: underthreat
-stage: Proposal
 name: St. Raphael's estate
 borough: brent
+location: '{"type":"Point","coordinates":[-0.264695,51.552600]}'
+ballot: Pending
+landlord: Brent Council
+developer: null
+itla: PPCR
+total: 793
 thumb: /images/straphaels2thumb.jpg
 images:
   - /images/straphaels2.jpg
@@ -20,13 +24,9 @@ images:
   - /images/ST_raphaels_maisonettes.jpg
   - /images/St_raphaels_river1.jpg
   - /images/ST_raphaels_river2.jpg
-location: '{"type":"Point","coordinates":[-0.264695,51.552600]}'
-landlord: Brent Council
-developer:
-itla: PPCR
-total: 793
-ballot: Pending
-planning:
+planning: null
+category: underthreat
+stage: Proposal
 ---
 793 homes on the St Raphael's estate in Neasden have been earmarked for potential demolition by Brent Council (see area A in map below). 
 
@@ -53,17 +53,14 @@ A [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%2
 <img src="/images/viabilitygap.png" class="img-fluid rounded img-thumbnail">
 *Extract from the Council's [Dec 2019 Cabinet report](http://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf)*
 
-A ballot is expected to be held in Autumn 2020, with two options for residents to choose from; infill or comprehensive redevelopment. Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) (distributed to residents in Dec 2019) makes it clear that if infill is the preferred option then the estate may not receive any investment for improving current housing conditions:  
+A ballot was due to be held in Autumn 2021, but in August 2021 Brent Council finally came to its senses and decided not to proceed with demolition.
 
-<img src="/images/st-raphaels-faq.png" class="img-fluid rounded img-thumbnail">
-*Extract from Brent Council's [FAQ document](/images/st-raphaels-faq.pdf) distributed to residents in Dec 2019*
+In a [letter](https://www.brent.gov.uk/media/16419105/infill-plus-resident-letter-vfinal-website.pdf) circulated by the leader of Brent Council, residents were told that *"the redevelopment option is no longer affordable at this point 
+in time"* and that the planned ballot would no longer go ahead. Instead Brent Council said it will be pursuing an in-fill option to provide extra council homes on the estate.
 
-## Rehousing offer
-The small print in Brent's [rehousing offer](http://democracy.brent.gov.uk/documents/s60550/Improving%20the%20Housing%20Offer%20for%20Tenants%20and%20Leaseholders.pdf) to leaseholders fails to provide a credible right of return to leaseholders on the redeveloped estate.
+<img src="/images/ST_raphaels_blocks.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-Brent requires leaseholders to be able to afford a minimum 50% share in a shared equity home on the redeveloped estate, as well as requiring them to contribute their personal savings into their share(paras 5.8.2 and 5.8.3).
-
-This was [ruled unlawful](https://www.insidehousing.co.uk/news/news/javid-rejects-aylesbury-cpo-bid-on-human-rights-grounds-48078) by the Secretary of State following a public inquiry for Aylesbury estate leaseholders in 2015, where Southwark Council had to revise its policy to require a 25% minimum share without savings contributions and with several other concessions i.e. - succession rights, proportioned service charge payments, stamp duty etc. See [here](https://regenwatch.github.io/guide/#leaseholders) for more information on leaseholders' rights.
+A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) had already acknowledged that the proposed scheme suffered from a £22m viability gap. Brent Council deserves some credit for calling time on this scheme, although it's not clear why it didn't do so earlier.
 
 ## Links
 Brent Council's web page: [https://www.brent.gov.uk/your-community/st-raphaels-estate/](https://www.brent.gov.uk/your-community/st-raphaels-estate/)
