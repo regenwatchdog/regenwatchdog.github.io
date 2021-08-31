@@ -36,15 +36,15 @@ We note that the proposed tenure mix is different from the tenure mix presented 
 
 This raises a question about the integrity of the Mayor's ballot requirement. The Mayor's [policy on ballots](https://www.london.gov.uk/sites/default/files/gla_cfg_section_8._resident_ballots_-_18_july_2018.pdf) is clear that he may terminate funding for schemes, which have deviated from the original tenure mix that residents were balloted on (see para 8.7.3). It remains to be seen whether the Mayor will pick this up or take any action.
 
-As with numerous other estate demolition applications, this application fails to comply with the Mayor’s requirement to explore alternatives to demolition. It is therefore impossible to know whether the £13m in Mayoral grant funding and £23 that Ealing Council is spending on the scheme would be better spent on refurbishment and infill/new-build - (see para 3.4.7 of [this Council report](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=T29KJkkv6%2B%2FEOf%2F4pv0XwtQAUSiI7enW%2FlmOaGncZVyUQOQgHSXqXw%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D)) for scheme costs.
+In July 2021, Ealing's planning committee [approved](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=bUieVZnWOS0tTI3Bj9sRKXwmZtamxCf6KTAbFBvU6FZ9z58fxKuigQ%3d%3d&rUzwRPf%2bZ3zd4E7Ikn8Lyw%3d%3d=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2fLUQzgA2uL5jNRG4jdQ%3d%3d&mCTIbCubSFfXsDGW9IXnlg%3d%3d=hFflUdN3100%3d&kCx1AnS9%2fpWZQ40DXFvdEw%3d%3d=hFflUdN3100%3d&uJovDxwdjMPoYv%2bAJvYtyA%3d%3d=ctNJFf55vVA%3d&FgPlIEJYlotS%2bYGoBi5olA%3d%3d=NHdURQburHA%3d&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3d&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3d&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3d) its development partner Rydon's application for the demolition of the estate. 
+﻿
+<img src="https://www.estatewatch.london/images/highlaneaerial.png" class="img-fluid rounded img-thumbnail" width="60%">
 
-Rydon has also failed to publish its viability assessment for the application so it is impossible to know whether the maximum amount of affordable housing is beieng provided. Since 2018, making viability assessments public has been another one of the Mayor's policy requirements which is being routinely ignored by developers and local authorities.
+As continues to be the case with these ongoing estate redevelopment applications, the Mayor's minimum policy requirements have been routinely ignored. The Mayor's supposed no net loss of social rent, the 50% affordable housing requirement, the requirement to explore alternatives to demolition have all been completely ignored, as well as the Mayor's requirement to publish the viability assessment explaining with the affordable housing offer falls short of the policy quota.
 
 You can view the planning application documents on Ealing's planning portal [here](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00).
 
 The Mayor's stage 1 planning report giving 'in principle' approval to the scheme is available on the GLA planning portal here: [https://gla.force.com/pr/s/planning-application/a0i4J000002V7cwQAC/20210031?tabset-c2f3b=2](https://gla.force.com/pr/s/planning-application/a0i4J000002V7cwQAC/20210031?tabset-c2f3b=2)
-
-On 21 July 2021, Ealing's planning committee unanimously approved the application. The planning committee report is available [here](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=bUieVZnWOS0tTI3Bj9sRKXwmZtamxCf6KTAbFBvU6FZ9z58fxKuigQ%3d%3d&rUzwRPf%2bZ3zd4E7Ikn8Lyw%3d%3d=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2fLUQzgA2uL5jNRG4jdQ%3d%3d&mCTIbCubSFfXsDGW9IXnlg%3d%3d=hFflUdN3100%3d&kCx1AnS9%2fpWZQ40DXFvdEw%3d%3d=hFflUdN3100%3d&uJovDxwdjMPoYv%2bAJvYtyA%3d%3d=ctNJFf55vVA%3d&FgPlIEJYlotS%2bYGoBi5olA%3d%3d=NHdURQburHA%3d&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3d&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3d&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3d).
 
 The Mayor is yet to publish his stage 2 final report for the scheme and the Section 106 agreement is also yet to be published.
 
@@ -52,6 +52,8 @@ Ealing says that tenants will have a right to return to the redeveloped estate a
 
 __Links:__  
 Ealing Council website - [https://www.ealing.gov.uk/info/201104/housing_regeneration/2346/high_lane_estate/1](https://www.ealing.gov.uk/info/201104/housing_regeneration/2346/high_lane_estate/1)
+
+[July 2021 planning committee report](https://ealing.cmis.uk.com/ealing/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=bUieVZnWOS0tTI3Bj9sRKXwmZtamxCf6KTAbFBvU6FZ9z58fxKuigQ%3d%3d&rUzwRPf%2bZ3zd4E7Ikn8Lyw%3d%3d=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2fLUQzgA2uL5jNRG4jdQ%3d%3d&mCTIbCubSFfXsDGW9IXnlg%3d%3d=hFflUdN3100%3d&kCx1AnS9%2fpWZQ40DXFvdEw%3d%3d=hFflUdN3100%3d&uJovDxwdjMPoYv%2bAJvYtyA%3d%3d=ctNJFf55vVA%3d&FgPlIEJYlotS%2bYGoBi5olA%3d%3d=NHdURQburHA%3d&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3d&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3d&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3d).
 
 Planning application docs - [https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00](https://pam.ealing.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QMEOPIJM0GW00)
 
