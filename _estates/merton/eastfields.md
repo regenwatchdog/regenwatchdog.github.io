@@ -1,9 +1,12 @@
 ---
-category: underthreat
-erg: noncompliant
 name: Eastfields estate
-stage: Implementation 
 borough: merton
+location: '{"type":"Point","coordinates":[-0.149209,51.407168]}'
+ballot: Exempt
+landlord: Clarion Group
+developer: null
+itla: null
+total: 446
 thumb: /images/ef4thumb.jpg
 images:
   - /images/ef4.jpg
@@ -11,13 +14,10 @@ images:
   - /images/ef2.jpg
   - /images/ef3.jpg
   - /images/ef5.jpg
-location: '{"type":"Point","coordinates":[-0.149209,51.407168]}'
-landlord: Clarion Group
-developer:
-itla:
-total: 446
-ballot: Exempt
+erg: noncompliant
 planning: Approved
+category: underthreat
+stage: Implementation
 ---
 In Nov 2018, the Mayor approved the demolition of 446 homes on Merton's Eastfields estate, to be replaced by 800 homes of which only 262 affordable (all at affordable rent of up to 80% market rent or [LHA levels](https://www.gov.uk/government/publications/understanding-local-housing-allowances-rates-broad-rental-market-areas) - whichever is lower).
 
@@ -49,9 +49,25 @@ Savills was later also instructed to produce a [financial viability appraisal](h
 
 It is worth noting that the three Merton estates provide something that no other regeneration scheme has offered - namely, a very generous [re-housing offer](http://35percent.org/img/mertonoffer.pdf) to leaseholders which gives them full equity of one of the new-build replacement homes after 11 years.
 
-In June 2021, Clarion came under fire after an [ITV report](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes) exposed the appaling conditions faced by some of the estate's residents.
+In June 2021, the estate was in the news after an [ITV investigation](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes) uncovered the apalling conditions that tenants were being made to endure in their homes.
 
-In July 2021, the Social Housing Regulator is [reported](https://www.insidehousing.co.uk/news/news/regulator-considering-whether-clarion-breached-standards-following-itv-reports-71416) to be considering whether Clarion has breached its standards. This comes after a previous investigation into similar complaints from residents in Clarion homes in Tower Hamlets.
+<img src="/images/screenshot-2021-08-18-at-09-04-28-10-daniel-hewitt-danielhewittitv-twitter.png" class="img-fluid rounded img-thumbnail">
+
+The rats, leaks and collapsed ceilings found in the ITV report led to an inquiry by the Social Housing Regulator. But in August that inquiry cleared Clarion of any wrongdoing, finding no evidence of “organisational failure.”
+
+It has since emerged that not a single tenant was spoken to or property inspected by the Regulator as part of the inquiry.
+
+It also [turns out](https://www.mylondon.news/news/south-london-news/thousands-living-london-slum-estates-21308221) that the Regulator waived the ‘Decent Homes Standard’ upon Clarion’s request on the Eastfields estate in 2014, meaning housing conditions were allowed to fall below basic legal requirements a long time ago.
+
+Ownership of the Estate was acquired by Circle Housing Group in 2010 as part of Stock Transfer Agreement containing all of Merton's council housing stock, totalling circa 9,500 homes.
+
+The stock transfer agreement committed Circle to improving the quality of accommodation to at least Decent Homes Standard by 2015. Circle then became Clarion after its merger with Affinity Sutton and decided in 2016 to demolish instead of improve the estate, following an [options appraisal assessment](https://www.merton.gov.uk/assets/Documents/www2/eastfields_-_chmp_case_for_regen.pdf) carried out by Savills. 
+
+The Mayor then approved £15m grant funding for the Eastfields estate scheme in June 2017 and [signed off](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) outline planning permission for the scheme in November 2018, despite it not meeting with his minimum affordable housing requirements (30% instead of 50% affordable and affordable rent rather than social rent).
+
+The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was *"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."*
+
+No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption (albeit at the Mayor's discretion).
 
 __Links:__  
 
