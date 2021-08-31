@@ -13,13 +13,13 @@ in time"* and that the planned ballot would no longer go ahead. Instead Brent Co
 
 <img src="/images/ST_raphaels_blocks.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
-A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) already acknowledged that the scheme had a £22m viability gap. Brent Council deserves some credit for calling time on this scheme, although it's not clear why it didn't do so earlier.
+A [December 2019 Cabinet report](https://democracy.brent.gov.uk/documents/s92415/09.%20Cabinet%20Report_Future%20St%20Raphaels%20Masterplanning_Final%2026%2011%2019.pdf) had already acknowledged that the proposed scheme suffered from a £22m viability gap. Brent Council deserves some credit for calling time on this scheme, although it's not clear why it didn't do so earlier.
 
-Estate redevelopment is rarely viable but Councils often plough on nonetheless. We [pointed out last year](https://www.estatewatch.london/november-news-roundup/) that Kingston Council is stumping up nearly £200m to plug the viability gap in its regeneration of the Cambridge Road estate, along with £60m of Mayoral funding. In June we [reported](https://www.estatewatch.london/june-news-roundup/) that Westminster Council was stumping up £198m to plug the viability gap in its redevelopment of the Ebury Bridge estate.
+Estate redevelopment is rarely viable but Councils often plough on nonetheless, plugging funding gaps with its own scarce resources. We [pointed out last year](https://www.estatewatch.london/november-news-roundup/) that Kingston Council is stumping up nearly £200m to plug the viability gap in its regeneration of the [Cambridge Road estate](https://www.estatewatch.london/estates/kingston/cambridgeroad/), along with £60m of Mayoral funding. In June we [reported](https://www.estatewatch.london/june-news-roundup/) that Westminster Council was stumping up £198m to plug the viability gap in its redevelopment of the [Ebury Bridge estate](https://www.estatewatch.london/estates/westminster/eburybridge/).
 
 Southwark Council is [coughing up £138m](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=57412) to see through just the first phase of its [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) redevelopment (not including leaseholder buyback costs, demolition or tenant rehousing costs), as well as £54m in Mayoral grant funding.
 
-Hopefully other Councils will start following Brent's lead and realise the growing [economic, social and environmental advantages of refurbishment](https://estatewatch.london/refurbishment).
+Hopefully other Councils will start coming to their senses and follow Brent's lead in realising the growing [economic, social and environmental advantages of refurbishment](https://estatewatch.london/refurbishment).
 
 ## Eastfields estate
 
@@ -37,7 +37,7 @@ Ownership of the Estate was acquired by Circle Housing Group in 2010 as part of 
 
 The stock transfer agreement committed Circle to improving the quality of accommodation to at least Decent Homes Standard by 2015. Circle then became Clarion after its merger with Affinity Sutton and decided in 2016 to demolish instead of improve the estate, following an [options appraisal assessment](https://www.merton.gov.uk/assets/Documents/www2/eastfields_-_chmp_case_for_regen.pdf) carried out by Savills. 
 
-The Mayor then approved £15m grant funding for the Eastfields estate scheme in June 2017 and [signed off](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) outline planning permission for the scheme in November 2018, despite it not meeting with his minimum affordable housing requirements (30% not 50% affordable and affordable rent rather than social rent).
+The Mayor then approved £15m grant funding for the Eastfields estate scheme in June 2017 and [signed off](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_437651///eastfields_estate_report.pdf) outline planning permission for the scheme in November 2018, despite it not meeting with his minimum affordable housing requirements (30% instead of 50% affordable and affordable rent rather than social rent).
 
 The outline planning consent said that the scheme would be progressed in five phases over a 13-year period, each of the five phases requiring a detailed (reserved matters) planning application to be submitted. In Clarion's most recent [newsletter to tenants](https://www.myclarionhousing.com/-/jssmedia/clarion-housing-association/documents/regeneration-documents/eastfields/newsletters/20-03-eastfields-newsletter-spring-2020.ashx) (Spring 2020) it said that submission of the detailed application for phase 1 had been delayed because it was *"still reviewing our regeneration projects and costs, so we are not yet in the position to submit the planning application."*
 
@@ -52,11 +52,15 @@ Peabody wants to triple the density, replacing the estate with 1,950 new homes o
 
 There is nothing in the application to explain why it fails to comply with the [Mayor's policy requirement](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) of 50% affordable housing and no net loss of social rented homes.
 
-<img src="/images/screenshot-2021-08-27-at-14-53-21-microsoft-word-better-homes-for-local-people-the-mayor-s-good-practice-guide-to-estat-.png" class="img-fluid rounded img-thumbnail" width="60%">
+<img src="https://www.estatewatch.london/images/wolvercoteaerial.jpg" class="img-fluid rounded img-thumbnail" width="60%">
 
 Neither is there any explanation as to how the scheme complies with the Mayor's requirement that alternatives to demolition have been explored and demolition is being pursued as a last resort.
 
 Peabody has submitted a [financial viability assessment](https://pa.bexley.gov.uk/online-applications/files/2FE1C374ADB0323DE13C63386406CECD/pdf/21_01948_OUTEA-FVA_APPENDED-2670425.pdf) explaining that it can't provide more social or affordable housing because the scheme is not viable. In its calculations Peabody has included a 16% profit margin (amounting to £110m) as a cost to the scheme, which it says is the minimum profit it requires - despite it being a non-profit charitable trust rather than a developer.
+
+We [reported last year](https://www.estatewatch.london/november-news-roundup/) that the Mayor's next round of grant funding excludes funding for replacement affordable homes, only additional affordable homes will qualify.
+
+This is one of the first schemes which appears to be affected by that. The viability assessment explicitly acknowledges this. It will be interesting to see what the Mayor's stage 1 response to the planning application will look like - i.e. whether he will allow his change in grant funding rules, to be used in justifying failures to meet his basic affordable housing requirements for estate regeneration. Or whether he will insist that Peabody uses its £110m profit margin to improve its affordable housing offer. Watch this space!
 
 ## High Lane estate plans approved with net loss of 71 social rented homes
 
@@ -80,7 +84,7 @@ The scheme is being [funded](/approved/funding) by the Mayor and has been exempt
 
 The [viability assessment](https://msp.havering.gov.uk/planning/search-applications#DOC?DocNo=2505377) submitted for the scheme, says that it cannot provide more social rented homes or meet the Mayor's 50% affordable housing requirement because the scheme is not viable. - i.e. the scheme only provides 6% profit for Wates (Havering's development partner) and not the 14% the viability assessment says that it requires.
 
-The viability assessment also shows that the Mayor is providing £18.5m grant funding to the Council and its development partner for the redevelopment of the estate. It also states that Havering Council has spent over £15m decanting the estate (para 7.15). There is nothing in the planning application explaining how it complies with the Mayor's policy requirement that demolition is being pursued as a last resort and no cost/benefit analysis to show that the £33.5m in public funds couldn't have been better spent on refurbishment or in-fill development.
+The viability assessment also shows that the Mayor is providing £18.5m grant funding to the Council and its development partner for the redevelopment of the estate and that Havering Council has spent over £15m decanting the estate (para 7.15). There is nothing in the planning application explaining how the scheme complies with the Mayor's policy requirement that demolition is being pursued as a last resort and no cost/benefit analysis to show that the £33.5m in public funds couldn't have been better spent on refurbishment or in-fill development.
 
 Havering's [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1877/information_for_property_owners.pdf) for leaseholders displaced by their schemes is by far one of the poorest in comparison with other London boroughs.
 
@@ -88,18 +92,18 @@ It makes no provision for the gap between the value leaesholders receive for the
 
 The [re-housing offer](https://www.havering.gov.uk/download/downloads/id/1851/local_lettings_plan.pdf) for tenants is not much better. There is no guarantee of a tenancy in one of the replacement social/affordable homes or a right to return. The only guarantee is two direct offers of a tenancy in a home on an estate elsewhere in the borough, albeit selected by the Council.
 
-The Waterloo road scheme is a good example of how the offer to residents on estates exempted by the Mayor from his ballot requirement, is inferior to those subjeted to ballots. It is difficult to believe that, had they been asked, residents of the Waterloo Road estate would have voted for demolition based on Havering's poor re-housing offer. 
+The Waterloo road scheme is a good example of how the offer to residents on estates exempted by the Mayor from his ballot requirement, is inferior to those subject to ballots. It is difficult to believe that, had they been asked, residents of the Waterloo Road estate would have voted for demolition based on Havering's poor re-housing offer to residents. 
 
-## Three more ballots approved - refurbishment option remains absent from ballot papers
+## More ballots approved - refurbishment option absent from ballot papers
 Three more estates have voted in favour of redevelopment versus ongoing managed disinvestment. These include the [Calverley Close estate](https://www.estatewatch.london/estates/bromley/calverleyclose/) in Lewisham, the [Barkantine estate](https://www.estatewatch.london/estates/towerhamlets/barkantine/) in Tower Hamlets and the [Wendling estate](https://www.estatewatch.london/estates/camden/wendlingestate/) in Camden. 
 
 <img src="https://www.estatewatch.london/images/ballot_paper1.jpg" class="img-fluid rounded img-thumbnail">
 
-As usual, residents were given two stark alternatives; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and homes with extra bedrooms for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes it clear that if residents vote against demolition the Council has no immediate plans to resolve the estate's ongoing maintenance issues. As has become [common practice](https://www.estatewatch.london/approved/ballotexemptions/) in estate regeneration ballots - refurbishment is not an option on the ballot paper.
+As usual, residents were given two stark alternatives; they could either vote for redevelopment with its incentives of secure tenancies for temporary tenants (which always make up a large proportion of estates earmarked for demolition) and homes with extra bedrooms for overoccupying secure tenants, or the choice of a continued ongoing, managed disinvestment and decline in the condition of their estates. The Wendling estate's [Landlord Offer](/images/wendlingoffer.pdf) ahead of the ballot makes it clear that if residents vote against demolition, the Council has no immediate plans to resolve the estate's ongoing maintenance issues. As has become [common practice](https://www.estatewatch.london/approved/ballotexemptions/) in estate regeneration ballots - refurbishment is not an option on the ballot paper.
 
 <img src="/images/wendlingnovote.png" class="img-fluid rounded img-thumbnail">
 
-Camden's pre-ballot information [booklets](/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
+Camden's pre-ballot information [booklets](/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would even 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
 
 <figure class="figure">
 <img src="/images/wendlingbooklet.png" class="img-fluid rounded img-thumbnail">
@@ -116,6 +120,9 @@ Residents have long since been reporting issues concerning the lack of maintenan
 Four more estate ballots are currently approaching or in process: the [Joyce Snells estate](https://www.estatewatch.london/estates/enfield/joycesnells/) in Enfield; the [Love Lane estate](https://www.estatewatch.london/estates/haringey/lovelane/) in Haringey
 and the [Carpenters estate](https://www.estatewatch.london/estates/newham/carpenters/) in Newham.
 
+## Estate Watch zoom meeting
+July’s Estate Watch zoom meeting was well attended, with representatives from around a dozen estates under threat sharing their experiences.
 
+The date of the next Zoom meeting is yet to be confirmed.
 
-.
+Please email info@londontenants.org to request attendance and further details.
