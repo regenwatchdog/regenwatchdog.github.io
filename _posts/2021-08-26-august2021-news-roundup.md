@@ -68,7 +68,7 @@ Ealing's planning committee has [approved](https://ealing.cmis.uk.com/ealing/Doc
 ﻿
 <img src="https://www.estatewatch.london/images/highlaneaerial.png" class="img-fluid rounded img-thumbnail" width="60%">
 
-As continue to be the case with these ongoing estate redevelopment applications, the Mayor's minimum policy requirements have been routinely ignored. The Mayor's supposed no net loss of social rent, the 50% affordable housing requirement, the requirement to explore alternatives to demolition have all been completely ignored, as well as the Mayor's requirement to publish the viability assessment explaining with the affordable housing offer falls short of the policy quota.
+As continues to be the case with ongoing estate redevelopment applications, the Mayor's minimum policy requirements are being routinely ignored. The Mayor's supposed no net loss of social rent requirement, the 50% affordable housing requirement, the requirement to explore alternatives to demolition, have all been completely ignored, as well as the Mayor's requirement to publish the viability assessment explaining with the affordable housing offer falls short of the policy quota.
 
 The application is yet to be signed off by the Mayor so it remains within his power to 'call it in' for further scrutiny. Given that Ealing Council is a Labour-controlled Council this remains very unlikely.
 
