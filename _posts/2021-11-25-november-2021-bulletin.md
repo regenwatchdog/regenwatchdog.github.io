@@ -13,3 +13,20 @@ The deal seals the demolition of the estate's 864 remaining homes and their repl
 You can read more about the Clapham Park estate [here](https://www.estatewatch.london/estates/lambeth/claphampark/).
 
 ## Morris Walk planning application waived through despite ...
+
+## Eastfields - Council agrees to forgo its profit share
+Protests continue
+
+## Douglas Bader Park
+
+## Carpenters and Love lane ballots
+https://www.architectsjournal.co.uk/news/mayor-urged-to-investigate-unfair-ballot-for-demolition-of-london-estate
+
+## Joyce Snells ballot?
+
+## Lichfields report?
+
+## Clare House - another block/estate added to the list
+
+## Milford Towers protest
+
