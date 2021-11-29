@@ -1,21 +1,21 @@
 ---
-category: underthreat
-stage: Implementation 
-name: Aberfeldy estate (West) 
-borough: towerhamlets 
+name: Aberfeldy estate (West)
+borough: towerhamlets
+location: '{"type":"Point","coordinates":[-0.004851,51.512950]}'
+ballot: Approved
+landlord: Poplar HARCA
+developer: Ecoworld
+itla: PPCR
+total: 225
 thumb: /images/af1thumb.jpg
 images:
   - /images/af1.jpg
   - /images/af2.png
   - /images/af3.png
   - /images/afbrochure.png
-location: '{"type":"Point","coordinates":[-0.004851,51.512950]}'
-landlord: Poplar HARCA
-developer: Ecoworld
-itla: PPCR
-total: 225
-ballot: Approved
-planning:
+planning: null
+category: underthreat
+stage: Implementation
 ---
 225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
 
@@ -43,7 +43,7 @@ The [compulsory purchase order documents](https://www.towerhamlets.gov.uk/Docume
 
 <img src="/images/aberfeldycpo.png" class="img-fluid rounded img-thumbnail">
 
-A planning application for remaining phases 3-6 in 'Aberfeldy West' is yet to be submitted.
+In August 2021, [pre-application advice](https://democracy.towerhamlets.gov.uk/documents/s189892/Aberfeldy%20Village%20SDC%20Pre-app%20Report%20Final.pdf) was sought on a revised masterplan for the remainder of the estate. This proposes to  provide 1608 new homes of which 1181 units would be for private sale, 81 units of intermediate tenure and 346 units as affordable rent (i.e. up to 80% market rent).
 
 __Links:__
 [Mayor's stage 1 and stage 2 reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/aberfeldy-estate-0)
