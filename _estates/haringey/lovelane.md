@@ -41,7 +41,9 @@ In August 2021, Haringey published its [Landlord Offer](https://www.haringey.gov
 
 The offer proposes to replace the estate's 297 homes with 2,600 new homes, of which 40% 'affordable'. Of the affordable homes 500 are set to be council homes at council rent.
 
-A ballot took place in September 2021 in which 69% of 'eligible' residents voted, of which 55% supported the demolition of their homes and 45% did not. This represents just 39% of residents on the estate who were eligible to vote and did so - hardly a convincing mandate..  
+A ballot took place in September 2021 in which 69% of 'eligible' residents voted, of which 55% supported the demolition of their homes and 45% did not. This represents just 39% of residents on the estate who were eligible to vote and did so - hardly a convincing mandate.
+
+The residents eligible to vote consisted primarily of temporary residents, which numbered 226 compared with 43 remaining secure tenants and 25 resident leaseholders. During the ballot, temporary residents were offered secure council tenancies in replacement homes if the scheme goes ahead.
 
 There is an active residents campaign group - TAG (Love Lane Temporary Accommodation Group):
 
