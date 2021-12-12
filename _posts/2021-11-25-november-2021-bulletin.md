@@ -30,3 +30,8 @@ https://www.architectsjournal.co.uk/news/mayor-urged-to-investigate-unfair-ballo
 
 ## Milford Towers protest
 
+## Love Lane estate - ballot
+planning app also lodged 
+http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=415912
+ref HGY/2021/3175
+
