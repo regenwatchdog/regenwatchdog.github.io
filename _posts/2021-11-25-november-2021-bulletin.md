@@ -3,7 +3,7 @@ layout: post
 title: November 2021 Bulletin
 date: 2021-11-25T17:00:02.494Z
 ---
-Here's our quick round-up of the latest news from our estates under threat.
+Here's a quick round-up of the latest news from our estates under threat.
 
 ## MTVH appoints developer for its redevelopment of Clapham Park estate
 Metropolitan Thames Valley housing association has signed a joint venture agreement with developer Countryside Ltd. for the redevelopment of its Clapham Park estate in Lambeth. 
