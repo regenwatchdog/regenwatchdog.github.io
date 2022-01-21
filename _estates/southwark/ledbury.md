@@ -1,24 +1,26 @@
 ---
-category: underthreat
-stage: Preparation 
-name: Ledbury estate 
+name: Ledbury estate
 borough: southwark
+location: '{"type":"Point","coordinates":[-0.061766,51.481221]}'
+ballot: Approved
+landlord: Southwark Council
+developer: null
+itla: Open Communities
+total: 224
 thumb: /images/ledburythumb.jpeg
 images:
   - /images/ledbury1.jpg
   - /images/ledbury2.jpeg
   - /images/ledbury3.jpg
-location: '{"type":"Point","coordinates":[-0.061766,51.481221]}'
-landlord: Southwark Council
-developer:
-itla: Open Communities
-total: 224
-ballot: Approved
 planning: Pending
+category: underthreat
+stage: Preparation
 ---
 224 homes have been earmarked for demolition on Southwark's Ledbury estate off the Old Kent Road.
 
-The estate was identified as suffering from fire safety issues following the Grenfell disaster.
+The estate was built between 1968 and 1970 using the Long Panel System (LPS) construction method.
+
+The Ronan Point collapse in 1968 showed that some LPS systems were unsafe, but successive governments failed to ensure strengthening works were carried out. Investigations following the Grenfell Tower fire have resulted in several LPS buildings being deemed unsafe.
 
 In April 2021, Southwark Council balloted residents on whether their homes should be demolished or remediation works commissioned. 56% of eligible residents took part and 86% of these voted for demolition.
 
