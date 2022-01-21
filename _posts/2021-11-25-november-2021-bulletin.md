@@ -17,9 +17,9 @@ It also acknowledges that residents haven't been balloted on the demolition of t
 
 This ignores the Mayor's policy requirement to seek funding in order to maximise affordable housing and his requirement to explore alternatives to demolition.  
 
-Unfortunately the Mayor signed off his approval for the scheme in xx x without raising any of these issues.
+Unfortunately the Mayor [signed off his approval](https://idoxpa.westminster.gov.uk/online-applications/files/A3C491F071D3CB2DC5CC0848CFFD2F35/pdf/20_04366_COOUT-GLA_STAGE_2_CASE_REPORT-6995197.pdf) for the scheme in August last year, without raising any of these issues.
 
-30 remaining leaseholders and handful of commercial leaseholders incuding a cafe, hairdressers and pharmacy.
+The CPO applies to the 30 remaining leaseholders and handful of commercial leaseholders incuding a cafe, hairdressers and pharmacy. You can read more about the redevelopment of the Ebury Bridge estate [here](https://www.estatewatch.london/estates/westminster/eburybridge/).
 
 ## MTVH appoints developer for its redevelopment of Clapham Park estate
 
