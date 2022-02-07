@@ -77,9 +77,9 @@ In July 2021, Newham's Cabinet approved proposals to refurbish existing homes at
 
 Homes and buildings in Dennison Point, Gibbins Road, Doran Walk, Jupp Road, Kennard Road, Rosher Close, Warton Road and Wilmer Lea Close would be demolished and rebuilt.
 
-Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes.
+Newham estimates renewing the estate will provide about 2,000 new and 300 refurbished homes of which it promises at least 50% at social rent levels, while 44% of existing homes are to be refurbished.
 
-A formal Landlord Offer is set to be issued in Autumn 2021 and a ballot held in Winter 2021/22.
+A ballot was held in December 2021, 73% of eligible residents voting in favour of redevelopment on a 66% turnout.
 
 __Links:__
 
