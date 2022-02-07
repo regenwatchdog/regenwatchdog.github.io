@@ -49,7 +49,15 @@ The deal seals the demolition of the estate's 864 remaining homes and their repl
 
 You can read more about the Clapham Park estate [here](https://www.estatewatch.london/estates/lambeth/claphampark/).
 
-## Morris Walk planning application waived through despite ...
+## Morris Walk planning application waived through with no social rented homes
+
+Greenwich Council's planning committee has approved its development partner's plans for redevelopment of it Morris Walk estate in Charlton.
+
+![](https://www.estatewatch.london/images/mw4.png)
+
+The estate's 562 council homes will now be replaced by 766 homes, 177 of which will be for London Affordable Rent with 76 available for shared ownership. There won't be one single social rented home on the redeveloped estate.
+
+You can read more about the Morris Walk estate [here](https://www.estatewatch.london/estates/greenwich/morriswalk/).
 
 ## Eastfields - Council agrees to forgo its profit share
 
