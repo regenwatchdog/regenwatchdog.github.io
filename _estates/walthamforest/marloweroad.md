@@ -1,10 +1,12 @@
 ---
-category: underthreat
-stage: Implementation
 name: Marlowe Road estate
 borough: walthamforest
-coordinates:
 location: '{"type":"Point","coordinates":[-0.006070,51.587181]}'
+ballot: Exempt
+landlord: Waltham Forest Council
+developer: null
+itla: null
+total: 150
 thumb: /images/mwrthumb.jpg
 images:
   - /images/001.jpg
@@ -25,12 +27,10 @@ images:
   - /images/mwr4.png
   - /images/mwr5.png
   - /images/mwr6.png
-landlord: Waltham Forest Council
-developer:
-itla:
-total: 150
-ballot: Exempt
+coordinates: null
 planning: Approved
+category: underthreat
+stage: Implementation
 ---
 150 homes remain earmarked for demolition on Waltham Forest's Marlowe Road estate in Walthamstow.
 
@@ -53,6 +53,8 @@ Overall the scheme will provide 436 new homes of which 34% will be 'affordable'.
 The redevelopment is being [funded](/approved/funding) by the Mayor and has been granted an [exemption](/approved/ballotrequirements) from his requirement to ballot residents.
 
 Waltham Forest applied for a Compulsory Purchase Order to be able to remove remaining leaseholders in 2019. 
+
+In january 2022, a planning application was submitted to add an extra 144 homes to the scheme, of which only 13 social rent. Residents have [complained](https://www.yellowad.co.uk/residents-fury-over-proposed-changes-to-walthamstow-housing-blocks-plan/) of the move as cynical, underhand and sneaky.
 
 __Links:__
 Waltham Forest's [Statement of Reasons](/images/MarloweRdCPO.pdf) for its 2019 Compulsory Purchase Order.
