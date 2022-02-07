@@ -58,3 +58,10 @@ Greenwich Council's planning committee has approved its development partner's pl
 The estate's 562 council homes will now be replaced by 766 homes, 177 of which will be for London Affordable Rent with 76 available for shared ownership. There won't be one single social rented home on the redeveloped estate.
 
 You can read more about the Morris Walk estate [here](https://www.estatewatch.london/estates/greenwich/morriswalk/).
+
+## Residents call for cap on ballot spending as council spends over £350,000 on estate vote
+Residents on Haringey's [Love Lane estate](https://www.estatewatch.london/estates/haringey/lovelane/) have called for a cap on ballot spending after it was revealed that Haringey Council spent £350k on its campaign for a YES vote.
+
+A [petition](https://www.pilc.org.uk/tell-sadiq-to-say-yes-to-the-resident-empowerment-fund/) has also been set up, calling on the Mayor to create a Resident Empowerment Fund that will level the playing field between councils and the local community in estate ballots.
+
+The Love Lane estate ballot saw nearly three-quarters of residents (73%) voting in support of the redevelopment in December last year in a vote that had a turnout of 65%. At the time of the ballot, the majority of residents (76%) were temporary tenants, who had been promised secure tenancies at Council rents if they voted yes.
