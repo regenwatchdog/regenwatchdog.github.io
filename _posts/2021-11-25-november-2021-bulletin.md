@@ -59,9 +59,6 @@ The estate's 562 council homes will now be replaced by 766 homes, 177 of which w
 
 You can read more about the Morris Walk estate [here](https://www.estatewatch.london/estates/greenwich/morriswalk/).
 
-## Eastfields - Council agrees to forgo its profit share
-
-Protests continue
 
 ## Douglas Bader Park
 
