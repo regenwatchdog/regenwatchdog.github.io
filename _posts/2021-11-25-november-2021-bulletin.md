@@ -21,6 +21,32 @@ Unfortunately the Mayor [signed off his approval](https://idoxpa.westminster.gov
 
 The CPO applies to the 30 remaining leaseholders and handful of commercial leaseholders incuding a cafe, hairdressers and pharmacy. You can read more about the redevelopment of the Ebury Bridge estate [here](https://www.estatewatch.london/estates/westminster/eburybridge/).
 
+## Mayor waives through Wandsworth's plans despite numerous policy breaches
+
+Both the Mayor's [stage 1 and stage 2 reports](https://planning.london.gov.uk/pr/s/planning-application/a0i4J000006cBWyQAM/20211288?tabset-c2f3b=2) are entirely silent on Wandsworth's failure to explore alternative options and demonstrate that demolition is being pursued as a last resort.
+
+The Mayor's (Jan 2022) stage 2 report does raise concern about the low levels of affordable housing but then goes on to approve Wandsworth's planning consent.
+
+![](/images/screenshot-2022-02-03-at-10-09-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+
+Likewise the report is critical of Wandsworth's failure to apply for grant funding and ballot residents but then goes on to approve the planning consent.
+
+![](/images/screenshot-2022-02-03-at-10-07-16-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+
+The Mayor's report is also highly critical of Wandsworth's viability testing, viability review mechanism and failure to utilise the £105m of HRA funding it has allocated to the scheme to improve the affordable housing offer.
+
+![](/images/screenshot-2022-02-03-at-10-13-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+
+![](/images/screenshot-2022-02-03-at-10-14-07-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+
+Despite these detailed concerns, the Mayor's stage 2 report concludes that on balance the Mayor is happy with Wandsworth's decision to approve its planning application for the redevelopment of the estate.
+
+In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+
+<img src="/images/altonaction.png" class="img-fluid rounded img-thumbnail">
+
+
+
 ## MTVH appoints developer for its redevelopment of Clapham Park estate
 
 Metropolitan Thames Valley housing association has signed a joint venture agreement with developer Countryside Ltd. for the redevelopment of its Clapham Park estate in Lambeth. 
