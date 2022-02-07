@@ -58,24 +58,3 @@ Greenwich Council's planning committee has approved its development partner's pl
 The estate's 562 council homes will now be replaced by 766 homes, 177 of which will be for London Affordable Rent with 76 available for shared ownership. There won't be one single social rented home on the redeveloped estate.
 
 You can read more about the Morris Walk estate [here](https://www.estatewatch.london/estates/greenwich/morriswalk/).
-
-
-## Douglas Bader Park
-
-## Carpenters and Love lane ballots
-
-https://www.architectsjournal.co.uk/news/mayor-urged-to-investigate-unfair-ballot-for-demolition-of-london-estate
-
-## Joyce Snells ballot?
-
-## Lichfields report?
-
-## Clare House - another block/estate added to the list
-
-## Milford Towers protest
-
-## Love Lane estate - ballot
-
-planning app also lodged 
-http://www.planningservices.haringey.gov.uk/portal/servlets/ApplicationSearchServlet?PKID=415912
-ref HGY/2021/3175
