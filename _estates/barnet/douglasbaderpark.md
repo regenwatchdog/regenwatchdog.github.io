@@ -1,9 +1,13 @@
 ---
-category: underthreat
-stage: Preparation 
-status: Planning and ballot approved 
 name: Douglas Bader Park estate
 borough: barnet
+ballot: Approved
+landlord: Home Group (Housing Association)
+developer: Home/Hill Group
+itla: null
+total: 271
+status: Planning and ballot approved
+location: '{"type":"Point","coordinates":[-0.249247,51.604697]}'
 thumb: /images/db1thumb.jpg
 images:
   - /images/db1.jpg
@@ -12,13 +16,9 @@ images:
   - /images/db4.png
   - /images/db5.png
   - /images/baderscreenshot.png
-location: '{"type":"Point","coordinates":[-0.249247,51.604697]}'
-landlord: Home Group (Housing Association)
-developer: Home/Hill Group
-itla:
-total: 271
-ballot: Approved
-planning:
+planning: null
+category: underthreat
+stage: Preparation
 ---
 271 homes are earmarked for demolition on Barnet's Douglas Bader Park estate in Colindale.
 
@@ -59,6 +59,8 @@ The plans also propose the felling of 160 mature trees, 51 of which covered by T
 <img src="/images/dbpcomment2.png" class="img-fluid rounded img-thumbnail"> 
 
 The estate is located directly adjacent to another of Barnet's large scale estate redevelopments - the [Grahame Park estate](https://estatewatch.london/estates/barnet/grahamepark/).
+
+In September 2021, Barnet's planning committee narrowly approved the planning application, with four Labour councillors and a Liberal Democrat member voting against the plan. Five Conservatives voted in favour, and committee chairman Cllr Eva Greenspan used her casting vote to approve the scheme. 
 
 __Links:__ 
 Planning application and supporting documents: [https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QLUOGJJI09100) (ref: 20/6277/FUL)
