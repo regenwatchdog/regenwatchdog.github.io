@@ -69,6 +69,8 @@ The outline planning consent said that the scheme would be progressed in five ph
 
 No further information is available surrounding the ongoing and extensive delays. Clarion hasn't even drawn up a roadmap for decanting the estate. Clarion's outline permission expires in April and the GLA grant funding requires a start on site by March next year. If Clarion doesn't submit and get a reserved matters approved by then it runs the risk of losing grant funding and also its ballot exemption (albeit at the Mayor's discretion).
 
+In September 2021, Merton Council [agreed](https://www.housingtoday.co.uk/news/merton-council-agrees-deal-with-clarion-to-kickstart-unviable-2600-home-regen-project/5113627.article) to forgo a 5% profit share deal that it had with Clarion in order to help 'kick-start' the scheme, which had been declared unviable.
+
 __Links:__  
 
 June 2021 ITV report - [https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes](https://www.itv.com/news/2021-06-16/collapsed-ceilings-mice-and-mould-appalling-conditions-uncovered-across-an-entire-housing-estate-of-nearly-500-homes)
