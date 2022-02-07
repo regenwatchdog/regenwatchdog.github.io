@@ -33,19 +33,13 @@ Likewise the report is critical of Wandsworth's failure to apply for grant fundi
 
 ![](/images/screenshot-2022-02-03-at-10-07-16-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
 
-The Mayor's report is also highly critical of Wandsworth's viability testing, viability review mechanism and failure to utilise the £105m of HRA funding it has allocated to the scheme to improve the affordable housing offer.
+The Mayor's report is also highly critical of Wandsworth's viability testing, viability review mechanism and failure to utilise the £105m of HRA funding it has allocated to the scheme to improve the affordable housing offer (paras 111-115).
 
-![](/images/screenshot-2022-02-03-at-10-13-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+Despite these numerous failures to comply with the Mayor's policy requirements, the report concludes that on balance the Mayor is happy with Wandsworth's decision to pursue redevelopment of the estate.
 
-![](/images/screenshot-2022-02-03-at-10-14-07-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+In the meantime, estate residents have been getting organised and have launched a [petition](https://www.altonaction.org/petition) to promote their alternative [Peoples' Plan](https://www.altonaction.org/resources), which puts forward an alternative to demolition.
 
-Despite these detailed concerns, the Mayor's stage 2 report concludes that on balance the Mayor is happy with Wandsworth's decision to approve its planning application for the redevelopment of the estate.
-
-In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
-
-<img src="/images/altonaction.png" class="img-fluid rounded img-thumbnail">
-
-
+![](/images/screenshot-2022-02-07-at-10-42-36-petition-alton-action.png)
 
 ## MTVH appoints developer for its redevelopment of Clapham Park estate
 
