@@ -59,3 +59,5 @@ The planning application's [Energy Statement](https://publicaccess.kingston.gov.
 You can view the planning application documents on Kingston's planning portal [here (ref:20/02942)](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00).
 
 The Mayor's stage 1 report is available [here.](https://gla.force.com/pr/s/planning-application/a0i4J000002UOhyQAG/20206860?tabset-c2f3b=2)
+
+In february 2022, Kingston Council commenced [compulsory purchase proceedings](https://www.surreycomet.co.uk/announcements/public_notices/download/202388/) for the first phase of the redevelopment.
