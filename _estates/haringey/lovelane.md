@@ -45,6 +45,8 @@ A ballot took place in September 2021 in which 69% of 'eligible' residents voted
 
 The residents eligible to vote consisted primarily of temporary residents, which numbered 226 compared with 43 remaining secure tenants and 25 resident leaseholders. During the ballot, temporary residents were offered secure council tenancies in replacement homes if the scheme goes ahead.
 
+In January 2022, it was revealed that Haringey Council spent £350k on its campaign for a YES vote. As a result of this, a [petition](https://www.pilc.org.uk/tell-sadiq-to-say-yes-to-the-resident-empowerment-fund/) has been set up, calling on the Mayor to create a Resident Empowerment Fund that will level the playing field between councils and the local community in estate ballots.
+
 There is an active residents campaign group - TAG (Love Lane Temporary Accommodation Group):
 
 <div class="card mb-3" style="max-width: 700px;">
