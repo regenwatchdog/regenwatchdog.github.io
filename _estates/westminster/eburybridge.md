@@ -60,6 +60,19 @@ The estate is being redeveloped by the Council itself. Figures in the planning a
 
 Given the significant public subsidy involved, the housing crisis and the Mayor's recent [declaration](https://www.london.gov.uk/press-releases/mayoral/mayor-declares-a-retrofit-revolution) of a *"‘retrofit revolution’ to tackle the climate emergency"* one might expect the Mayor to exercise his call-in powers to explore whether £198m of public money might be better spent on the [environmental, economic and social benefits](https://www.estatewatch.london/refurbishment/) of refurbishment.
 
+In January 2022, Westminster Council [issued](https://www.westminster.gov.uk/data-protection/ebury-bridge-estate-compulsory-purchase-order-cpo) a compulsory purchase order to enable it to remove the last remaining residents on the estate.
+
+The Council's [Statement of Reasons](https://www.westminster.gov.uk/media/document/ebury-bridge---cpo-statement-of-reasons) supporting the order, claims that there is no alternative to demolition despite it not having assessed whether the circa £200m it is spending on demolition could better be spent on refurbishment and infill.
+
+It also acknowledges that residents haven't been balloted on the demolition of their homes, claiming that a ballot is not required because Mayoral funding is not being sought.
+
+![](/images/screenshot-2022-01-20-at-11-47-01-statement-of-reasons-pdf.png)
+
+This ignores the Mayor's policy requirement to seek funding in order to maximise affordable housing and his requirement to explore alternatives to demolition.  
+
+Unfortunately the Mayor [signed off his approval](https://idoxpa.westminster.gov.uk/online-applications/files/A3C491F071D3CB2DC5CC0848CFFD2F35/pdf/20_04366_COOUT-GLA_STAGE_2_CASE_REPORT-6995197.pdf) for the scheme in August last year, without raising any of these issues.
+
+The CPO applies to the 30 remaining leaseholders and handful of commercial leaseholders incuding a cafe, hairdressers and pharmacy.
 
 __Links:__
 Westminster Council's planning application documents: [https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDECO3RP2RE00](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDECO3RP2RE00)
