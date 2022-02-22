@@ -1,8 +1,11 @@
 ---
-category: underthreat
-stage: Preparation 
-name: South Kilburn estate 
-borough: brent 
+name: South Kilburn estate
+borough: brent
+location: '{"type":"Point","coordinates":[-0.198561,51.533219]}'
+ballot: Approved
+landlord: Brent Council
+itla: Communities First
+total: 800
 thumb: /images/southkilburnthumb.jpg
 images:
   - /images/skil1.png
@@ -13,12 +16,9 @@ images:
   - /images/yanki3.jpeg
   - /images/yanki4.jpeg
   - /images/yanki5.jpeg
-location: '{"type":"Point","coordinates":[-0.198561,51.533219]}'
-landlord: Brent Council
-itla: Communities First
-total: 800
-ballot: Approved
-planning:
+planning: null
+category: underthreat
+stage: Preparation
 ---
 Circa 800 homes remain under threat of demolition at Brent's redevelopment of the South Kilburn estate.
 
@@ -48,3 +48,5 @@ There is also a presentation of the plans by Dr Sendra online here:
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8YKW0fIqfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+In february 2022, the Guardian published a [detailed critique](https://www.theguardian.com/artanddesign/2022/feb/22/mellow-yellow-south-kilburn-feelgood-buttery-brick-revived-1960s-estate) of the scheme.
