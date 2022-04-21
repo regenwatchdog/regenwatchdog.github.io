@@ -8,15 +8,15 @@ images:
   - /images/clairecourt1.jpg
   - /images/ClaireCourt.png
   - /images/watlinggardensbungalows.jpg
-  - /images/cc1.jpg
-  - /images/cc2.jpg
-  - /images/cc3.jpg
-  - /images/cc4.jpg
-  - /images/wg1.jpg
-  - /images/wg2.jpg
-  - /images/wg3.jpg
-  - /images/wg4.jpg
-  - /images/wg5.jpg
+  - /images/cclose1.jpg
+  - /images/cclose2.jpg
+  - /images/cclose3.jpg
+  - /images/cclose4.jpg
+  - /images/watling1.jpg
+  - /images/watling2.jpg
+  - /images/watling3.jpg
+  - /images/watling4.jpg
+  - /images/watling5.jpg
 landlord: Watling Gardens TMO
 developer:
 itla: Richard Carley & Sarah Robbins (Brent)
