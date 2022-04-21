@@ -6,12 +6,17 @@ borough: brent
 thumb: /images/clairecourt1thumb.jpg
 images:
   - /images/clairecourt1.jpg
-  - /images/windmillcourt2.jpg
   - /images/ClaireCourt.png
-  - /images/clairecourt2.jpg
-  - /images/clairecourt3.jpg
-  - /images/windmillcourt1.jpg
   - /images/watlinggardensbungalows.jpg
+  - /images/cc1.jpg
+  - /images/cc2.jpg
+  - /images/cc3.jpg
+  - /images/cc4.jpg
+  - /images/wg1.jpg
+  - /images/wg2.jpg
+  - /images/wg3.jpg
+  - /images/wg4.jpg
+  - /images/wg5.jpg
 landlord: Watling Gardens TMO
 developer:
 itla: Richard Carley & Sarah Robbins (Brent)
@@ -28,4 +33,8 @@ Three of the schemes are [listed](http://democracy.brent.gov.uk/documents/s95738
 
 Two sets of three-storey maisonettes 'Claire Court' have been earmarked for redevelopment as well as a row of bungalows at Watling Gardens and car parking area at Windmill Court. 
 
-The estate is managed by a Tenant Management Organisation - [Watling Gardens TMO.](http://www.watlinggardenstmo.co.uk/)
+In March 2022 a site visit showed that it looked like supported housing and a community space have been boarded up ready for demolition. Behind these are allotments which can no longer be accessed.   
+
+The estate is managed by a Tenant Management Organisation - [Watling Gardens TMO.](http://www.watlinggardenstmo.co.uk/), which has an office on the estate.
+
+Photo credits: Luka Zumbach
