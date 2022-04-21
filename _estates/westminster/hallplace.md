@@ -24,6 +24,14 @@ images:
   - /images/hp17.jpg
   - /images/hp18.jpg
   - /images/hp19.jpg
+  - /images/hp21.jpg
+  - /images/hp22.jpg
+  - /images/hp23.jpg
+  - /images/hp24.jpg
+  - /images/hp25.jpg
+  - /images/hp26.jpg
+  - /images/hp27.jpg
+  - /images/hp28.jpg
   - /images/hallplace.png
   - /images/parsonshouse.jpg
 location: '{"type":"Point","coordinates":[-0.175467,51.523358]}'
@@ -43,3 +51,5 @@ The estate is situated off the Edgware road near the Regent's Canal. It sits [wi
 It is also within the boundary of the __Edgeware Road Housing Zone__, one of [30 special housing zones](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones#acc-i-42741) designated by the Mayor to deliver accelerated housing development. The Edgeware Road zone is expected to deliver 1700 new homes.
 
 The estate has already been subject to a small amount of in-fill development, with [60 homes delivered](https://www.westminster.gov.uk/parsons-north-development) on open space at the foot of Parsons House.
+
+__Photo credits:__ Luka Zumbach

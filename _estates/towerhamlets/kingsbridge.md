@@ -6,6 +6,10 @@ borough: towerhamlets
 thumb: /images/kingsbridge-estatethumb.jpg
 images:
   - /images/kingsbridge-estate.jpg
+  - /images/kingsbridge1.jpg
+  - /images/kingsbridge2.jpg
+  - /images/kingsbridge3.jpg
+  - /images/kingsbridge4.jpg
   - /images/kingsbridge2.png
   - /images/kingsbridge3.png
 location: '{"type":"Point","coordinates":[-0.025874,51.493200]}'

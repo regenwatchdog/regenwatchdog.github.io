@@ -17,6 +17,8 @@ images:
   - /images/lg9.jpg
   - /images/lg10.jpg
   - /images/lg11.jpg
+  - /images/lg21.jpg
+  - /images/lg22.jpg
 location: '{"type":"Point","coordinates":[-0.167721,51.525955]}'
 landlord: Westminster Council
 developer:

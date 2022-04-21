@@ -6,6 +6,18 @@ borough: towerhamlets
 thumb: /images/ashepherdthumb.jpg
 images:
   - /images/ashepherd.jpg
+  - /images/sjn1.jpg
+  - /images/sjn2.jpg
+  - /images/sjn3.jpg
+  - /images/sjn4.jpg
+  - /images/sjn5.jpg
+  - /images/sjn6.jpg
+  - /images/sjn7.jpg
+  - /images/sjn8.jpg
+  - /images/sjn9.jpg
+  - /images/sjn10.jpg
+  - /images/sjn11.jpg
+  - /images/sjn12.jpg
   - /images/oakhouse.png
   - /images/st-johns-estate.jpg
 location: '{"type":"Point","coordinates":[-0.008984,51.499039]}'
@@ -47,6 +59,7 @@ The current proposals are to looking at a number of options for 84 homes in Oak 
 
 The latest [consultation boards](https://www.onehousing.co.uk/__data/assets/pdf_file/0021/27633/20210616_Consultation-Event-Boards-for-web.pdf) suggest that a ballot will be forthcoming once a preferred option has been selected. 
 
+Image credits: Luka Zumbach
 
 __Links:__  
 One Housing Group's website - [https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs](https://www.onehousing.co.uk/about-us/what-we-do/development-and-regeneration/isle-of-dogs)
