@@ -5,6 +5,23 @@ name: Norman Crescent estate
 borough: hounslow
 thumb: /images/nc1thumb.jpg
 images:
+  - /images/ncr1.jpg
+  - /images/ncr2.jpg
+  - /images/ncr3.jpg
+  - /images/ncr4.jpg
+  - /images/ncr5.jpg
+  - /images/ncr6.jpg
+  - /images/ncr7.jpg
+  - /images/ncr8.jpg
+  - /images/ncr9.jpg
+  - /images/ncr10.jpg
+  - /images/ncr11.jpg
+  - /images/ncr12.jpg
+  - /images/ncr13.jpg
+  - /images/ncr14.jpg
+  - /images/ncr15.jpg
+  - /images/ncr16.jpg
+  - /images/ncr17.jpg
   - /images/nc1.jpg
   - /images/nc2.jpg
   - /images/nc3.jpg
@@ -28,3 +45,4 @@ In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s15
 
 The six estates are: the Brabazon estate; the Brookwood estate; Charlton House; the Convent Way estate; the Norman Crescent estate and the Oriel estate.
 
+Photo credits: Luka Zumbach

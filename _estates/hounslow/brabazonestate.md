@@ -5,6 +5,13 @@ name: Brabazon estate
 borough: hounslow 
 thumb: /images/bz1thumb.jpg
 images:
+  - /images/bzn1.jpg
+  - /images/bzn2.jpg
+  - /images/bzn3.jpg
+  - /images/bzn4.jpg
+  - /images/bzn5.jpg
+  - /images/bzn6.jpg
+  - /images/bzn7.jpg
   - /images/bz1.jpg
   - /images/bz2.jpg
   - /images/bz3.jpg
@@ -32,3 +39,5 @@ In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s15
 The six estates are: the Brabazon estate; the Brookwood estate; Charlton House; the Convent Way estate; the Norman Crescent estate and the Oriel estate.
 
 The Brabazon estate comprises mostly two or three-storey terraced and semi-detached houses and a small community centre. It is located directly adjacent to the Norman Crescent estate to the east and green space to the west. Hounslow West tube station is approximately 10 minutes walk from the estate.
+
+Photo credits: Luka Zumbach
