@@ -1,6 +1,6 @@
 ---
 category: approved
-layout: approved
+layout: default
 title: Ballots
 ---
 Ballots came about in 2018 through campaigning that led to the publication of the Mayor of  London’s [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf).
