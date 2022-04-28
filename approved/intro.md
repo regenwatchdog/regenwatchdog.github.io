@@ -3,6 +3,7 @@ category: approved
 layout: default
 title: Ballots
 ---
+<div class="container">
 Ballots came about in 2018 through campaigning that led to the publication of the Mayor of  London’s [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf).
 
 51 estates have been [exempted](https://www.london.gov.uk/sites/default/files/25.11.2021_for_website_-_list_of_exemptions.pdf) from the ballot requirement by the Mayor, on the basis that they had already been allocated funding (even if many of these funding agreements have since expired).
@@ -131,3 +132,4 @@ Camden's [Landlord Offer](https://estatewatch.london/images/wendlingoffer.pdf) a
 Camden's pre-ballot information [booklets](https://estatewatch.london/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
 
 ![Exract from Landlord offer](https://estatewatch.london/images/wendlingbooklet.png)
+</div>
