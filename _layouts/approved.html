@@ -87,11 +87,12 @@ title: Estates
 
             <!--end of col-->
 	    
-	    <div class="container">
-		    {% if page.category == 'approved' %}
-		    <h1>{{ page.title }}</h1>
-		    {% endif %}
-
+	    <div class="col">
+		    
+        <section class="jumbotron text-center">
+          <div class="container">
+          <h1>Estate Ballots</h1>
+        <h2> Demolition and permission.</h2>
            {{ content }}
 
                     {% if page.category == 'updates' %}
@@ -101,6 +102,8 @@ title: Estates
                     {% if page.category == 'approved' %}
 		    {% include comments.html %}
 		    {% endif %}
+         </div>
+        </section>
 
 	    </div>
 	    </div>
