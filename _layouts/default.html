@@ -87,7 +87,7 @@ title: Estates
 
             <!--end of col-->
 	    
-	    <div class="col">
+	    <div class="container">
 		    {% if page.category == 'updates' %}
 		    <h1>{{ page.title }}</h1>
 		    {% endif %}
@@ -99,6 +99,7 @@ title: Estates
 		    {% endif %}
                        
                     {% if page.category == 'approved' %}
+		    <h1>{{ page.title }}</h1>
 		    {% include comments.html %}
 		    {% endif %}
 
