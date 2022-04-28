@@ -29,4 +29,9 @@ The redevelopment plans date back to October 2015, when the Council's Cabinet ag
 
 Appendix 2 to that report, which lists the estates earmarked for renewal, has been witheld by the Council on grounds of commercial sensitivity.
 
-A ballot of estate residents was held in November 2021. 78% of eligible residents voted in favour of redevelopment on a 85% turnout.
+In September 2021, the Council [applied for a scoping opinion](https://planningandbuildingcontrol.enfield.gov.uk/online-applications/simpleSearchResults.do?action=firstPage) for up to 1,992 new homes on the estate footprint. The [scoping report](https://planningandbuildingcontrol.enfield.gov.uk/online-applications/files/757E9B87467516101DC9D4D98221C1EA/pdf/21_03691_SCOP-Scoping_Opinion-2532448.pdf) confirmed that of the 795 existing homes, 430 were social rent plus 155 resident leaseholders and 210 non-resident leaseholders.
+
+A ballot of estate residents was held in November 2021. 78% of eligible residents voted in favour of redevelopment on an 85% turnout.
+
+__Links:__  
+[Application for scoping opinion (ref:21/03691/SCOP)](https://planningandbuildingcontrol.enfield.gov.uk/online-applications/simpleSearchResults.do?action=firstPage)

@@ -5,7 +5,7 @@ location: '{"type":"Point","coordinates":[0.021314,51.510722]}'
 ballot: Required
 landlord: Newham Council
 developer: null
-itla: TPAS
+itla: Newman Francis 
 total: 300
 thumb: /images/customhouse2thumb.jpg
 images:
@@ -34,4 +34,4 @@ In 2018, the [PEACH group - Peoples Empowerment Alliance for Custom House]() lau
 
 There is a detailed chapter written about the PEACH group's involvement in the regeneration included in a book [published](https://www.uclpress.co.uk/products/125696) under the title: 'Community-led regeneration, a toolkit for residents and planners'
 
-Newham Council's dedicated website for the Custom House scheme [(https://www.customhousee16.com)](https://www.customhousee16.com) has not been updated since December 2020 when it said that the drawing up of a Landlord Offer and ballot were imminent.
+Newham Council's dedicated website for the Custom House scheme [(https://www.customhousee16.com)](https://www.customhousee16.com) has not been updated since December 2020 when it said that the Council is in the process of drawing up a Landlord Offer ahead of a ballot.
