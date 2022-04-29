@@ -7,7 +7,7 @@ Ballots came about in 2018 through campaigning that led to the publication of th
 
 51 estates have been [exempted](https://www.london.gov.uk/sites/default/files/25.11.2021_for_website_-_list_of_exemptions.pdf) from the ballot requirement by the Mayor, on the basis that they had already been allocated funding (even if many of these funding agreements have since expired).
 
-![](https://www.estatewatch.london/images/ajkhan.png)
+![ballot](https://www.estatewatch.london/images/ajkhan.png)
 
 Ballots are now a requirement on estates where 150 or more new homes are to be developed and where funding is provided by the Mayor of London’s office. Most of the ballots that have taken place have resulted in residents voting in favour of demolition, but there are a number of problems with the ballot process.
 
