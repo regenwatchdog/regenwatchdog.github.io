@@ -81,34 +81,35 @@ Members of the council’s overview and scrutiny committee subsequently recommen
 # Demolition or disinvestment?
 One of the recurring elements when it comes to estate regeneration ballots is that residents are faced with the choice of demolition or disinvestment and in some cases warned that they will face rooftop homes or infill developments on green space if they vote against demolition. 
 
-![There are only two choices: demolition or disinvestment!](https://estatewatch.london/images/ballot_paper1.jpg){ width=60% }
+<img src="https://estatewatch.london/images/ballot_paper1.jpg" class="img-fluid rounded img-thumbnail" width="50%">
 
 The following are six examples of estates where such ballots have taken place.
 
 ## Douglas Bader Park estate, Barnet
 Residents on the [Douglas Bader Park estate](https://estatewatch.london/estates/barnet/douglasbaderpark) in Colindale, were told that they would only see 'like-for-like' repairs _'as they are reported'_ under the landlord's _'statutory duty'_ if demolition is rejected:
 
-![Extract from landlord offer](https://estatewatch.london/images/dbno.png)
+<img src="https://estatewatch.london/images/dbno.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Juniper Crescent estate, Camden
 Similarly, residents of the [Juniper Crescent and Gilbeys Yard estate](https://estatewatch.london/estates/camden/junipercrescent"> in Camden were told that their estate would only receive essential maintenance and repairs as reported if they voted no:
 
-![Extract from Landlord offer](https://estatewatch.london/images/juniperyesno.png)
+<img src="https://estatewatch.london/images/juniperyesno.png" class="img-fluid rounded img-thumbnail" width="50%">
+
 
 ## West Kentish Town estate, Camden
 Residents of the [West Kentish Town estate](https://estatewatch.london/estates/camden/westkentishtown) in Camden were told that if they voted against regeneration then their estate wouldn't see any major improvement for at least another 5 to 10 years:
 
-![Extract from Landlord offer](https://estatewatch.london/images/wktvote.png)
+<img src="https://estatewatch.london/images/wktvote.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Cambridge Road estate, Kingston
 Residents of the [Cambridge Road estate](https://estatewatch.london/estates/kingston/cambridgeroad) in Kingston were told that if they voted against regeneration then their estate would only see 'essential maintenance' and repairs as reported:
 
-![Extract from Landlord offer](https://estatewatch.london/images/cambridgeroadoffer.png)
+<img src="https://estatewatch.london/images/cambridgeroadoffer.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Barnsbury estate, Islington
 Residents of the [Barnsbury estate](https://estatewatch.london/estates/islington/barnsbury) in Islington were told that if they voted against regeneration then ongoing problems like damp, overcrowding would not be tackled:
 
-![Extract from Landlord offer](https://estatewatch.london/images/BarnsburyNo.png)
+<img src="https://estatewatch.london/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Clichy estate, Tower Hamlets
 Residents on the [Clichy estate](https://estatewatch.london/estates/towerhamlets/clichyestate) in Tower Hamlets residents were initially consulted on an 'infill' option as well as full redevelopment. But the [information](https://www.whatdotheyknow.com/request/clichy_estate_ballot_paper_accom?nocache=incoming-1565802#incoming-1565802) sent to residents along with the ballot papers asked only whether they wanted full redevelopment or not.
@@ -117,18 +118,18 @@ In addition, leaseholders were [told](https://www.whatdotheyknow.com/request/658
 
 Finally, residents were told that if they don't vote for full redevelopment then they would likely have the infill option forced upon them anyway:  
 
-![Extract from Landlord offer](https://estatewatch.london/images/clichyballot.png)
+<img src="https://estatewatch.london/images/clichyballot.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Teviot estate, Tower Hamlets
 In Tower Hamlets, residents of the [Teviot estate](https://estatewatch.london/estates/towerhamlets/teviot/) were similarly told that voting against regeneration would leave the estate in its current dilapidated state and face having new homes built on their roofs anyway:
 
-![Extract from Landlord offer](https://estatewatch.london/images/teviotrooftops.png){ width=50% }
+<img src="https://estatewatch.london/images/teviotrooftops.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 ## Wendling estate, Camden
 Camden's [Landlord Offer](https://estatewatch.london/images/wendlingoffer.pdf) ahead of the ballot makes it clear that if residents vote against demolition the Council has no immediate plans to resolve the estate's ongoing maintenance issues. As has become [common practice](https://www.estatewatch.london/approved/ballotexemptions/) in estate regeneration ballots - refurbishment is not an option on the ballot paper.
 
-![Extract from Landlord offer](https://estatewatch.london/images/wendlingnovote.png){ width=50% }
+<img src="https://estatewatch.london/images/wendlingnovote.png" class="img-fluid rounded img-thumbnail" width="50%">
 
 Camden's pre-ballot information [booklets](https://estatewatch.london/images/wendlingbooklet.pdf) go as far as saying that if residents voted against demolition, then it would be 2025 before the Council would 'consider' resuming cyclical maintenance works and that they would be _'considered against Camden's other priorities'_ at that time.
 
-![Exract from Landlord offer](https://estatewatch.london/images/wendlingbooklet.png)
+<img src="https://estatewatch.london/images/wendlingbooklet.png" class="img-fluid rounded img-thumbnail" width="50%">
