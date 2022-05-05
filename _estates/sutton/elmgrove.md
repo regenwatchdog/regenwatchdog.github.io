@@ -24,7 +24,7 @@ The estate is one of seven estates listed in [Sutton's Local Plan (2018)](https:
 
 The Council has [set up a steering group](https://www.sutton.gov.uk/info/200502/housing_advice_and_options/1659/elm_grove/6) to represent residents on the estate and in February 2021 a [draft Resident's Charter](https://drive.google.com/file/d/1pqib0zDnHOFMbobnRhaFC-ReJKxMQ2Hh/view) was published.
 
-A ballot is due to be held in winter 2021/2022.
+A ballot was held in January 2022 with 78% of residents voting in favour of demolition. The [link to the Landlord Offer](https://www.sutton.gov.uk/-/elm-grove) on Sutton Council's website is broken. 
 
 <img src="/images/elmgrovescreenshot.jpg" class="img-fluid rounded img-thumbnail">
 
