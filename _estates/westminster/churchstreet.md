@@ -50,9 +50,7 @@ In February 2021, Westminster Council came under fire after it was [reported](ht
 
 <img src="/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
 
-In Spring 2021, Westminster Council started its initial pre-application consultation ahead of its planned submission of a planning application in Autumn 2021. The pre-planning consultation booklet can be found [here](https://churchstreet.org/assets/Documents/140_55-WCC-Church-Street-ABC-consultation-stage-2_Booklet_web_AW2.pdf).
-
-While there have been [surveys](https://churchstreet.org/assets/Documents/Church-St-Consultation-Report.pdf) carried out test opinion, there hasn't been a formal ballot of residents on the demolition of their homes. This means that Westminster won't be able to apply for grant funding from the Mayor's Affordable Housing Programme. 
+Westminster's [policy for leaseholder re-housing](https://www.westminster.gov.uk/housing-policy-and-strategy/leaseholder-policy-housing-renewal-areas) requires leaseholders to take out a new mortgage if they want to take up the Council's shared equity offer on a new home being built as part of the scheme. 
 
 __Links:__
 Westminster Council has a [dedicated website](https://churchstreet.org/) for the Church Street regeneration.
