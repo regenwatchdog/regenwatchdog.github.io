@@ -25,6 +25,6 @@ The site also contains a former education facility, which will also be demolishe
 
 <img src="https://d3n8a8pro7vhmx.cloudfront.net/yourshout2/pages/3336/attachments/original/1593791818/map.png?1593791818" class="img-fluid rounded img-thumbnail">
 
-There is no planning application yet as the scheme has only recently entered consultation stage, with draft proposals exhibited for online consultation here: [https://denbycourt.communityuk.live/overview](https://denbycourt.communityuk.live/overview)
+In January 2021, residents were informed by the Council that they would be moved out imminently to temporary accommodation elsewhere. Residents are resisting the move and lobbying the Council to stay put until they are rehoused permanently in the local area. Many of them have lived in Denby Court for several years. Their plight was covered by the Guardian newspaper in [this Jan 2021 article](https://www.theguardian.com/society/2021/jan/31/dont-make-us-move-in-a-pandemic-plead-tenants-in-dire-council-housing).
 
-Despite this and despite the global coronavirus pandemic,in January 2021, residents were informed by the Council that they would be moved out imminently to temporary accommodation elsewhere. Residents are resisting the move and lobbying the Council to stay put until they are rehoused permanently in the local area. Many of them have lived in Denby Court for several years. Their plight was covered by the Guardian newspaper in [this Jan 2021 article](https://www.theguardian.com/society/2021/jan/31/dont-make-us-move-in-a-pandemic-plead-tenants-in-dire-council-housing).
+In March 2022, Lambeth Council granted itself planning permission for redevelopment of Denby Court. However, this will be subject to Mayoral approval.
