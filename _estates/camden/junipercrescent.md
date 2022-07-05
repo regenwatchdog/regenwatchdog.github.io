@@ -2,10 +2,10 @@
 name: Juniper Crescent estate
 borough: camden
 location: '{"type":"Point","coordinates":[-0.150620,51.542436]}'
-ballot: Rejected
+ballot: Required
 landlord: One Housing Group
 developer: Countryside Properties
-itla: Communities First
+itla: No newly appointed ITA by the newly formed Juniper Crescent TRA
 total: "120"
 thumb: /images/jp12thumb.jpg
 images:
@@ -48,7 +48,8 @@ None of these issues have been broached in any way by One Housing Group and Rive
 
 
 
-**Links:**
-One Housing's web page for the scheme: [https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard](https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard
+**Links:**  
+
+One Housing's web page for the scheme: [https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard](https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard)
 
 Article in the local press: [http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid](http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid)
