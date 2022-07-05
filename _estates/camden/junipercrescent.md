@@ -1,11 +1,14 @@
 ---
-category: underthreat
-stage: Proposal
-name: Juniper Crescent and Gilbeys Yard estate 
+name: Juniper Crescent estate
 borough: camden
+location: '{"type":"Point","coordinates":[-0.150620,51.542436]}'
+ballot: Rejected
+landlord: One Housing Group
+developer: Countryside Properties
+itla: Communities First
+total: "120"
 thumb: /images/jp12thumb.jpg
 images:
-  - /images/jp12.jpg
   - /images/jp1.jpg
   - /images/jp2.jpg
   - /images/jp3.jpg
@@ -15,57 +18,37 @@ images:
   - /images/jp7.jpg
   - /images/jp8.jpg
   - /images/jp9.jpg
-  - /images/jp10.jpg
   - /images/jp11.jpg
   - /images/junipercrescent.jpg
-location: '{"type":"Point","coordinates":[-0.150620,51.542436]}'
-developer: Countryside Properties
-landlord: One Housing Group
-itla: Communities First
-total: 200
-ballot: Rejected
-planning:
+planning: null
+category: underthreat
+stage: Proposal
 ---
-Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
+120 homes on Camden's Juniper Crescent estate has been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf).
 
-The neighbouring estates overlook the Regents Canal and are located between Camden Market and Camden Roundhouse.
+Camden's Juniper Crescent was balloted jointly with neighbouring twin estate Gilbey's Yard in 2020. This ballot was the first under the Mayor of London's new scheme to be rejected by residents.
 
-In July 2019, housing association One Housing entered into a joint venture with developer Countryside Properties for the redevelopment of the estates.
+After a period of re-assessment, One Housing Group and Riverside have decided to once again target Juniper Crescent's 120 homes separately from Gilbey's Yard. In Juniper Crescent, the most densely populated of the two estates, several long-term households have already been decanted. Unlike Gilbey's Yard, they did not at the time have an active Tenants and Residents Association.
 
-One Housing had already started 'decanting' secure tenants by offering them rehousing in its existing stock elsewhere in the borough. It has filled the vacant homes with short-term intermediate rent tenants.
+Juniper Crescent was only built in 1996. It is strategically located right behind the Roundhouse and next to the Camden Stables Market. Its discreet, three-storey brick profile is directly in sight of both the Chalk Farm Road and Primrose Hill's Gloucester Avenue, right across the rail tracks. One Housing Group have announced 50% of the land it stands on is to be fully privatised in case of redevelopment. The building proposed will be a high density, high rise development.
 
-A ballot was supposed to be held by housing association One Housing Group in late March 2020, but this was [postponed](https://onehousing.co.uk/__data/assets/pdf_file/0020/16319/Juniper-Crescent-and-Gilbeys-Yard-project-FAQs-2020.pdf) because of the coronavirus crisis. The ballot was postponed until 8th June and consultation sessions were [instead carried out via zoom](https://onehousing.co.uk/__data/assets/pdf_file/0019/17416/Juniper-Crescent-and-Gilbeys-Yard-News-May-2020.pdf):
+In the first six months of 2022, One Housing's Regeneration team have knocked on doors relentlessly and carried out frequent events on the estate green without prior consultation with residents or the community organisation which preceded the newly formed TRA. During these events, live music was played and free food and drink were offered in exchange for resident engagement on the redevelopment plans.
 
-<img src="/images/juniperzoom.png" class="img-fluid rounded img-thumbail">
+Since the first demolition plans were made in 2019, One Housing and Riverside have filled the vacant homes (on both estates) with short-term intermediate rent tenants, who have severely limited democratic rights in the upcoming ballot. This is currently the subject of a dispute that has involved local Councillors. As of June 2022, One Housing Group maintain they are simply acting on the Mayor of London's guidance and are not to be held accountable for their voting exclusion.
 
-Residents were told in the [consultation documents](/images/juniperno.pdf) that if they vote against demolition in the ballot then their homes would only in future receive essential maintenance:
+In breach of the promises made during the previous ballot and as stated in the Landlord Offer, essential maintenance of the buildings has consistently been neglected, with most units displaying window and door frames well beyond repair.
 
-<img src="/images/juniperno.png" class="img-fluid rounded img-thumbnail">
+As of June 30th, 2022, Juniper Crescent residents had received no clarity on the amount of social housing proposed, information about proposed tenures and security of tenure, space standards, breakdowns of Service Charges and Council Tax on the redeveloped estate. One Housing Group representatives have communicated verbally to a number of residents that a Masterplan will be released in mid-July, with a new ballot still being planned for Autumn 2022.
 
-This was reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) made to residents ahead of the ballot:
+There has been no time allowed for an options appraisal to take place as required in the Mayors Guidance. The previous options appraisal undertaken for the first ballot was for both estates and not for Juniper Crescent alone, so this requires a complete re-evaluation.
 
-<img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
+The TRA have also not had the opportunity to appoint their own choice of ITA as required in the Mayors Guidance. In the case of a second ballot, the Guidance requires that any new Landlord Offer made is substantially different from the previous offer and that it is negotiated by a steering group comprising of tenants and residents from the estate, prior to any final Landlord Offer and ballot in order to secure the best possible terms for the residents.
 
-In July 2020, it was confirmed that residents had voted against demolition in the ballot, which was held by Civica on behalf of the estate's Landlord - [One Housing](https://www.onehousing.co.uk/).
+None of these issues have been broached in any way by One Housing Group and Riverside who are trying to push through the ballot regardless.  
 
-A [letter](http://estatewatch.london/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
 
-One Housing's head of Regeneration has since [written to residents](http://estatewatch.london/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
 
-A [newsletter](http://estatewatch.london/images/gilbeynewsletter.pdf) from the TRA and [report](http://estatewatch.london/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
-
-* Lack of clarity on the amount of social housing proposed
-* Lack of detailed information about proposed tenures and security of tenure
-* Concerns about space standards of the proposed replacement affordable housing
-* Concerns about increased Service Charges and Council Tax on the redeveloped estate
-
-The report concludes with the Vice Chair summing up negotiations with the housing association prior to the ballot:
-
-_"On a personal note, as the Vice Chair of GY TRA I have found negotiations with One Housing unsatisfactory and frustrating. They seem to me to want to appear to be complying with the regulations of the GLA and Camden Council whilst taking no real interest in the needs of the tenants. There are many complaints about them from tenants regarding repairs and maintenance and their staff turnover is very high so that any continuity in communications or development of an on-going relationship with the estate officer is made very difficult."_
-
-_"It feels to me as though repairs and maintenance have been considerably run down prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
-
-__Links:__
+**Links:**
+One Housing's web page for the scheme: [https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard](https://onehousing.co.uk/about-us/what-we-do/development-and-regeneration/juniper-crescent-and-gilbeys-yard
 
 Article in the local press: [http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid](http://camdennewjournal.com/article/now-listen-to-us-say-tenants-who-won-vote-against-demolition-bid)
-
